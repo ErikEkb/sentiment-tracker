@@ -1,0 +1,714 @@
+ticker,company_name,aliases,segment,sector
+ABB,ABB Ltd,abb,large_cap,Industrials
+ADDT-B,Addtech B,addtech,large_cap,Industrials
+ALFA,Alfa Laval,alfa laval|alfalaval|alfa-laval,large_cap,Industrials
+ASSA-B,Assa Abloy B,assa abloy|assa-abloy|assa,large_cap,Industrials
+AZN,AstraZeneca,astrazeneca|astra zeneca|astra,large_cap,Health Care
+ATCO-A,Atlas Copco A,atlas copco|atlascopco|atlas-copco,large_cap,Industrials
+ATCO-B,Atlas Copco B,atlas copco b,large_cap,Industrials
+BOL,Boliden,boliden,large_cap,Materials
+EPI-A,Epiroc A,epiroc,large_cap,Industrials
+EPI-B,Epiroc B,epiroc b,large_cap,Industrials
+EQT,EQT,eqt|eqt ab,large_cap,Financials
+ERIC-B,Ericsson B,ericsson|ericson|telefonaktiebolaget ericsson,large_cap,Information Technology
+ESSITY-B,Essity B,essity,large_cap,Consumer Staples
+EVO,Evolution,evolution gaming|evolution ab,large_cap,Consumer Discretionary
+SHB-A,Handelsbanken A,handelsbanken|svenska handelsbanken|shb,large_cap,Financials
+SHB-B,Handelsbanken B,handelsbanken b|shb b,large_cap,Financials
+HM-B,Hennes & Mauritz B,h&m|hm|hennes mauritz|hennes & mauritz,large_cap,Consumer Discretionary
+HEXA-B,Hexagon B,hexagon|hexagon ab,large_cap,Information Technology
+INDU-A,Industrivärden A,industrivärden|industrivarden,large_cap,Financials
+INDU-C,Industrivärden C,industrivärden c|industrivarden c,large_cap,Financials
+INVE-A,Investor A,investor a,large_cap,Financials
+INVE-B,Investor B,investor|investor ab|investor b,large_cap,Financials
+LIFCO-B,Lifco B,lifco,large_cap,Industrials
+NIBE-B,Nibe Industrier B,nibe|nibe industrier,large_cap,Industrials
+NDA-SE,Nordea Bank,nordea|nordea bank|nordeabank,large_cap,Financials
+SAAB-B,Saab B,saab|saab ab,large_cap,Industrials
+SAND,Sandvik,sandvik,large_cap,Industrials
+SCA-A,SCA A,sca a|svenska cellulosa a,large_cap,Materials
+SCA-B,SCA B,sca|svenska cellulosa,large_cap,Materials
+SEB-A,SEB A,seb|skandinaviska enskilda banken,large_cap,Financials
+SEB-C,SEB C,seb c,large_cap,Financials
+SKA-B,Skanska B,skanska,large_cap,Industrials
+SKF-A,SKF A,skf a,large_cap,Industrials
+SKF-B,SKF B,skf|skf b|svenska kullagerfabriken,large_cap,Industrials
+SWED-A,Swedbank A,swedbank|sparbanken,large_cap,Financials
+TEL2-B,Tele2 B,tele2,large_cap,Communication Services
+TELIA,Telia Company,telia|teliasonera|telia company,large_cap,Communication Services
+VOLV-B,Volvo B,volvo|ab volvo|volvo ab|volvo group|volvogruppen,large_cap,Industrials
+VOLV-A,Volvo A,volvo a,large_cap,Industrials
+VOLCAR-B,Volvo Cars B,volvo cars|volvocars|volcar,large_cap,Consumer Discretionary
+SECU-B,Securitas B,securitas,large_cap,Industrials
+ELUX-B,Electrolux B,electrolux|elux,large_cap,Consumer Discretionary
+ELUX-A,Electrolux A,electrolux a,large_cap,Consumer Discretionary
+HUSQ-B,Husqvarna B,husqvarna,large_cap,Consumer Discretionary
+HUSQ-A,Husqvarna A,husqvarna a,large_cap,Consumer Discretionary
+LATO-B,Latour B,investment ab latour|latour,large_cap,Financials
+INDT,Indutrade,indutrade,large_cap,Industrials
+BEIJ-B,Beijer Ref B,beijer ref|beijerref,large_cap,Industrials
+HPOL-B,Hexpol B,hexpol,large_cap,Materials
+TREL-B,Trelleborg B,trelleborg,large_cap,Materials
+HOLM-B,Holmen B,holmen|holmen ab,large_cap,Materials
+HOLM-A,Holmen A,holmen a,large_cap,Materials
+STE-R,Stora Enso R,stora enso|storaenso|stora,large_cap,Materials
+CAST,Castellum,castellum,large_cap,Real Estate
+BALD-B,Balder B,fastighets ab balder|balder,large_cap,Real Estate
+KINV-B,Kinnevik B,kinnevik|kinnevik ab,large_cap,Financials
+KINV-A,Kinnevik A,kinnevik a,large_cap,Financials
+LUND-B,Lundbergs B,l e lundbergföretagen|lundbergs|lundbergforetagen|lundbergsföretagen,large_cap,Financials
+EKTA-B,Elekta B,elekta,large_cap,Health Care
+GETI-B,Getinge B,getinge,large_cap,Health Care
+SOBI,Swedish Orphan Biovitrum,sobi|swedish orphan biovitrum,large_cap,Health Care
+SINCH,Sinch,sinch|sinch ab,large_cap,Information Technology
+LOOMIS,Loomis,loomis,large_cap,Industrials
+NCC-B,NCC B,ncc,mid_cap,Industrials
+NCC-A,NCC A,ncc a,mid_cap,Industrials
+JM,JM,jm bygg|jm ab|jm,mid_cap,Consumer Discretionary
+PEAB-B,Peab B,peab,mid_cap,Industrials
+SF,Stillfront Group,stillfront|stillfront group,mid_cap,Communication Services
+EMBRAC-B,Embracer Group B,embracer|embracer group|thq nordic,mid_cap,Communication Services
+STORY-B,Storytel B,storytel,mid_cap,Communication Services
+TRUE-B,Truecaller B,truecaller,mid_cap,Communication Services
+KAMBI,Kambi Group,kambi|kambi group,mid_cap,Consumer Discretionary
+BETS-B,Betsson B,betsson,mid_cap,Consumer Discretionary
+MTG-B,Modern Times Group B,mtg|modern times group,mid_cap,Communication Services
+RATO-B,Ratos B,ratos|ratos ab,mid_cap,Financials
+BURE,Bure Equity,bure equity|bure,mid_cap,Financials
+PNDX-B,Pandox B,pandox,mid_cap,Real Estate
+WALL-B,Wallenstam B,wallenstam,mid_cap,Real Estate
+WIHL,Wihlborgs Fastigheter,wihlborgs,mid_cap,Real Estate
+FABG,Fabege,fabege,mid_cap,Real Estate
+HUFV-A,Hufvudstaden A,hufvudstaden,mid_cap,Real Estate
+SAGA-B,Sagax B,sagax,mid_cap,Real Estate
+DIOS,Diös Fastigheter,diös|dios|diösfastigheter,mid_cap,Real Estate
+MIPS,MIPS,mips|mips ab,mid_cap,Consumer Discretionary
+VITR,Vitrolife,vitrolife,mid_cap,Health Care
+MYCR,Mycronic,mycronic,mid_cap,Information Technology
+TOBII,Tobii,tobii,mid_cap,Information Technology
+MTRS,Munters Group,munters|munters group,mid_cap,Industrials
+BEIA-B,Beijer Alma B,beijer alma|beijeralma,mid_cap,Industrials
+AAPL,Apple Inc.,apple|aapl,large_cap,Information Technology
+MSFT,Microsoft Corporation,microsoft|msft,large_cap,Information Technology
+GOOGL,Alphabet Inc.,google|alphabet|goog|l,large_cap,Information Technology
+AMZN,Amazon.com Inc.,amazon|amzn,large_cap,Consumer Discretionary
+TSLA,Tesla Inc.,tesla|tsla,large_cap,Consumer Discretionary
+NVDA,NVIDIA Corporation,nvidia|nvda,large_cap,Information Technology
+META,Meta Platforms Inc.,meta|facebook|fb,large_cap,Communication Services
+NFLX,Netflix Inc.,netflix|nflx,large_cap,Communication Services
+AMD,Advanced Micro Devices,amd,large_cap,Information Technology
+INTC,Intel Corporation,intel|intc,large_cap,Information Technology
+CRM,Salesforce Inc.,salesforce|crm,large_cap,Information Technology
+ORCL,Oracle Corporation,oracle|orcl,large_cap,Information Technology
+ADBE,Adobe Inc.,adobe|adbe,large_cap,Information Technology
+NOW,ServiceNow Inc.,servicenow|now,large_cap,Information Technology
+UBER,Uber Technologies Inc.,uber,large_cap,Industrials
+LYFT,Lyft Inc.,lyft,large_cap,Industrials
+SQ,Block Inc.,square|sq|block,large_cap,Information Technology
+PYPL,PayPal Holdings Inc.,paypal|pypl,large_cap,Information Technology
+COIN,Coinbase Global Inc.,coinbase|coin,large_cap,Financials
+MSTR,MicroStrategy Inc.,microstrategy|mstr,large_cap,Information Technology
+PLTR,Palantir Technologies Inc.,palantir|pltr,large_cap,Information Technology
+SNOW,Snowflake Inc.,snowflake|snow,large_cap,Information Technology
+CRWD,CrowdStrike Holdings Inc.,crowdstrike|crwd,large_cap,Information Technology
+ZS,Zscaler Inc.,zscaler|zs,large_cap,Information Technology
+OKTA,Okta Inc.,okta,large_cap,Information Technology
+DDOG,Datadog Inc.,datadog|ddog,large_cap,Information Technology
+SHOP,Shopify Inc.,shopify|shop,large_cap,Information Technology
+SPOT,Spotify Technology S.A.,spotify|spot,large_cap,Communication Services
+ZM,Zoom Video Communications Inc.,zoom|zm,large_cap,Information Technology
+DOCU,DocuSign Inc.,docusign|docu,large_cap,Information Technology
+ROKU,Roku Inc.,roku,large_cap,Communication Services
+PINS,Pinterest Inc.,pinterest|pins,large_cap,Communication Services
+TWLO,Twilio Inc.,twilio|twlo,large_cap,Communication Services
+ETSY,Etsy Inc.,etsy,large_cap,Consumer Discretionary
+FVRR,Fiverr International Ltd.,fiverr|fiverr,large_cap,Communication Services
+UPST,Upstart Holdings Inc.,upstart|upst,large_cap,Financials
+SOFI,SoFi Technologies Inc.,sofi,large_cap,Financials
+AFRM,Affirm Holdings Inc.,affirm|afrm,large_cap,Financials
+LCID,Lucid Group Inc.,lucid|lcid,large_cap,Consumer Discretionary
+RIVN,Rivian Automotive Inc.,rivian|rivn,large_cap,Consumer Discretionary
+NIO,NIO Inc.,nio,large_cap,Consumer Discretionary
+XPEV,Xpeng Inc.,xpeng|xpev,large_cap,Consumer Discretionary
+LI,Li Auto Inc.,li auto|li,large_cap,Consumer Discretionary
+BABA,Alibaba Group Holding,alibaba|baba,large_cap,Consumer Discretionary
+JD,JD.com Inc.,jd|jd.com,large_cap,Consumer Discretionary
+BIDU,Baidu Inc.,baidu|bidu,large_cap,Communication Services
+TCEHY,Tencent Holdings,tencent|tcehy,large_cap,Communication Services
+BILI,Bilibili Inc.,bilibili|bili,large_cap,Communication Services
+PDD,Pinduoduo Inc.,pinduoduo|pdd,large_cap,Consumer Discretionary
+TME,Tencent Music Entertainment,tencent music|tme,large_cap,Communication Services
+IQ,iQIYI Inc.,iqiyi|iq,large_cap,Communication Services
+WB,Weibo Corporation,weibo|wb,large_cap,Communication Services
+VIPS,Vipshop Holdings,vipshop|vips,large_cap,Consumer Discretionary
+MOMO,Momo Inc.,momo,large_cap,Communication Services
+BZ,Beyond Inc.,beyond|bz|l,large_cap,Consumer Discretionary
+SE,Sea Limited,sea|se,large_cap,Consumer Discretionary
+CPNG,Coupang Inc.,coupang|cpng,large_cap,Consumer Discretionary
+MELI,MercadoLibre Inc.,mercadolibre|meli,large_cap,Consumer Discretionary
+NU,Nubank,nubank|nu,large_cap,Financials
+VTEX,Vtex,vtex,large_cap,Information Technology
+GLOB,Globant S.A.,globant|glob,large_cap,Information Technology
+MELI,MercadoLibre Inc.,mercadolibre|meli,large_cap,Consumer Discretionary
+NU,Nubank,nubank|nu,large_cap,Financials
+VTEX,Vtex,vtex,large_cap,Information Technology
+GLOB,Globant S.A.,globant|glob,large_cap,Information Technology
+ARCO,Arcos Dorados Holdings,arcos dorados|arco,large_cap,Consumer Discretionary
+DESP,Despegar.com Corp.,despegar|desp,large_cap,Consumer Discretionary
+LOMA,Loma Negra Compania Industrial,loma negra|loma,large_cap,Materials
+GGAL,Grupo Financiero Galicia S.A.,galicia|ggal,large_cap,Financials
+BMA,Banco Macro S.A.,banco macro|bma,large_cap,Financials
+SUPV,Grupo Supervielle S.A.,supervielle|supv,large_cap,Financials
+TEO,Telecom Argentina S.A.,telecom argentina|teo,large_cap,Communication Services
+TGS,TGS NOPEC Geophysical Company,tgs|tgs,large_cap,Energy
+YPF,YPF Sociedad Anonima,ypf,large_cap,Energy
+PAM,Pampa Energia S.A.,pampa energia|pam,large_cap,Utilities
+EDN,Edenor SA,edenor|edn,large_cap,Utilities
+LOMA,Loma Negra Compania Industrial,loma negra|loma,large_cap,Materials
+GGAL,Grupo Financiero Galicia S.A.,galicia|ggal,large_cap,Financials
+BMA,Banco Macro S.A.,banco macro|bma,large_cap,Financials
+SUPV,Grupo Supervielle S.A.,supervielle|supv,large_cap,Financials
+TEO,Telecom Argentina S.A.,telecom argentina|teo,large_cap,Communication Services
+TGS,TGS NOPEC Geophysical Company,tgs,large_cap,Energy
+YPF,YPF Sociedad Anonima,ypf,large_cap,Energy
+PAM,Pampa Energia S.A.,pampa energia|pam,large_cap,Utilities
+EDN,Edenor SA,edenor|edn,large_cap,Utilities
+SECT-B,Sectra B,sectra,mid_cap,Health Care
+FAG,Fagerhult,fagerhult|fagerhult group,mid_cap,Industrials
+CATE,Catena,catena fastigheter|catena,mid_cap,Real Estate
+ABIG,AB Igrene,ab igrene|ab,small_cap,Energy
+ABAPR,ABAS Protect AB,abas protect ab|abas|abas protect,small_cap,Industrials
+ABEBI,Abera Bioscience AB,abera bioscience ab|abera bioscience|abera,small_cap,Health Care
+ASCO,Absolicon Solar Collector AB,absolicon|absolicon solar collector|absolicon solar collector ab,small_cap,Energy
+ACUC,AcuCort AB,acucort|acucort ab,small_cap,Health Care
+AERO,Aerowash AB,aerowash ab|aerowash,small_cap,Industrials
+AIKME,Aike Media AB,aike|aike media|aike media ab,small_cap,Technology
+AIXGR,Aixia Group,aixia group|aixia,small_cap,Technology
+AGAR,Aktiebolaget Gotland Art och Design,aktiebolaget|aktiebolaget gotland art och design,small_cap,Consumer Goods & Services
+AMH2,Amhult 2 AB,amhult|amhult 2 ab|amhult 2,small_cap,Real Estate
+AMID,Amido AB (publ),amido|amido ab (publ),small_cap,Technology
+AGPL,Angler Gaming plc,angler|angler gaming plc,small_cap,Consumer Goods & Services
+APRTE,APR Technologies AB,apr|apr technologies|apr technologies ab,small_cap,Industrials
+APTA,Aptahem AB,aptahem|aptahem ab,small_cap,Health Care
+ARES,Aquaticus Real Estate AB (publ),aquaticus real estate ab (publ)|aquaticus|aquaticus real estate,small_cap,Real Estate
+BTCA,B Treasury Capital AB,b treasury capital ab|b treasury capital|b,small_cap,Financials
+BEOMI,Beowulf Mining PLC,beowulf|beowulf mining|beowulf mining plc,small_cap,Basic Materials
+BFAB,Bergholm Fritidsfordon AB (publ.),bergholm fritidsfordon ab|bergholm fritidsfordon ab (publ.)|bergholm,small_cap,Consumer Goods & Services
+BFEN,Beyond Frames Entertainment AB,beyond frames entertainment|beyond frames entertainment ab|beyond,small_cap,Technology
+BIBB,BibbInstruments,bibbinstruments,small_cap,Health Care
+BIOTE,Bio-Works Technologies AB,bio-works technologies|bio-works technologies ab|bio-works,small_cap,Health Care
+BIOSW,Biofrigas Sweden AB,biofrigas sweden|biofrigas|biofrigas sweden ab,small_cap,Energy
+BGGR,Blick Global Group AB,blick global group|blick|blick global group ab,small_cap,Technology
+BPCIN,BPC Instruments AB,bpc instruments ab|bpc|bpc instruments,small_cap,Industrials
+C100,C100 AB,c100|c100 ab,small_cap,Technology
+CESS,Cessatech A/S,cessatech|cessatech a/s,small_cap,Health Care
+COMI,Comintelli AB,comintelli|comintelli ab,small_cap,Technology
+CURA,Curasight A/S,curasight a/s|curasight,small_cap,Health Care
+DEXME,DexTech Medical AB,dextech|dextech medical ab|dextech medical,small_cap,Health Care
+DBPH,Double Bond Pharmaceutical International AB,double|double bond pharmaceutical international ab|double bond pharmaceutical international,small_cap,Health Care
+EASY,EasyFill AB,easyfill|easyfill ab,small_cap,Industrials
+EATSW,EatGood Sweden AB,eatgood|eatgood sweden|eatgood sweden ab,small_cap,Consumer Goods & Services
+ECOR,EcoRub AB,ecorub|ecorub ab,small_cap,Basic Materials
+EDYO,Edyoutec AB,edyoutec|edyoutec ab,small_cap,Technology
+ENVI,Envirologic AB,envirologic|envirologic ab,small_cap,Industrials
+EXAL,Exalt AB,exalt ab|exalt,small_cap,Technology
+FMGR,Fable Media Group AB,fable|fable media group ab|fable media group,small_cap,Consumer Goods & Services
+FINSW,Finepart Sweden AB,finepart sweden ab|finepart sweden|finepart,small_cap,Industrials
+FLEPR,Fleming Properties AB (publ),fleming properties|fleming properties ab (publ)|fleming,small_cap,Real Estate
+FREGR,Freetrailer Group A/S,freetrailer|freetrailer group a/s|freetrailer group,small_cap,Industrials
+GENAN,Genetic Analysis AS,genetic analysis|genetic analysis as|genetic,small_cap,Health Care
+GEGR,Gosol Energy Group AB,gosol energy group|gosol energy group ab|gosol,small_cap,Energy
+GJA,Gullberg & Jansson AB,gullberg & jansson ab|gullberg & jansson|gullberg,small_cap,Industrials
+HAMBI,Hamlet BioPharma AB,hamlet biopharma ab|hamlet|hamlet biopharma,small_cap,Health Care
+HRR,HF Reverse (RTO) AB,hf reverse (rto) ab|hf reverse (rto)|hf,small_cap,Financials
+HOME,HomeMaid AB,homemaid|homemaid ab,small_cap,Consumer Goods & Services
+HOOD,Hoodin AB,hoodin ab|hoodin,small_cap,Technology
+HUNCA,Hunter Capital AB,hunter|hunter capital ab|hunter capital,small_cap,Financials
+HCRT,Hunter Capital RTO 1 AB,hunter|hunter capital rto 1 ab|hunter capital rto 1,small_cap,Financials
+HCRT,Hunter Capital RTO 2 AB,hunter capital rto 2|hunter|hunter capital rto 2 ab,small_cap,Financials
+ILLU,I Love Lund AB (publ),i love lund ab (publ)|i love lund|i,small_cap,Financials
+ISSW,Inhalation Sciences Sweden AB,inhalation|inhalation sciences sweden|inhalation sciences sweden ab,small_cap,Health Care
+IMSW,Invent Medic Sweden AB,invent medic sweden ab|invent medic sweden|invent,small_cap,Health Care
+INVGR,Invoicery Group AB,invoicery group ab|invoicery|invoicery group,small_cap,Technology
+KATVE,Katalysen Ventures AB,katalysen|katalysen ventures|katalysen ventures ab,small_cap,Financials
+KONCA,Kontigo Care AB,kontigo care|kontigo|kontigo care ab,small_cap,Health Care
+KPRE,Krona Public Real Estate AB,krona|krona public real estate|krona public real estate ab,small_cap,Real Estate
+LCGR,Lane Capital Group AB,lane capital group ab|lane capital group|lane,small_cap,Financials
+LAPGU,Lappland Guldprospektering AB (publ),lappland guldprospektering|lappland guldprospektering ab (publ)|lappland,small_cap,Basic Materials
+LIGGR,Lightning Group AB,lightning group ab|lightning|lightning group,small_cap,Industrials
+LOGFA,Logistri Fastighets AB,logistri|logistri fastighets ab|logistri fastighets,small_cap,Real Estate
+LOVI,Lovisagruvan AB,lovisagruvan ab|lovisagruvan,small_cap,Basic Materials
+MEND,Mendole A/S,mendole|mendole a/s,small_cap,Industrials
+MPAK,Mindark PE Aktiebolag,mindark|mindark pe aktiebolag,small_cap,Technology
+MIRHO,Miris Holding AB,miris holding|miris holding ab|miris,small_cap,Health Care
+MOFA,Mofast AB (publ),mofast|mofast ab (publ),small_cap,Real Estate
+MONI,Monivent AB,monivent|monivent ab,small_cap,Health Care
+MOVEU,MoveByBike Europe AB,movebybike europe|movebybike europe ab|movebybike,small_cap,Industrials
+MREHO,mResell Holding AB,mresell holding ab|mresell holding|mresell,small_cap,Technology
+MYBE,My Beat AB,my beat|my beat ab|my,small_cap,Technology
+NATLA,Nattaro Labs AB,nattaro labs|nattaro labs ab|nattaro,small_cap,Basic Materials
+NFODR,NFO Drives AB,nfo|nfo drives ab|nfo drives,small_cap,Technology
+NRHO,Nidhogg Resources Holding AB,nidhogg resources holding|nidhogg|nidhogg resources holding ab,small_cap,Basic Materials
+NSVE,Nilsson Special Vehicles AB,nilsson|nilsson special vehicles|nilsson special vehicles ab,small_cap,Consumer Goods & Services
+NORES,Norden Estates AB,norden estates ab|norden|norden estates,small_cap,Real Estate
+NGIN,Novus Group International AB,novus|novus group international|novus group international ab,small_cap,Technology
+ODIPH,ODI Pharma AB,odi pharma|odi pharma ab|odi,small_cap,Health Care
+ODIN,Odinwell AB,odinwell ab|odinwell,small_cap,Health Care
+OPSHO,Opsy Holding AB,opsy holding ab|opsy|opsy holding,small_cap,Health Care
+OURL,OurLiving AB,ourliving|ourliving ab,small_cap,Technology
+PEPME,PEPTONIC Medical AB,peptonic medical|peptonic medical ab|peptonic,small_cap,Health Care
+PEXA,PExA AB,pexa ab|pexa,small_cap,Health Care
+PHAR,PharmaLundensis AB,pharmalundensis ab|pharmalundensis,small_cap,Health Care
+PHOT,Photocat A/S,photocat|photocat a/s,small_cap,Basic Materials
+PLEJ,Plejd AB,plejd|plejd ab,small_cap,Industrials
+POLA,PolarCool AB,polarcool ab|polarcool,small_cap,Health Care
+PREB,Prebona AB,prebona|prebona ab,small_cap,Basic Materials
+PREPR,Preservium Property AB,preservium property|preservium|preservium property ab,small_cap,Real Estate
+PISW,Provide IT Sweden AB,provide|provide it sweden ab|provide it sweden,small_cap,Technology
+PUBRT,PublicVC RTO1 AB,publicvc|publicvc rto1|publicvc rto1 ab,small_cap,Financials
+QBNHO,QBNK Holding AB,qbnk holding|qbnk holding ab|qbnk,small_cap,Technology
+RAMSH,Ramlösa shipping AB (publ),ramlösa|ramlösa shipping|ramlösa shipping ab (publ),small_cap,Financials
+RECHO,Recyctec Holding AB,recyctec|recyctec holding ab|recyctec holding,small_cap,Basic Materials
+REDME,Redsense Medical AB,redsense|redsense medical ab|redsense medical,small_cap,Health Care
+RESP,Respiratorius AB,respiratorius ab|respiratorius,small_cap,Health Care
+RISIN,Risk Intelligence A/S,risk intelligence a/s|risk intelligence|risk,small_cap,Industrials
+SENS,SensoDetect AB,sensodetect ab|sensodetect,small_cap,Health Care
+SERV,Servana AB,servana ab|servana,small_cap,Health Care
+SSHI,SHT Smart High-Tech AB,sht|sht smart high-tech ab|sht smart high-tech,small_cap,Technology
+SCIN,Sjöstrand Coffee Int AB,sjöstrand|sjöstrand coffee int ab|sjöstrand coffee int,small_cap,Consumer Goods & Services
+SLOFA,Slottsviken Fastighetsaktiebolag (publ),slottsviken fastighetsaktiebolag|slottsviken fastighetsaktiebolag (publ)|slottsviken,small_cap,Real Estate
+SNHO,Smoltek Nanotech Holding AB,smoltek nanotech holding ab|smoltek nanotech holding|smoltek,small_cap,Industrials
+SOCUS,Sociallite US AB (publ),sociallite|sociallite us ab (publ)|sociallite us,small_cap,Consumer Goods & Services
+SOLI,SolidX AB,solidx|solidx ab,small_cap,Technology
+SINO,Solution International Nordics AB,solution international nordics|solution|solution international nordics ab,small_cap,Consumer Goods & Services
+SOUDI,Sound Dimension AB,sound dimension|sound|sound dimension ab,small_cap,Consumer Goods & Services
+SPER,Spermosens AB (publ),spermosens|spermosens ab (publ),small_cap,Health Care
+SPOGR,Spotlight Group AB,spotlight|spotlight group ab|spotlight group,small_cap,Financials
+STOTR,Stockholm Treasury AB,stockholm treasury ab|stockholm treasury|stockholm,small_cap,Financials
+SUNGR,Suntrade Group AB,suntrade group ab|suntrade group|suntrade,small_cap,Energy
+SUSGR,Sustainion Group AB,sustainion|sustainion group ab|sustainion group,small_cap,Industrials
+SYNT,SyntheticMR AB,syntheticmr ab|syntheticmr,small_cap,Health Care
+TNHO,Tessin Nordic Holding AB,tessin nordic holding|tessin|tessin nordic holding ab,small_cap,Technology
+TOUC,Touchtech AB,touchtech ab|touchtech,small_cap,Technology
+TRAN,Transferator AB,transferator|transferator ab,small_cap,Financials
+TURGR,Tura Group AB,tura group|tura group ab|tura,small_cap,Consumer Goods & Services
+UMIGR,Umida Group AB,umida group ab|umida|umida group,small_cap,Consumer Goods & Services
+UINO,Upgrade Invest Nordic AB,upgrade invest nordic|upgrade invest nordic ab|upgrade,small_cap,Financials
+VAXX,Vaxxa AB,vaxxa ab|vaxxa,small_cap,Technology
+VETE,Veteranpoolen,veteranpoolen,small_cap,Industrials
+VIBDY,VibroSense Dynamics AB,vibrosense dynamics ab|vibrosense dynamics|vibrosense,small_cap,Health Care
+VIDH,Vidhance AB,vidhance|vidhance ab,small_cap,Technology
+WHIPE,White Pebbles AB,white pebbles|white pebbles ab|white,small_cap,Financials
+WEGR,Windon Energy Group AB,windon energy group ab|windon energy group|windon,small_cap,Energy
+WTGR,Wonderful Times Group AB,wonderful times group|wonderful times group ab|wonderful,small_cap,Consumer Goods & Services
+XTHO,Xer Tech Holding AB,xer tech holding ab|xer|xer tech holding,small_cap,Industrials
+XOMA,Xoma AB,xoma ab|xoma,small_cap,Industrials
+ZENE,Zenergy AB,zenergy|zenergy ab,small_cap,Real Estate
+ZMSY,Zenicor Medical Systems AB,zenicor|zenicor medical systems|zenicor medical systems ab,small_cap,Health Care
+ZELT,Zenith Energy Ltd,zenith energy ltd|zenith,small_cap,Energy
+ZOOIN,Zoomability Int AB,zoomability int|zoomability int ab|zoomability,small_cap,Consumer Goods & Services
+2CUREX,2cureX AB,2curex ab|2curex,first_north,Unknown
+4C,4C Group AB,4c|4c group|4c group ab,first_north,Unknown
+AAC,AAC Clyde Space AB,aac clyde space|aac clyde space ab|aac clyde|aac,first_north,Unknown
+AALLON,Aallon Group Oyj,aallon group oyj|aallon|aallon group,first_north,Unknown
+ABSO,Absolent Air Care Group AB,absolent|absolent air care group ab|absolent air|absolent air care group,first_north,Unknown
+ACARIX,Acarix AB,acarix ab|acarix,first_north,Unknown
+ACCON,Acconeer AB,acconeer|acconeer ab,first_north,Unknown
+PADEL,Acenta Group AB,acenta group ab|acenta group|acenta,first_north,Unknown
+ACOU,AcouSort AB,acousort ab|acousort,first_north,Unknown
+ACROUD,ACROUD AB,acroud|acroud ab,first_north,Unknown
+ACUVI,Acuvi AB,acuvi|acuvi ab,first_north,Unknown
+ADMCM,Admicom Oyj,admicom oyj|admicom,first_north,Unknown
+ADMIN,Administer Oyj,administer oyj|administer,first_north,Unknown
+ADTR,Adtraction Group AB,adtraction|adtraction group ab|adtraction group,first_north,Unknown
+ADVE,Advenica AB,advenica|advenica ab,first_north,Unknown
+AEC,Africa Energy Corp.,africa energy|africa|africa energy corp.,first_north,Unknown
+AGES B,AGES Industri AB ser. B,ages|ages industri|ages industri ab ser. b,first_north,Unknown
+AGILC,Agillic A/S,agillic a/s|agillic,first_north,Unknown
+AGTIRA B,AGTIRA AB SER. B,agtira ab|agtira|agtira ab ser. b,first_north,Unknown
+AIFORIA,Aiforia Technologies Oyj,aiforia technologies|aiforia|aiforia technologies oyj,first_north,Unknown
+AINO,Aino Health AB,aino health|aino|aino health ab,first_north,Unknown
+ALCA,Alcadon Group AB,alcadon|alcadon group|alcadon group ab,first_north,Unknown
+ALEFRM,Alefarm Brewing A/S,alefarm brewing a/s|alefarm|alefarm brewing,first_north,Unknown
+ALEX,Alexandria Group Oyj,alexandria group oyj|alexandria|alexandria group,first_north,Unknown
+ALM,ALM Equity AB,alm equity|alm equity ab|alm,first_north,Unknown
+ALPCOT B,Alpcot Holding AB ser. B,alpcot holding ab ser. b|alpcot|alpcot holding,first_north,Unknown
+ALZCUR,AlzeCure Pharma AB,alzecure pharma|alzecure|alzecure pharma ab,first_north,Unknown
+ALZ,Alzinova AB,alzinova ab|alzinova,first_north,Unknown
+ANNX,Annexin Pharmaceuticals AB,annexin pharmaceuticals|annexin pharmaceuticals ab|annexin,first_north,Unknown
+ARCOMA,Arcoma AB,arcoma|arcoma ab,first_north,Unknown
+ARCTIC,Arctic Blue Beverages AB,arctic blue beverages ab|arctic blue|arctic blue beverages|arctic,first_north,Unknown
+ARFA,Arctic Falls Aktiebolag,arctic falls|arctic|arctic falls aktiebolag,first_north,Unknown
+ARCT,Arctic Minerals AB,arctic minerals|arctic|arctic minerals ab,first_north,Unknown
+ARENIT SDB,ARENIT Industrie SE SDB,arenit industrie|arenit|arenit industrie se sdb,first_north,Unknown
+AGROUP,Arlandastad Group AB,arlandastad|arlandastad group ab|arlandastad group,first_north,Unknown
+ASUNTO,Asuntosalkku Oyj,asuntosalkku oyj|asuntosalkku,first_north,Unknown
+ATIN,Athanase Innovation AB,athanase innovation|athanase|athanase innovation ab,first_north,Unknown
+AVEN,Avensia AB,avensia ab|avensia,first_north,Unknown
+AVT B,"Avtech Sweden AB, ser. B","avtech|avtech sweden ab, ser. b|avtech sweden",first_north,Unknown
+AXIC A,aXichem AB ser. A,axichem ab|axichem ab ser. a|axichem,first_north,Unknown
+AXOLOT,Axolot Solutions Holding AB,axolot solutions|axolot|axolot solutions holding|axolot solutions holding ab,first_north,Unknown
+BACTIQ,BactiQuant A/S,bactiquant|bactiquant a/s,first_north,Unknown
+BAHN B,"Bahnhof AB, ser. B","bahnhof ab,|bahnhof|bahnhof ab, ser. b",first_north,Unknown
+BUSER,Bambuser AB,bambuser|bambuser ab,first_north,Unknown
+BAWAT,Bawat Water Technologies AB,bawat water technologies|bawat water|bawat water technologies ab|bawat,first_north,Unknown
+BEAMMW B,Beammwave AB ser. B,beammwave ab|beammwave|beammwave ab ser. b,first_north,Unknown
+BETOLAR,Betolar Oyj,betolar|betolar oyj,first_north,Unknown
+BIM,BIMobject AB,bimobject|bimobject ab,first_north,Unknown
+BINERO,Binero Group AB,binero group|binero group ab|binero,first_north,Unknown
+BIOEX,Bioextrax AB,bioextrax|bioextrax ab,first_north,Unknown
+BRETEC,BIORETEC OY,bioretec|bioretec oy,first_north,Unknown
+BIOSGN,Biosergen AB,biosergen|biosergen ab,first_north,Unknown
+BIOVIC B,Biovica International AB ser.,biovica international ab ser.|biovica international|biovica,first_north,Unknown
+BOHO,Boho Group AB,boho|boho group ab|boho group,first_north,Unknown
+BOKUS,Bokusgruppen AB,bokusgruppen|bokusgruppen ab,first_north,Unknown
+BOMILL,BoMill AB,bomill ab|bomill,first_north,Unknown
+BONAS,Bonasudden Holding AB,bonasudden holding ab|bonasudden|bonasudden holding,first_north,Unknown
+BOTX,Botnia Gold AB,botnia gold ab|botnia gold|botnia,first_north,Unknown
+BRAIN,BrainCool AB,braincool|braincool ab,first_north,Unknown
+BRIGHT,BrightBid Group AB,brightbid|brightbid group|brightbid group ab,first_north,Unknown
+BRILL,Brilliant Future AB,brilliant future ab|brilliant|brilliant future,first_north,Unknown
+BMC,Brock Milton Capital AB,brock milton|brock milton capital ab|brock|brock milton capital,first_north,Unknown
+BYGGP,ByggPartner Gruppen AB,byggpartner gruppen|byggpartner|byggpartner gruppen ab,first_north,Unknown
+CAG,CAG Group AB,cag group|cag|cag group ab,first_north,Unknown
+CALVIK,Calviks AB,calviks|calviks ab,first_north,Unknown
+CANATU,Canatu Oyj A,canatu oyj|canatu oyj a|canatu,first_north,Unknown
+CANDLE B,Candles Scandinavia AB ser. B,candles scandinavia ab ser. b|candles scandinavia|candles,first_north,Unknown
+CARE,Careium AB,careium ab|careium,first_north,Unknown
+CASE,Case Group AB,case|case group|case group ab,first_north,Unknown
+CDON,CDON AB,cdon|cdon ab,first_north,Unknown
+CEDER,Cedergrenska AB,cedergrenska|cedergrenska ab,first_north,Unknown
+CI,Cell Impact AB,cell impact|cell|cell impact ab,first_north,Unknown
+CRNO B,Cereno Scientific AB ser. B,cereno|cereno scientific ab ser. b|cereno scientific,first_north,Unknown
+CHARGE,ChargePanel AB,chargepanel|chargepanel ab,first_north,Unknown
+CHECK,Checkin.com Group AB,checkin.com group|checkin.com group ab|checkin.com,first_north,Unknown
+CHEF,Cheffelo AB,cheffelo ab|cheffelo,first_north,Unknown
+CIRCHE,CirChem AB,circhem ab|circhem,first_north,Unknown
+CITYVA,Cityvarasto Oyj,cityvarasto oyj|cityvarasto,first_north,Unknown
+CLAV,Clavister AB,clavister|clavister ab,first_north,Unknown
+CLEMO,Clean Motion AB,clean|clean motion|clean motion ab,first_north,Unknown
+CLEM,Clemondo Group AB,clemondo group|clemondo group ab|clemondo,first_north,Unknown
+CLIME B,Climeon AB ser. B,climeon|climeon ab|climeon ab ser. b,first_north,Unknown
+CLS B,"Clinical Laserth. Syst. AB, se","clinical laserth. syst. ab, se|clinical|clinical laserth.",first_north,Unknown
+CDMIL,CodeMill AB,codemill|codemill ab,first_north,Unknown
+COFFEE B,COFFEE STAIN GROUP AB SER. B,coffee stain|coffee stain group ab ser. b|coffee,first_north,Unknown
+COLLAX,Collaxio AB ser. B,collaxio ab|collaxio ab ser. b|collaxio,first_north,Unknown
+CX,CombinedX AB,combinedx|combinedx ab,first_north,Unknown
+COMPDM,Compodium International AB,compodium international ab|compodium|compodium international,first_north,Unknown
+CLBIO,Corline Biomedical AB,corline biomedical|corline|corline biomedical ab,first_north,Unknown
+CFISH,Crunchfish AB,crunchfish|crunchfish ab,first_north,Unknown
+DAC,Danish Aerospace Company A/S,danish|danish aerospace company|danish aerospace company a/s|danish aerospace,first_north,Unknown
+DATA,Dataproces Group A/S,dataproces group a/s|dataproces|dataproces group,first_north,Unknown
+DSNO,Desenio Group AB,desenio group|desenio|desenio group ab,first_north,Unknown
+DETEC,Detection Technology Oyj,detection technology|detection|detection technology oyj,first_north,Unknown
+DEVP B,DevPort AB ser. B,devport ab ser. b|devport ab|devport,first_north,Unknown
+DVYSR,Devyser Diagnostics AB,devyser diagnostics|devyser diagnostics ab|devyser,first_north,Unknown
+DMYD B,Diamyd Medical AB B,diamyd medical ab b|diamyd|diamyd medical,first_north,Unknown
+DICOT,Dicot Pharma AB,dicot pharma|dicot|dicot pharma ab,first_north,Unknown
+DWF,Digital Workforce Services Oyj,digital workforce|digital workforce services|digital workforce services oyj|digital,first_north,Unknown
+DIST,DistIT AB,distit ab|distit,first_north,Unknown
+ALBERT,eEducation Albert AB,eeducation albert ab|eeducation albert|eeducation,first_north,Unknown
+BBROOM,New Bubbleroom Sweden AB,new bubbleroom sweden ab|new bubbleroom sweden|new bubbleroom|new,first_north,Unknown
+BEER,Nokian Panimo Oyj,nokian panimo oyj|nokian panimo|nokian,first_north,Unknown
+BOAT,Nimbus Group AB,nimbus group ab|nimbus,first_north,Unknown
+BRAVE,Kinda Brave Entertainment Grou,kinda brave entertainment grou|kinda brave|kinda,first_north,Unknown
+BUY,Sweden BuyersClub AB,sweden buyersclub ab|sweden buyersclub|sweden,first_north,Unknown
+CMOTEC B,Scandinavian ChemoTech AB B,scandinavian chemotech ab b|scandinavian chemotech|scandinavian,first_north,Unknown
+DIVIO B,Divio Technologies AB ser. B,divio technologies ab ser. b|divio technologies|divio,first_north,Unknown
+DLAB,Dlaboratory Sweden AB,dlaboratory sweden ab|dlaboratory sweden|dlaboratory,first_north,Unknown
+DMXSE SDB,District Metals Corp.,district metals corp.|district metals|district,first_north,Unknown
+DONE,Done.ai Group AB,done.ai group ab|done.ai,first_north,Unknown
+DONKEY,DonkeyRepublic Holding A/S,donkeyrepublic holding a/s|donkeyrepublic holding|donkeyrepublic,first_north,Unknown
+DOXA,Doxa AB,doxa ab|doxa,first_north,Unknown
+DRIL,Drillcon AB,drillcon ab|drillcon,first_north,Unknown
+DUELL,Duell Oyj,duell oyj|duell,first_north,Unknown
+EAGLE,Eagle Filters Group Plc,eagle filters group plc|eagle filters|eagle,first_north,Unknown
+ECOUP,EcoUp Oyj,ecoup oyj|ecoup,first_north,Unknown
+EFFH,Effnetplattformen Holding AB,effnetplattformen holding ab|effnetplattformen holding|effnetplattformen,first_north,Unknown
+EGNETY,"EgnsINVEST Ejd., Tyskland","egnsinvest ejd., tyskland|egnsinvest ejd.,|egnsinvest",first_north,Unknown
+ELIC,Elicera Therapeutics AB,elicera therapeutics ab|elicera therapeutics|elicera,first_north,Unknown
+EMB,EMB Mission Bound AB,emb mission bound ab|emb mission bound|emb mission|emb,first_north,Unknown
+EMBELL,Embellence Group AB,embellence group ab|embellence,first_north,Unknown
+ENERS,Enersize Oyj,enersize oyj|enersize,first_north,Unknown
+ENVAR,Envar Holding AB,envar holding ab|envar holding|envar,first_north,Unknown
+ENZY,Enzymatica AB,enzymatica ab|enzymatica,first_north,Unknown
+ERMA,Enorama Pharma AB,enorama pharma ab|enorama pharma|enorama,first_north,Unknown
+ERRIA,ERRIA,erria,first_north,Unknown
+ESGR B,ES Energy Save Holding AB ser.,es energy save holding ab ser.|es energy|es,first_north,Unknown
+EXPRS2,ExpreS2ion Biotech Holding AB,expres2ion biotech holding ab|expres2ion biotech holding|expres2ion biotech|expres2ion,first_north,Unknown
+EXS,EXSITEC HOLDING AB,exsitec holding ab|exsitec holding|exsitec,first_north,Unknown
+FARON,Faron Pharmaceuticals Oy,faron pharmaceuticals oy|faron pharmaceuticals|faron,first_north,Unknown
+FASTPC,FastPassCorp,fastpasscorp,first_north,Unknown
+FERRO,Ferroamp AB,ferroamp ab|ferroamp,first_north,Unknown
+FIRE,Firefly AB,firefly ab|firefly,first_north,Unknown
+FIRST B,First Venture Sweden AB,first venture sweden ab|first venture sweden|first venture|first,first_north,Unknown
+FLAT B,Flat Capital AB ser. B,flat capital ab ser. b|flat capital|flat,first_north,Unknown
+FLEXM,Flexion Mobile Plc,flexion mobile plc|flexion mobile|flexion,first_north,Unknown
+FLEXQ,FlexQube AB,flexqube ab|flexqube,first_north,Unknown
+FLOWS,FLOWSCAPE TECHNOLOGY AB,flowscape technology ab|flowscape technology|flowscape,first_north,Unknown
+FLUI,Fluicell AB,fluicell ab|fluicell,first_north,Unknown
+FLUO,FluoGuide A/S,fluoguide a/s|fluoguide,first_north,Unknown
+FOAMIT,Foamit Oyj,foamit oyj|foamit,first_north,Unknown
+FODELIA,Fodelia Oyj,fodelia oyj|fodelia,first_north,Unknown
+FOM,FOM Technologies A/S,fom technologies a/s|fom technologies|fom,first_north,Unknown
+FONDIA,Fondia Oyj,fondia oyj|fondia,first_north,Unknown
+FRACTL,Fractal Gaming Group AB,fractal gaming group ab|fractal gaming|fractal,first_north,Unknown
+FRAG,Fragbite Group AB,fragbite group ab|fragbite,first_north,Unknown
+FRAM B,Fram Skandinavien AB ser. B,fram skandinavien ab ser. b|fram skandinavien|fram,first_north,Unknown
+FREEM,Freemelt Holding AB,freemelt holding ab|freemelt holding|freemelt,first_north,Unknown
+FREJA,Freja eID Group AB,freja eid group ab|freja eid|freja,first_north,Unknown
+FSPORT,Fsport AB,fsport ab|fsport,first_north,Unknown
+GABA,Gabather AB,gabather ab|gabather,first_north,Unknown
+GAPW B,Gapwaves AB ser. B,gapwaves ab ser. b|gapwaves,first_north,Unknown
+GBK,Goodbye Kansas Group AB,goodbye kansas group ab|goodbye kansas|goodbye,first_north,Unknown
+GCOR,Gaming Corps AB,gaming corps ab|gaming corps|gaming,first_north,Unknown
+GENI,Generic Sweden AB,generic sweden ab|generic sweden|generic,first_north,Unknown
+GENO,Genovis AB,genovis ab|genovis,first_north,Unknown
+GGEO,Guideline Geo AB,guideline geo ab|guideline geo|guideline,first_north,Unknown
+GIG SDB,GIG SOFTWARE PLC SDB,gig software plc sdb|gig software|gig,first_north,Unknown
+GIGA,Gigasun AB,gigasun ab|gigasun,first_north,Unknown
+GOMX,GomSpace Group AB,gomspace group ab|gomspace,first_north,Unknown
+GOTL A,Rederiaktiebolaget Gotland ser,rederiaktiebolaget gotland ser|rederiaktiebolaget gotland|rederiaktiebolaget,first_north,Unknown
+GOTL B,REDERIAKTIEBOLAGET GOTLAND SER,rederiaktiebolaget gotland ser|rederiaktiebolaget gotland|rederiaktiebolaget,first_north,Unknown
+GPX,Gasporox AB,gasporox ab|gasporox,first_north,Unknown
+GRANGX,GRANGEX AB,grangex ab|grangex,first_north,Unknown
+GREAT,Greater Than AB,greater than ab|greater than|greater,first_north,Unknown
+GSKR SDB,Goldsky Resources Corp.,goldsky resources corp.|goldsky resources|goldsky,first_north,Unknown
+GUARD,Guard Therapeutics Internation,guard therapeutics internation|guard therapeutics|guard,first_north,Unknown
+GULD,Guldbrev Holding AB,guldbrev holding ab|guldbrev holding|guldbrev,first_north,Unknown
+HAYPP,Haypp Group AB,haypp group ab|haypp,first_north,Unknown
+HEART,Scandinavian Real Heart AB,scandinavian real heart ab|scandinavian real heart|scandinavian real|scandinavian,first_north,Unknown
+HEGR,Hedera Group AB,hedera group ab|hedera,first_north,Unknown
+HELIO,Heliospectra AB,heliospectra ab|heliospectra,first_north,Unknown
+HERNO B,Herno Gin AB ser. B,herno gin ab ser. b|herno gin|herno,first_north,Unknown
+HEXI,Hexicon AB,hexicon ab|hexicon,first_north,Unknown
+HIGHCO B,High Coast Distillery AB ser.,high coast distillery ab ser.|high coast|high,first_north,Unknown
+HILB B,Hilbert Group AB ser. B,hilbert group ab ser. b|hilbert,first_north,Unknown
+HOTEL,Hotel Fast SSE AB,hotel fast sse ab|hotel fast sse|hotel fast|hotel,first_north,Unknown
+HOVE,Hove A/S,hove a/s|hove,first_north,Unknown
+HRTIS,Herantis Pharma Plc,herantis pharma plc|herantis pharma|herantis,first_north,Unknown
+HULT B,Hultstrom Group AB ser. B,hultstrom group ab ser. b|hultstrom,first_north,Unknown
+ICO,Iconovo AB,iconovo ab|iconovo,first_north,Unknown
+IDLDX,IDL Diagnostics AB,idl diagnostics ab|idl diagnostics|idl,first_north,Unknown
+IDUN B,Idun Industrier AB ser. B,idun industrier ab ser. b|idun industrier|idun,first_north,Unknown
+IMP A SDB,Implantica AG SDB ser. A,implantica ag sdb ser. a|implantica ag|implantica,first_north,Unknown
+IMPC,Impact Coatings AB,impact coatings ab|impact coatings|impact,first_north,Unknown
+IMPERO,Impero A/S,impero a/s|impero,first_north,Unknown
+INCOAX,InCoax Networks AB,incoax networks ab|incoax networks|incoax,first_north,Unknown
+INDERES,Inderes Oyj,inderes oyj|inderes,first_north,Unknown
+INIT,Initiator Pharma A/S,initiator pharma a/s|initiator pharma|initiator,first_north,Unknown
+INSP,Insplorion AB,insplorion ab|insplorion,first_north,Unknown
+INTEG B,Integrum AB ser. B,integrum ab ser. b|integrum,first_north,Unknown
+IRIS,Irisity AB,irisity ab|irisity,first_north,Unknown
+ISLAX,Icelandic Salmon AS,icelandic salmon as|icelandic salmon|icelandic,first_north,Unknown
+ITECH,I-Tech AB,i-tech ab|i-tech,first_north,Unknown
+IVACC,Intervacc AB,intervacc ab|intervacc,first_north,Unknown
+IZAFE B,iZafe Group AB ser. B,izafe group ab ser. b|izafe,first_north,Unknown
+JLT,JLT Mobile Computers AB,jlt mobile computers ab|jlt mobile computers|jlt mobile|jlt,first_north,Unknown
+K33,K33 AB,k33 ab|k33,first_north,Unknown
+KAKEL,Kakel Max AB,kakel max ab|kakel max|kakel,first_north,Unknown
+KAPIAB,Kalleback Property Invest AB,kalleback property invest ab|kalleback property invest|kalleback property|kalleback,first_north,Unknown
+KBC,KB Components AB,kb components ab|kb components|kb,first_north,Unknown
+KEBNI B,KebNi AB B,kebni ab b|kebni ab|kebni,first_north,Unknown
+KENH,Kentima Holding AB B,kentima holding ab b|kentima holding|kentima,first_north,Unknown
+KJELL,Kjell Group AB,kjell group ab|kjell,first_north,Unknown
+KLAPP,Klappir Graenar Lausnir hf.,klappir graenar lausnir hf.|klappir graenar|klappir,first_north,Unknown
+KLAR,Klaria Pharma Holding AB,klaria pharma holding ab|klaria pharma holding|klaria pharma|klaria,first_north,Unknown
+KLDVK,Kaldvik AS,kaldvik as|kaldvik,first_north,Unknown
+KLIMAT,Klimator AB,klimator ab|klimator,first_north,Unknown
+KONSOL,Konsolidator A/S,konsolidator a/s|konsolidator,first_north,Unknown
+LAPWALL,LapWall Oyj,lapwall oyj|lapwall,first_north,Unknown
+LARK,Larkberget AB,larkberget ab|larkberget,first_north,Unknown
+LCLEAN,Lifeclean International AB,lifeclean international ab|lifeclean international|lifeclean,first_north,Unknown
+LEA,Lea Bank AB,lea bank ab|lea bank|lea,first_north,Unknown
+LEADD,LeadDesk Oyj,leaddesk oyj|leaddesk,first_north,Unknown
+LEMON,Lemonsoft Oyj,lemonsoft oyj|lemonsoft,first_north,Unknown
+LEMSE,Leading Edge Materials Corp.,leading edge materials corp.|leading edge materials|leading edge|leading,first_north,Unknown
+LEVEL,Nordic LEVEL Group AB,nordic level group ab|nordic level|nordic,first_north,Unknown
+LITI,Litium AB,litium ab|litium,first_north,Unknown
+LOIHDE,Loihde Oyj,loihde oyj|loihde,first_north,Unknown
+LOYAL,Loyal Solutions A/S,loyal solutions a/s|loyal solutions|loyal,first_north,Unknown
+LPGO,Lipigon Pharmaceuticals AB,lipigon pharmaceuticals ab|lipigon pharmaceuticals|lipigon,first_north,Unknown
+LUC,Lucara Diamond Corp,lucara diamond corp|lucara diamond|lucara,first_north,Unknown
+LUMEN,LumenRadio AB,lumenradio ab|lumenradio,first_north,Unknown
+LXB,Luxbright AB,luxbright ab|luxbright,first_north,Unknown
+LYGRD,Lyckegard Group AB,lyckegard group ab|lyckegard,first_north,Unknown
+LYKO A,Lyko Group AB ser. A,lyko group ab ser. a|lyko,first_north,Unknown
+MAGI,MAG Interactive AB,mag interactive ab|mag interactive|mag,first_north,Unknown
+MAGLE,Magle Chemoswed Holding AB,magle chemoswed holding ab|magle chemoswed holding|magle chemoswed|magle,first_north,Unknown
+MANTEX,Mantex AB,mantex ab|mantex,first_north,Unknown
+MAV,Mavshack AB,mavshack ab|mavshack,first_north,Unknown
+MAVEN,Maven Wireless Sweden AB,maven wireless sweden ab|maven wireless sweden|maven wireless|maven,first_north,Unknown
+MAXENT B,Maximum Entertainment AB ser.,maximum entertainment ab ser.|maximum entertainment|maximum,first_north,Unknown
+MDUNDO,Mdundo.com A/S,mdundo.com a/s|mdundo.com,first_north,Unknown
+MEDS,Meds Apotek AB,meds apotek ab|meds apotek|meds,first_north,Unknown
+MERUS,Merus Power Oyj,merus power oyj|merus power|merus,first_north,Unknown
+MIDS,Midsummer AB,midsummer ab|midsummer,first_north,Unknown
+MINEST,Minesto AB,minesto ab|minesto,first_north,Unknown
+MNTC,Mentice AB,mentice ab|mentice,first_north,Unknown
+MOBA,M.O.B.A. Network AB,m.o.b.a. network ab|m.o.b.a. network|m.o.b.a.,first_north,Unknown
+MODEL,Modelon AB,modelon ab|modelon,first_north,Unknown
+MODTX,Modus Therapeutics Holding AB,modus therapeutics holding ab|modus therapeutics holding|modus therapeutics|modus,first_north,Unknown
+MODU,Modulight Oyj,modulight oyj|modulight,first_north,Unknown
+MONSO,Monsenso A/S,monsenso a/s|monsenso,first_north,Unknown
+MOVINN,Movinn A/S,movinn a/s|movinn,first_north,Unknown
+MTI,MTI Investment AB,mti investment ab|mti investment|mti,first_north,Unknown
+NANECH,NanoEcho AB,nanoecho ab|nanoecho,first_north,Unknown
+NANEXA,Nanexa,nanexa,first_north,Unknown
+NANOFH,Nanoform Finland Oyj,nanoform finland oyj|nanoform finland|nanoform,first_north,Unknown
+NANOFS,Nanoform Finland Oyj,nanoform finland oyj|nanoform finland|nanoform,first_north,Unknown
+NAVIGO STAM,Navigo Invest AB,navigo invest ab|navigo invest|navigo,first_north,Unknown
+NEO B,Neovici Holding AB ser. B,neovici holding ab ser. b|neovici holding|neovici,first_north,Unknown
+NEOLA,Neola Medical AB,neola medical ab|neola medical|neola,first_north,Unknown
+NEPA,Nepa AB,nepa ab|nepa,first_north,Unknown
+NETUM,Netum Group Oyj,netum group oyj|netum,first_north,Unknown
+NEWBRY,Newbury Pharmaceuticals AB,newbury pharmaceuticals ab|newbury pharmaceuticals|newbury,first_north,Unknown
+NEXAM,Nexam Chemical Holding AB,nexam chemical holding ab|nexam chemical holding|nexam chemical|nexam,first_north,Unknown
+NEXCOM,Nexcom A/S,nexcom a/s|nexcom,first_north,Unknown
+NFGAB,Nordic Flanges Group AB,nordic flanges group ab|nordic flanges|nordic,first_north,Unknown
+NICO,Nicoccino Holding AB,nicoccino holding ab|nicoccino holding|nicoccino,first_north,Unknown
+NITRO,Nitro Games Oyj,nitro games oyj|nitro games|nitro,first_north,Unknown
+NNH,New Nordic Healthbrands AB,new nordic healthbrands ab|new nordic healthbrands|new nordic|new,first_north,Unknown
+NORRH,Norrhydro Group Oyj,norrhydro group oyj|norrhydro,first_north,Unknown
+NOSA,Nosa Plugs AB,nosa plugs ab|nosa plugs|nosa,first_north,Unknown
+NOTEK,Norditek Group AB,norditek group ab|norditek,first_north,Unknown
+NREST,Nordrest Holding AB,nordrest holding ab|nordrest holding|nordrest,first_north,Unknown
+NXTCL,NextCell Pharma AB,nextcell pharma ab|nextcell pharma|nextcell,first_north,Unknown
+NXTMH,Nexstim Plc,nexstim plc|nexstim,first_north,Unknown
+NYAB,NYAB AB,nyab ab|nyab,first_north,Unknown
+OBAB,Online Brands Nordic AB,online brands nordic ab|online brands nordic|online brands|online,first_north,Unknown
+OBSE,Observit AB,observit ab|observit,first_north,Unknown
+OGUN B,Ogunsen AB ser. B,ogunsen ab ser. b|ogunsen,first_north,Unknown
+ONCOZ,ONCOZENGE AB,oncozenge ab|oncozenge,first_north,Unknown
+ONEF,Oneflow AB,oneflow ab|oneflow,first_north,Unknown
+OODA,OODA AI AB,ooda ai ab|ooda ai|ooda,first_north,Unknown
+OPTER,Opter AB,opter ab|opter,first_north,Unknown
+OPTI,OptiCept Technologies AB,opticept technologies ab|opticept technologies|opticept,first_north,Unknown
+ORGC,OrganoClick AB,organoclick ab|organoclick,first_north,Unknown
+ORT B,Ortoma AB B,ortoma ab b|ortoma ab|ortoma,first_north,Unknown
+ORTI A,Ortivus AB ser. A,ortivus ab ser. a|ortivus,first_north,Unknown
+ORTI B,Ortivus AB ser. B,ortivus ab ser. b|ortivus,first_north,Unknown
+ORTIN,Ortelius International AB,ortelius international ab|ortelius international|ortelius,first_north,Unknown
+OSSD,OssDsign AB,ossdsign ab|ossdsign,first_north,Unknown
+OXE,OXE Marine AB,oxe marine ab|oxe marine|oxe,first_north,Unknown
+PALLAS,Pallas Air Oyj,pallas air oyj|pallas air|pallas,first_north,Unknown
+PAX,Paxman AB,paxman ab|paxman,first_north,Unknown
+PCOM B,Precomp Solutions AB ser. B,precomp solutions ab ser. b|precomp solutions|precomp,first_north,Unknown
+PDX,Paradox Interactive AB,paradox interactive ab|paradox interactive|paradox,first_north,Unknown
+PERP B,Perpetua Medical AB ser. B,perpetua medical ab ser. b|perpetua medical|perpetua,first_north,Unknown
+PIIPPO,Piippo Oyj,piippo oyj|piippo,first_north,Unknown
+PILA,PILA PHARMA AB,pila pharma ab|pila pharma|pila,first_north,Unknown
+POLYG,Polygiene Group AB,polygiene group ab|polygiene,first_north,Unknown
+PRCO B,Precio Fishbone AB ser. B,precio fishbone ab ser. b|precio fishbone|precio,first_north,Unknown
+PRO,Promimic AB,promimic ab|promimic,first_north,Unknown
+PROGEN,Prostatype Genomics AB,prostatype genomics ab|prostatype genomics|prostatype,first_north,Unknown
+PTRK,Physitrack PLC,physitrack plc|physitrack,first_north,Unknown
+QAIR,QleanAir AB,qleanair ab|qleanair,first_north,Unknown
+QBEN,QBEN INFRA AB,qben infra ab|qben infra|qben,first_north,Unknown
+QBIM,QBIM,qbim,first_north,Unknown
+QCORE,Qlucore AB,qlucore ab|qlucore,first_north,Unknown
+QIIWI,Qiiwi Games AB,qiiwi games ab|qiiwi games|qiiwi,first_north,Unknown
+QINTER,Q-Interline A/S,q-interline a/s|q-interline,first_north,Unknown
+QLIFE,Qlife Holding AB,qlife holding ab|qlife holding|qlife,first_north,Unknown
+QSYS,Qualisys Holding Aktiebolag,qualisys holding aktiebolag|qualisys holding|qualisys,first_north,Unknown
+RAKE,Raketech Group Holding plc,raketech group holding plc|raketech group holding|raketech group|raketech,first_north,Unknown
+REALFI,Realfiction Holding AB,realfiction holding ab|realfiction holding|realfiction,first_north,Unknown
+REFINE,Refine Group AB,refine group ab|refine,first_north,Unknown
+RPLAN,Ranplan Group AB,ranplan group ab|ranplan,first_north,Unknown
+RUG,RugVista Group AB,rugvista group ab|rugvista,first_north,Unknown
+S2M,S2Medical AB ser. B,s2medical ab ser. b|s2medical,first_north,Unknown
+SALT B,SaltX Technology Holding AB se,saltx technology holding ab se|saltx technology|saltx,first_north,Unknown
+SAXG,Saxlund Group AB,saxlund group ab|saxlund,first_north,Unknown
+SBI,Sunborn International Plc,sunborn international plc|sunborn international|sunborn,first_north,Unknown
+SBOK,ScandBook Holding AB,scandbook holding ab|scandbook holding|scandbook,first_north,Unknown
+SCIB,Scibase Holding AB,scibase holding ab|scibase holding|scibase,first_north,Unknown
+SDOS,Scandidos AB,scandidos ab|scandidos,first_north,Unknown
+SECARE,Swedencare AB,swedencare ab|swedencare,first_north,Unknown
+SENZA,Senzagen AB,senzagen ab|senzagen,first_north,Unknown
+SERT,Serstech AB,serstech ab|serstech,first_north,Unknown
+SES,Scandinavian Enviro Systems AB,scandinavian enviro systems ab|scandinavian enviro systems|scandinavian enviro|scandinavian,first_north,Unknown
+SEYE,Smart Eye AB,smart eye ab|smart eye|smart,first_north,Unknown
+SFL,Safello Group AB,safello group ab|safello,first_north,Unknown
+SFOODS,Solar Foods Oyj,solar foods oyj|solar foods|solar,first_north,Unknown
+SFS B,Slaturfelag Suurlands svf.,slaturfelag suurlands svf.|slaturfelag suurlands|slaturfelag,first_north,Unknown
+SFTR,Safeture AB,safeture ab|safeture,first_north,Unknown
+SIBEK,SIBEK AB,sibek ab|sibek,first_north,Unknown
+SIMRIS B,Simris Group AB ser. B,simris group ab ser. b|simris,first_north,Unknown
+SIVI,Siljansvik AB,siljansvik ab|siljansvik,first_north,Unknown
+SKMO,Skane-mollan AB,skane-mollan ab|skane-mollan,first_north,Unknown
+SKOLON,Skolon AB,skolon ab|skolon,first_north,Unknown
+SMSMED,Scandinavian Medical Solutions,scandinavian medical solutions|scandinavian medical|scandinavian,first_north,Unknown
+SNM,ShaMaran Petroleum Corp,shamaran petroleum corp|shamaran petroleum|shamaran,first_north,Unknown
+SNX,Premium Snacks Nordic AB,premium snacks nordic ab|premium snacks nordic|premium snacks|premium,first_north,Unknown
+SODER,Soder Sportfiske AB,soder sportfiske ab|soder sportfiske|soder,first_north,Unknown
+SOLID,Solid Clouds hf.,solid clouds hf.|solid clouds|solid,first_north,Unknown
+SOLNA,Solnaberg Property AB,solnaberg property ab|solnaberg property|solnaberg,first_north,Unknown
+SOLT,SolTech Energy Sweden AB,soltech energy sweden ab|soltech energy sweden|soltech energy|soltech,first_north,Unknown
+SOLWERS,Solwers Oyj,solwers oyj|solwers,first_north,Unknown
+SONE,Sonetel AB,sonetel ab|sonetel,first_north,Unknown
+SPAGO,Spago Nanomedical AB,spago nanomedical ab|spago nanomedical|spago,first_north,Unknown
+SPEC,SpectraCure,spectracure,first_north,Unknown
+SPEONE,SpectrumOne AB,spectrumone ab|spectrumone,first_north,Unknown
+SPINN,Spinnova Oyj,spinnova oyj|spinnova,first_north,Unknown
+SPOTR,Spotr Group AB,spotr group ab|spotr,first_north,Unknown
+SPRING,Springvest Oyj,springvest oyj|springvest,first_north,Unknown
+SPRINT,Sprint Bioscience AB,sprint bioscience ab|sprint bioscience|sprint,first_north,Unknown
+STABL,Stayble Therapeutics AB,stayble therapeutics ab|stayble therapeutics|stayble,first_north,Unknown
+STENO,STENOCARE A/S,stenocare a/s|stenocare,first_north,Unknown
+STIL,Stille AB,stille ab|stille,first_north,Unknown
+STORY B,"Storytel AB, ser. B","storytel ab, ser. b|storytel ab,|storytel",first_north,Unknown
+STUDBO,Studentbostader i Norden AB,studentbostader i norden ab|studentbostader i norden|studentbostader i|studentbostader,first_north,Unknown
+STW,SeaTwirl AB,seatwirl ab|seatwirl,first_north,Unknown
+SUBGEN,Subgen AI AB,subgen ai ab|subgen ai|subgen,first_north,Unknown
+SUMMA,Summa Defence Oyj,summa defence oyj|summa defence|summa,first_north,Unknown
+SUMMAS,Summa Defence Oyj,summa defence oyj|summa defence|summa,first_north,Unknown
+SUS,Surgical Science Sweden AB,surgical science sweden ab|surgical science sweden|surgical science|surgical,first_north,Unknown
+SWISS,Swiss Properties Invest,swiss properties invest|swiss properties|swiss,first_north,Unknown
+TAGM B,TagMaster AB ser. B,tagmaster ab ser. b|tagmaster,first_north,Unknown
+TALK,TalkPool AG,talkpool ag|talkpool,first_north,Unknown
+TAMTRON,Tamtron Group Oyj,tamtron group oyj|tamtron,first_north,Unknown
+TEKOVA,Tekova Oyj,tekova oyj|tekova,first_north,Unknown
+TELLUS,Tellusgruppen AB,tellusgruppen ab|tellusgruppen,first_north,Unknown
+TENEO,Teneo AI AB,teneo ai ab|teneo ai|teneo,first_north,Unknown
+TEQ,Teqnion AB,teqnion ab|teqnion,first_north,Unknown
+TERNOR,Terranor Group AB,terranor group ab|terranor,first_north,Unknown
+TERRNT B,Terranet AB ser. B,terranet ab ser. b|terranet,first_north,Unknown
+TGAMES,TROPHY GAMES Development A/S,trophy games development a/s|trophy games development|trophy games|trophy,first_north,Unknown
+TINGS A,Tingsvalvet Fastighets AB ser.,tingsvalvet fastighets ab ser.|tingsvalvet fastighets|tingsvalvet,first_north,Unknown
+TINGS B,Tingsvalvet Fastighets AB ser.,tingsvalvet fastighets ab ser.|tingsvalvet fastighets|tingsvalvet,first_north,Unknown
+TITA B,Titania Holding AB ser. B,titania holding ab ser. b|titania holding|titania,first_north,Unknown
+TITAN,Titanium Oyj,titanium oyj|titanium,first_north,Unknown
+TOURN,Tourn International AB,tourn international ab|tourn international|tourn,first_north,Unknown
+TRAIN B,Train Alliance AB ser. B,train alliance ab ser. b|train alliance|train,first_north,Unknown
+TRIBO B,Tribox Group AB ser. B,tribox group ab ser. b|tribox,first_north,Unknown
+TSEC,Tempest Security AB,tempest security ab|tempest security|tempest,first_north,Unknown
+UNIBAP,Unibap Space Solutions AB,unibap space solutions ab|unibap space solutions|unibap space|unibap,first_north,Unknown
+UNLGRP,Unlimit Group A/S,unlimit group a/s|unlimit,first_north,Unknown
+UPSALE,Upsales Technology AB,upsales technology ab|upsales technology|upsales,first_north,Unknown
+USWE,USWE Sports AB,uswe sports ab|uswe sports|uswe,first_north,Unknown
+UTG,Unlimited Travel Group AB,unlimited travel group ab|unlimited travel|unlimited,first_north,Unknown
+VER,Verve Group SE,verve group se|verve group|verve,first_north,Unknown
+VERT B,Vertiseit AB ser B,vertiseit ab ser b|vertiseit,first_north,Unknown
+VH,Vastra Hamnen Corporate Financ,vastra hamnen corporate financ|vastra hamnen|vastra,first_north,Unknown
+VIAFIN,Viafin Service Oyj,viafin service oyj|viafin service|viafin,first_north,Unknown
+VIMAB,Vimab Group AB,vimab group ab|vimab,first_north,Unknown
+VINCIT,Vincit Oyj,vincit oyj|vincit,first_north,Unknown
+VIRO,ViroGates A/S,virogates a/s|virogates,first_north,Unknown
+VO2,Vo2 Cap Holding AB,vo2 cap holding ab|vo2 cap holding|vo2 cap|vo2,first_north,Unknown
+VSSAB B,Viking Supply Ships AB ser. B,viking supply ships ab ser. b|viking supply ships|viking supply|viking,first_north,Unknown
+VUXEN,Vuxen Group AB,vuxen group ab|vuxen,first_north,Unknown
+W5,W5 Solutions AB,w5 solutions ab|w5 solutions|w5,first_north,Unknown
+WAYS,Waystream Group AB,waystream group ab|waystream,first_north,Unknown
+WIRTEK,WirTek A/S,wirtek a/s|wirtek,first_north,Unknown
+WITTED,Witted Megacorp Oyj,witted megacorp oyj|witted megacorp|witted,first_north,Unknown
+WMA,WindowMaster International A/S,windowmaster international a/s|windowmaster international|windowmaster,first_north,Unknown
+WPAY,Westpay AB,westpay ab|westpay,first_north,Unknown
+WPTG B,White Pearl Technology Group s,white pearl technology group s|white pearl|white,first_north,Unknown
+WSG,WS WeSports Group AB,ws wesports group ab|ws wesports|ws,first_north,Unknown
+WYLD,Wyld Networks AB,wyld networks ab|wyld networks|wyld,first_north,Unknown
+XINT,Xintela AB,xintela ab|xintela,first_north,Unknown
+XMR,XMReality AB,xmreality ab|xmreality,first_north,Unknown
+XPC,XP Chemistries AB,xp chemistries ab|xp chemistries|xp,first_north,Unknown
+YIELD,SaveLend Group AB,savelend group ab|savelend,first_north,Unknown
+ZAPLOX,Zaplox AB,zaplox ab|zaplox,first_north,Unknown
+ZZ B,Zinzino AB ser B,zinzino ab ser b|zinzino,first_north,Unknown
