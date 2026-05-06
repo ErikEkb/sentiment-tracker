@@ -54,7 +54,7 @@ FLASHBACK_CRAWL_DELAY_SEC = 5        # robots.txt asks for 5s between requests
 FLASHBACK_USER_AGENT = "sentiment-tracker by /u/No-Negotiation1177"
 ALLAAKTIER_API_URL = "https://allaaktier.se/api/companies/list"
 ALLAAKTIER_WEB_URL = "https://allaaktier.se/"
-ALLAAKTIER_MAX_HOT = 25
+ALLAAKTIER_MAX_HOT = 50
 PLACERA_COMPANIES = [
     "minesto", "sinch", "truecaller", "storytel", "embracer", "stillfront",
     "betsson", "kindred", "evolution", "thq-nordic", "mtg", "kambi",
@@ -483,15 +483,17 @@ def fetch_placera_company(company_slug: str, limit: int = 20):
     return posts
 
 
-def fetch_allaaktier_hot(max_items=25):
-    """Fetch recent hot companies from allaaktier.se via their JSON API."""
+def fetch_allaaktier_hot(max_items=50):
+    """Fetch recent hot companies from allaaktier.se via their JSON API.
+    Sorts by trend7d (7-day trend) descending to identify the hottest stocks."""
     headers = {
         "User-Agent": USER_AGENT,
         "Accept": "application/json, text/javascript, */*; q=0.01",
         "Referer": ALLAAKTIER_WEB_URL,
     }
     try:
-        resp = requests.get(ALLAAKTIER_API_URL, headers=headers, timeout=20)
+        # Fetch all companies (API supports up to 2000 in a single request)
+        resp = requests.get(ALLAAKTIER_API_URL, headers=headers, params={"start": 0, "length": 2000}, timeout=20)
         resp.raise_for_status()
         data = resp.json()
     except requests.RequestException as e:
@@ -510,7 +512,14 @@ def fetch_allaaktier_hot(max_items=25):
         print("  ! allaaktier API returned unexpected shape", file=sys.stderr)
         return []
 
-    for row in rows[:max_items]:
+    # Sort by trend7d descending to get hottest companies first
+    rows_sorted = sorted(
+        [r for r in rows if r.get("trend7d") is not None],
+        key=lambda x: x["trend7d"],
+        reverse=True
+    )
+
+    for row in rows_sorted[:max_items]:
         ticker = row.get("ticker") or row.get("symbol") or row.get("slug")
         name = row.get("name") or row.get("companyName") or ""
         trend7d = row.get("trend7d")
