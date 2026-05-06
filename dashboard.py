@@ -78,7 +78,7 @@ def main():
         # Detailed table
         st.subheader("📊 Detailed Trending Analysis")
         display_df = df_trending[[
-            "ticker", "company_name", "sector", "mentions",
+            "ticker", "company_name", "sector", "mentions", "velocity_mentions_per_day",
             "avg_sentiment", "avg_upvote_ratio", "label", "trending_score"
         ]].copy()
 

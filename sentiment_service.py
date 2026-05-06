@@ -55,6 +55,8 @@ FLASHBACK_USER_AGENT = "sentiment-tracker by /u/No-Negotiation1177"
 ALLAAKTIER_API_URL = "https://allaaktier.se/api/companies/list"
 ALLAAKTIER_WEB_URL = "https://allaaktier.se/"
 ALLAAKTIER_MAX_HOT = 50
+TWITTER_SEARCH_URL = "https://twitter.com/search?q={}&src=typed_query&f=live"
+TWITTER_USER_AGENT = "sentiment-tracker by /u/No-Negotiation1177"
 PLACERA_COMPANIES = [
     "minesto", "sinch", "truecaller", "storytel", "embracer", "stillfront",
     "betsson", "kindred", "evolution", "thq-nordic", "mtg", "kambi",
@@ -544,6 +546,57 @@ def fetch_allaaktier_hot(max_items=50):
     return posts
 
 
+def fetch_twitter_mentions(tickers, max_per_ticker=5):
+    """Search Twitter for recent mentions of Swedish tickers.
+    Focuses on small cap stocks from First North and Spotlight."""
+    headers = {
+        "User-Agent": TWITTER_USER_AGENT,
+        "Accept-Language": "sv,en;q=0.9",
+    }
+    
+    swedish_small_caps = [
+        t for t in tickers 
+        if t.get("market") in ["first_north", "spotlight"] or "small_cap" in t.get("sector", "").lower()
+    ]
+    
+    posts = []
+    for ticker in swedish_small_caps[:20]:  # Limit to avoid rate limits
+        query = f'"{ticker["ticker"]}" OR "{ticker["company_name"]}" lang:sv'
+        url = TWITTER_SEARCH_URL.format(query.replace(" ", "%20"))
+        
+        try:
+            resp = requests.get(url, headers=headers, timeout=10)
+            resp.raise_for_status()
+            
+            # Parse tweets (basic scraping - Twitter HTML is complex)
+            soup = BeautifulSoup(resp.text, "html.parser")
+            tweets = soup.find_all("article", {"role": "article"})[:max_per_ticker]
+            
+            for tweet in tweets:
+                text_elem = tweet.find("div", {"data-testid": "Tweet-User-Text"})
+                if text_elem:
+                    text = text_elem.get_text(strip=True)
+                    post = {
+                        "id": f"twitter-{hash(text)}",
+                        "subreddit": "twitter",
+                        "title": "",
+                        "selftext": text,
+                        "score": 0,
+                        "upvote_ratio": 0.5,
+                        "num_comments": 0,
+                        "created_utc": time.time(),
+                        "permalink": url,
+                        "explicit_ticker": ticker["ticker"],
+                    }
+                    posts.append(post)
+                    
+        except Exception as e:
+            print(f"  ! Twitter search for {ticker['ticker']} failed: {e}", file=sys.stderr)
+            continue
+    
+    return posts
+
+
 # --- Flashback forum scraping ---
 def parse_flashback_date(date_str: str, now: datetime = None):
     """Convert a Flashback date string to a Unix timestamp.
@@ -758,6 +811,7 @@ def aggregate_trending(posts, matchers, tickers, window_hours, min_mentions, top
         avg_sent = data["sum_sentiment"] / data["mentions"]
         avg_upvote = data["sum_upvote_ratio"] / data["mentions"]
         trending_score = data["mentions"] * avg_sent
+        velocity = data["mentions"] / (window_hours / 24)  # mentions per day
         meta = ticker_meta.get(ticker, {})
         is_discovered = not meta
         company_name = meta.get("company_name") if meta else (data.get("discovered_company_name") or ticker)
@@ -769,6 +823,7 @@ def aggregate_trending(posts, matchers, tickers, window_hours, min_mentions, top
             "sector": sector,
             "discovered": is_discovered,                  # True = not in reference CSV
             "mentions": data["mentions"],
+            "velocity_mentions_per_day": round(velocity, 2),
             "avg_sentiment": round(avg_sent, 3),
             "avg_upvote_ratio": round(avg_upvote, 3),
             "label": label,
@@ -821,6 +876,10 @@ def main():
     allaaktier_hot = fetch_allaaktier_hot(max_items=ALLAAKTIER_MAX_HOT)
     print(f"  allaaktier hot companies: {len(allaaktier_hot)} items")
 
+    print("Fetching Twitter mentions for Swedish small caps...")
+    twitter_posts = fetch_twitter_mentions(tickers)
+    print(f"  Twitter mentions: {len(twitter_posts)} posts")
+
     print(f"Total posts: {len(all_posts)}")
 
     print(f"Aggregating (window={WINDOW_HOURS}h, min_mentions={MIN_MENTIONS}, top_n={TOP_N})...")
@@ -854,6 +913,7 @@ def main():
         "flashback_forum": FLASHBACK_FORUM_URL,
         "allaaktier_source": ALLAAKTIER_WEB_URL,
         "allaaktier_hot": allaaktier_hot,
+        "twitter_mentions": len(twitter_posts),
         "window_hours": WINDOW_HOURS,
         "min_mentions": MIN_MENTIONS,
         "trending": trending,
@@ -861,6 +921,7 @@ def main():
             "total_posts_fetched": len(all_posts),
             "tickers_with_any_mentions": len(all_results),
             "allaaktier_hot_count": len(allaaktier_hot),
+            "twitter_mentions_count": len(twitter_posts),
         },
     }
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T04:55:13.581946+00:00",
+  "generated_at": "2026-05-06T05:14:50.984736+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -343,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/clemondo"
     },
     {
+      "ticker": "SOTKAMO-SILVER",
+      "company_name": "Sotkamo Silver",
+      "trend7d": 0.54,
+      "discord_members": 165,
+      "facebook_members": null,
+      "market_cap": 1388266192.0,
+      "owner_count": 2625,
+      "detail_url": "https://allaaktier.se/bolag/sotkamo-silver"
+    },
+    {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
       "trend7d": 0.53,
@@ -401,16 +411,6 @@
       "market_cap": 180184376.65,
       "owner_count": 145,
       "detail_url": "https://allaaktier.se/bolag/aurania-resources"
-    },
-    {
-      "ticker": "SOTKAMO-SILVER",
-      "company_name": "Sotkamo Silver",
-      "trend7d": 0.34,
-      "discord_members": 164,
-      "facebook_members": null,
-      "market_cap": 1388266192.0,
-      "owner_count": 2625,
-      "detail_url": "https://allaaktier.se/bolag/sotkamo-silver"
     },
     {
       "ticker": "XSPRAY-PHARMA",
@@ -513,6 +513,7 @@
       "detail_url": "https://allaaktier.se/bolag/storytel"
     }
   ],
+  "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
@@ -522,8 +523,9 @@
       "sector": "Information Technology",
       "discovered": false,
       "mentions": 11,
+      "velocity_mentions_per_day": 3.67,
       "avg_sentiment": 0.455,
-      "avg_upvote_ratio": 0.705,
+      "avg_upvote_ratio": 0.706,
       "label": "bullish",
       "trending_score": 5.0,
       "sample_posts": [
@@ -538,8 +540,9 @@
       "sector": "Information Technology",
       "discovered": false,
       "mentions": 11,
+      "velocity_mentions_per_day": 3.67,
       "avg_sentiment": 0.273,
-      "avg_upvote_ratio": 0.774,
+      "avg_upvote_ratio": 0.778,
       "label": "bullish",
       "trending_score": 3.0,
       "sample_posts": [
@@ -554,8 +557,9 @@
       "sector": "Information Technology",
       "discovered": false,
       "mentions": 7,
+      "velocity_mentions_per_day": 2.33,
       "avg_sentiment": 0.429,
-      "avg_upvote_ratio": 0.767,
+      "avg_upvote_ratio": 0.694,
       "label": "bullish",
       "trending_score": 3.0,
       "sample_posts": [
@@ -570,6 +574,7 @@
       "sector": "Discovered",
       "discovered": true,
       "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
       "avg_sentiment": 0.6,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
@@ -581,25 +586,27 @@
       ]
     },
     {
-      "ticker": "BFEN",
-      "company_name": "Beyond Frames Entertainment AB",
-      "sector": "Technology",
+      "ticker": "BZ",
+      "company_name": "Beyond Inc.",
+      "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 6,
-      "avg_sentiment": 0.333,
-      "avg_upvote_ratio": 0.677,
+      "mentions": 7,
+      "velocity_mentions_per_day": 2.33,
+      "avg_sentiment": 0.286,
+      "avg_upvote_ratio": 0.634,
       "label": "bullish",
       "trending_score": 2.0,
       "sample_posts": [
         "https://www.reddit.com/r/investing/comments/1t52njx/is_it_normal_that_our_retirement_accounts_are/",
-        "https://www.reddit.com/r/stocks/comments/1t51qna/anthropics_200b_google_deal_googl_risk_or_bull/",
-        "https://www.reddit.com/r/stocks/comments/1t4lrqc/where_to_park_600k_in_cash/"
+        "https://www.reddit.com/r/investing/comments/1t3oyue/miscalculation_in_trade_republic/",
+        "https://www.reddit.com/r/stocks/comments/1t51qna/anthropics_200b_google_deal_googl_risk_or_bull/"
       ]
     }
   ],
   "stats": {
     "total_posts_fetched": 329,
     "tickers_with_any_mentions": 32,
-    "allaaktier_hot_count": 50
+    "allaaktier_hot_count": 50,
+    "twitter_mentions_count": 0
   }
 }
