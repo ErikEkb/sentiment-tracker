@@ -188,7 +188,7 @@ def main():
             display_hot_df["detail_url"] = display_hot_df["detail_url"].apply(
                 lambda u: f"[View details]({u})"
             )
-            st.write(display_hot_df.to_markdown(index=False), unsafe_allow_html=True)
+            st.dataframe(display_hot_df, use_container_width=True)
         else:
             st.info("No hot company data available from allaaktier right now.")
 
