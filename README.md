@@ -2,7 +2,7 @@
 
 Real-time sentiment analysis for Swedish-listed stocks (OMX Stockholm, First North, Spotlight). Identifies trending tickers by aggregating mentions and sentiment across multiple sources.
 
-**Status:** Live & running. Hourly automation via cron job. Public dashboard at localhost:8502 (Streamlit).
+**Status:** Live & running. Hourly automation via GitHub Actions. Local dashboard at localhost:8502 (Streamlit).
 
 ## Data Sources
 
@@ -26,7 +26,7 @@ Real-time sentiment analysis for Swedish-listed stocks (OMX Stockholm, First Nor
 
 - **Velocity tracking**: mentions/day to catch acceleration before peaks
 - **Small cap focus**: Twitter filters to First North & Spotlight stocks
-- **Hourly updates**: Automated cron job for continuous monitoring
+- **Hourly updates**: Automated via GitHub Actions (`.github/workflows/collect.yml`)
 - **Comprehensive coverage**: 713 tickers including OMX, First North, Spotlight
 - **Sector breakdown**: Pie charts and sentiment analysis by sector
 - **Hot list validation**: Cross-reference with allaaktier's 7-day trend data
@@ -37,7 +37,7 @@ Real-time sentiment analysis for Swedish-listed stocks (OMX Stockholm, First Nor
 - **Requests + BeautifulSoup**: Web scraping
 - **Streamlit**: Dashboard UI
 - **Pandas**: Data aggregation
-- **GitHub**: Version control & potential GitHub Actions automation
+- **GitHub Actions**: Hourly automation (commits updated `trending.json` to repo)
 
 ## Setup & Usage
 
@@ -58,7 +58,6 @@ python3 -m streamlit run dashboard.py
 - **Reddit API denied**: Using public `.json` endpoints (no auth) instead
 - **StockTwits**: API dead since 2021 — not integrated
 - **Placera**: Vue.js SPA prevents HTML scraping — deferred
-- **macOS cron**: Permission issues — **TODO: migrate to GitHub Actions**
 - **Twitter scraping**: Anti-bot measures may block searches — snscrape alternative pending
 
 ## Files
@@ -71,7 +70,7 @@ python3 -m streamlit run dashboard.py
 
 ## Next Steps
 
-- [ ] Migrate to GitHub Actions for reliable hourly automation
+- [x] Migrate to GitHub Actions for reliable hourly automation
 - [ ] Implement snscrape for better Twitter integration
 - [ ] Add Placera scraping (if JavaScript rendering becomes viable)
 - [ ] Expand to more Swedish forums (BlueCall, Avanza)
