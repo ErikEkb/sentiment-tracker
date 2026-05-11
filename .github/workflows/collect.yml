@@ -1,0 +1,33 @@
+name: Collect Sentiment Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour, on the hour
+  workflow_dispatch:        # also adds a "Run workflow" button in GitHub UI
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 streamlit pandas plotly
+
+      - name: Run sentiment collector
+        run: python sentiment_service.py
+
+      - name: Commit updated trending.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trending.json
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: update trending data [skip ci]"
+          git push
