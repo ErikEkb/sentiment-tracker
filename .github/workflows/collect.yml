@@ -8,6 +8,8 @@ on:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repo
@@ -19,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 streamlit pandas plotly
+        run: pip install requests beautifulsoup4 streamlit pandas plotly selenium webdriver-manager
 
       - name: Run sentiment collector
         run: python sentiment_service.py
