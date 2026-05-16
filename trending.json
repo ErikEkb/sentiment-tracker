@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T14:59:43.679609+00:00",
+  "generated_at": "2026-05-16T16:05:30.859231+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 3.99,
+      "discord_members": 107,
+      "facebook_members": null,
+      "market_cap": 71971667.0,
+      "owner_count": 538,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
       "trend7d": 3.71,
@@ -131,16 +141,6 @@
       "market_cap": 857282933.0,
       "owner_count": 613,
       "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 3.66,
-      "discord_members": 106,
-      "facebook_members": null,
-      "market_cap": 71971667.0,
-      "owner_count": 538,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "NET-INSIGHT",
@@ -216,7 +216,7 @@
       "ticker": "KLARIA-PHARMA",
       "company_name": "Klaria Pharma",
       "trend7d": 2.2,
-      "discord_members": 848,
+      "discord_members": 849,
       "facebook_members": null,
       "market_cap": 233431368.0,
       "owner_count": 845,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
