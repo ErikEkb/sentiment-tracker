@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T21:53:50.371907+00:00",
+  "generated_at": "2026-05-16T22:51:42.225636+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -115,8 +115,8 @@
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 4.64,
-      "discord_members": 109,
+      "trend7d": 4.32,
+      "discord_members": 108,
       "facebook_members": null,
       "market_cap": 71971667.0,
       "owner_count": 538,
@@ -516,10 +516,27 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "ERIC-B",
+      "company_name": "Ericsson B",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp94967909",
+        "https://www.flashback.org/sp94972142"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 65,
-    "tickers_with_any_mentions": 0,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
