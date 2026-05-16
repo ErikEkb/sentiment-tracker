@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T11:04:36.512623+00:00",
+  "generated_at": "2026-05-16T13:39:19.860786+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -125,8 +125,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 3.64,
-      "discord_members": 912,
+      "trend7d": 3.68,
+      "discord_members": 913,
       "facebook_members": 128,
       "market_cap": 857282933.0,
       "owner_count": 613,
@@ -255,8 +255,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.61,
-      "discord_members": 2360,
+      "trend7d": 1.64,
+      "discord_members": 2362,
       "facebook_members": 2874,
       "market_cap": 17341279960.0,
       "owner_count": 3787,
@@ -453,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
+      "ticker": "SALTX-TECHNOLOGY",
+      "company_name": "SaltX Technology",
+      "trend7d": 0.65,
+      "discord_members": 1582,
+      "facebook_members": null,
+      "market_cap": 1575679784.0,
+      "owner_count": 3885,
+      "detail_url": "https://allaaktier.se/bolag/saltx-technology"
+    },
+    {
       "ticker": "FIRST-VENTURE-SWEDEN",
       "company_name": "First Venture Sweden",
       "trend7d": 0.63,
@@ -461,16 +471,6 @@
       "market_cap": 72874866.0,
       "owner_count": 673,
       "detail_url": "https://allaaktier.se/bolag/first-venture-sweden"
-    },
-    {
-      "ticker": "SALTX-TECHNOLOGY",
-      "company_name": "SaltX Technology",
-      "trend7d": 0.62,
-      "discord_members": 1581,
-      "facebook_members": null,
-      "market_cap": 1575679784.0,
-      "owner_count": 3885,
-      "detail_url": "https://allaaktier.se/bolag/saltx-technology"
     },
     {
       "ticker": "LIFECLEAN-INTERNATIONAL",
@@ -518,59 +518,26 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "BA",
-      "company_name": "Boeing",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
+      "ticker": "KLAR",
+      "company_name": "Klaria Pharma Holding AB",
+      "sector": "Unknown",
+      "discovered": false,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.4,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 2.0,
       "sample_posts": [
-        "https://www.flashback.org/sp94963663",
-        "https://www.flashback.org/sp94963787",
-        "https://www.flashback.org/sp94964538"
-      ]
-    },
-    {
-      "ticker": "HTRO",
-      "company_name": "Hexatronic Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp94956007",
-        "https://www.flashback.org/sp94957921",
-        "https://www.flashback.org/sp94958131"
-      ]
-    },
-    {
-      "ticker": "NORDEN",
-      "company_name": "Norden Estates",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp94957449",
-        "https://www.flashback.org/sp94964367"
+        "https://www.flashback.org/sp94961112",
+        "https://www.flashback.org/sp94961472",
+        "https://www.flashback.org/sp94961668"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 74,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 55,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
