@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T04:03:02.891343+00:00",
+  "generated_at": "2026-05-17T07:34:22.740381+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 26.44,
-      "discord_members": 1755,
+      "trend7d": 26.46,
+      "discord_members": 1756,
       "facebook_members": 405,
       "market_cap": 405668827.0,
       "owner_count": 1420,
@@ -73,6 +73,16 @@
       "detail_url": "https://allaaktier.se/bolag/aerowash"
     },
     {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 5.3,
+      "discord_members": 111,
+      "facebook_members": null,
+      "market_cap": 71971667.0,
+      "owner_count": 538,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "KLARNA",
       "company_name": "Klarna",
       "trend7d": 5.17,
@@ -81,16 +91,6 @@
       "market_cap": 58711566207.97,
       "owner_count": 5423,
       "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 4.97,
-      "discord_members": 110,
-      "facebook_members": null,
-      "market_cap": 71971667.0,
-      "owner_count": 538,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -245,22 +245,12 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.58,
-      "discord_members": 2363,
+      "trend7d": 1.59,
+      "discord_members": 2364,
       "facebook_members": 2874,
       "market_cap": 17341279960.0,
       "owner_count": 3787,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 1.57,
-      "discord_members": 940,
-      "facebook_members": null,
-      "market_cap": 197091365.45,
-      "owner_count": 82,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
       "ticker": "FERROAMP",
@@ -271,6 +261,16 @@
       "market_cap": 330700302.0,
       "owner_count": 1040,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "ALLARITY-THERAPEUTICS",
+      "company_name": "Allarity Therapeutics",
+      "trend7d": 1.54,
+      "discord_members": 939,
+      "facebook_members": null,
+      "market_cap": 197091365.45,
+      "owner_count": 82,
+      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
       "ticker": "ONCOPEPTIDES",
