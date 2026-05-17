@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T20:05:20.734678+00:00",
+  "generated_at": "2026-05-17T21:58:07.567761+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 26.48,
-      "discord_members": 1757,
+      "trend7d": 26.5,
+      "discord_members": 1758,
       "facebook_members": 405,
       "market_cap": 405668827.0,
       "owner_count": 1420,
@@ -25,8 +25,8 @@
     {
       "ticker": "LANE-CAPITAL",
       "company_name": "Lane Capital",
-      "trend7d": 24.58,
-      "discord_members": 77,
+      "trend7d": 25.18,
+      "discord_members": 78,
       "facebook_members": null,
       "market_cap": 21007013.0,
       "owner_count": 301,
@@ -53,6 +53,16 @@
       "detail_url": "https://allaaktier.se/bolag/xmreality"
     },
     {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 7.21,
+      "discord_members": 56,
+      "facebook_members": null,
+      "market_cap": 58656167790.44,
+      "owner_count": 5423,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
       "ticker": "HYDROGENPRO",
       "company_name": "HydrogenPro",
       "trend7d": 7.1,
@@ -63,6 +73,16 @@
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
     {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 6.28,
+      "discord_members": 114,
+      "facebook_members": null,
+      "market_cap": 71971667.0,
+      "owner_count": 538,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "AEROWASH",
       "company_name": "Aerowash",
       "trend7d": 6.15,
@@ -71,26 +91,6 @@
       "market_cap": 65799221.0,
       "owner_count": 635,
       "detail_url": "https://allaaktier.se/bolag/aerowash"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 5.95,
-      "discord_members": 113,
-      "facebook_members": null,
-      "market_cap": 71971667.0,
-      "owner_count": 538,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 5.85,
-      "discord_members": 54,
-      "facebook_members": null,
-      "market_cap": 58656167790.44,
-      "owner_count": 5423,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 2.03,
+      "discord_members": 1208,
+      "facebook_members": null,
+      "market_cap": 605606116.0,
+      "owner_count": 679,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "TOBII",
       "company_name": "Tobii",
       "trend7d": 2.01,
@@ -191,16 +201,6 @@
       "market_cap": 637175676.0,
       "owner_count": 2332,
       "detail_url": "https://allaaktier.se/bolag/tobii"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 1.97,
-      "discord_members": 1206,
-      "facebook_members": null,
-      "market_cap": 605606116.0,
-      "owner_count": 679,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "ORTOMA",
@@ -235,8 +235,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.59,
-      "discord_members": 2364,
+      "trend7d": 1.65,
+      "discord_members": 2368,
       "facebook_members": 2874,
       "market_cap": 17341279960.0,
       "owner_count": 3787,
@@ -258,7 +258,7 @@
       "trend7d": 1.5,
       "discord_members": 938,
       "facebook_members": null,
-      "market_cap": 196905443.4,
+      "market_cap": 196905396.14,
       "owner_count": 82,
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
@@ -493,16 +493,6 @@
       "detail_url": "https://allaaktier.se/bolag/curasight"
     },
     {
-      "ticker": "SALTX-TECHNOLOGY",
-      "company_name": "SaltX Technology",
-      "trend7d": 0.42,
-      "discord_members": 1585,
-      "facebook_members": null,
-      "market_cap": 1575679784.0,
-      "owner_count": 3885,
-      "detail_url": "https://allaaktier.se/bolag/saltx-technology"
-    },
-    {
       "ticker": "LIFECLEAN-INTERNATIONAL",
       "company_name": "Lifeclean International",
       "trend7d": 0.41,
@@ -511,6 +501,16 @@
       "market_cap": 69368008.0,
       "owner_count": 497,
       "detail_url": "https://allaaktier.se/bolag/lifeclean-international"
+    },
+    {
+      "ticker": "INHALATION-SCIENCES",
+      "company_name": "Inhalation Sciences",
+      "trend7d": 0.41,
+      "discord_members": 314,
+      "facebook_members": 1168,
+      "market_cap": 13413781.0,
+      "owner_count": 259,
+      "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     }
   ],
   "twitter_mentions": 0,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
