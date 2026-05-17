@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T18:00:31.695530+00:00",
+  "generated_at": "2026-05-17T20:05:20.734678+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 26.46,
-      "discord_members": 1756,
+      "trend7d": 26.48,
+      "discord_members": 1757,
       "facebook_members": 405,
       "market_cap": 405668827.0,
       "owner_count": 1420,
@@ -73,6 +73,16 @@
       "detail_url": "https://allaaktier.se/bolag/aerowash"
     },
     {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 5.95,
+      "discord_members": 113,
+      "facebook_members": null,
+      "market_cap": 71971667.0,
+      "owner_count": 538,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "KLARNA",
       "company_name": "Klarna",
       "trend7d": 5.85,
@@ -81,16 +91,6 @@
       "market_cap": 58656167790.44,
       "owner_count": 5423,
       "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 5.62,
-      "discord_members": 112,
-      "facebook_members": null,
-      "market_cap": 71971667.0,
-      "owner_count": 538,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/tobii"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 1.97,
+      "discord_members": 1206,
+      "facebook_members": null,
+      "market_cap": 605606116.0,
+      "owner_count": 679,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
       "trend7d": 1.96,
@@ -201,16 +211,6 @@
       "market_cap": 405636285.0,
       "owner_count": 421,
       "detail_url": "https://allaaktier.se/bolag/ortoma"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 1.94,
-      "discord_members": 1205,
-      "facebook_members": null,
-      "market_cap": 605606116.0,
-      "owner_count": 679,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "NET-INSIGHT",
@@ -235,8 +235,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.58,
-      "discord_members": 2363,
+      "trend7d": 1.59,
+      "discord_members": 2364,
       "facebook_members": 2874,
       "market_cap": 17341279960.0,
       "owner_count": 3787,
@@ -363,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.86,
+      "discord_members": 1067,
+      "facebook_members": 3706,
+      "market_cap": 4306580454.0,
+      "owner_count": 3416,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "TOUCHTECH",
       "company_name": "Touchtech",
       "trend7d": 0.85,
@@ -381,16 +391,6 @@
       "market_cap": 30564489248.0,
       "owner_count": 2520,
       "detail_url": "https://allaaktier.se/bolag/camurus"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.83,
-      "discord_members": 1066,
-      "facebook_members": 3706,
-      "market_cap": 4306580454.0,
-      "owner_count": 3416,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "ENAD-GLOBAL-7",
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 71,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
