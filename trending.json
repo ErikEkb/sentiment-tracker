@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T16:05:45.773412+00:00",
+  "generated_at": "2026-05-17T18:00:31.695530+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "LANE-CAPITAL",
       "company_name": "Lane Capital",
-      "trend7d": 23.36,
-      "discord_members": 75,
+      "trend7d": 24.58,
+      "discord_members": 77,
       "facebook_members": null,
       "market_cap": 21007013.0,
       "owner_count": 301,
@@ -35,8 +35,8 @@
     {
       "ticker": "MAHVIE-MINERALS",
       "company_name": "Mahvie Minerals",
-      "trend7d": 10.33,
-      "discord_members": 339,
+      "trend7d": 10.46,
+      "discord_members": 340,
       "facebook_members": null,
       "market_cap": 97453601.0,
       "owner_count": 1478,
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/fsport"
     },
     {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 3.58,
+      "discord_members": 198,
+      "facebook_members": null,
+      "market_cap": 301030555.0,
+      "owner_count": 1451,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
+    },
+    {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
       "trend7d": 3.51,
@@ -131,16 +141,6 @@
       "market_cap": 857282933.0,
       "owner_count": 613,
       "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
-    },
-    {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 3.4,
-      "discord_members": 197,
-      "facebook_members": null,
-      "market_cap": 301030555.0,
-      "owner_count": 1451,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "EPISURF-MEDICAL",
@@ -205,8 +205,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.91,
-      "discord_members": 1204,
+      "trend7d": 1.94,
+      "discord_members": 1205,
       "facebook_members": null,
       "market_cap": 605606116.0,
       "owner_count": 679,
@@ -235,8 +235,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.59,
-      "discord_members": 2364,
+      "trend7d": 1.58,
+      "discord_members": 2363,
       "facebook_members": 2874,
       "market_cap": 17341279960.0,
       "owner_count": 3787,
@@ -255,8 +255,8 @@
     {
       "ticker": "ALLARITY-THERAPEUTICS",
       "company_name": "Allarity Therapeutics",
-      "trend7d": 1.54,
-      "discord_members": 939,
+      "trend7d": 1.5,
+      "discord_members": 938,
       "facebook_members": null,
       "market_cap": 196905443.4,
       "owner_count": 82,
@@ -343,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
+      "ticker": "CLEAN-MOTION",
+      "company_name": "Clean Motion",
+      "trend7d": 0.98,
+      "discord_members": 279,
+      "facebook_members": 250,
+      "market_cap": 23342913.0,
+      "owner_count": 640,
+      "detail_url": "https://allaaktier.se/bolag/clean-motion"
+    },
+    {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
       "company_name": "Trophy Games Development",
       "trend7d": 0.97,
@@ -361,16 +371,6 @@
       "market_cap": 49883994.0,
       "owner_count": 149,
       "detail_url": "https://allaaktier.se/bolag/touchtech"
-    },
-    {
-      "ticker": "CLEAN-MOTION",
-      "company_name": "Clean Motion",
-      "trend7d": 0.85,
-      "discord_members": 278,
-      "facebook_members": 250,
-      "market_cap": 23342913.0,
-      "owner_count": 640,
-      "detail_url": "https://allaaktier.se/bolag/clean-motion"
     },
     {
       "ticker": "CAMURUS",
@@ -393,16 +393,6 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
-      "ticker": "CATENA-MEDIA",
-      "company_name": "Catena Media",
-      "trend7d": 0.78,
-      "discord_members": 738,
-      "facebook_members": 996,
-      "market_cap": 192601017.0,
-      "owner_count": 926,
-      "detail_url": "https://allaaktier.se/bolag/catena-media"
-    },
-    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 0.77,
@@ -421,6 +411,26 @@
       "market_cap": 119630064.0,
       "owner_count": 418,
       "detail_url": "https://allaaktier.se/bolag/refine-group"
+    },
+    {
+      "ticker": "CATENA-MEDIA",
+      "company_name": "Catena Media",
+      "trend7d": 0.74,
+      "discord_members": 737,
+      "facebook_members": 996,
+      "market_cap": 192601017.0,
+      "owner_count": 926,
+      "detail_url": "https://allaaktier.se/bolag/catena-media"
+    },
+    {
+      "ticker": "FIRST-VENTURE-SWEDEN",
+      "company_name": "First Venture Sweden",
+      "trend7d": 0.68,
+      "discord_members": 95,
+      "facebook_members": 12,
+      "market_cap": 72874866.0,
+      "owner_count": 673,
+      "detail_url": "https://allaaktier.se/bolag/first-venture-sweden"
     },
     {
       "ticker": "REDSENSE-MEDICAL",
@@ -501,16 +511,6 @@
       "market_cap": 69368008.0,
       "owner_count": 497,
       "detail_url": "https://allaaktier.se/bolag/lifeclean-international"
-    },
-    {
-      "ticker": "INHALATION-SCIENCES",
-      "company_name": "Inhalation Sciences",
-      "trend7d": 0.41,
-      "discord_members": 314,
-      "facebook_members": 1168,
-      "market_cap": 13413781.0,
-      "owner_count": 259,
-      "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     }
   ],
   "twitter_mentions": 0,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 68,
+    "total_posts_fetched": 71,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
