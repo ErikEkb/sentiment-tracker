@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T18:54:26.958526+00:00",
+  "generated_at": "2026-05-18T20:27:16.232478+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "AEROWASH",
       "company_name": "Aerowash",
-      "trend7d": 6.26,
-      "discord_members": 181,
+      "trend7d": 6.04,
+      "discord_members": 180,
       "facebook_members": null,
       "market_cap": 67459769.0,
       "owner_count": 638,
@@ -85,8 +85,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 4.48,
-      "discord_members": 1455,
+      "trend7d": 4.46,
+      "discord_members": 1454,
       "facebook_members": null,
       "market_cap": 3206445743.0,
       "owner_count": 5170,
@@ -95,8 +95,8 @@
     {
       "ticker": "EPISURF-MEDICAL",
       "company_name": "Episurf Medical",
-      "trend7d": 3.25,
-      "discord_members": 118,
+      "trend7d": 3.81,
+      "discord_members": 120,
       "facebook_members": 306,
       "market_cap": 752630841.0,
       "owner_count": 1077,
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
+      "ticker": "FIRST-VENTURE-SWEDEN",
+      "company_name": "First Venture Sweden",
+      "trend7d": 1.03,
+      "discord_members": 97,
+      "facebook_members": 12,
+      "market_cap": 76571417.0,
+      "owner_count": 673,
+      "detail_url": "https://allaaktier.se/bolag/first-venture-sweden"
+    },
+    {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
       "trend7d": 1.02,
@@ -343,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
-      "ticker": "FIRST-VENTURE-SWEDEN",
-      "company_name": "First Venture Sweden",
-      "trend7d": 0.68,
-      "discord_members": 96,
-      "facebook_members": 12,
-      "market_cap": 76571417.0,
-      "owner_count": 673,
-      "detail_url": "https://allaaktier.se/bolag/first-venture-sweden"
-    },
-    {
       "ticker": "NET-INSIGHT",
       "company_name": "Net Insight",
       "trend7d": 0.67,
@@ -371,6 +371,16 @@
       "market_cap": 84392543188.0,
       "owner_count": 17981,
       "detail_url": "https://allaaktier.se/bolag/nibe-industrier"
+    },
+    {
+      "ticker": "TERRANET",
+      "company_name": "Terranet",
+      "trend7d": 0.52,
+      "discord_members": 1789,
+      "facebook_members": 2541,
+      "market_cap": 314666415.0,
+      "owner_count": 1614,
+      "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
       "ticker": "BONESUPPORT",
@@ -411,16 +421,6 @@
       "market_cap": 191813283.0,
       "owner_count": 919,
       "detail_url": "https://allaaktier.se/bolag/catena-media"
-    },
-    {
-      "ticker": "TERRANET",
-      "company_name": "Terranet",
-      "trend7d": 0.5,
-      "discord_members": 1788,
-      "facebook_members": 2541,
-      "market_cap": 314666415.0,
-      "owner_count": 1614,
-      "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
       "ticker": "FLEXION-MOBILE",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 83,
+    "total_posts_fetched": 77,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
