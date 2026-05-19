@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T12:42:38.726769+00:00",
+  "generated_at": "2026-05-19T16:24:05.890213+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "LANE-CAPITAL",
       "company_name": "Lane Capital",
-      "trend7d": 33.71,
-      "discord_members": 105,
+      "trend7d": 34.94,
+      "discord_members": 107,
       "facebook_members": null,
       "market_cap": 25133390.0,
       "owner_count": 309,
@@ -25,8 +25,8 @@
     {
       "ticker": "KLARNA",
       "company_name": "Klarna",
-      "trend7d": 7.79,
-      "discord_members": 57,
+      "trend7d": 8.47,
+      "discord_members": 58,
       "facebook_members": null,
       "market_cap": 55119691538.16,
       "owner_count": 5514,
@@ -45,8 +45,8 @@
     {
       "ticker": "EPISURF-MEDICAL",
       "company_name": "Episurf Medical",
-      "trend7d": 5.68,
-      "discord_members": 123,
+      "trend7d": 5.96,
+      "discord_members": 124,
       "facebook_members": 306,
       "market_cap": 1114033995.0,
       "owner_count": 1119,
@@ -65,8 +65,8 @@
     {
       "ticker": "INCOAX-NETWORKS",
       "company_name": "InCoax Networks",
-      "trend7d": 3.87,
-      "discord_members": 149,
+      "trend7d": 3.64,
+      "discord_members": 148,
       "facebook_members": 13,
       "market_cap": 97925507.0,
       "owner_count": 236,
@@ -105,12 +105,22 @@
     {
       "ticker": "TERRANET",
       "company_name": "Terranet",
-      "trend7d": 2.1,
-      "discord_members": 1789,
+      "trend7d": 2.19,
+      "discord_members": 1794,
       "facebook_members": 2541,
       "market_cap": 314666415.0,
       "owner_count": 1656,
       "detail_url": "https://allaaktier.se/bolag/terranet"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 1.92,
+      "discord_members": 47,
+      "facebook_members": null,
+      "market_cap": 6369739223.0,
+      "owner_count": 2703,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "INTRUM",
@@ -125,32 +135,32 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.54,
-      "discord_members": 302,
+      "trend7d": 1.77,
+      "discord_members": 304,
       "facebook_members": null,
       "market_cap": 100929845.0,
       "owner_count": 268,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 1.47,
-      "discord_members": 2362,
-      "facebook_members": 2874,
-      "market_cap": 15524147313.0,
-      "owner_count": 3939,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
       "ticker": "NIBE-INDUSTRIER",
       "company_name": "NIBE Industrier",
-      "trend7d": 1.43,
-      "discord_members": 305,
+      "trend7d": 1.54,
+      "discord_members": 306,
       "facebook_members": null,
       "market_cap": 86650537654.0,
       "owner_count": 18168,
       "detail_url": "https://allaaktier.se/bolag/nibe-industrier"
+    },
+    {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 1.48,
+      "discord_members": 2363,
+      "facebook_members": 2874,
+      "market_cap": 15524147313.0,
+      "owner_count": 3939,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
       "ticker": "BEAMMWAVE",
@@ -193,16 +203,6 @@
       "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     },
     {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 1.16,
-      "discord_members": 46,
-      "facebook_members": null,
-      "market_cap": 6369739223.0,
-      "owner_count": 2703,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
-    },
-    {
       "ticker": "KLARIA-PHARMA",
       "company_name": "Klaria Pharma",
       "trend7d": 1.14,
@@ -215,22 +215,12 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.06,
-      "discord_members": 1067,
+      "trend7d": 1.03,
+      "discord_members": 1066,
       "facebook_members": 3706,
       "market_cap": 4027806273.0,
       "owner_count": 3441,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "FIRST-VENTURE-SWEDEN",
-      "company_name": "First Venture Sweden",
-      "trend7d": 1.05,
-      "discord_members": 97,
-      "facebook_members": 12,
-      "market_cap": 72610827.0,
-      "owner_count": 672,
-      "detail_url": "https://allaaktier.se/bolag/first-venture-sweden"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -241,6 +231,16 @@
       "market_cap": 86286968.0,
       "owner_count": 255,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
+      "ticker": "WHITE-PEARL-TECHNOLOGY",
+      "company_name": "White Pearl Technology",
+      "trend7d": 0.89,
+      "discord_members": 178,
+      "facebook_members": null,
+      "market_cap": 576448185.0,
+      "owner_count": 942,
+      "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
     },
     {
       "ticker": "HYDROGENPRO",
@@ -313,16 +313,6 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
-      "ticker": "WHITE-PEARL-TECHNOLOGY",
-      "company_name": "White Pearl Technology",
-      "trend7d": 0.7,
-      "discord_members": 177,
-      "facebook_members": null,
-      "market_cap": 576448185.0,
-      "owner_count": 942,
-      "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
-    },
-    {
       "ticker": "ALLARITY-THERAPEUTICS",
       "company_name": "Allarity Therapeutics",
       "trend7d": 0.69,
@@ -331,6 +321,16 @@
       "market_cap": 213636948.36,
       "owner_count": 81,
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
+    },
+    {
+      "ticker": "FIRST-VENTURE-SWEDEN",
+      "company_name": "First Venture Sweden",
+      "trend7d": 0.69,
+      "discord_members": 96,
+      "facebook_members": 12,
+      "market_cap": 72610827.0,
+      "owner_count": 672,
+      "detail_url": "https://allaaktier.se/bolag/first-venture-sweden"
     },
     {
       "ticker": "EATGOOD",
@@ -393,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/acousort"
     },
     {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.53,
+      "discord_members": 612,
+      "facebook_members": null,
+      "market_cap": 1747261533.0,
+      "owner_count": 616,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
       "ticker": "CRUSTAL-RESOURCES",
       "company_name": "Crustal Resources",
       "trend7d": 0.53,
@@ -451,16 +461,6 @@
       "market_cap": 158101005.0,
       "owner_count": 162,
       "detail_url": "https://allaaktier.se/bolag/flexion-mobile"
-    },
-    {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.47,
-      "discord_members": 611,
-      "facebook_members": null,
-      "market_cap": 1747261533.0,
-      "owner_count": 616,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
       "ticker": "SALTX-TECHNOLOGY",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 74,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
