@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T22:06:03.382117+00:00",
+  "generated_at": "2026-05-19T00:11:32.595425+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -113,16 +113,6 @@
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
     {
-      "ticker": "MAHVIE-MINERALS",
-      "company_name": "Mahvie Minerals",
-      "trend7d": 2.41,
-      "discord_members": 339,
-      "facebook_members": null,
-      "market_cap": 93555457.0,
-      "owner_count": 1482,
-      "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
-    },
-    {
       "ticker": "FSPORT",
       "company_name": "FSport",
       "trend7d": 2.26,
@@ -183,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
+      "ticker": "UPSALES-TECHNOLOGY",
+      "company_name": "Upsales Technology",
+      "trend7d": 1.66,
+      "discord_members": 43,
+      "facebook_members": null,
+      "market_cap": 496732062.0,
+      "owner_count": 292,
+      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 1.46,
@@ -215,22 +215,12 @@
     {
       "ticker": "ONCOPEPTIDES",
       "company_name": "Oncopeptides",
-      "trend7d": 1.32,
+      "trend7d": 1.31,
       "discord_members": 704,
       "facebook_members": 504,
       "market_cap": 676731349.0,
       "owner_count": 3121,
       "detail_url": "https://allaaktier.se/bolag/oncopeptides"
-    },
-    {
-      "ticker": "UPSALES-TECHNOLOGY",
-      "company_name": "Upsales Technology",
-      "trend7d": 1.27,
-      "discord_members": 43,
-      "facebook_members": null,
-      "market_cap": 496732062.0,
-      "owner_count": 292,
-      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
       "ticker": "RAYSEARCH-LABORATORIES",
@@ -323,16 +313,6 @@
       "detail_url": "https://allaaktier.se/bolag/front-ventures"
     },
     {
-      "ticker": "WHITE-PEARL-TECHNOLOGY",
-      "company_name": "White Pearl Technology",
-      "trend7d": 0.74,
-      "discord_members": 177,
-      "facebook_members": null,
-      "market_cap": 578270466.0,
-      "owner_count": 939,
-      "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
-    },
-    {
       "ticker": "PREBONA",
       "company_name": "Prebona",
       "trend7d": 0.74,
@@ -363,14 +343,14 @@
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
-      "ticker": "NET-INSIGHT",
-      "company_name": "Net Insight",
-      "trend7d": 0.67,
-      "discord_members": 345,
-      "facebook_members": 594,
-      "market_cap": 1348547534.0,
-      "owner_count": 1116,
-      "detail_url": "https://allaaktier.se/bolag/net-insight"
+      "ticker": "MAHVIE-MINERALS",
+      "company_name": "Mahvie Minerals",
+      "trend7d": 0.59,
+      "discord_members": 339,
+      "facebook_members": null,
+      "market_cap": 93555457.0,
+      "owner_count": 1482,
+      "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
       "ticker": "NIBE-INDUSTRIER",
@@ -511,29 +491,32 @@
       "market_cap": 4797402177.0,
       "owner_count": 3144,
       "detail_url": "https://allaaktier.se/bolag/truecaller"
+    },
+    {
+      "ticker": "CRUSTAL-RESOURCES",
+      "company_name": "Crustal Resources",
+      "trend7d": 0.32,
+      "discord_members": 74,
+      "facebook_members": null,
+      "market_cap": 32629316.0,
+      "owner_count": 526,
+      "detail_url": "https://allaaktier.se/bolag/crustal-resources"
+    },
+    {
+      "ticker": "GREATER-THAN",
+      "company_name": "Greater Than",
+      "trend7d": 0.31,
+      "discord_members": null,
+      "facebook_members": null,
+      "market_cap": 169042374.0,
+      "owner_count": 131,
+      "detail_url": "https://allaaktier.se/bolag/greater-than"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "BRK.A",
-      "company_name": "Berkshire Hathaway",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp94978371",
-        "https://www.flashback.org/sp94979084",
-        "https://www.flashback.org/sp94979264"
-      ]
-    },
     {
       "ticker": "NORDEN",
       "company_name": "Norden Estates",
@@ -587,8 +570,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 72,
-    "tickers_with_any_mentions": 5,
+    "total_posts_fetched": 76,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
