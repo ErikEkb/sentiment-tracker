@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T09:52:39.156296+00:00",
+  "generated_at": "2026-05-19T12:42:38.726769+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,7 +15,7 @@
     {
       "ticker": "LANE-CAPITAL",
       "company_name": "Lane Capital",
-      "trend7d": 32.13,
+      "trend7d": 33.71,
       "discord_members": 105,
       "facebook_members": null,
       "market_cap": 25133390.0,
@@ -25,7 +25,7 @@
     {
       "ticker": "KLARNA",
       "company_name": "Klarna",
-      "trend7d": 7.49,
+      "trend7d": 7.79,
       "discord_members": 57,
       "facebook_members": null,
       "market_cap": 55119691538.16,
@@ -45,8 +45,8 @@
     {
       "ticker": "EPISURF-MEDICAL",
       "company_name": "Episurf Medical",
-      "trend7d": 5.39,
-      "discord_members": 122,
+      "trend7d": 5.68,
+      "discord_members": 123,
       "facebook_members": 306,
       "market_cap": 1114033995.0,
       "owner_count": 1119,
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
+      "ticker": "UPSALES-TECHNOLOGY",
+      "company_name": "Upsales Technology",
+      "trend7d": 2.61,
+      "discord_members": 44,
+      "facebook_members": null,
+      "market_cap": 500099738.0,
+      "owner_count": 293,
+      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
       "ticker": "XMREALITY",
       "company_name": "XMReality",
       "trend7d": 2.49,
@@ -111,26 +121,6 @@
       "market_cap": 2628175001.0,
       "owner_count": 7005,
       "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
-      "ticker": "UPSALES-TECHNOLOGY",
-      "company_name": "Upsales Technology",
-      "trend7d": 1.66,
-      "discord_members": 43,
-      "facebook_members": null,
-      "market_cap": 500099738.0,
-      "owner_count": 293,
-      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
-    },
-    {
-      "ticker": "FSPORT",
-      "company_name": "FSport",
-      "trend7d": 1.56,
-      "discord_members": 155,
-      "facebook_members": null,
-      "market_cap": 16357294.0,
-      "owner_count": 714,
-      "detail_url": "https://allaaktier.se/bolag/fsport"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -183,14 +173,14 @@
       "detail_url": "https://allaaktier.se/bolag/oncopeptides"
     },
     {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 1.23,
-      "discord_members": 46,
+      "ticker": "FSPORT",
+      "company_name": "FSport",
+      "trend7d": 1.29,
+      "discord_members": 155,
       "facebook_members": null,
-      "market_cap": 6369739223.0,
-      "owner_count": 2703,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
+      "market_cap": 16357294.0,
+      "owner_count": 714,
+      "detail_url": "https://allaaktier.se/bolag/fsport"
     },
     {
       "ticker": "SHT-SMART-HIGH-TECH",
@@ -201,6 +191,16 @@
       "market_cap": 851013954.0,
       "owner_count": 617,
       "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 1.16,
+      "discord_members": 46,
+      "facebook_members": null,
+      "market_cap": 6369739223.0,
+      "owner_count": 2703,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "KLARIA-PHARMA",
@@ -235,7 +235,7 @@
     {
       "ticker": "BIBBINSTRUMENTS",
       "company_name": "BiBBInstruments",
-      "trend7d": 1.04,
+      "trend7d": 0.99,
       "discord_members": 152,
       "facebook_members": null,
       "market_cap": 86286968.0,
@@ -273,6 +273,26 @@
       "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
+      "ticker": "FERROAMP",
+      "company_name": "Ferroamp",
+      "trend7d": 0.73,
+      "discord_members": 45,
+      "facebook_members": null,
+      "market_cap": 345266221.0,
+      "owner_count": 1036,
+      "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "FINEPART",
+      "company_name": "Finepart",
+      "trend7d": 0.73,
+      "discord_members": 211,
+      "facebook_members": 212,
+      "market_cap": 33778219.0,
+      "owner_count": 855,
+      "detail_url": "https://allaaktier.se/bolag/finepart"
+    },
+    {
       "ticker": "VIBROSENSE-DYNAMICS",
       "company_name": "VibroSense Dynamics",
       "trend7d": 0.73,
@@ -293,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
+      "ticker": "WHITE-PEARL-TECHNOLOGY",
+      "company_name": "White Pearl Technology",
+      "trend7d": 0.7,
+      "discord_members": 177,
+      "facebook_members": null,
+      "market_cap": 576448185.0,
+      "owner_count": 942,
+      "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
+    },
+    {
       "ticker": "ALLARITY-THERAPEUTICS",
       "company_name": "Allarity Therapeutics",
       "trend7d": 0.69,
@@ -303,14 +333,14 @@
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
-      "ticker": "FERROAMP",
-      "company_name": "Ferroamp",
+      "ticker": "EATGOOD",
+      "company_name": "EatGood",
       "trend7d": 0.62,
-      "discord_members": 45,
+      "discord_members": 66,
       "facebook_members": null,
-      "market_cap": 345266221.0,
-      "owner_count": 1036,
-      "detail_url": "https://allaaktier.se/bolag/ferroamp"
+      "market_cap": 8200149.0,
+      "owner_count": 205,
+      "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
       "ticker": "FRONT-VENTURES",
@@ -323,9 +353,19 @@
       "detail_url": "https://allaaktier.se/bolag/front-ventures"
     },
     {
+      "ticker": "ACTIVE-BIOTECH",
+      "company_name": "Active Biotech",
+      "trend7d": 0.57,
+      "discord_members": 315,
+      "facebook_members": null,
+      "market_cap": 204295206.0,
+      "owner_count": 1480,
+      "detail_url": "https://allaaktier.se/bolag/active-biotech"
+    },
+    {
       "ticker": "MAHVIE-MINERALS",
       "company_name": "Mahvie Minerals",
-      "trend7d": 0.59,
+      "trend7d": 0.55,
       "discord_members": 339,
       "facebook_members": null,
       "market_cap": 93945271.0,
@@ -333,14 +373,14 @@
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
-      "ticker": "FINEPART",
-      "company_name": "Finepart",
-      "trend7d": 0.57,
-      "discord_members": 210,
-      "facebook_members": 212,
-      "market_cap": 33778219.0,
-      "owner_count": 855,
-      "detail_url": "https://allaaktier.se/bolag/finepart"
+      "ticker": "BIOINVENT-INTERNATIONAL",
+      "company_name": "BioInvent International",
+      "trend7d": 0.54,
+      "discord_members": 682,
+      "facebook_members": 19,
+      "market_cap": 1477307927.0,
+      "owner_count": 1499,
+      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
       "ticker": "ACOUSORT",
@@ -353,34 +393,14 @@
       "detail_url": "https://allaaktier.se/bolag/acousort"
     },
     {
-      "ticker": "AEROWASH",
-      "company_name": "Aerowash",
-      "trend7d": 0.52,
-      "discord_members": 180,
-      "facebook_members": null,
-      "market_cap": 65799221.0,
-      "owner_count": 646,
-      "detail_url": "https://allaaktier.se/bolag/aerowash"
-    },
-    {
       "ticker": "CRUSTAL-RESOURCES",
       "company_name": "Crustal Resources",
-      "trend7d": 0.52,
+      "trend7d": 0.53,
       "discord_members": 74,
       "facebook_members": null,
       "market_cap": 32629316.0,
       "owner_count": 525,
       "detail_url": "https://allaaktier.se/bolag/crustal-resources"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 0.52,
-      "discord_members": 102,
-      "facebook_members": null,
-      "market_cap": 397682632.0,
-      "owner_count": 421,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "CAMURUS",
@@ -393,14 +413,14 @@
       "detail_url": "https://allaaktier.se/bolag/camurus"
     },
     {
-      "ticker": "BIOINVENT-INTERNATIONAL",
-      "company_name": "BioInvent International",
-      "trend7d": 0.5,
-      "discord_members": 681,
-      "facebook_members": 19,
-      "market_cap": 1477307927.0,
-      "owner_count": 1499,
-      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
+      "ticker": "GREATER-THAN",
+      "company_name": "Greater Than",
+      "trend7d": 0.51,
+      "discord_members": null,
+      "facebook_members": null,
+      "market_cap": 172798871.0,
+      "owner_count": 132,
+      "detail_url": "https://allaaktier.se/bolag/greater-than"
     },
     {
       "ticker": "HEMPLY-BALANCE",
@@ -411,6 +431,16 @@
       "market_cap": 4705776.0,
       "owner_count": 132,
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
+    },
+    {
+      "ticker": "AEROWASH",
+      "company_name": "Aerowash",
+      "trend7d": 0.49,
+      "discord_members": 180,
+      "facebook_members": null,
+      "market_cap": 65799221.0,
+      "owner_count": 646,
+      "detail_url": "https://allaaktier.se/bolag/aerowash"
     },
     {
       "ticker": "FLEXION-MOBILE",
@@ -433,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
-      "ticker": "EATGOOD",
-      "company_name": "EatGood",
-      "trend7d": 0.46,
-      "discord_members": 66,
-      "facebook_members": null,
-      "market_cap": 8200149.0,
-      "owner_count": 205,
-      "detail_url": "https://allaaktier.se/bolag/eatgood"
-    },
-    {
       "ticker": "SALTX-TECHNOLOGY",
       "company_name": "SaltX Technology",
       "trend7d": 0.42,
@@ -453,14 +473,14 @@
       "detail_url": "https://allaaktier.se/bolag/saltx-technology"
     },
     {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
       "trend7d": 0.42,
-      "discord_members": 197,
+      "discord_members": 237,
       "facebook_members": null,
-      "market_cap": 267698471.0,
-      "owner_count": 1443,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
+      "market_cap": 42151188.0,
+      "owner_count": 516,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
       "ticker": "EMB-MISSION-BOUND",
@@ -491,49 +511,12 @@
       "market_cap": 16397324360.0,
       "owner_count": 3536,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
-    },
-    {
-      "ticker": "CESSATECH",
-      "company_name": "Cessatech",
-      "trend7d": 0.34,
-      "discord_members": 1043,
-      "facebook_members": 164,
-      "market_cap": 457534294.09,
-      "owner_count": 3812,
-      "detail_url": "https://allaaktier.se/bolag/cessatech"
-    },
-    {
-      "ticker": "QLIRO",
-      "company_name": "Qliro",
-      "trend7d": 0.33,
-      "discord_members": 40,
-      "facebook_members": null,
-      "market_cap": 673555175.0,
-      "owner_count": 944,
-      "detail_url": "https://allaaktier.se/bolag/qliro"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "NORDEN",
-      "company_name": "Norden Estates",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.333,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.333,
-      "sample_posts": [
-        "https://www.flashback.org/sp94988485",
-        "https://www.flashback.org/sp94988533",
-        "https://www.flashback.org/sp94988878"
-      ]
-    },
     {
       "ticker": "SAAB-B",
       "company_name": "Saab B",
@@ -550,28 +533,11 @@
         "https://www.flashback.org/sp94989670",
         "https://www.flashback.org/sp94990281"
       ]
-    },
-    {
-      "ticker": "PREV-B",
-      "company_name": "Prevas",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.111,
-      "avg_upvote_ratio": 0.5,
-      "label": "neutral",
-      "trending_score": 0.333,
-      "sample_posts": [
-        "https://www.flashback.org/sp94976015",
-        "https://www.flashback.org/sp94978426",
-        "https://www.flashback.org/sp94987051"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 69,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 74,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
