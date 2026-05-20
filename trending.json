@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T21:58:47.198532+00:00",
+  "generated_at": "2026-05-20T23:22:25.152770+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 22.75,
-      "discord_members": 638,
+      "trend7d": 22.97,
+      "discord_members": 642,
       "facebook_members": null,
       "market_cap": 116533820.0,
       "owner_count": 407,
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 3.49,
+      "discord_members": 49,
+      "facebook_members": null,
+      "market_cap": 6856554600.0,
+      "owner_count": 2704,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
+    },
+    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 3.47,
@@ -75,8 +85,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 3.09,
-      "discord_members": 1774,
+      "trend7d": 3.11,
+      "discord_members": 1775,
       "facebook_members": 405,
       "market_cap": 411101892.0,
       "owner_count": 1487,
@@ -101,16 +111,6 @@
       "market_cap": 303912585.0,
       "owner_count": 1680,
       "detail_url": "https://allaaktier.se/bolag/terranet"
-    },
-    {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 2.74,
-      "discord_members": 48,
-      "facebook_members": null,
-      "market_cap": 6856554600.0,
-      "owner_count": 2704,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -453,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
+      "ticker": "NANOLOGICA",
+      "company_name": "Nanologica",
+      "trend7d": 0.47,
+      "discord_members": 346,
+      "facebook_members": 247,
+      "market_cap": 213700397.0,
+      "owner_count": 457,
+      "detail_url": "https://allaaktier.se/bolag/nanologica"
+    },
+    {
       "ticker": "BIOARCTIC",
       "company_name": "BioArctic",
       "trend7d": 0.47,
@@ -501,25 +511,33 @@
       "market_cap": 228341682.0,
       "owner_count": 283,
       "detail_url": "https://allaaktier.se/bolag/litium"
-    },
-    {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.42,
-      "discord_members": 237,
-      "facebook_members": null,
-      "market_cap": 38656789.0,
-      "owner_count": 513,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "SBB-B-SBB-D",
+      "company_name": "Samhällsbyggnadsbolaget i Norden",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 4.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp94996901",
+        "https://www.flashback.org/sp94999907",
+        "https://www.flashback.org/sp95002253"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 67,
-    "tickers_with_any_mentions": 0,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
