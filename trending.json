@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T03:54:09.952018+00:00",
+  "generated_at": "2026-05-20T07:50:21.709423+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 6.43,
-      "discord_members": 1454,
+      "trend7d": 6.45,
+      "discord_members": 1455,
       "facebook_members": null,
       "market_cap": 3243190296.0,
       "owner_count": 5489,
@@ -66,7 +66,7 @@
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
       "trend7d": 2.49,
-      "discord_members": 1769,
+      "discord_members": 1770,
       "facebook_members": 405,
       "market_cap": 445511301.0,
       "owner_count": 1481,
@@ -135,8 +135,8 @@
     {
       "ticker": "NIBE-INDUSTRIER",
       "company_name": "NIBE Industrier",
-      "trend7d": 1.2,
-      "discord_members": 306,
+      "trend7d": 1.31,
+      "discord_members": 307,
       "facebook_members": null,
       "market_cap": 80602338190.0,
       "owner_count": 18168,
@@ -173,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.89,
+      "discord_members": 1068,
+      "facebook_members": 3706,
+      "market_cap": 3931677245.0,
+      "owner_count": 3441,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 0.85,
@@ -191,16 +201,6 @@
       "market_cap": 78155654.0,
       "owner_count": 672,
       "detail_url": "https://allaaktier.se/bolag/first-venture-sweden"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.83,
-      "discord_members": 1066,
-      "facebook_members": 3706,
-      "market_cap": 3931677245.0,
-      "owner_count": 3441,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "FERROAMP",
@@ -315,8 +315,8 @@
     {
       "ticker": "INTRUM",
       "company_name": "Intrum",
-      "trend7d": 0.51,
-      "discord_members": 771,
+      "trend7d": 0.56,
+      "discord_members": 772,
       "facebook_members": null,
       "market_cap": 2572314360.0,
       "owner_count": 7005,
@@ -403,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/saltx-technology"
     },
     {
+      "ticker": "BIOINVENT-INTERNATIONAL",
+      "company_name": "BioInvent International",
+      "trend7d": 0.41,
+      "discord_members": 684,
+      "facebook_members": 19,
+      "market_cap": 1678011231.0,
+      "owner_count": 1499,
+      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
+    },
+    {
       "ticker": "MAHVIE-MINERALS",
       "company_name": "Mahvie Minerals",
       "trend7d": 0.4,
@@ -411,6 +421,16 @@
       "market_cap": 91606385.0,
       "owner_count": 1481,
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
+    },
+    {
+      "ticker": "BIOARCTIC",
+      "company_name": "BioArctic",
+      "trend7d": 0.39,
+      "discord_members": 753,
+      "facebook_members": 592,
+      "market_cap": 28124076745.0,
+      "owner_count": 3800,
+      "detail_url": "https://allaaktier.se/bolag/bioarctic"
     },
     {
       "ticker": "ENAD-GLOBAL-7",
@@ -431,16 +451,6 @@
       "market_cap": 88540732.0,
       "owner_count": 255,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
-    },
-    {
-      "ticker": "BIOINVENT-INTERNATIONAL",
-      "company_name": "BioInvent International",
-      "trend7d": 0.36,
-      "discord_members": 683,
-      "facebook_members": 19,
-      "market_cap": 1678011231.0,
-      "owner_count": 1499,
-      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
       "ticker": "HYDROGENPRO",
@@ -501,16 +511,6 @@
       "market_cap": 393615045.0,
       "owner_count": 1370,
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
-    },
-    {
-      "ticker": "REDSENSE-MEDICAL",
-      "company_name": "Redsense Medical",
-      "trend7d": 0.3,
-      "discord_members": 112,
-      "facebook_members": 300,
-      "market_cap": 44401206.0,
-      "owner_count": 223,
-      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
+    "total_posts_fetched": 60,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
