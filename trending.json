@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T15:50:32.212246+00:00",
+  "generated_at": "2026-05-22T17:55:41.002838+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 83.7,
-      "discord_members": 661,
+      "trend7d": 83.76,
+      "discord_members": 662,
       "facebook_members": null,
       "market_cap": 101808182.0,
       "owner_count": 777,
@@ -125,8 +125,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 2.42,
-      "discord_members": 1780,
+      "trend7d": 2.44,
+      "discord_members": 1781,
       "facebook_members": 405,
       "market_cap": 443700280.0,
       "owner_count": 1485,
@@ -538,16 +538,16 @@
       "company_name": "Samhällsbyggnadsbolaget i Norden",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 7,
-      "velocity_mentions_per_day": 2.33,
-      "avg_sentiment": 0.286,
+      "mentions": 6,
+      "velocity_mentions_per_day": 2.0,
+      "avg_sentiment": 0.167,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95002253",
         "https://www.flashback.org/sp95005324",
-        "https://www.flashback.org/sp95006372"
+        "https://www.flashback.org/sp95006372",
+        "https://www.flashback.org/sp95006577"
       ]
     },
     {
@@ -586,7 +586,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
