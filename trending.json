@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T17:55:41.002838+00:00",
+  "generated_at": "2026-05-22T19:53:34.455356+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
       "company_name": "White Pearl Technology",
-      "trend7d": 27.34,
-      "discord_members": 178,
+      "trend7d": 28.99,
+      "discord_members": 183,
       "facebook_members": null,
       "market_cap": 587381870.0,
       "owner_count": 977,
@@ -303,16 +303,6 @@
       "detail_url": "https://allaaktier.se/bolag/acousort"
     },
     {
-      "ticker": "AEROWASH",
-      "company_name": "Aerowash",
-      "trend7d": 0.83,
-      "discord_members": 180,
-      "facebook_members": null,
-      "market_cap": 59987302.0,
-      "owner_count": 653,
-      "detail_url": "https://allaaktier.se/bolag/aerowash"
-    },
-    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 0.83,
@@ -351,6 +341,16 @@
       "market_cap": 344726742.0,
       "owner_count": 1034,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "AEROWASH",
+      "company_name": "Aerowash",
+      "trend7d": 0.65,
+      "discord_members": 179,
+      "facebook_members": null,
+      "market_cap": 59987302.0,
+      "owner_count": 653,
+      "detail_url": "https://allaaktier.se/bolag/aerowash"
     },
     {
       "ticker": "SHT-SMART-HIGH-TECH",
@@ -572,21 +572,20 @@
       "company_name": "Nibe Industrier B",
       "sector": "Industrials",
       "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.31,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.214,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 0.929,
+      "trending_score": 0.429,
       "sample_posts": [
-        "https://www.flashback.org/sp95003236",
         "https://www.flashback.org/sp95006574",
         "https://www.flashback.org/sp95009425"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 62,
+    "total_posts_fetched": 65,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
