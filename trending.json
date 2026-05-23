@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T20:57:26.781718+00:00",
+  "generated_at": "2026-05-23T22:00:55.023701+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 83.18,
-      "discord_members": 664,
+      "trend7d": 83.24,
+      "discord_members": 665,
       "facebook_members": null,
       "market_cap": 84751869.0,
       "owner_count": 777,
@@ -45,8 +45,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 10.4,
-      "discord_members": 1473,
+      "trend7d": 10.44,
+      "discord_members": 1475,
       "facebook_members": null,
       "market_cap": 3469459387.0,
       "owner_count": 5948,
@@ -55,8 +55,8 @@
     {
       "ticker": "EPISURF-MEDICAL",
       "company_name": "Episurf Medical",
-      "trend7d": 8.68,
-      "discord_members": 124,
+      "trend7d": 8.96,
+      "discord_members": 125,
       "facebook_members": 306,
       "market_cap": 726315077.0,
       "owner_count": 1179,
@@ -165,8 +165,8 @@
     {
       "ticker": "NIBE-INDUSTRIER",
       "company_name": "NIBE Industrier",
-      "trend7d": 1.48,
-      "discord_members": 306,
+      "trend7d": 1.59,
+      "discord_members": 307,
       "facebook_members": null,
       "market_cap": 81348282791.0,
       "owner_count": 18287,
@@ -203,6 +203,16 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 1.25,
+      "discord_members": 1225,
+      "facebook_members": null,
+      "market_cap": 641371468.0,
+      "owner_count": 687,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
       "trend7d": 1.25,
@@ -221,16 +231,6 @@
       "market_cap": 3404997408.0,
       "owner_count": 3480,
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 1.14,
-      "discord_members": 1225,
-      "facebook_members": null,
-      "market_cap": 641371468.0,
-      "owner_count": 687,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -293,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/oncopeptides"
     },
     {
+      "ticker": "INHALATION-SCIENCES",
+      "company_name": "Inhalation Sciences",
+      "trend7d": 0.92,
+      "discord_members": 321,
+      "facebook_members": 1168,
+      "market_cap": 14079350.0,
+      "owner_count": 258,
+      "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
+    },
+    {
       "ticker": "MOVEBYBIKE",
       "company_name": "MoveByBike",
       "trend7d": 0.85,
@@ -343,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
-      "ticker": "INHALATION-SCIENCES",
-      "company_name": "Inhalation Sciences",
-      "trend7d": 0.81,
-      "discord_members": 320,
-      "facebook_members": 1168,
-      "market_cap": 14079350.0,
-      "owner_count": 258,
-      "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
-    },
-    {
       "ticker": "ANOTO",
       "company_name": "Anoto",
       "trend7d": 0.77,
@@ -361,16 +361,6 @@
       "market_cap": 126771717.0,
       "owner_count": 1311,
       "detail_url": "https://allaaktier.se/bolag/anoto"
-    },
-    {
-      "ticker": "REFINE-GROUP",
-      "company_name": "Refine Group",
-      "trend7d": 0.74,
-      "discord_members": 84,
-      "facebook_members": null,
-      "market_cap": 114789220.0,
-      "owner_count": 421,
-      "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
       "ticker": "SCANDIC-HOTELS",
@@ -511,15 +501,43 @@
       "market_cap": 42985659.0,
       "owner_count": 3721,
       "detail_url": "https://allaaktier.se/bolag/expres2ion-biotech"
+    },
+    {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 0.55,
+      "discord_members": 101,
+      "facebook_members": null,
+      "market_cap": 314889190.0,
+      "owner_count": 274,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "ANOT",
+      "company_name": "Anoto Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 6,
+      "velocity_mentions_per_day": 2.0,
+      "avg_sentiment": 0.667,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 4.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95019627",
+        "https://www.flashback.org/sp95019728",
+        "https://www.flashback.org/sp95020054"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 62,
-    "tickers_with_any_mentions": 0,
+    "total_posts_fetched": 63,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
