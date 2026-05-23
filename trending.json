@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T15:03:57.419277+00:00",
+  "generated_at": "2026-05-23T17:04:05.169391+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 83.13,
-      "discord_members": 663,
+      "trend7d": 83.18,
+      "discord_members": 664,
       "facebook_members": null,
       "market_cap": 84751869.0,
       "owner_count": 777,
@@ -45,8 +45,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 10.19,
-      "discord_members": 1464,
+      "trend7d": 10.33,
+      "discord_members": 1470,
       "facebook_members": null,
       "market_cap": 3469459387.0,
       "owner_count": 5948,
@@ -65,8 +65,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 4.89,
-      "discord_members": 49,
+      "trend7d": 5.62,
+      "discord_members": 50,
       "facebook_members": null,
       "market_cap": 7226808548.0,
       "owner_count": 2800,
@@ -135,8 +135,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 2.68,
-      "discord_members": 1782,
+      "trend7d": 2.66,
+      "discord_members": 1781,
       "facebook_members": 405,
       "market_cap": 418345978.0,
       "owner_count": 1485,
@@ -163,16 +163,6 @@
       "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     },
     {
-      "ticker": "ANGLER-GAMING",
-      "company_name": "Angler Gaming",
-      "trend7d": 1.51,
-      "discord_members": 163,
-      "facebook_members": 545,
-      "market_cap": 321685629.0,
-      "owner_count": 1193,
-      "detail_url": "https://allaaktier.se/bolag/angler-gaming"
-    },
-    {
       "ticker": "NIBE-INDUSTRIER",
       "company_name": "NIBE Industrier",
       "trend7d": 1.48,
@@ -191,6 +181,16 @@
       "market_cap": 28365131.0,
       "owner_count": 153,
       "detail_url": "https://allaaktier.se/bolag/prebona"
+    },
+    {
+      "ticker": "ANGLER-GAMING",
+      "company_name": "Angler Gaming",
+      "trend7d": 1.3,
+      "discord_members": 162,
+      "facebook_members": 545,
+      "market_cap": 321685629.0,
+      "owner_count": 1193,
+      "detail_url": "https://allaaktier.se/bolag/angler-gaming"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -223,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
-      "ticker": "FINEPART",
-      "company_name": "Finepart",
-      "trend7d": 1.19,
-      "discord_members": 212,
-      "facebook_members": 212,
-      "market_cap": 27154393.0,
-      "owner_count": 859,
-      "detail_url": "https://allaaktier.se/bolag/finepart"
-    },
-    {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
       "trend7d": 1.14,
@@ -261,6 +251,16 @@
       "market_cap": 48129300.0,
       "owner_count": 150,
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
+    },
+    {
+      "ticker": "FINEPART",
+      "company_name": "Finepart",
+      "trend7d": 1.03,
+      "discord_members": 211,
+      "facebook_members": 212,
+      "market_cap": 27154393.0,
+      "owner_count": 859,
+      "detail_url": "https://allaaktier.se/bolag/finepart"
     },
     {
       "ticker": "ARGO-DEFENCE",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 60,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
