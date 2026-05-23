@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T17:04:05.169391+00:00",
+  "generated_at": "2026-05-23T19:15:48.613172+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 10.33,
-      "discord_members": 1470,
+      "trend7d": 10.4,
+      "discord_members": 1473,
       "facebook_members": null,
       "market_cap": 3469459387.0,
       "owner_count": 5948,
@@ -103,6 +103,16 @@
       "detail_url": "https://allaaktier.se/bolag/front-ventures"
     },
     {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 3.44,
+      "discord_members": 60,
+      "facebook_members": null,
+      "market_cap": 56308086629.48,
+      "owner_count": 5550,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
       "ticker": "AVSALT",
       "company_name": "Avsalt",
       "trend7d": 2.86,
@@ -111,16 +121,6 @@
       "market_cap": 14108991.0,
       "owner_count": 314,
       "detail_url": "https://allaaktier.se/bolag/avsalt"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 2.84,
-      "discord_members": 59,
-      "facebook_members": null,
-      "market_cap": 56308086629.48,
-      "owner_count": 5550,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
@@ -135,8 +135,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 2.66,
-      "discord_members": 1781,
+      "trend7d": 2.7,
+      "discord_members": 1783,
       "facebook_members": 405,
       "market_cap": 418345978.0,
       "owner_count": 1485,
@@ -215,8 +215,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 1.22,
-      "discord_members": 1098,
+      "trend7d": 1.19,
+      "discord_members": 1097,
       "facebook_members": 2135,
       "market_cap": 3404997408.0,
       "owner_count": 3480,
@@ -241,16 +241,6 @@
       "market_cap": 35488485.0,
       "owner_count": 326,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
-    },
-    {
-      "ticker": "HUNTER-CAPITAL",
-      "company_name": "Hunter Capital",
-      "trend7d": 1.03,
-      "discord_members": 86,
-      "facebook_members": null,
-      "market_cap": 48129300.0,
-      "owner_count": 150,
-      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
       "ticker": "FINEPART",
@@ -333,6 +323,16 @@
       "detail_url": "https://allaaktier.se/bolag/acousort"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.83,
+      "discord_members": 1067,
+      "facebook_members": 3706,
+      "market_cap": 4022999822.0,
+      "owner_count": 3451,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "KILIARO",
       "company_name": "Kiliaro",
       "trend7d": 0.81,
@@ -351,16 +351,6 @@
       "market_cap": 14079350.0,
       "owner_count": 258,
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.8,
-      "discord_members": 1066,
-      "facebook_members": 3706,
-      "market_cap": 4022999822.0,
-      "owner_count": 3451,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "REFINE-GROUP",
@@ -433,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/comintelli"
     },
     {
+      "ticker": "HUNTER-CAPITAL",
+      "company_name": "Hunter Capital",
+      "trend7d": 0.63,
+      "discord_members": 85,
+      "facebook_members": null,
+      "market_cap": 48129300.0,
+      "owner_count": 150,
+      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
+    },
+    {
       "ticker": "ZINZINO",
       "company_name": "Zinzino",
       "trend7d": 0.62,
@@ -483,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/yubico"
     },
     {
+      "ticker": "BIOINVENT-INTERNATIONAL",
+      "company_name": "BioInvent International",
+      "trend7d": 0.56,
+      "discord_members": 685,
+      "facebook_members": 19,
+      "market_cap": 1809619955.0,
+      "owner_count": 1498,
+      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
+    },
+    {
       "ticker": "EXPRES2ION-BIOTECH",
       "company_name": "ExpreS2ion Biotech",
       "trend7d": 0.55,
@@ -501,16 +511,6 @@
       "market_cap": 314889190.0,
       "owner_count": 274,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
-      "ticker": "XVIVO-PERFUSION",
-      "company_name": "Xvivo Perfusion",
-      "trend7d": 0.52,
-      "discord_members": 163,
-      "facebook_members": null,
-      "market_cap": 9273443968.0,
-      "owner_count": 2061,
-      "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
