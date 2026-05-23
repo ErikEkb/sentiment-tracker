@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T06:36:30.680614+00:00",
+  "generated_at": "2026-05-23T09:04:07.138374+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -16,7 +16,7 @@
       "ticker": "XOMA",
       "company_name": "Xoma",
       "trend7d": 83.75,
-      "discord_members": 663,
+      "discord_members": 662,
       "facebook_members": null,
       "market_cap": 84751869.0,
       "owner_count": 777,
@@ -25,8 +25,8 @@
     {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
       "company_name": "White Pearl Technology",
-      "trend7d": 28.47,
-      "discord_members": 185,
+      "trend7d": 29.12,
+      "discord_members": 187,
       "facebook_members": null,
       "market_cap": 585559589.0,
       "owner_count": 977,
@@ -85,8 +85,8 @@
     {
       "ticker": "TERRANET",
       "company_name": "Terranet",
-      "trend7d": 3.45,
-      "discord_members": 1819,
+      "trend7d": 3.47,
+      "discord_members": 1820,
       "facebook_members": 2541,
       "market_cap": 309055722.0,
       "owner_count": 1712,
@@ -125,8 +125,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.42,
-      "discord_members": 2378,
+      "trend7d": 2.41,
+      "discord_members": 2377,
       "facebook_members": 2874,
       "market_cap": 23324615399.0,
       "owner_count": 4016,
@@ -518,22 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "SIVE",
-      "company_name": "Sivers Semiconductors",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.667,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.333,
-      "sample_posts": [
-        "https://www.flashback.org/sp95005984",
-        "https://www.flashback.org/sp95018078"
-      ]
-    },
-    {
       "ticker": "ELUX-A",
       "company_name": "Electrolux A",
       "sector": "Consumer Discretionary",
@@ -569,8 +553,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 71,
-    "tickers_with_any_mentions": 6,
+    "total_posts_fetched": 60,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
