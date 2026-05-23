@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T19:15:48.613172+00:00",
+  "generated_at": "2026-05-23T20:57:26.781718+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "LANE-CAPITAL",
       "company_name": "Lane Capital",
-      "trend7d": 12.49,
-      "discord_members": 108,
+      "trend7d": 12.92,
+      "discord_members": 109,
       "facebook_members": null,
       "market_cap": 20069199.0,
       "owner_count": 300,
@@ -125,8 +125,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.73,
-      "discord_members": 2379,
+      "trend7d": 2.76,
+      "discord_members": 2381,
       "facebook_members": 2874,
       "market_cap": 23324615399.0,
       "owner_count": 4016,
@@ -215,8 +215,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 1.19,
-      "discord_members": 1097,
+      "trend7d": 1.16,
+      "discord_members": 1096,
       "facebook_members": 2135,
       "market_cap": 3404997408.0,
       "owner_count": 3480,
@@ -226,7 +226,7 @@
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
       "trend7d": 1.14,
-      "discord_members": 1221,
+      "discord_members": 1225,
       "facebook_members": null,
       "market_cap": 641371468.0,
       "owner_count": 687,
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     },
     {
+      "ticker": "ANOTO",
+      "company_name": "Anoto",
+      "trend7d": 0.77,
+      "discord_members": 359,
+      "facebook_members": null,
+      "market_cap": 126771717.0,
+      "owner_count": 1311,
+      "detail_url": "https://allaaktier.se/bolag/anoto"
+    },
+    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 0.74,
@@ -373,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
     },
     {
+      "ticker": "KINNEVIK",
+      "company_name": "Kinnevik",
+      "trend7d": 0.7,
+      "discord_members": 153,
+      "facebook_members": null,
+      "market_cap": 16389692556.0,
+      "owner_count": 14075,
+      "detail_url": "https://allaaktier.se/bolag/kinnevik"
+    },
+    {
       "ticker": "ENORAMA-PHARMA",
       "company_name": "Enorama Pharma",
       "trend7d": 0.69,
@@ -383,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
     },
     {
-      "ticker": "ANOTO",
-      "company_name": "Anoto",
-      "trend7d": 0.68,
-      "discord_members": 358,
-      "facebook_members": null,
-      "market_cap": 126771717.0,
-      "owner_count": 1311,
-      "detail_url": "https://allaaktier.se/bolag/anoto"
-    },
-    {
       "ticker": "FERROAMP",
       "company_name": "Ferroamp",
       "trend7d": 0.67,
@@ -401,6 +411,16 @@
       "market_cap": 359292661.0,
       "owner_count": 1034,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "BIOINVENT-INTERNATIONAL",
+      "company_name": "BioInvent International",
+      "trend7d": 0.66,
+      "discord_members": 687,
+      "facebook_members": 19,
+      "market_cap": 1809619955.0,
+      "owner_count": 1498,
+      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
       "ticker": "SHT-SMART-HIGH-TECH",
@@ -483,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/yubico"
     },
     {
-      "ticker": "BIOINVENT-INTERNATIONAL",
-      "company_name": "BioInvent International",
-      "trend7d": 0.56,
-      "discord_members": 685,
-      "facebook_members": 19,
-      "market_cap": 1809619955.0,
-      "owner_count": 1498,
-      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
-    },
-    {
       "ticker": "EXPRES2ION-BIOTECH",
       "company_name": "ExpreS2ion Biotech",
       "trend7d": 0.55,
@@ -501,16 +511,6 @@
       "market_cap": 42985659.0,
       "owner_count": 3721,
       "detail_url": "https://allaaktier.se/bolag/expres2ion-biotech"
-    },
-    {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 0.55,
-      "discord_members": 101,
-      "facebook_members": null,
-      "market_cap": 314889190.0,
-      "owner_count": 274,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     }
   ],
   "twitter_mentions": 0,
