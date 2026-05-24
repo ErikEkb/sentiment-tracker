@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T09:58:30.879402+00:00",
+  "generated_at": "2026-05-24T11:23:01.153953+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
       "company_name": "White Pearl Technology",
-      "trend7d": 24.81,
-      "discord_members": 187,
+      "trend7d": 25.11,
+      "discord_members": 188,
       "facebook_members": null,
       "market_cap": 585559589.0,
       "owner_count": 977,
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
+      "ticker": "UNIBAP",
+      "company_name": "Unibap",
+      "trend7d": 1.97,
+      "discord_members": 309,
+      "facebook_members": 507,
+      "market_cap": 660431516.0,
+      "owner_count": 621,
+      "detail_url": "https://allaaktier.se/bolag/unibap"
+    },
+    {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
       "trend7d": 1.94,
@@ -141,16 +151,6 @@
       "market_cap": 418345978.0,
       "owner_count": 1485,
       "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
-      "ticker": "UNIBAP",
-      "company_name": "Unibap",
-      "trend7d": 1.76,
-      "discord_members": 307,
-      "facebook_members": 507,
-      "market_cap": 660431516.0,
-      "owner_count": 621,
-      "detail_url": "https://allaaktier.se/bolag/unibap"
     },
     {
       "ticker": "REDSENSE-MEDICAL",
@@ -235,8 +235,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.06,
-      "discord_members": 1229,
+      "trend7d": 1.09,
+      "discord_members": 1230,
       "facebook_members": null,
       "market_cap": 641371468.0,
       "owner_count": 687,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 72,
+    "total_posts_fetched": 71,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
