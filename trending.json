@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T15:07:52.306729+00:00",
+  "generated_at": "2026-05-24T17:06:30.663277+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 5.78,
-      "discord_members": 1482,
+      "trend7d": 5.82,
+      "discord_members": 1484,
       "facebook_members": null,
       "market_cap": 3469459387.0,
       "owner_count": 5948,
@@ -75,8 +75,8 @@
     {
       "ticker": "TERRANET",
       "company_name": "Terranet",
-      "trend7d": 3.35,
-      "discord_members": 1819,
+      "trend7d": 3.33,
+      "discord_members": 1818,
       "facebook_members": 2541,
       "market_cap": 309055722.0,
       "owner_count": 1712,
@@ -95,8 +95,8 @@
     {
       "ticker": "AVSALT",
       "company_name": "Avsalt",
-      "trend7d": 2.63,
-      "discord_members": 296,
+      "trend7d": 2.52,
+      "discord_members": 295,
       "facebook_members": null,
       "market_cap": 14108991.0,
       "owner_count": 314,
@@ -125,8 +125,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.14,
-      "discord_members": 2385,
+      "trend7d": 2.15,
+      "discord_members": 2386,
       "facebook_members": 2874,
       "market_cap": 23324615399.0,
       "owner_count": 4016,
@@ -145,8 +145,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 1.94,
-      "discord_members": 1782,
+      "trend7d": 1.9,
+      "discord_members": 1780,
       "facebook_members": 405,
       "market_cap": 418345978.0,
       "owner_count": 1485,
@@ -333,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
-      "ticker": "ONCOPEPTIDES",
-      "company_name": "Oncopeptides",
-      "trend7d": 0.7,
-      "discord_members": 707,
-      "facebook_members": 504,
-      "market_cap": 646294250.0,
-      "owner_count": 3166,
-      "detail_url": "https://allaaktier.se/bolag/oncopeptides"
-    },
-    {
       "ticker": "ENORAMA-PHARMA",
       "company_name": "Enorama Pharma",
       "trend7d": 0.69,
@@ -381,6 +371,16 @@
       "market_cap": 27154393.0,
       "owner_count": 859,
       "detail_url": "https://allaaktier.se/bolag/finepart"
+    },
+    {
+      "ticker": "ONCOPEPTIDES",
+      "company_name": "Oncopeptides",
+      "trend7d": 0.66,
+      "discord_members": 706,
+      "facebook_members": 504,
+      "market_cap": 646294250.0,
+      "owner_count": 3166,
+      "detail_url": "https://allaaktier.se/bolag/oncopeptides"
     },
     {
       "ticker": "COMINTELLI",
@@ -518,8 +518,8 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 75,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 71,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
