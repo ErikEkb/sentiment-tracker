@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T17:06:30.663277+00:00",
+  "generated_at": "2026-05-24T19:21:49.083352+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 84.86,
-      "discord_members": 665,
+      "trend7d": 85.02,
+      "discord_members": 668,
       "facebook_members": null,
       "market_cap": 84751869.0,
       "owner_count": 777,
@@ -85,8 +85,8 @@
     {
       "ticker": "FRONT-VENTURES",
       "company_name": "Front Ventures",
-      "trend7d": 3.11,
-      "discord_members": 166,
+      "trend7d": 2.89,
+      "discord_members": 165,
       "facebook_members": null,
       "market_cap": 244970004.0,
       "owner_count": 568,
@@ -145,8 +145,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 1.9,
-      "discord_members": 1780,
+      "trend7d": 1.86,
+      "discord_members": 1778,
       "facebook_members": 405,
       "market_cap": 418345978.0,
       "owner_count": 1485,
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 1.2,
+      "discord_members": 1234,
+      "facebook_members": null,
+      "market_cap": 641371468.0,
+      "owner_count": 687,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
       "trend7d": 1.15,
@@ -233,16 +243,6 @@
       "detail_url": "https://allaaktier.se/bolag/luxbright"
     },
     {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 1.12,
-      "discord_members": 1231,
-      "facebook_members": null,
-      "market_cap": 641371468.0,
-      "owner_count": 687,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
-    },
-    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 1.04,
@@ -261,6 +261,16 @@
       "market_cap": 3988288378.0,
       "owner_count": 619,
       "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
+    },
+    {
+      "ticker": "TOBII",
+      "company_name": "Tobii",
+      "trend7d": 0.91,
+      "discord_members": 245,
+      "facebook_members": null,
+      "market_cap": 710855599.0,
+      "owner_count": 2331,
+      "detail_url": "https://allaaktier.se/bolag/tobii"
     },
     {
       "ticker": "MOVEBYBIKE",
@@ -423,16 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     },
     {
-      "ticker": "ZINZINO",
-      "company_name": "Zinzino",
-      "trend7d": 0.59,
-      "discord_members": 75,
-      "facebook_members": null,
-      "market_cap": 5759048590.0,
-      "owner_count": 2879,
-      "detail_url": "https://allaaktier.se/bolag/zinzino"
-    },
-    {
       "ticker": "UMIDA",
       "company_name": "Umida",
       "trend7d": 0.58,
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/mresell"
     },
     {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 0.42,
+      "discord_members": 919,
+      "facebook_members": 128,
+      "market_cap": 758546507.0,
+      "owner_count": 617,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
       "ticker": "HANZA",
       "company_name": "HANZA",
       "trend7d": 0.4,
@@ -501,16 +511,6 @@
       "market_cap": 11294905237.0,
       "owner_count": 1424,
       "detail_url": "https://allaaktier.se/bolag/hanza"
-    },
-    {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 0.39,
-      "discord_members": 918,
-      "facebook_members": 128,
-      "market_cap": 758546507.0,
-      "owner_count": 617,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 71,
+    "total_posts_fetched": 73,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
