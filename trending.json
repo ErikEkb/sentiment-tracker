@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T21:00:05.878750+00:00",
+  "generated_at": "2026-05-24T22:05:28.637578+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 85.19,
-      "discord_members": 671,
+      "trend7d": 85.24,
+      "discord_members": 672,
       "facebook_members": null,
       "market_cap": 84751869.0,
       "owner_count": 777,
@@ -45,8 +45,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 5.82,
-      "discord_members": 1484,
+      "trend7d": 5.85,
+      "discord_members": 1485,
       "facebook_members": null,
       "market_cap": 3469459387.0,
       "owner_count": 5948,
@@ -75,8 +75,8 @@
     {
       "ticker": "TERRANET",
       "company_name": "Terranet",
-      "trend7d": 3.33,
-      "discord_members": 1818,
+      "trend7d": 3.31,
+      "discord_members": 1817,
       "facebook_members": 2541,
       "market_cap": 309055722.0,
       "owner_count": 1712,
@@ -205,8 +205,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.2,
-      "discord_members": 1234,
+      "trend7d": 1.23,
+      "discord_members": 1235,
       "facebook_members": null,
       "market_cap": 641371468.0,
       "owner_count": 687,
@@ -281,6 +281,16 @@
       "market_cap": 126771717.0,
       "owner_count": 1311,
       "detail_url": "https://allaaktier.se/bolag/anoto"
+    },
+    {
+      "ticker": "AXOLOT-SOLUTIONS",
+      "company_name": "Axolot Solutions",
+      "trend7d": 0.86,
+      "discord_members": 141,
+      "facebook_members": null,
+      "market_cap": 102781620.0,
+      "owner_count": 777,
+      "detail_url": "https://allaaktier.se/bolag/axolot-solutions"
     },
     {
       "ticker": "MOVEBYBIKE",
@@ -413,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/aerowash"
     },
     {
-      "ticker": "AXOLOT-SOLUTIONS",
-      "company_name": "Axolot Solutions",
-      "trend7d": 0.62,
-      "discord_members": 140,
-      "facebook_members": null,
-      "market_cap": 102781620.0,
-      "owner_count": 777,
-      "detail_url": "https://allaaktier.se/bolag/axolot-solutions"
-    },
-    {
       "ticker": "INHALATION-SCIENCES",
       "company_name": "Inhalation Sciences",
       "trend7d": 0.6,
@@ -463,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 0.5,
+      "discord_members": 921,
+      "facebook_members": 128,
+      "market_cap": 758546507.0,
+      "owner_count": 617,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
       "ticker": "NOTE",
       "company_name": "NOTE",
       "trend7d": 0.44,
@@ -493,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/mresell"
     },
     {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 0.42,
-      "discord_members": 919,
-      "facebook_members": 128,
-      "market_cap": 758546507.0,
-      "owner_count": 617,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
-    },
-    {
       "ticker": "HANZA",
       "company_name": "HANZA",
       "trend7d": 0.4,
@@ -516,10 +516,44 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "BHG",
+      "company_name": "BHG Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.8,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 4.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95021039",
+        "https://www.flashback.org/sp95027050",
+        "https://www.flashback.org/sp95031294"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.8,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.6,
+      "sample_posts": [
+        "https://www.flashback.org/sp95026181",
+        "https://www.flashback.org/sp95031934"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 63,
-    "tickers_with_any_mentions": 1,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
