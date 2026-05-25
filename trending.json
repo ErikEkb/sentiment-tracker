@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T14:11:17.661201+00:00",
+  "generated_at": "2026-05-25T17:08:55.177083+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,12 +15,22 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 92.22,
-      "discord_members": 686,
+      "trend7d": 92.38,
+      "discord_members": 689,
       "facebook_members": null,
       "market_cap": 78183599.0,
       "owner_count": 819,
       "detail_url": "https://allaaktier.se/bolag/xoma"
+    },
+    {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 31.41,
+      "discord_members": 389,
+      "facebook_members": null,
+      "market_cap": 406046668.0,
+      "owner_count": 1430,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
@@ -33,20 +43,10 @@
       "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
     },
     {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 10.43,
-      "discord_members": 265,
-      "facebook_members": null,
-      "market_cap": 406046668.0,
-      "owner_count": 1430,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
-    },
-    {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 5.47,
-      "discord_members": 1495,
+      "trend7d": 5.49,
+      "discord_members": 1496,
       "facebook_members": null,
       "market_cap": 3475261158.0,
       "owner_count": 6204,
@@ -95,8 +95,8 @@
     {
       "ticker": "FRONT-VENTURES",
       "company_name": "Front Ventures",
-      "trend7d": 2.83,
-      "discord_members": 166,
+      "trend7d": 3.04,
+      "discord_members": 167,
       "facebook_members": null,
       "market_cap": 264284946.0,
       "owner_count": 567,
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/avsalt"
     },
     {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 2.14,
+      "discord_members": 2409,
+      "facebook_members": 2874,
+      "market_cap": 27564000228.0,
+      "owner_count": 4102,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
       "trend7d": 2.08,
@@ -133,14 +143,14 @@
       "detail_url": "https://allaaktier.se/bolag/unibap"
     },
     {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 2.0,
-      "discord_members": 2399,
-      "facebook_members": 2874,
-      "market_cap": 27564000228.0,
-      "owner_count": 4102,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+      "ticker": "ACCONEER",
+      "company_name": "Acconeer",
+      "trend7d": 1.68,
+      "discord_members": 1028,
+      "facebook_members": 1461,
+      "market_cap": 1431460802.0,
+      "owner_count": 1156,
+      "detail_url": "https://allaaktier.se/bolag/acconeer"
     },
     {
       "ticker": "TERRANET",
@@ -163,14 +173,14 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
-      "ticker": "ACCONEER",
-      "company_name": "Acconeer",
-      "trend7d": 1.51,
-      "discord_members": 1023,
-      "facebook_members": 1461,
-      "market_cap": 1431460802.0,
-      "owner_count": 1156,
-      "detail_url": "https://allaaktier.se/bolag/acconeer"
+      "ticker": "ANOTO",
+      "company_name": "Anoto",
+      "trend7d": 1.48,
+      "discord_members": 362,
+      "facebook_members": null,
+      "market_cap": 114425254.0,
+      "owner_count": 1326,
+      "detail_url": "https://allaaktier.se/bolag/anoto"
     },
     {
       "ticker": "HEMPLY-BALANCE",
@@ -181,16 +191,6 @@
       "market_cap": 5019494.0,
       "owner_count": 133,
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
-    },
-    {
-      "ticker": "ANOTO",
-      "company_name": "Anoto",
-      "trend7d": 1.39,
-      "discord_members": 361,
-      "facebook_members": null,
-      "market_cap": 114425254.0,
-      "owner_count": 1326,
-      "detail_url": "https://allaaktier.se/bolag/anoto"
     },
     {
       "ticker": "ANGLER-GAMING",
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/tobii"
     },
     {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 1.22,
+      "discord_members": 1785,
+      "facebook_members": 405,
+      "market_cap": 485353775.0,
+      "owner_count": 1485,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
+    },
+    {
       "ticker": "PREBONA",
       "company_name": "Prebona",
       "trend7d": 1.2,
@@ -253,14 +263,14 @@
       "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 1.19,
-      "discord_members": 1783,
-      "facebook_members": 405,
-      "market_cap": 485353775.0,
-      "owner_count": 1485,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 1.17,
+      "discord_members": 1242,
+      "facebook_members": null,
+      "market_cap": 778661846.0,
+      "owner_count": 684,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -271,16 +281,6 @@
       "market_cap": 40938935.0,
       "owner_count": 326,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 1.09,
-      "discord_members": 1239,
-      "facebook_members": null,
-      "market_cap": 778661846.0,
-      "owner_count": 684,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "EXPRES2ION-BIOTECH",
@@ -393,16 +393,6 @@
       "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
     },
     {
-      "ticker": "MRESELL",
-      "company_name": "mResell",
-      "trend7d": 0.8,
-      "discord_members": 172,
-      "facebook_members": null,
-      "market_cap": 95346824.0,
-      "owner_count": 904,
-      "detail_url": "https://allaaktier.se/bolag/mresell"
-    },
-    {
       "ticker": "AEROWASH",
       "company_name": "Aerowash",
       "trend7d": 0.76,
@@ -463,6 +453,26 @@
       "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 0.67,
+      "discord_members": 927,
+      "facebook_members": 128,
+      "market_cap": 905867523.0,
+      "owner_count": 620,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
+      "ticker": "GAPWAVES",
+      "company_name": "Gapwaves",
+      "trend7d": 0.65,
+      "discord_members": 863,
+      "facebook_members": 1447,
+      "market_cap": 545786967.0,
+      "owner_count": 1047,
+      "detail_url": "https://allaaktier.se/bolag/gapwaves"
+    },
+    {
       "ticker": "OVZON",
       "company_name": "Ovzon",
       "trend7d": 0.64,
@@ -483,14 +493,14 @@
       "detail_url": "https://allaaktier.se/bolag/comintelli"
     },
     {
-      "ticker": "GAPWAVES",
-      "company_name": "Gapwaves",
+      "ticker": "MRESELL",
+      "company_name": "mResell",
       "trend7d": 0.61,
-      "discord_members": 862,
-      "facebook_members": 1447,
-      "market_cap": 545786967.0,
-      "owner_count": 1047,
-      "detail_url": "https://allaaktier.se/bolag/gapwaves"
+      "discord_members": 171,
+      "facebook_members": null,
+      "market_cap": 95346824.0,
+      "owner_count": 904,
+      "detail_url": "https://allaaktier.se/bolag/mresell"
     },
     {
       "ticker": "BIO-WORKS-TECHNOLOGIES",
@@ -501,16 +511,6 @@
       "market_cap": 406043937.0,
       "owner_count": 385,
       "detail_url": "https://allaaktier.se/bolag/bio-works-technologies"
-    },
-    {
-      "ticker": "BPC-INSTRUMENTS",
-      "company_name": "BPC Instruments",
-      "trend7d": 0.56,
-      "discord_members": 104,
-      "facebook_members": null,
-      "market_cap": 181000090.0,
-      "owner_count": 173,
-      "detail_url": "https://allaaktier.se/bolag/bpc-instruments"
     }
   ],
   "twitter_mentions": 0,
@@ -522,16 +522,16 @@
       "company_name": "BHG Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.8,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.75,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 4.0,
+      "trending_score": 3.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95021039",
         "https://www.flashback.org/sp95027050",
-        "https://www.flashback.org/sp95031294"
+        "https://www.flashback.org/sp95031294",
+        "https://www.flashback.org/sp95031498"
       ]
     },
     {
@@ -552,8 +552,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 78,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 63,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
