@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T16:43:25.956888+00:00",
+  "generated_at": "2026-05-29T19:32:44.199104+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 105.81,
-      "discord_members": 1265,
+      "trend7d": 105.92,
+      "discord_members": 1268,
       "facebook_members": 128,
       "market_cap": 1499853321.0,
       "owner_count": 1326,
@@ -25,8 +25,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 82.43,
-      "discord_members": 554,
+      "trend7d": 82.26,
+      "discord_members": 553,
       "facebook_members": null,
       "market_cap": 746524654.0,
       "owner_count": 1735,
@@ -105,8 +105,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 9.25,
-      "discord_members": 343,
+      "trend7d": 9.47,
+      "discord_members": 345,
       "facebook_members": 507,
       "market_cap": 733951251.0,
       "owner_count": 676,
@@ -115,8 +115,8 @@
     {
       "ticker": "VIDHANCE",
       "company_name": "Vidhance",
-      "trend7d": 8.77,
-      "discord_members": 405,
+      "trend7d": 8.86,
+      "discord_members": 406,
       "facebook_members": 1418,
       "market_cap": 72802634.0,
       "owner_count": 411,
@@ -125,8 +125,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 8.4,
-      "discord_members": 1344,
+      "trend7d": 8.46,
+      "discord_members": 1346,
       "facebook_members": null,
       "market_cap": 824766823.0,
       "owner_count": 721,
@@ -165,8 +165,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 4.28,
-      "discord_members": 1506,
+      "trend7d": 4.26,
+      "discord_members": 1505,
       "facebook_members": null,
       "market_cap": 3728605183.0,
       "owner_count": 6471,
@@ -175,8 +175,8 @@
     {
       "ticker": "TERRANET",
       "company_name": "Terranet",
-      "trend7d": 4.11,
-      "discord_members": 1864,
+      "trend7d": 4.09,
+      "discord_members": 1863,
       "facebook_members": 2541,
       "market_cap": 418464252.0,
       "owner_count": 1786,
@@ -373,6 +373,16 @@
       "detail_url": "https://allaaktier.se/bolag/avsalt"
     },
     {
+      "ticker": "PEPTONIC-MEDICAL",
+      "company_name": "Peptonic Medical",
+      "trend7d": 1.78,
+      "discord_members": 144,
+      "facebook_members": null,
+      "market_cap": 29014394.0,
+      "owner_count": 1298,
+      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
+    },
+    {
       "ticker": "INHALATION-SCIENCES",
       "company_name": "Inhalation Sciences",
       "trend7d": 1.74,
@@ -433,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/tobii"
     },
     {
-      "ticker": "PEPTONIC-MEDICAL",
-      "company_name": "Peptonic Medical",
-      "trend7d": 1.3,
-      "discord_members": 142,
-      "facebook_members": null,
-      "market_cap": 29014394.0,
-      "owner_count": 1298,
-      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
-    },
-    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 1.19,
@@ -465,8 +465,8 @@
     {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
-      "trend7d": 1.14,
-      "discord_members": 863,
+      "trend7d": 1.1,
+      "discord_members": 862,
       "facebook_members": null,
       "market_cap": 532680602.45,
       "owner_count": 4604,
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/seatwirl"
     },
     {
-      "ticker": "LUXBRIGHT",
-      "company_name": "Luxbright",
-      "trend7d": 0.94,
-      "discord_members": 32,
-      "facebook_members": null,
-      "market_cap": 41181177.0,
-      "owner_count": 324,
-      "detail_url": "https://allaaktier.se/bolag/luxbright"
+      "ticker": "IMPLANTICA-SDB",
+      "company_name": "Implantica SDB",
+      "trend7d": 0.93,
+      "discord_members": 624,
+      "facebook_members": 106,
+      "market_cap": 4217181450.0,
+      "owner_count": 626,
+      "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 49,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
