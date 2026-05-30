@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T19:21:47.918266+00:00",
+  "generated_at": "2026-05-30T21:02:32.208223+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 100.5,
-      "discord_members": 1270,
+      "trend7d": 100.46,
+      "discord_members": 1269,
       "facebook_members": 128,
       "market_cap": 1247526901.0,
       "owner_count": 1326,
@@ -45,8 +45,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 27.98,
-      "discord_members": 2002,
+      "trend7d": 28.0,
+      "discord_members": 2003,
       "facebook_members": 405,
       "market_cap": 684566146.0,
       "owner_count": 1882,
@@ -55,8 +55,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 20.45,
-      "discord_members": 782,
+      "trend7d": 20.4,
+      "discord_members": 781,
       "facebook_members": null,
       "market_cap": 92167657.0,
       "owner_count": 1058,
@@ -125,8 +125,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 8.5,
-      "discord_members": 1350,
+      "trend7d": 8.55,
+      "discord_members": 1352,
       "facebook_members": null,
       "market_cap": 832963264.0,
       "owner_count": 721,
@@ -165,8 +165,8 @@
     {
       "ticker": "TERRANET",
       "company_name": "Terranet",
-      "trend7d": 4.28,
-      "discord_members": 1862,
+      "trend7d": 4.3,
+      "discord_members": 1863,
       "facebook_members": 2541,
       "market_cap": 386202762.0,
       "owner_count": 1786,
@@ -175,8 +175,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 4.19,
-      "discord_members": 1506,
+      "trend7d": 4.21,
+      "discord_members": 1507,
       "facebook_members": null,
       "market_cap": 3780821127.0,
       "owner_count": 6471,
@@ -333,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
+      "ticker": "RANLOS",
+      "company_name": "RanLOS",
+      "trend7d": 2.24,
+      "discord_members": 333,
+      "facebook_members": null,
+      "market_cap": 49263059.0,
+      "owner_count": 260,
+      "detail_url": "https://allaaktier.se/bolag/ranlos"
+    },
+    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 2.15,
@@ -341,16 +351,6 @@
       "market_cap": 35747924935.0,
       "owner_count": 3529,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "RANLOS",
-      "company_name": "RanLOS",
-      "trend7d": 2.13,
-      "discord_members": 332,
-      "facebook_members": null,
-      "market_cap": 49263059.0,
-      "owner_count": 260,
-      "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
     {
       "ticker": "RENEWABLE-VENTURES-NORDIC",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 78,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
