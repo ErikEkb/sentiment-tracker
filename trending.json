@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T03:42:26.383749+00:00",
+  "generated_at": "2026-05-30T06:49:16.416917+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 9.56,
-      "discord_members": 2451,
+      "trend7d": 9.58,
+      "discord_members": 2452,
       "facebook_members": 2874,
       "market_cap": 22060798789.0,
       "owner_count": 4529,
@@ -518,23 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "CORE",
-      "company_name": "Corem Property Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 3.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95063102",
-        "https://www.flashback.org/sp95065083",
-        "https://www.flashback.org/sp95067425"
-      ]
-    },
-    {
       "ticker": "SVOL-A",
       "company_name": "Svolder",
       "sector": "Discovered",
@@ -552,8 +535,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 72,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 74,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
