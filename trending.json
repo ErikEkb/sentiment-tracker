@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T11:23:47.487818+00:00",
+  "generated_at": "2026-05-30T13:46:17.098111+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 80.45,
-      "discord_members": 543,
+      "trend7d": 80.62,
+      "discord_members": 544,
       "facebook_members": null,
       "market_cap": 720465468.0,
       "owner_count": 1735,
@@ -45,8 +45,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 27.95,
-      "discord_members": 2000,
+      "trend7d": 27.97,
+      "discord_members": 2001,
       "facebook_members": 405,
       "market_cap": 684566146.0,
       "owner_count": 1882,
@@ -55,8 +55,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 20.25,
-      "discord_members": 778,
+      "trend7d": 20.35,
+      "discord_members": 780,
       "facebook_members": null,
       "market_cap": 92167657.0,
       "owner_count": 1058,
@@ -105,8 +105,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 9.96,
-      "discord_members": 2451,
+      "trend7d": 9.97,
+      "discord_members": 2452,
       "facebook_members": 2874,
       "market_cap": 22060798789.0,
       "owner_count": 4529,
@@ -125,8 +125,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 8.44,
-      "discord_members": 1348,
+      "trend7d": 8.47,
+      "discord_members": 1349,
       "facebook_members": null,
       "market_cap": 832963264.0,
       "owner_count": 721,
@@ -203,10 +203,20 @@
       "detail_url": "https://allaaktier.se/bolag/aac-clyde-space"
     },
     {
+      "ticker": "PEPTONIC-MEDICAL",
+      "company_name": "Peptonic Medical",
+      "trend7d": 3.38,
+      "discord_members": 145,
+      "facebook_members": null,
+      "market_cap": 29014394.0,
+      "owner_count": 1298,
+      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
+    },
+    {
       "ticker": "GAPWAVES",
       "company_name": "Gapwaves",
-      "trend7d": 3.4,
-      "discord_members": 874,
+      "trend7d": 3.36,
+      "discord_members": 873,
       "facebook_members": 1447,
       "market_cap": 640264072.0,
       "owner_count": 1066,
@@ -223,14 +233,14 @@
       "detail_url": "https://allaaktier.se/bolag/fsport"
     },
     {
-      "ticker": "PEPTONIC-MEDICAL",
-      "company_name": "Peptonic Medical",
-      "trend7d": 3.14,
-      "discord_members": 144,
-      "facebook_members": null,
-      "market_cap": 29014394.0,
-      "owner_count": 1298,
-      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
+      "ticker": "EPISURF-MEDICAL",
+      "company_name": "Episurf Medical",
+      "trend7d": 2.87,
+      "discord_members": 132,
+      "facebook_members": 306,
+      "market_cap": 809648329.0,
+      "owner_count": 1178,
+      "detail_url": "https://allaaktier.se/bolag/episurf-medical"
     },
     {
       "ticker": "BIOINVENT-INTERNATIONAL",
@@ -245,12 +255,32 @@
     {
       "ticker": "CRETURNER-GROUP",
       "company_name": "Creturner Group",
-      "trend7d": 2.57,
-      "discord_members": 547,
+      "trend7d": 2.63,
+      "discord_members": 548,
       "facebook_members": 656,
       "market_cap": 14407892.0,
       "owner_count": 330,
       "detail_url": "https://allaaktier.se/bolag/creturner-group"
+    },
+    {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 2.61,
+      "discord_members": 121,
+      "facebook_members": null,
+      "market_cap": 69146333.0,
+      "owner_count": 527,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 2.56,
+      "discord_members": 193,
+      "facebook_members": null,
+      "market_cap": 24437060902.0,
+      "owner_count": 3827,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "UPSALES-TECHNOLOGY",
@@ -273,16 +303,6 @@
       "detail_url": "https://allaaktier.se/bolag/hilbert-group"
     },
     {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 2.38,
-      "discord_members": 192,
-      "facebook_members": null,
-      "market_cap": 24437060902.0,
-      "owner_count": 3827,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
       "ticker": "AVSALT",
       "company_name": "Avsalt",
       "trend7d": 2.36,
@@ -301,26 +321,6 @@
       "market_cap": 74179962.0,
       "owner_count": 866,
       "detail_url": "https://allaaktier.se/bolag/fluicell"
-    },
-    {
-      "ticker": "EPISURF-MEDICAL",
-      "company_name": "Episurf Medical",
-      "trend7d": 2.33,
-      "discord_members": 130,
-      "facebook_members": 306,
-      "market_cap": 809648329.0,
-      "owner_count": 1178,
-      "detail_url": "https://allaaktier.se/bolag/episurf-medical"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 2.3,
-      "discord_members": 120,
-      "facebook_members": null,
-      "market_cap": 69146333.0,
-      "owner_count": 527,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "KLARNA",
@@ -516,27 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "SVOL-A",
-      "company_name": "Svolder",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95065296",
-        "https://www.flashback.org/sp95067701"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 74,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 72,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
