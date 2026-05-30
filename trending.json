@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T13:46:17.098111+00:00",
+  "generated_at": "2026-05-30T15:11:31.844684+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 27.97,
-      "discord_members": 2001,
+      "trend7d": 27.93,
+      "discord_members": 1999,
       "facebook_members": 405,
       "market_cap": 684566146.0,
       "owner_count": 1882,
@@ -55,8 +55,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 20.35,
-      "discord_members": 780,
+      "trend7d": 20.4,
+      "discord_members": 781,
       "facebook_members": null,
       "market_cap": 92167657.0,
       "owner_count": 1058,
@@ -65,8 +65,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 18.57,
-      "discord_members": 76,
+      "trend7d": 19.24,
+      "discord_members": 77,
       "facebook_members": null,
       "market_cap": 7528496951.0,
       "owner_count": 2855,
@@ -253,16 +253,6 @@
       "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
-      "ticker": "CRETURNER-GROUP",
-      "company_name": "Creturner Group",
-      "trend7d": 2.63,
-      "discord_members": 548,
-      "facebook_members": 656,
-      "market_cap": 14407892.0,
-      "owner_count": 330,
-      "detail_url": "https://allaaktier.se/bolag/creturner-group"
-    },
-    {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
       "trend7d": 2.61,
@@ -271,6 +261,16 @@
       "market_cap": 69146333.0,
       "owner_count": 527,
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
+      "ticker": "CRETURNER-GROUP",
+      "company_name": "Creturner Group",
+      "trend7d": 2.57,
+      "discord_members": 547,
+      "facebook_members": 656,
+      "market_cap": 14407892.0,
+      "owner_count": 330,
+      "detail_url": "https://allaaktier.se/bolag/creturner-group"
     },
     {
       "ticker": "HACKSAW",
@@ -433,16 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
     {
-      "ticker": "ECOMB",
-      "company_name": "ECOMB",
-      "trend7d": 1.53,
-      "discord_members": 183,
-      "facebook_members": null,
-      "market_cap": 8750095.0,
-      "owner_count": 316,
-      "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
       "ticker": "JONDETECH-SENSORS",
       "company_name": "JonDeTech Sensors",
       "trend7d": 1.37,
@@ -451,6 +441,16 @@
       "market_cap": 41314215.0,
       "owner_count": 716,
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 1.35,
+      "discord_members": 182,
+      "facebook_members": null,
+      "market_cap": 8750095.0,
+      "owner_count": 316,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
       "ticker": "ACAST",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "ZINZINO",
-      "company_name": "Zinzino",
-      "trend7d": 0.97,
-      "discord_members": 74,
-      "facebook_members": null,
-      "market_cap": 6066249696.0,
-      "owner_count": 2914,
-      "detail_url": "https://allaaktier.se/bolag/zinzino"
+      "ticker": "SYNACT-PHARMA",
+      "company_name": "SynAct Pharma",
+      "trend7d": 0.98,
+      "discord_members": 4947,
+      "facebook_members": 2109,
+      "market_cap": 979247323.0,
+      "owner_count": 1291,
+      "detail_url": "https://allaaktier.se/bolag/synact-pharma"
     }
   ],
   "twitter_mentions": 0,
