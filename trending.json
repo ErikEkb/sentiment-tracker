@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T15:19:04.634631+00:00",
+  "generated_at": "2026-05-31T17:09:55.286621+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 97.65,
-      "discord_members": 1270,
+      "trend7d": 97.62,
+      "discord_members": 1269,
       "facebook_members": 128,
       "market_cap": 1247526901.0,
       "owner_count": 1326,
@@ -25,8 +25,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 31.19,
-      "discord_members": 539,
+      "trend7d": 31.12,
+      "discord_members": 538,
       "facebook_members": null,
       "market_cap": 720465468.0,
       "owner_count": 1735,
@@ -95,8 +95,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 10.13,
-      "discord_members": 354,
+      "trend7d": 10.34,
+      "discord_members": 356,
       "facebook_members": 507,
       "market_cap": 742673931.0,
       "owner_count": 676,
@@ -105,8 +105,8 @@
     {
       "ticker": "VIDHANCE",
       "company_name": "Vidhance",
-      "trend7d": 9.27,
-      "discord_members": 407,
+      "trend7d": 9.36,
+      "discord_members": 408,
       "facebook_members": 1418,
       "market_cap": 60210983.0,
       "owner_count": 411,
@@ -125,8 +125,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 8.41,
-      "discord_members": 1353,
+      "trend7d": 8.44,
+      "discord_members": 1354,
       "facebook_members": null,
       "market_cap": 832963264.0,
       "owner_count": 721,
@@ -233,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/creturner-group"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 2.61,
+      "discord_members": 194,
+      "facebook_members": null,
+      "market_cap": 24437060902.0,
+      "owner_count": 3827,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "BIOINVENT-INTERNATIONAL",
       "company_name": "BioInvent International",
       "trend7d": 2.51,
@@ -251,16 +261,6 @@
       "market_cap": 3780821127.0,
       "owner_count": 6471,
       "detail_url": "https://allaaktier.se/bolag/smart-eye"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 2.43,
-      "discord_members": 193,
-      "facebook_members": null,
-      "market_cap": 24437060902.0,
-      "owner_count": 3827,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "HILBERT-GROUP",
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 58,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
