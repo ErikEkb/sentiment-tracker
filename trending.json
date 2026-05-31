@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T21:02:51.971103+00:00",
+  "generated_at": "2026-05-31T23:03:03.016968+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 31.19,
-      "discord_members": 539,
+      "trend7d": 31.27,
+      "discord_members": 540,
       "facebook_members": null,
       "market_cap": 720465468.0,
       "owner_count": 1735,
@@ -45,8 +45,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 27.91,
-      "discord_members": 2014,
+      "trend7d": 27.97,
+      "discord_members": 2017,
       "facebook_members": 405,
       "market_cap": 684566146.0,
       "owner_count": 1882,
@@ -65,8 +65,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 17.16,
-      "discord_members": 783,
+      "trend7d": 17.21,
+      "discord_members": 784,
       "facebook_members": null,
       "market_cap": 92167657.0,
       "owner_count": 1058,
@@ -75,8 +75,8 @@
     {
       "ticker": "ACCONEER",
       "company_name": "Acconeer",
-      "trend7d": 11.82,
-      "discord_members": 1072,
+      "trend7d": 11.85,
+      "discord_members": 1073,
       "facebook_members": 1461,
       "market_cap": 1644657091.0,
       "owner_count": 1305,
@@ -95,8 +95,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 10.45,
-      "discord_members": 357,
+      "trend7d": 10.56,
+      "discord_members": 358,
       "facebook_members": 507,
       "market_cap": 742673931.0,
       "owner_count": 676,
@@ -203,24 +203,24 @@
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
-      "ticker": "GAPWAVES",
-      "company_name": "Gapwaves",
-      "trend7d": 2.94,
-      "discord_members": 873,
-      "facebook_members": 1447,
-      "market_cap": 640264072.0,
-      "owner_count": 1066,
-      "detail_url": "https://allaaktier.se/bolag/gapwaves"
-    },
-    {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 2.79,
-      "discord_members": 195,
+      "trend7d": 2.97,
+      "discord_members": 196,
       "facebook_members": null,
       "market_cap": 24437060902.0,
       "owner_count": 3827,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
+      "ticker": "GAPWAVES",
+      "company_name": "Gapwaves",
+      "trend7d": 2.97,
+      "discord_members": 874,
+      "facebook_members": 1447,
+      "market_cap": 640264072.0,
+      "owner_count": 1066,
+      "detail_url": "https://allaaktier.se/bolag/gapwaves"
     },
     {
       "ticker": "MODUS-THERAPEUTICS",
@@ -331,6 +331,16 @@
       "market_cap": 208592483.0,
       "owner_count": 352,
       "detail_url": "https://allaaktier.se/bolag/renewable-ventures-nordic"
+    },
+    {
+      "ticker": "LUXBRIGHT",
+      "company_name": "Luxbright",
+      "trend7d": 2.02,
+      "discord_members": 33,
+      "facebook_members": null,
+      "market_cap": 38032028.0,
+      "owner_count": 324,
+      "detail_url": "https://allaaktier.se/bolag/luxbright"
     },
     {
       "ticker": "EPISURF-MEDICAL",
@@ -501,16 +511,6 @@
       "market_cap": 816681187.0,
       "owner_count": 1426,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
-      "ticker": "FERROAMP",
-      "company_name": "Ferroamp",
-      "trend7d": 0.98,
-      "discord_members": 46,
-      "facebook_members": null,
-      "market_cap": 323687082.0,
-      "owner_count": 1029,
-      "detail_url": "https://allaaktier.se/bolag/ferroamp"
     }
   ],
   "twitter_mentions": 0,
@@ -522,12 +522,12 @@
       "company_name": "Electrolux A",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.6,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 3.0,
       "sample_posts": [
         "https://www.flashback.org/sp95072299",
         "https://www.flashback.org/sp95072348",
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 70,
+    "total_posts_fetched": 64,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
