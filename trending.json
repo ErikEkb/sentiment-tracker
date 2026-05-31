@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T17:09:55.286621+00:00",
+  "generated_at": "2026-05-31T19:21:40.343218+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 31.12,
-      "discord_members": 538,
+      "trend7d": 31.19,
+      "discord_members": 539,
       "facebook_members": null,
       "market_cap": 720465468.0,
       "owner_count": 1735,
@@ -45,8 +45,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 27.88,
-      "discord_members": 2012,
+      "trend7d": 27.9,
+      "discord_members": 2013,
       "facebook_members": 405,
       "market_cap": 684566146.0,
       "owner_count": 1882,
@@ -95,8 +95,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 10.34,
-      "discord_members": 356,
+      "trend7d": 10.45,
+      "discord_members": 357,
       "facebook_members": 507,
       "market_cap": 742673931.0,
       "owner_count": 676,
@@ -125,8 +125,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 8.44,
-      "discord_members": 1354,
+      "trend7d": 8.46,
+      "discord_members": 1355,
       "facebook_members": null,
       "market_cap": 832963264.0,
       "owner_count": 721,
@@ -135,8 +135,8 @@
     {
       "ticker": "TOURN-INTERNATIONAL",
       "company_name": "Tourn International",
-      "trend7d": 5.58,
-      "discord_members": 166,
+      "trend7d": 5.78,
+      "discord_members": 167,
       "facebook_members": 120,
       "market_cap": 60470770.0,
       "owner_count": 167,
@@ -165,8 +165,8 @@
     {
       "ticker": "TERRANET",
       "company_name": "Terranet",
-      "trend7d": 4.34,
-      "discord_members": 1863,
+      "trend7d": 4.36,
+      "discord_members": 1864,
       "facebook_members": 2541,
       "market_cap": 386202762.0,
       "owner_count": 1786,
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/gapwaves"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 2.79,
+      "discord_members": 195,
+      "facebook_members": null,
+      "market_cap": 24437060902.0,
+      "owner_count": 3827,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
       "trend7d": 2.67,
@@ -233,14 +243,14 @@
       "detail_url": "https://allaaktier.se/bolag/creturner-group"
     },
     {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 2.61,
-      "discord_members": 194,
+      "ticker": "SMART-EYE",
+      "company_name": "Smart Eye",
+      "trend7d": 2.51,
+      "discord_members": 1510,
       "facebook_members": null,
-      "market_cap": 24437060902.0,
-      "owner_count": 3827,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+      "market_cap": 3780821127.0,
+      "owner_count": 6471,
+      "detail_url": "https://allaaktier.se/bolag/smart-eye"
     },
     {
       "ticker": "BIOINVENT-INTERNATIONAL",
@@ -253,14 +263,14 @@
       "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
-      "ticker": "SMART-EYE",
-      "company_name": "Smart Eye",
-      "trend7d": 2.49,
-      "discord_members": 1509,
+      "ticker": "RANLOS",
+      "company_name": "RanLOS",
+      "trend7d": 2.45,
+      "discord_members": 334,
       "facebook_members": null,
-      "market_cap": 3780821127.0,
-      "owner_count": 6471,
-      "detail_url": "https://allaaktier.se/bolag/smart-eye"
+      "market_cap": 49263059.0,
+      "owner_count": 260,
+      "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
     {
       "ticker": "HILBERT-GROUP",
@@ -281,16 +291,6 @@
       "market_cap": 415907862.0,
       "owner_count": 293,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
-    },
-    {
-      "ticker": "RANLOS",
-      "company_name": "RanLOS",
-      "trend7d": 2.34,
-      "discord_members": 333,
-      "facebook_members": null,
-      "market_cap": 49263059.0,
-      "owner_count": 260,
-      "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
     {
       "ticker": "KLARNA",
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
