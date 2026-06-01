@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T16:40:25.215538+00:00",
+  "generated_at": "2026-06-01T20:56:43.570496+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 70.11,
-      "discord_members": 1286,
+      "trend7d": 70.14,
+      "discord_members": 1287,
       "facebook_members": 128,
       "market_cap": 1349397816.0,
       "owner_count": 1317,
@@ -35,8 +35,8 @@
     {
       "ticker": "FRONT-VENTURES",
       "company_name": "Front Ventures",
-      "trend7d": 29.18,
-      "discord_members": 174,
+      "trend7d": 28.98,
+      "discord_members": 173,
       "facebook_members": null,
       "market_cap": 172421195.0,
       "owner_count": 819,
@@ -45,8 +45,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 26.42,
-      "discord_members": 2046,
+      "trend7d": 26.46,
+      "discord_members": 2048,
       "facebook_members": 405,
       "market_cap": 829447870.0,
       "owner_count": 1910,
@@ -55,8 +55,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 21.84,
-      "discord_members": 77,
+      "trend7d": 22.54,
+      "discord_members": 78,
       "facebook_members": null,
       "market_cap": 7535353505.0,
       "owner_count": 2852,
@@ -65,8 +65,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 18.75,
-      "discord_members": 536,
+      "trend7d": 18.68,
+      "discord_members": 535,
       "facebook_members": null,
       "market_cap": 609576306.0,
       "owner_count": 1713,
@@ -95,8 +95,8 @@
     {
       "ticker": "VIDHANCE",
       "company_name": "Vidhance",
-      "trend7d": 9.77,
-      "discord_members": 418,
+      "trend7d": 9.86,
+      "discord_members": 419,
       "facebook_members": 1418,
       "market_cap": 53342810.0,
       "owner_count": 410,
@@ -123,24 +123,24 @@
       "detail_url": "https://allaaktier.se/bolag/ortelius-international"
     },
     {
-      "ticker": "ACCONEER",
-      "company_name": "Acconeer",
-      "trend7d": 6.81,
-      "discord_members": 1073,
-      "facebook_members": 1461,
-      "market_cap": 1606586325.0,
-      "owner_count": 1313,
-      "detail_url": "https://allaaktier.se/bolag/acconeer"
-    },
-    {
       "ticker": "CRETURNER-GROUP",
       "company_name": "Creturner Group",
-      "trend7d": 6.79,
-      "discord_members": 551,
+      "trend7d": 6.73,
+      "discord_members": 550,
       "facebook_members": 656,
       "market_cap": 29383582.0,
       "owner_count": 369,
       "detail_url": "https://allaaktier.se/bolag/creturner-group"
+    },
+    {
+      "ticker": "ACCONEER",
+      "company_name": "Acconeer",
+      "trend7d": 6.72,
+      "discord_members": 1070,
+      "facebook_members": 1461,
+      "market_cap": 1606586325.0,
+      "owner_count": 1313,
+      "detail_url": "https://allaaktier.se/bolag/acconeer"
     },
     {
       "ticker": "BEAMMWAVE",
@@ -155,8 +155,8 @@
     {
       "ticker": "ANOTO",
       "company_name": "Anoto",
-      "trend7d": 6.0,
-      "discord_members": 371,
+      "trend7d": 6.1,
+      "discord_members": 372,
       "facebook_members": null,
       "market_cap": 156094566.0,
       "owner_count": 1401,
@@ -183,10 +183,20 @@
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 4.9,
+      "discord_members": 128,
+      "facebook_members": null,
+      "market_cap": 65428788.0,
+      "owner_count": 526,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "TERRANET",
       "company_name": "Terranet",
-      "trend7d": 4.48,
-      "discord_members": 1867,
+      "trend7d": 4.5,
+      "discord_members": 1868,
       "facebook_members": 2541,
       "market_cap": 369370681.0,
       "owner_count": 1807,
@@ -195,8 +205,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 4.19,
-      "discord_members": 204,
+      "trend7d": 4.37,
+      "discord_members": 205,
       "facebook_members": null,
       "market_cap": 23381495549.0,
       "owner_count": 3842,
@@ -215,8 +225,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 3.73,
-      "discord_members": 2457,
+      "trend7d": 3.76,
+      "discord_members": 2459,
       "facebook_members": 2874,
       "market_cap": 21724847539.0,
       "owner_count": 4683,
@@ -233,20 +243,10 @@
       "detail_url": "https://allaaktier.se/bolag/aerowash"
     },
     {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 3.38,
-      "discord_members": 123,
-      "facebook_members": null,
-      "market_cap": 65428788.0,
-      "owner_count": 526,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
-    },
-    {
       "ticker": "AVSALT",
       "company_name": "Avsalt",
-      "trend7d": 3.24,
-      "discord_members": 296,
+      "trend7d": 3.46,
+      "discord_members": 298,
       "facebook_members": null,
       "market_cap": 16923383.0,
       "owner_count": 333,
@@ -443,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     },
     {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 1.08,
-      "discord_members": 817,
-      "facebook_members": 2821,
-      "market_cap": 99720263.0,
-      "owner_count": 1756,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
-    },
-    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 1.05,
@@ -461,6 +451,16 @@
       "market_cap": 116222245.0,
       "owner_count": 263,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 1.04,
+      "discord_members": 816,
+      "facebook_members": 2821,
+      "market_cap": 99720263.0,
+      "owner_count": 1756,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "ALLARITY-THERAPEUTICS",
@@ -522,21 +522,20 @@
       "company_name": "Electrolux A",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.333,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95073167",
         "https://www.flashback.org/sp95080855",
         "https://www.flashback.org/sp95081592"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 69,
+    "total_posts_fetched": 74,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
