@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T21:50:48.348248+00:00",
+  "generated_at": "2026-06-02T23:49:06.915473+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -323,16 +323,6 @@
       "detail_url": "https://allaaktier.se/bolag/nordic-iron-ore"
     },
     {
-      "ticker": "AFRICA-OIL",
-      "company_name": "Africa Oil",
-      "trend7d": 310.24,
-      "discord_members": 1301,
-      "facebook_members": 1945,
-      "market_cap": 10439220340.0,
-      "owner_count": 3845,
-      "detail_url": "https://allaaktier.se/bolag/africa-oil"
-    },
-    {
       "ticker": "TRANSFER-GROUP",
       "company_name": "Transfer Group",
       "trend7d": 296.0,
@@ -405,8 +395,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 10.36,
-      "discord_members": 803,
+      "trend7d": 10.4,
+      "discord_members": 804,
       "facebook_members": null,
       "market_cap": 100536904.0,
       "owner_count": 1050,
@@ -415,8 +405,8 @@
     {
       "ticker": "VIDHANCE",
       "company_name": "Vidhance",
-      "trend7d": 10.0,
-      "discord_members": 425,
+      "trend7d": 10.08,
+      "discord_members": 426,
       "facebook_members": 1418,
       "market_cap": 45787820.0,
       "owner_count": 436,
@@ -455,8 +445,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 6.92,
-      "discord_members": 365,
+      "trend7d": 7.03,
+      "discord_members": 366,
       "facebook_members": 507,
       "market_cap": 705291015.0,
       "owner_count": 683,
@@ -511,15 +501,59 @@
       "market_cap": 58741891.0,
       "owner_count": 688,
       "detail_url": "https://allaaktier.se/bolag/aerowash"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 4.07,
+      "discord_members": 206,
+      "facebook_members": null,
+      "market_cap": 23800829730.0,
+      "owner_count": 3840,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.4,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95089409",
+        "https://www.flashback.org/sp95090228",
+        "https://www.flashback.org/sp95090989"
+      ]
+    },
+    {
+      "ticker": "AXFO",
+      "company_name": "Axfood",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95090413",
+        "https://www.flashback.org/sp95091910"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 66,
-    "tickers_with_any_mentions": 0,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
