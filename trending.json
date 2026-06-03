@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T14:45:12.619044+00:00",
+  "generated_at": "2026-06-03T18:47:20.773978+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
-      "trend7d": 10.95,
-      "discord_members": 147,
+      "trend7d": 10.71,
+      "discord_members": 146,
       "facebook_members": null,
       "market_cap": 24869481.0,
       "owner_count": 1575,
@@ -55,32 +55,32 @@
     {
       "ticker": "VIDHANCE",
       "company_name": "Vidhance",
-      "trend7d": 8.51,
-      "discord_members": 455,
+      "trend7d": 9.17,
+      "discord_members": 463,
       "facebook_members": 1418,
       "market_cap": 44322610.0,
       "owner_count": 429,
       "detail_url": "https://allaaktier.se/bolag/vidhance"
     },
     {
-      "ticker": "XOMA",
-      "company_name": "Xoma",
-      "trend7d": 8.05,
-      "discord_members": 812,
-      "facebook_members": null,
-      "market_cap": 104350738.0,
-      "owner_count": 1086,
-      "detail_url": "https://allaaktier.se/bolag/xoma"
-    },
-    {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 8.02,
-      "discord_members": 2133,
+      "trend7d": 8.1,
+      "discord_members": 2138,
       "facebook_members": 405,
       "market_cap": 613936305.0,
       "owner_count": 1976,
       "detail_url": "https://allaaktier.se/bolag/smoltek"
+    },
+    {
+      "ticker": "XOMA",
+      "company_name": "Xoma",
+      "trend7d": 8.0,
+      "discord_members": 811,
+      "facebook_members": null,
+      "market_cap": 104350738.0,
+      "owner_count": 1086,
+      "detail_url": "https://allaaktier.se/bolag/xoma"
     },
     {
       "ticker": "RAYSEARCH-LABORATORIES",
@@ -105,8 +105,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 4.72,
-      "discord_members": 372,
+      "trend7d": 4.82,
+      "discord_members": 373,
       "facebook_members": 507,
       "market_cap": 666662002.0,
       "owner_count": 685,
@@ -145,8 +145,8 @@
     {
       "ticker": "AVSALT",
       "company_name": "Avsalt",
-      "trend7d": 4.04,
-      "discord_members": 300,
+      "trend7d": 3.92,
+      "discord_members": 299,
       "facebook_members": null,
       "market_cap": 20145121.0,
       "owner_count": 330,
@@ -155,8 +155,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 3.81,
-      "discord_members": 1297,
+      "trend7d": 3.63,
+      "discord_members": 1290,
       "facebook_members": 128,
       "market_cap": 1814869536.0,
       "owner_count": 1384,
@@ -165,8 +165,8 @@
     {
       "ticker": "TOURN-INTERNATIONAL",
       "company_name": "Tourn International",
-      "trend7d": 3.45,
-      "discord_members": 166,
+      "trend7d": 3.25,
+      "discord_members": 165,
       "facebook_members": 120,
       "market_cap": 62616507.0,
       "owner_count": 164,
@@ -203,6 +203,16 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
+      "ticker": "TOBII",
+      "company_name": "Tobii",
+      "trend7d": 2.51,
+      "discord_members": 260,
+      "facebook_members": null,
+      "market_cap": 853545592.0,
+      "owner_count": 2353,
+      "detail_url": "https://allaaktier.se/bolag/tobii"
+    },
+    {
       "ticker": "COMINTELLI",
       "company_name": "Comintelli",
       "trend7d": 1.94,
@@ -215,8 +225,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.92,
-      "discord_members": 1365,
+      "trend7d": 1.85,
+      "discord_members": 1362,
       "facebook_members": null,
       "market_cap": 758170744.0,
       "owner_count": 737,
@@ -243,24 +253,14 @@
       "detail_url": "https://allaaktier.se/bolag/renewable-ventures-nordic"
     },
     {
-      "ticker": "TERRANET",
-      "company_name": "Terranet",
-      "trend7d": 1.52,
-      "discord_members": 1872,
-      "facebook_members": 2541,
-      "market_cap": 350668368.0,
-      "owner_count": 1805,
-      "detail_url": "https://allaaktier.se/bolag/terranet"
-    },
-    {
-      "ticker": "ORTELIUS-INTERNATIONAL",
-      "company_name": "Ortelius International",
-      "trend7d": 1.51,
-      "discord_members": 202,
-      "facebook_members": 78,
-      "market_cap": 32338378.0,
-      "owner_count": 725,
-      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 1.48,
+      "discord_members": 62,
+      "facebook_members": null,
+      "market_cap": 61582316006.93,
+      "owner_count": 5763,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "VICORE-PHARMA",
@@ -273,24 +273,34 @@
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
-      "ticker": "BIOINVENT-INTERNATIONAL",
-      "company_name": "BioInvent International",
-      "trend7d": 1.43,
-      "discord_members": 696,
-      "facebook_members": 19,
-      "market_cap": 1957679770.0,
-      "owner_count": 1548,
-      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
+      "ticker": "TERRANET",
+      "company_name": "Terranet",
+      "trend7d": 1.48,
+      "discord_members": 1870,
+      "facebook_members": 2541,
+      "market_cap": 350668368.0,
+      "owner_count": 1805,
+      "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 1.41,
-      "discord_members": 1278,
+      "trend7d": 1.43,
+      "discord_members": 1279,
       "facebook_members": 195,
       "market_cap": 876857696.0,
       "owner_count": 1445,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
+      "ticker": "BIOINVENT-INTERNATIONAL",
+      "company_name": "BioInvent International",
+      "trend7d": 1.38,
+      "discord_members": 695,
+      "facebook_members": 19,
+      "market_cap": 1957679770.0,
+      "owner_count": 1548,
+      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
       "ticker": "AAC-CLYDE-SPACE",
@@ -303,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/aac-clyde-space"
     },
     {
+      "ticker": "ORTELIUS-INTERNATIONAL",
+      "company_name": "Ortelius International",
+      "trend7d": 1.34,
+      "discord_members": 201,
+      "facebook_members": 78,
+      "market_cap": 32338378.0,
+      "owner_count": 725,
+      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
+    },
+    {
       "ticker": "OPTICEPT-TECHNOLOGIES",
       "company_name": "OptiCept Technologies",
       "trend7d": 1.33,
@@ -311,6 +331,16 @@
       "market_cap": 323888707.0,
       "owner_count": 1087,
       "detail_url": "https://allaaktier.se/bolag/opticept-technologies"
+    },
+    {
+      "ticker": "LOHILO-FOODS",
+      "company_name": "Lohilo Foods",
+      "trend7d": 1.19,
+      "discord_members": 26,
+      "facebook_members": 222,
+      "market_cap": 77973733.0,
+      "owner_count": 734,
+      "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
       "ticker": "KLIMATOR",
@@ -323,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/klimator"
     },
     {
-      "ticker": "CURASIGHT",
-      "company_name": "Curasight",
-      "trend7d": 1.12,
-      "discord_members": 817,
-      "facebook_members": 305,
-      "market_cap": 1529646439.46,
-      "owner_count": 4367,
-      "detail_url": "https://allaaktier.se/bolag/curasight"
-    },
-    {
       "ticker": "SEATWIRL",
       "company_name": "SeaTwirl",
       "trend7d": 1.12,
@@ -343,16 +363,6 @@
       "detail_url": "https://allaaktier.se/bolag/seatwirl"
     },
     {
-      "ticker": "SMART-EYE",
-      "company_name": "Smart Eye",
-      "trend7d": 1.11,
-      "discord_members": 1513,
-      "facebook_members": null,
-      "market_cap": 3548750265.0,
-      "owner_count": 6555,
-      "detail_url": "https://allaaktier.se/bolag/smart-eye"
-    },
-    {
       "ticker": "ENERSIZE",
       "company_name": "Enersize",
       "trend7d": 1.11,
@@ -361,6 +371,16 @@
       "market_cap": 17126041.0,
       "owner_count": 496,
       "detail_url": "https://allaaktier.se/bolag/enersize"
+    },
+    {
+      "ticker": "SMART-EYE",
+      "company_name": "Smart Eye",
+      "trend7d": 1.09,
+      "discord_members": 1512,
+      "facebook_members": null,
+      "market_cap": 3548750265.0,
+      "owner_count": 6555,
+      "detail_url": "https://allaaktier.se/bolag/smart-eye"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -403,24 +423,24 @@
       "detail_url": "https://allaaktier.se/bolag/fluicell"
     },
     {
-      "ticker": "TOBII",
-      "company_name": "Tobii",
-      "trend7d": 1.03,
-      "discord_members": 249,
-      "facebook_members": null,
-      "market_cap": 853545592.0,
-      "owner_count": 2353,
-      "detail_url": "https://allaaktier.se/bolag/tobii"
+      "ticker": "CURASIGHT",
+      "company_name": "Curasight",
+      "trend7d": 1.04,
+      "discord_members": 815,
+      "facebook_members": 305,
+      "market_cap": 1529646439.46,
+      "owner_count": 4367,
+      "detail_url": "https://allaaktier.se/bolag/curasight"
     },
     {
-      "ticker": "KILIARO",
-      "company_name": "Kiliaro",
+      "ticker": "MINESTO",
+      "company_name": "Minesto",
       "trend7d": 1.01,
-      "discord_members": 43,
-      "facebook_members": null,
-      "market_cap": 2669620.0,
-      "owner_count": 360,
-      "detail_url": "https://allaaktier.se/bolag/kiliaro"
+      "discord_members": 1423,
+      "facebook_members": 5066,
+      "market_cap": 333463087.0,
+      "owner_count": 2898,
+      "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
       "ticker": "SENZAGEN",
@@ -443,14 +463,14 @@
       "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
     {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 0.94,
-      "discord_members": 61,
-      "facebook_members": null,
-      "market_cap": 61582316006.93,
-      "owner_count": 5763,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.93,
+      "discord_members": 1070,
+      "facebook_members": 297,
+      "market_cap": 648198433.0,
+      "owner_count": 2313,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "SCANDIC-HOTELS",
@@ -491,26 +511,6 @@
       "market_cap": 51995852.0,
       "owner_count": 192,
       "detail_url": "https://allaaktier.se/bolag/kontigo-care"
-    },
-    {
-      "ticker": "MINESTO",
-      "company_name": "Minesto",
-      "trend7d": 0.82,
-      "discord_members": 1415,
-      "facebook_members": 5066,
-      "market_cap": 333463087.0,
-      "owner_count": 2898,
-      "detail_url": "https://allaaktier.se/bolag/minesto"
-    },
-    {
-      "ticker": "NOTE",
-      "company_name": "NOTE",
-      "trend7d": 0.79,
-      "discord_members": 45,
-      "facebook_members": null,
-      "market_cap": 5244377820.0,
-      "owner_count": 2560,
-      "detail_url": "https://allaaktier.se/bolag/note"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 46,
+    "total_posts_fetched": 49,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
