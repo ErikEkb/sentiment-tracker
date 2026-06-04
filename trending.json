@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T15:35:48.043490+00:00",
+  "generated_at": "2026-06-04T18:21:33.368003+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,12 +45,22 @@
     {
       "ticker": "CRETURNER-GROUP",
       "company_name": "Creturner Group",
-      "trend7d": 13.73,
-      "discord_members": 551,
+      "trend7d": 13.85,
+      "discord_members": 553,
       "facebook_members": 656,
       "market_cap": 11426948.0,
       "owner_count": 427,
       "detail_url": "https://allaaktier.se/bolag/creturner-group"
+    },
+    {
+      "ticker": "PARADOX-INTERACTIVE",
+      "company_name": "Paradox Interactive",
+      "trend7d": 13.12,
+      "discord_members": 28,
+      "facebook_members": null,
+      "market_cap": 13667619435.0,
+      "owner_count": 2845,
+      "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
     },
     {
       "ticker": "FRONT-VENTURES",
@@ -85,8 +95,8 @@
     {
       "ticker": "VIDHANCE",
       "company_name": "Vidhance",
-      "trend7d": 7.87,
-      "discord_members": 473,
+      "trend7d": 7.79,
+      "discord_members": 472,
       "facebook_members": 1418,
       "market_cap": 42033219.0,
       "owner_count": 434,
@@ -95,8 +105,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 6.47,
-      "discord_members": 814,
+      "trend7d": 6.51,
+      "discord_members": 815,
       "facebook_members": null,
       "market_cap": 109329911.0,
       "owner_count": 1113,
@@ -135,8 +145,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 4.37,
-      "discord_members": 386,
+      "trend7d": 4.46,
+      "discord_members": 387,
       "facebook_members": 507,
       "market_cap": 726474668.0,
       "owner_count": 686,
@@ -145,8 +155,8 @@
     {
       "ticker": "OPTICEPT-TECHNOLOGIES",
       "company_name": "OptiCept Technologies",
-      "trend7d": 4.28,
-      "discord_members": 812,
+      "trend7d": 4.41,
+      "discord_members": 815,
       "facebook_members": 1444,
       "market_cap": 310160974.0,
       "owner_count": 1114,
@@ -225,8 +235,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 2.17,
-      "discord_members": 1293,
+      "trend7d": 2.25,
+      "discord_members": 1296,
       "facebook_members": 128,
       "market_cap": 1537467198.0,
       "owner_count": 1401,
@@ -245,8 +255,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 2.06,
-      "discord_members": 1109,
+      "trend7d": 2.09,
+      "discord_members": 1110,
       "facebook_members": 297,
       "market_cap": 843923849.0,
       "owner_count": 2311,
@@ -255,8 +265,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 2.01,
-      "discord_members": 894,
+      "trend7d": 1.93,
+      "discord_members": 892,
       "facebook_members": 289,
       "market_cap": 2933496679.0,
       "owner_count": 2145,
@@ -275,8 +285,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.69,
-      "discord_members": 1362,
+      "trend7d": 1.71,
+      "discord_members": 1363,
       "facebook_members": null,
       "market_cap": 722311317.0,
       "owner_count": 736,
@@ -295,8 +305,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.6,
-      "discord_members": 2494,
+      "trend7d": 1.61,
+      "discord_members": 2495,
       "facebook_members": 2874,
       "market_cap": 25628281117.0,
       "owner_count": 4876,
@@ -373,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/absolicon"
     },
     {
-      "ticker": "CURASIGHT",
-      "company_name": "Curasight",
-      "trend7d": 1.14,
-      "discord_members": 816,
-      "facebook_members": 305,
-      "market_cap": 1652221924.65,
-      "owner_count": 4405,
-      "detail_url": "https://allaaktier.se/bolag/curasight"
-    },
-    {
       "ticker": "ANOTO",
       "company_name": "Anoto",
       "trend7d": 1.12,
@@ -401,6 +401,16 @@
       "market_cap": 51976120.0,
       "owner_count": 1275,
       "detail_url": "https://allaaktier.se/bolag/svenska-aerogel"
+    },
+    {
+      "ticker": "CURASIGHT",
+      "company_name": "Curasight",
+      "trend7d": 1.1,
+      "discord_members": 815,
+      "facebook_members": 305,
+      "market_cap": 1652221924.65,
+      "owner_count": 4405,
+      "detail_url": "https://allaaktier.se/bolag/curasight"
     },
     {
       "ticker": "ZINZINO",
@@ -473,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/camurus"
     },
     {
+      "ticker": "CINCLUS-PHARMA",
+      "company_name": "Cinclus Pharma",
+      "trend7d": 0.87,
+      "discord_members": 285,
+      "facebook_members": null,
+      "market_cap": 575341539.0,
+      "owner_count": 635,
+      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
+    },
+    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 0.85,
@@ -491,26 +511,6 @@
       "market_cap": 252202797.0,
       "owner_count": 537,
       "detail_url": "https://allaaktier.se/bolag/seatwirl"
-    },
-    {
-      "ticker": "KONTIGO-CARE",
-      "company_name": "Kontigo Care",
-      "trend7d": 0.83,
-      "discord_members": 41,
-      "facebook_members": null,
-      "market_cap": 51995852.0,
-      "owner_count": 192,
-      "detail_url": "https://allaaktier.se/bolag/kontigo-care"
-    },
-    {
-      "ticker": "EMB-MISSION-BOUND",
-      "company_name": "EMB Mission Bound",
-      "trend7d": 0.82,
-      "discord_members": 109,
-      "facebook_members": null,
-      "market_cap": 171083830.0,
-      "owner_count": 102,
-      "detail_url": "https://allaaktier.se/bolag/emb-mission-bound"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 46,
+    "total_posts_fetched": 56,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
