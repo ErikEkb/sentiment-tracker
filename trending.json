@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T15:56:55.817150+00:00",
+  "generated_at": "2026-06-05T18:02:47.499940+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "PARADOX-INTERACTIVE",
       "company_name": "Paradox Interactive",
-      "trend7d": 33.1,
-      "discord_members": 38,
+      "trend7d": 34.86,
+      "discord_members": 39,
       "facebook_members": null,
       "market_cap": 13910552392.0,
       "owner_count": 2843,
@@ -45,8 +45,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 28.56,
-      "discord_members": 318,
+      "trend7d": 28.67,
+      "discord_members": 319,
       "facebook_members": null,
       "market_cap": 133043886.0,
       "owner_count": 475,
@@ -85,8 +85,8 @@
     {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
-      "trend7d": 8.12,
-      "discord_members": 148,
+      "trend7d": 8.35,
+      "discord_members": 149,
       "facebook_members": null,
       "market_cap": 20724567.0,
       "owner_count": 1581,
@@ -125,8 +125,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 5.16,
-      "discord_members": 393,
+      "trend7d": 5.35,
+      "discord_members": 395,
       "facebook_members": 507,
       "market_cap": 839869513.0,
       "owner_count": 689,
@@ -165,8 +165,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 3.93,
-      "discord_members": 1306,
+      "trend7d": 3.95,
+      "discord_members": 1307,
       "facebook_members": 128,
       "market_cap": 1452835976.0,
       "owner_count": 1391,
@@ -335,12 +335,22 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.29,
-      "discord_members": 1363,
+      "trend7d": 1.32,
+      "discord_members": 1364,
       "facebook_members": null,
       "market_cap": 808373942.0,
       "owner_count": 739,
       "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 1.26,
+      "discord_members": 2505,
+      "facebook_members": 2874,
+      "market_cap": 27931946836.0,
+      "owner_count": 4884,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
       "ticker": "KILIARO",
@@ -353,20 +363,10 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 1.24,
-      "discord_members": 2503,
-      "facebook_members": 2874,
-      "market_cap": 27931946836.0,
-      "owner_count": 4884,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
       "ticker": "MINESTO",
       "company_name": "Minesto",
-      "trend7d": 1.17,
-      "discord_members": 1430,
+      "trend7d": 1.15,
+      "discord_members": 1429,
       "facebook_members": 5066,
       "market_cap": 293405898.0,
       "owner_count": 2897,
@@ -415,8 +415,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 1.03,
-      "discord_members": 1279,
+      "trend7d": 1.0,
+      "discord_members": 1278,
       "facebook_members": 195,
       "market_cap": 830053745.0,
       "owner_count": 1444,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 51,
+    "total_posts_fetched": 53,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
