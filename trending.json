@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T22:40:22.385933+00:00",
+  "generated_at": "2026-06-05T00:13:01.468221+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -133,24 +133,24 @@
       "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
+      "ticker": "UNIBAP",
+      "company_name": "Unibap",
+      "trend7d": 4.65,
+      "discord_members": 389,
+      "facebook_members": 507,
+      "market_cap": 745166126.0,
+      "owner_count": 686,
+      "detail_url": "https://allaaktier.se/bolag/unibap"
+    },
+    {
       "ticker": "TOBII",
       "company_name": "Tobii",
-      "trend7d": 4.7,
+      "trend7d": 4.55,
       "discord_members": 275,
       "facebook_members": null,
       "market_cap": 773639196.0,
       "owner_count": 2366,
       "detail_url": "https://allaaktier.se/bolag/tobii"
-    },
-    {
-      "ticker": "UNIBAP",
-      "company_name": "Unibap",
-      "trend7d": 4.56,
-      "discord_members": 388,
-      "facebook_members": 507,
-      "market_cap": 745166126.0,
-      "owner_count": 686,
-      "detail_url": "https://allaaktier.se/bolag/unibap"
     },
     {
       "ticker": "OPTICEPT-TECHNOLOGIES",
@@ -235,8 +235,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 2.44,
-      "discord_members": 1303,
+      "trend7d": 2.46,
+      "discord_members": 1304,
       "facebook_members": 128,
       "market_cap": 1565677605.0,
       "owner_count": 1401,
@@ -305,8 +305,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.67,
-      "discord_members": 2499,
+      "trend7d": 1.68,
+      "discord_members": 2500,
       "facebook_members": 2874,
       "market_cap": 27755972371.0,
       "owner_count": 4876,
@@ -315,12 +315,22 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 1.39,
-      "discord_members": 159,
+      "trend7d": 1.61,
+      "discord_members": 160,
       "facebook_members": null,
       "market_cap": 4897516.0,
       "owner_count": 440,
       "detail_url": "https://allaaktier.se/bolag/36-group"
+    },
+    {
+      "ticker": "KILIARO",
+      "company_name": "Kiliaro",
+      "trend7d": 1.47,
+      "discord_members": 43,
+      "facebook_members": null,
+      "market_cap": 5141491.0,
+      "owner_count": 363,
+      "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
       "ticker": "EATGOOD",
@@ -331,16 +341,6 @@
       "market_cap": 5670918.0,
       "owner_count": 207,
       "detail_url": "https://allaaktier.se/bolag/eatgood"
-    },
-    {
-      "ticker": "KILIARO",
-      "company_name": "Kiliaro",
-      "trend7d": 1.36,
-      "discord_members": 43,
-      "facebook_members": null,
-      "market_cap": 5141491.0,
-      "owner_count": 363,
-      "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
       "ticker": "MINESTO",
@@ -433,6 +433,16 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 1.03,
+      "discord_members": 793,
+      "facebook_members": null,
+      "market_cap": 2350234254.0,
+      "owner_count": 7054,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
+    },
+    {
       "ticker": "BIBBINSTRUMENTS",
       "company_name": "BiBBInstruments",
       "trend7d": 1.01,
@@ -471,16 +481,6 @@
       "market_cap": 436848047.0,
       "owner_count": 984,
       "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
-    },
-    {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.9,
-      "discord_members": 790,
-      "facebook_members": null,
-      "market_cap": 2350234254.0,
-      "owner_count": 7054,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
       "ticker": "CAMURUS",
