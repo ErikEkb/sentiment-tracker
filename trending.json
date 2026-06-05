@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T18:02:47.499940+00:00",
+  "generated_at": "2026-06-05T20:48:45.722989+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -95,8 +95,8 @@
     {
       "ticker": "AVSALT",
       "company_name": "Avsalt",
-      "trend7d": 6.61,
-      "discord_members": 295,
+      "trend7d": 6.5,
+      "discord_members": 294,
       "facebook_members": null,
       "market_cap": 20441373.0,
       "owner_count": 371,
@@ -135,8 +135,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 5.13,
-      "discord_members": 2148,
+      "trend7d": 5.12,
+      "discord_members": 2147,
       "facebook_members": 405,
       "market_cap": 496219905.0,
       "owner_count": 2004,
@@ -145,8 +145,8 @@
     {
       "ticker": "OPTICEPT-TECHNOLOGIES",
       "company_name": "OptiCept Technologies",
-      "trend7d": 4.58,
-      "discord_members": 818,
+      "trend7d": 4.62,
+      "discord_members": 819,
       "facebook_members": 1444,
       "market_cap": 293859291.0,
       "owner_count": 1110,
@@ -165,8 +165,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 3.95,
-      "discord_members": 1307,
+      "trend7d": 4.01,
+      "discord_members": 1309,
       "facebook_members": 128,
       "market_cap": 1452835976.0,
       "owner_count": 1391,
@@ -473,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/svenska-aerogel"
     },
     {
-      "ticker": "CINCLUS-PHARMA",
-      "company_name": "Cinclus Pharma",
-      "trend7d": 0.82,
-      "discord_members": 284,
-      "facebook_members": null,
-      "market_cap": 573445850.0,
-      "owner_count": 636,
-      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
-    },
-    {
       "ticker": "SINCH",
       "company_name": "Sinch",
       "trend7d": 0.8,
@@ -511,6 +501,16 @@
       "market_cap": 32334170176.0,
       "owner_count": 2539,
       "detail_url": "https://allaaktier.se/bolag/camurus"
+    },
+    {
+      "ticker": "TRIBORON-INTERNATIONAL",
+      "company_name": "Triboron International",
+      "trend7d": 0.76,
+      "discord_members": 42,
+      "facebook_members": 175,
+      "market_cap": 66979556.0,
+      "owner_count": 320,
+      "detail_url": "https://allaaktier.se/bolag/triboron-international"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 53,
+    "total_posts_fetched": 55,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
