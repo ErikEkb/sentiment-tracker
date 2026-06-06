@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T20:11:59.783116+00:00",
+  "generated_at": "2026-06-06T22:05:41.398850+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "PARADOX-INTERACTIVE",
       "company_name": "Paradox Interactive",
-      "trend7d": 34.86,
-      "discord_members": 39,
+      "trend7d": 36.62,
+      "discord_members": 40,
       "facebook_members": null,
       "market_cap": 13646494830.0,
       "owner_count": 2843,
@@ -95,8 +95,8 @@
     {
       "ticker": "AVSALT",
       "company_name": "Avsalt",
-      "trend7d": 6.5,
-      "discord_members": 294,
+      "trend7d": 6.61,
+      "discord_members": 295,
       "facebook_members": null,
       "market_cap": 20737625.0,
       "owner_count": 371,
@@ -115,8 +115,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 6.17,
-      "discord_members": 397,
+      "trend7d": 6.27,
+      "discord_members": 398,
       "facebook_members": 507,
       "market_cap": 791271722.0,
       "owner_count": 689,
@@ -133,10 +133,20 @@
       "detail_url": "https://allaaktier.se/bolag/vidhance"
     },
     {
+      "ticker": "TOBII",
+      "company_name": "Tobii",
+      "trend7d": 4.56,
+      "discord_members": 276,
+      "facebook_members": null,
+      "market_cap": 727459525.0,
+      "owner_count": 2361,
+      "detail_url": "https://allaaktier.se/bolag/tobii"
+    },
+    {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 4.45,
-      "discord_members": 2153,
+      "trend7d": 4.47,
+      "discord_members": 2154,
       "facebook_members": 405,
       "market_cap": 459999474.0,
       "owner_count": 2004,
@@ -151,16 +161,6 @@
       "market_cap": 299865174.0,
       "owner_count": 1110,
       "detail_url": "https://allaaktier.se/bolag/opticept-technologies"
-    },
-    {
-      "ticker": "TOBII",
-      "company_name": "Tobii",
-      "trend7d": 4.43,
-      "discord_members": 275,
-      "facebook_members": null,
-      "market_cap": 727459525.0,
-      "owner_count": 2361,
-      "detail_url": "https://allaaktier.se/bolag/tobii"
     },
     {
       "ticker": "SHT-SMART-HIGH-TECH",
@@ -233,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
+      "ticker": "ACAST",
+      "company_name": "Acast",
+      "trend7d": 2.17,
+      "discord_members": 57,
+      "facebook_members": null,
+      "market_cap": 7070528825.0,
+      "owner_count": 1365,
+      "detail_url": "https://allaaktier.se/bolag/acast"
+    },
+    {
       "ticker": "OVZON",
       "company_name": "Ovzon",
       "trend7d": 2.05,
@@ -283,20 +293,10 @@
       "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
     },
     {
-      "ticker": "ACAST",
-      "company_name": "Acast",
-      "trend7d": 1.59,
-      "discord_members": 56,
-      "facebook_members": null,
-      "market_cap": 7070528825.0,
-      "owner_count": 1365,
-      "detail_url": "https://allaaktier.se/bolag/acast"
-    },
-    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.48,
-      "discord_members": 2506,
+      "trend7d": 1.5,
+      "discord_members": 2507,
       "facebook_members": 2874,
       "market_cap": 25212341474.0,
       "owner_count": 4884,
@@ -463,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/game-chest"
     },
     {
+      "ticker": "CINCLUS-PHARMA",
+      "company_name": "Cinclus Pharma",
+      "trend7d": 0.87,
+      "discord_members": 284,
+      "facebook_members": null,
+      "market_cap": 579132916.0,
+      "owner_count": 636,
+      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
+    },
+    {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
       "trend7d": 0.86,
@@ -493,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/luxbright"
     },
     {
-      "ticker": "CINCLUS-PHARMA",
-      "company_name": "Cinclus Pharma",
-      "trend7d": 0.75,
-      "discord_members": 283,
-      "facebook_members": null,
-      "market_cap": 579132916.0,
-      "owner_count": 636,
-      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
-    },
-    {
       "ticker": "KONTIGO-CARE",
       "company_name": "Kontigo Care",
       "trend7d": 0.74,
@@ -516,10 +516,28 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "NTECH",
+      "company_name": "Nordtech",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95123432",
+        "https://www.flashback.org/sp95123821",
+        "https://www.flashback.org/sp95124197"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 54,
-    "tickers_with_any_mentions": 2,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
