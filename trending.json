@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T16:08:55.380480+00:00",
+  "generated_at": "2026-06-06T18:09:23.189917+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 6.36,
-      "discord_members": 816,
+      "trend7d": 6.4,
+      "discord_members": 817,
       "facebook_members": null,
       "market_cap": 96934950.0,
       "owner_count": 1124,
@@ -155,8 +155,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 4.4,
-      "discord_members": 2150,
+      "trend7d": 4.42,
+      "discord_members": 2151,
       "facebook_members": 405,
       "market_cap": 459999474.0,
       "owner_count": 2004,
@@ -203,6 +203,16 @@
       "detail_url": "https://allaaktier.se/bolag/dellia"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 2.45,
+      "discord_members": 215,
+      "facebook_members": null,
+      "market_cap": 22383769394.0,
+      "owner_count": 3803,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "PRECISE-BIOMETRICS",
       "company_name": "Precise Biometrics",
       "trend7d": 2.44,
@@ -221,16 +231,6 @@
       "market_cap": 7514783842.0,
       "owner_count": 2839,
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 2.28,
-      "discord_members": 214,
-      "facebook_members": null,
-      "market_cap": 22383769394.0,
-      "owner_count": 3803,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "OVZON",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 57,
+    "total_posts_fetched": 53,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
