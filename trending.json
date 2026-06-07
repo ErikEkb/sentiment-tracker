@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T20:14:41.898252+00:00",
+  "generated_at": "2026-06-07T22:06:56.377175+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "PARADOX-INTERACTIVE",
       "company_name": "Paradox Interactive",
-      "trend7d": 38.34,
-      "discord_members": 41,
+      "trend7d": 40.09,
+      "discord_members": 42,
       "facebook_members": null,
       "market_cap": 13646494830.0,
       "owner_count": 2843,
@@ -45,32 +45,32 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 12.18,
-      "discord_members": 505,
+      "trend7d": 12.09,
+      "discord_members": 504,
       "facebook_members": null,
       "market_cap": 637458967.0,
       "owner_count": 1750,
       "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
-      "ticker": "XOMA",
-      "company_name": "Xoma",
-      "trend7d": 7.16,
-      "discord_members": 818,
-      "facebook_members": null,
-      "market_cap": 96934950.0,
-      "owner_count": 1124,
-      "detail_url": "https://allaaktier.se/bolag/xoma"
-    },
-    {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 7.1,
-      "discord_members": 143,
+      "trend7d": 7.36,
+      "discord_members": 144,
       "facebook_members": null,
       "market_cap": 70930754.0,
       "owner_count": 520,
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
+      "ticker": "XOMA",
+      "company_name": "Xoma",
+      "trend7d": 7.25,
+      "discord_members": 820,
+      "facebook_members": null,
+      "market_cap": 96934950.0,
+      "owner_count": 1124,
+      "detail_url": "https://allaaktier.se/bolag/xoma"
     },
     {
       "ticker": "CRETURNER-GROUP",
@@ -135,8 +135,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 3.99,
-      "discord_members": 1312,
+      "trend7d": 4.04,
+      "discord_members": 1314,
       "facebook_members": 128,
       "market_cap": 1316485674.0,
       "owner_count": 1391,
@@ -203,6 +203,16 @@
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 2.01,
+      "discord_members": 1111,
+      "facebook_members": 297,
+      "market_cap": 748495537.0,
+      "owner_count": 2315,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "OVZON",
       "company_name": "Ovzon",
       "trend7d": 2.0,
@@ -211,16 +221,6 @@
       "market_cap": 7203704620.0,
       "owner_count": 3526,
       "detail_url": "https://allaaktier.se/bolag/ovzon"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 1.91,
-      "discord_members": 1108,
-      "facebook_members": 297,
-      "market_cap": 748495537.0,
-      "owner_count": 2315,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "SCANDIC-HOTELS",
@@ -363,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/absolicon"
     },
     {
+      "ticker": "GAME-CHEST",
+      "company_name": "Game Chest",
+      "trend7d": 1.04,
+      "discord_members": 259,
+      "facebook_members": 188,
+      "market_cap": 10509871.0,
+      "owner_count": 171,
+      "detail_url": "https://allaaktier.se/bolag/game-chest"
+    },
+    {
       "ticker": "SENZAGEN",
       "company_name": "SenzaGen",
       "trend7d": 0.95,
@@ -391,16 +401,6 @@
       "market_cap": 38127430774.0,
       "owner_count": 3544,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "GAME-CHEST",
-      "company_name": "Game Chest",
-      "trend7d": 0.91,
-      "discord_members": 258,
-      "facebook_members": 188,
-      "market_cap": 10509871.0,
-      "owner_count": 171,
-      "detail_url": "https://allaaktier.se/bolag/game-chest"
     },
     {
       "ticker": "CINCLUS-PHARMA",
@@ -550,11 +550,27 @@
         "https://www.flashback.org/sp95122996",
         "https://www.flashback.org/sp95123263"
       ]
+    },
+    {
+      "ticker": "IMP-A-SDB",
+      "company_name": "Implantica",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.25,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 0.5,
+      "sample_posts": [
+        "https://www.flashback.org/sp95131036",
+        "https://www.flashback.org/sp95131085"
+      ]
     }
   ],
   "stats": {
     "total_posts_fetched": 44,
-    "tickers_with_any_mentions": 3,
+    "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
