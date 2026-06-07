@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T11:50:24.217552+00:00",
+  "generated_at": "2026-06-07T14:00:38.146434+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 6.58,
-      "discord_members": 141,
+      "trend7d": 6.84,
+      "discord_members": 142,
       "facebook_members": null,
       "market_cap": 70930754.0,
       "owner_count": 520,
@@ -533,10 +533,27 @@
         "https://www.flashback.org/sp95123821",
         "https://www.flashback.org/sp95124197"
       ]
+    },
+    {
+      "ticker": "SOFI",
+      "company_name": "SoFi Technologies Inc.",
+      "sector": "Financials",
+      "discovered": false,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.244,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 0.733,
+      "sample_posts": [
+        "https://www.flashback.org/sp95122347",
+        "https://www.flashback.org/sp95122996",
+        "https://www.flashback.org/sp95123263"
+      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 43,
+    "total_posts_fetched": 42,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
