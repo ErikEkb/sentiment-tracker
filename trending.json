@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T09:18:38.211102+00:00",
+  "generated_at": "2026-06-07T11:50:24.217552+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "NEXAR",
       "company_name": "Nexar",
-      "trend7d": 80.85,
-      "discord_members": 37,
+      "trend7d": 83.88,
+      "discord_members": 38,
       "facebook_members": null,
       "market_cap": 25842938.0,
       "owner_count": 457,
@@ -25,8 +25,8 @@
     {
       "ticker": "PARADOX-INTERACTIVE",
       "company_name": "Paradox Interactive",
-      "trend7d": 36.58,
-      "discord_members": 40,
+      "trend7d": 38.34,
+      "discord_members": 41,
       "facebook_members": null,
       "market_cap": 13646494830.0,
       "owner_count": 2843,
@@ -35,8 +35,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 29.36,
-      "discord_members": 321,
+      "trend7d": 29.47,
+      "discord_members": 322,
       "facebook_members": null,
       "market_cap": 135082873.0,
       "owner_count": 475,
@@ -45,8 +45,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 12.09,
-      "discord_members": 504,
+      "trend7d": 12.18,
+      "discord_members": 505,
       "facebook_members": null,
       "market_cap": 637458967.0,
       "owner_count": 1750,
@@ -318,7 +318,7 @@
       "trend7d": 1.13,
       "discord_members": 61,
       "facebook_members": null,
-      "market_cap": 62217562313.06,
+      "market_cap": 62158932201.32,
       "owner_count": 5788,
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
@@ -458,7 +458,7 @@
       "trend7d": 0.74,
       "discord_members": 44,
       "facebook_members": null,
-      "market_cap": 11864696788953.22,
+      "market_cap": 11853516207897.78,
       "owner_count": 43834,
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 49,
+    "total_posts_fetched": 43,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
