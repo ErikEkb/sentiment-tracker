@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:06:56.377175+00:00",
+  "generated_at": "2026-06-08T00:12:17.782819+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,32 +65,12 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 7.25,
-      "discord_members": 820,
+      "trend7d": 7.29,
+      "discord_members": 821,
       "facebook_members": null,
       "market_cap": 96934950.0,
       "owner_count": 1124,
       "detail_url": "https://allaaktier.se/bolag/xoma"
-    },
-    {
-      "ticker": "CRETURNER-GROUP",
-      "company_name": "Creturner Group",
-      "trend7d": 6.52,
-      "discord_members": 551,
-      "facebook_members": 656,
-      "market_cap": 8871854.0,
-      "owner_count": 431,
-      "detail_url": "https://allaaktier.se/bolag/creturner-group"
-    },
-    {
-      "ticker": "AVSALT",
-      "company_name": "Avsalt",
-      "trend7d": 5.71,
-      "discord_members": 294,
-      "facebook_members": null,
-      "market_cap": 20737625.0,
-      "owner_count": 371,
-      "detail_url": "https://allaaktier.se/bolag/avsalt"
     },
     {
       "ticker": "UNIBAP",
@@ -103,10 +83,20 @@
       "detail_url": "https://allaaktier.se/bolag/unibap"
     },
     {
+      "ticker": "AVSALT",
+      "company_name": "Avsalt",
+      "trend7d": 4.85,
+      "discord_members": 294,
+      "facebook_members": null,
+      "market_cap": 20737625.0,
+      "owner_count": 371,
+      "detail_url": "https://allaaktier.se/bolag/avsalt"
+    },
+    {
       "ticker": "OPTICEPT-TECHNOLOGIES",
       "company_name": "OptiCept Technologies",
-      "trend7d": 4.52,
-      "discord_members": 820,
+      "trend7d": 4.56,
+      "discord_members": 821,
       "facebook_members": 1444,
       "market_cap": 299865174.0,
       "owner_count": 1110,
@@ -135,8 +125,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 4.04,
-      "discord_members": 1314,
+      "trend7d": 4.06,
+      "discord_members": 1315,
       "facebook_members": 128,
       "market_cap": 1316485674.0,
       "owner_count": 1391,
@@ -155,8 +145,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 3.4,
-      "discord_members": 2153,
+      "trend7d": 3.38,
+      "discord_members": 2152,
       "facebook_members": 405,
       "market_cap": 459999474.0,
       "owner_count": 2004,
@@ -203,16 +193,6 @@
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 2.01,
-      "discord_members": 1111,
-      "facebook_members": 297,
-      "market_cap": 748495537.0,
-      "owner_count": 2315,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
       "ticker": "OVZON",
       "company_name": "Ovzon",
       "trend7d": 2.0,
@@ -221,6 +201,16 @@
       "market_cap": 7203704620.0,
       "owner_count": 3526,
       "detail_url": "https://allaaktier.se/bolag/ovzon"
+    },
+    {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 2.0,
+      "discord_members": 1111,
+      "facebook_members": 297,
+      "market_cap": 748495537.0,
+      "owner_count": 2315,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "SCANDIC-HOTELS",
@@ -283,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
-      "ticker": "36-GROUP",
-      "company_name": "36 Group",
-      "trend7d": 1.33,
-      "discord_members": 159,
-      "facebook_members": null,
-      "market_cap": 4565481.0,
-      "owner_count": 441,
-      "detail_url": "https://allaaktier.se/bolag/36-group"
-    },
-    {
       "ticker": "PIXELFOX",
       "company_name": "PixelFox",
       "trend7d": 1.29,
@@ -313,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
+      "ticker": "GAME-CHEST",
+      "company_name": "Game Chest",
+      "trend7d": 1.21,
+      "discord_members": 259,
+      "facebook_members": 188,
+      "market_cap": 10509871.0,
+      "owner_count": 171,
+      "detail_url": "https://allaaktier.se/bolag/game-chest"
+    },
+    {
       "ticker": "KLARNA",
       "company_name": "Klarna",
       "trend7d": 1.13,
@@ -321,6 +311,16 @@
       "market_cap": 62158932201.32,
       "owner_count": 5788,
       "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
+      "ticker": "36-GROUP",
+      "company_name": "36 Group",
+      "trend7d": 1.11,
+      "discord_members": 158,
+      "facebook_members": null,
+      "market_cap": 4565481.0,
+      "owner_count": 441,
+      "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
       "ticker": "MINESTO",
@@ -363,16 +363,6 @@
       "detail_url": "https://allaaktier.se/bolag/absolicon"
     },
     {
-      "ticker": "GAME-CHEST",
-      "company_name": "Game Chest",
-      "trend7d": 1.04,
-      "discord_members": 259,
-      "facebook_members": 188,
-      "market_cap": 10509871.0,
-      "owner_count": 171,
-      "detail_url": "https://allaaktier.se/bolag/game-chest"
-    },
-    {
       "ticker": "SENZAGEN",
       "company_name": "SenzaGen",
       "trend7d": 0.95,
@@ -381,6 +371,16 @@
       "market_cap": 183345385.0,
       "owner_count": 419,
       "detail_url": "https://allaaktier.se/bolag/senzagen"
+    },
+    {
+      "ticker": "CRETURNER-GROUP",
+      "company_name": "Creturner Group",
+      "trend7d": 0.95,
+      "discord_members": 551,
+      "facebook_members": 656,
+      "market_cap": 8871854.0,
+      "owner_count": 431,
+      "detail_url": "https://allaaktier.se/bolag/creturner-group"
     },
     {
       "ticker": "ZINZINO",
@@ -569,7 +569,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 44,
+    "total_posts_fetched": 45,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
