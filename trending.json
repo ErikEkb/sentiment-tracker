@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T03:50:46.683020+00:00",
+  "generated_at": "2026-06-09T07:53:16.065034+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 4.99,
-      "discord_members": 2510,
+      "trend7d": 5.02,
+      "discord_members": 2512,
       "facebook_members": 2874,
       "market_cap": 28603849337.0,
       "owner_count": 4970,
@@ -131,6 +131,16 @@
       "market_cap": 144531290.0,
       "owner_count": 1866,
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
+    },
+    {
+      "ticker": "ALZECURE-PHARMA",
+      "company_name": "AlzeCure Pharma",
+      "trend7d": 2.01,
+      "discord_members": 231,
+      "facebook_members": 12,
+      "market_cap": 159156520.0,
+      "owner_count": 631,
+      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
       "ticker": "PIXELFOX",
@@ -323,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
-      "ticker": "TOBII",
-      "company_name": "Tobii",
-      "trend7d": 0.67,
-      "discord_members": 274,
-      "facebook_members": null,
-      "market_cap": 743544579.0,
-      "owner_count": 2361,
-      "detail_url": "https://allaaktier.se/bolag/tobii"
-    },
-    {
       "ticker": "SINCH",
       "company_name": "Sinch",
       "trend7d": 0.66,
@@ -355,8 +355,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 0.59,
-      "discord_members": 1365,
+      "trend7d": 0.61,
+      "discord_members": 1366,
       "facebook_members": null,
       "market_cap": 758170744.0,
       "owner_count": 745,
@@ -381,6 +381,16 @@
       "market_cap": 339446980.0,
       "owner_count": 1825,
       "detail_url": "https://allaaktier.se/bolag/terranet"
+    },
+    {
+      "ticker": "TOBII",
+      "company_name": "Tobii",
+      "trend7d": 0.54,
+      "discord_members": 273,
+      "facebook_members": null,
+      "market_cap": 743544579.0,
+      "owner_count": 2361,
+      "detail_url": "https://allaaktier.se/bolag/tobii"
     },
     {
       "ticker": "HACKSAW",
@@ -501,16 +511,6 @@
       "market_cap": 2275299249.0,
       "owner_count": 6956,
       "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
-      "ticker": "NITRO-GAMES",
-      "company_name": "Nitro Games",
-      "trend7d": 0.33,
-      "discord_members": 394,
-      "facebook_members": 172,
-      "market_cap": 49100997.0,
-      "owner_count": 283,
-      "detail_url": "https://allaaktier.se/bolag/nitro-games"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
