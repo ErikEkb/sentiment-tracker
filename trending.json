@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T16:21:56.933475+00:00",
+  "generated_at": "2026-06-12T19:07:52.991142+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "NEXAR",
       "company_name": "Nexar",
-      "trend7d": 18.03,
-      "discord_members": 56,
+      "trend7d": 18.93,
+      "discord_members": 57,
       "facebook_members": null,
       "market_cap": 25358383.0,
       "owner_count": 462,
@@ -85,8 +85,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 5.16,
-      "discord_members": 2523,
+      "trend7d": 5.18,
+      "discord_members": 2524,
       "facebook_members": 2874,
       "market_cap": 28267898086.0,
       "owner_count": 5333,
@@ -96,7 +96,7 @@
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
       "trend7d": 4.28,
-      "discord_members": 160,
+      "discord_members": null,
       "facebook_members": null,
       "market_cap": 64387876.0,
       "owner_count": 518,
@@ -115,8 +115,8 @@
     {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
-      "trend7d": 3.65,
-      "discord_members": 153,
+      "trend7d": 3.87,
+      "discord_members": 154,
       "facebook_members": null,
       "market_cap": 24869481.0,
       "owner_count": 1668,
@@ -125,8 +125,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 3.08,
-      "discord_members": 574,
+      "trend7d": 3.21,
+      "discord_members": 576,
       "facebook_members": null,
       "market_cap": 583769307.0,
       "owner_count": 1729,
@@ -175,8 +175,8 @@
     {
       "ticker": "ONCOZENGE",
       "company_name": "OncoZenge",
-      "trend7d": 1.99,
-      "discord_members": 719,
+      "trend7d": 1.94,
+      "discord_members": 718,
       "facebook_members": null,
       "market_cap": 115663210.0,
       "owner_count": 521,
@@ -273,10 +273,30 @@
       "detail_url": "https://allaaktier.se/bolag/senzagen"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.98,
+      "discord_members": 222,
+      "facebook_members": null,
+      "market_cap": 22933241769.0,
+      "owner_count": 3793,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
+      "ticker": "XTRACT-ONE-TECHNOLOGIES",
+      "company_name": "Xtract One Technologies",
+      "trend7d": 0.92,
+      "discord_members": 382,
+      "facebook_members": 7036,
+      "market_cap": 1235231405.3,
+      "owner_count": 2125,
+      "detail_url": "https://allaaktier.se/bolag/xtract-one-technologies"
+    },
+    {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 0.89,
-      "discord_members": 1375,
+      "trend7d": 0.91,
+      "discord_members": 1376,
       "facebook_members": null,
       "market_cap": 864724471.0,
       "owner_count": 747,
@@ -291,26 +311,6 @@
       "market_cap": 17443323.0,
       "owner_count": 277,
       "detail_url": "https://allaaktier.se/bolag/lane-capital"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.83,
-      "discord_members": 221,
-      "facebook_members": null,
-      "market_cap": 22933241769.0,
-      "owner_count": 3793,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
-      "ticker": "XTRACT-ONE-TECHNOLOGIES",
-      "company_name": "Xtract One Technologies",
-      "trend7d": 0.83,
-      "discord_members": 381,
-      "facebook_members": 7036,
-      "market_cap": 1235231405.3,
-      "owner_count": 2125,
-      "detail_url": "https://allaaktier.se/bolag/xtract-one-technologies"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -365,8 +365,8 @@
     {
       "ticker": "ACCONEER",
       "company_name": "Acconeer",
-      "trend7d": 0.62,
-      "discord_members": 1089,
+      "trend7d": 0.59,
+      "discord_members": 1088,
       "facebook_members": 1461,
       "market_cap": 1454303261.0,
       "owner_count": 1313,
@@ -433,16 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.42,
-      "discord_members": 849,
-      "facebook_members": null,
-      "market_cap": 199240683.0,
-      "owner_count": 847,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
-    },
-    {
       "ticker": "NANOLOGICA",
       "company_name": "Nanologica",
       "trend7d": 0.41,
@@ -455,12 +445,22 @@
     {
       "ticker": "SYNACT-PHARMA",
       "company_name": "SynAct Pharma",
-      "trend7d": 0.4,
-      "discord_members": 4971,
+      "trend7d": 0.39,
+      "discord_members": 4970,
       "facebook_members": 2109,
       "market_cap": 837588123.0,
       "owner_count": 1300,
       "detail_url": "https://allaaktier.se/bolag/synact-pharma"
+    },
+    {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.38,
+      "discord_members": 848,
+      "facebook_members": null,
+      "market_cap": 199240683.0,
+      "owner_count": 847,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "AIK-FOTBOLL",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 69,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
