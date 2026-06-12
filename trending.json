@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T21:49:52.661692+00:00",
+  "generated_at": "2026-06-12T23:20:19.678425+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -75,8 +75,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 5.82,
-      "discord_members": 411,
+      "trend7d": 5.91,
+      "discord_members": 412,
       "facebook_members": 507,
       "market_cap": 682861266.0,
       "owner_count": 749,
@@ -85,8 +85,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 5.18,
-      "discord_members": 2524,
+      "trend7d": 5.16,
+      "discord_members": 2523,
       "facebook_members": 2874,
       "market_cap": 29659696124.0,
       "owner_count": 5333,
@@ -125,8 +125,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 3.27,
-      "discord_members": 577,
+      "trend7d": 3.21,
+      "discord_members": 576,
       "facebook_members": null,
       "market_cap": 516559267.0,
       "owner_count": 1729,
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.94,
+      "discord_members": 1377,
+      "facebook_members": null,
+      "market_cap": 844233369.0,
+      "owner_count": 747,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "XTRACT-ONE-TECHNOLOGIES",
       "company_name": "Xtract One Technologies",
       "trend7d": 0.92,
@@ -291,16 +301,6 @@
       "market_cap": 1235232085.91,
       "owner_count": 2125,
       "detail_url": "https://allaaktier.se/bolag/xtract-one-technologies"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.91,
-      "discord_members": 1376,
-      "facebook_members": null,
-      "market_cap": 844233369.0,
-      "owner_count": 747,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "LANE-CAPITAL",
@@ -403,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
+      "ticker": "SPAGO-NANOMEDICAL",
+      "company_name": "Spago Nanomedical",
+      "trend7d": 0.49,
+      "discord_members": 96,
+      "facebook_members": 362,
+      "market_cap": 96626381.0,
+      "owner_count": 362,
+      "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
+    },
+    {
       "ticker": "TRANSTEMA",
       "company_name": "Transtema",
       "trend7d": 0.46,
@@ -433,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.42,
+      "discord_members": 849,
+      "facebook_members": null,
+      "market_cap": 197026898.0,
+      "owner_count": 847,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+    },
+    {
       "ticker": "NANOLOGICA",
       "company_name": "Nanologica",
       "trend7d": 0.41,
@@ -441,6 +461,16 @@
       "market_cap": 181480953.0,
       "owner_count": 474,
       "detail_url": "https://allaaktier.se/bolag/nanologica"
+    },
+    {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.4,
+      "discord_members": 1282,
+      "facebook_members": 195,
+      "market_cap": 852978129.0,
+      "owner_count": 1458,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "SYNACT-PHARMA",
@@ -453,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/synact-pharma"
     },
     {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.38,
-      "discord_members": 848,
-      "facebook_members": null,
-      "market_cap": 197026898.0,
-      "owner_count": 847,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
-    },
-    {
       "ticker": "AIK-FOTBOLL",
       "company_name": "AIK Fotboll",
       "trend7d": 0.38,
@@ -471,16 +491,6 @@
       "market_cap": 43898388.0,
       "owner_count": 522,
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
-    },
-    {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.38,
-      "discord_members": 1281,
-      "facebook_members": 195,
-      "market_cap": 852978129.0,
-      "owner_count": 1458,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "KONTIGO-CARE",
@@ -501,25 +511,32 @@
       "market_cap": 1549884737.97,
       "owner_count": 4530,
       "detail_url": "https://allaaktier.se/bolag/curasight"
-    },
-    {
-      "ticker": "AIXIA",
-      "company_name": "Aixia",
-      "trend7d": 0.34,
-      "discord_members": 124,
-      "facebook_members": 21,
-      "market_cap": 131753600.0,
-      "owner_count": 132,
-      "detail_url": "https://allaaktier.se/bolag/aixia"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95165509",
+        "https://www.flashback.org/sp95165871"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 65,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 70,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
