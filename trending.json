@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T20:18:01.302401+00:00",
+  "generated_at": "2026-06-13T22:07:11.175147+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -493,14 +493,14 @@
       "detail_url": "https://allaaktier.se/bolag/synact-pharma"
     },
     {
-      "ticker": "ODINWELL",
-      "company_name": "Odinwell",
+      "ticker": "CERENO-SCIENTIFIC",
+      "company_name": "Cereno Scientific",
       "trend7d": 0.43,
-      "discord_members": 161,
-      "facebook_members": 142,
-      "market_cap": 11015872.0,
-      "owner_count": 239,
-      "detail_url": "https://allaaktier.se/bolag/odinwell"
+      "discord_members": 4700,
+      "facebook_members": 488,
+      "market_cap": 1811666916.0,
+      "owner_count": 1552,
+      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     },
     {
       "ticker": "TERRANET",
@@ -522,21 +522,22 @@
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.6,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 3.0,
       "sample_posts": [
         "https://www.flashback.org/sp95165509",
-        "https://www.flashback.org/sp95165871"
+        "https://www.flashback.org/sp95165871",
+        "https://www.flashback.org/sp95172621"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 48,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 55,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
