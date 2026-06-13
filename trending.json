@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T04:06:02.672351+00:00",
+  "generated_at": "2026-06-13T08:23:15.798658+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
-      "trend7d": 11.84,
-      "discord_members": 102,
+      "trend7d": 12.26,
+      "discord_members": 103,
       "facebook_members": null,
       "market_cap": 413288640.0,
       "owner_count": 266,
@@ -85,8 +85,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 5.18,
-      "discord_members": 2523,
+      "trend7d": 5.16,
+      "discord_members": 2522,
       "facebook_members": 2874,
       "market_cap": 29659696124.0,
       "owner_count": 5333,
@@ -143,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/pixelfox"
     },
     {
-      "ticker": "FSPORT",
-      "company_name": "FSport",
-      "trend7d": 2.82,
-      "discord_members": 164,
-      "facebook_members": null,
-      "market_cap": 38217976.0,
-      "owner_count": 801,
-      "detail_url": "https://allaaktier.se/bolag/fsport"
-    },
-    {
       "ticker": "CRETURNER-GROUP",
       "company_name": "Creturner Group",
       "trend7d": 2.77,
@@ -161,6 +151,16 @@
       "market_cap": 12136697.0,
       "owner_count": 454,
       "detail_url": "https://allaaktier.se/bolag/creturner-group"
+    },
+    {
+      "ticker": "FSPORT",
+      "company_name": "FSport",
+      "trend7d": 2.61,
+      "discord_members": 163,
+      "facebook_members": null,
+      "market_cap": 38217976.0,
+      "owner_count": 801,
+      "detail_url": "https://allaaktier.se/bolag/fsport"
     },
     {
       "ticker": "REFINE-GROUP",
@@ -253,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/scibase"
     },
     {
+      "ticker": "LANE-CAPITAL",
+      "company_name": "Lane Capital",
+      "trend7d": 1.19,
+      "discord_members": 106,
+      "facebook_members": null,
+      "market_cap": 16599291.0,
+      "owner_count": 277,
+      "detail_url": "https://allaaktier.se/bolag/lane-capital"
+    },
+    {
       "ticker": "SERVANA",
       "company_name": "Servana",
       "trend7d": 1.12,
@@ -301,16 +311,6 @@
       "market_cap": 844233369.0,
       "owner_count": 747,
       "detail_url": "https://allaaktier.se/bolag/beammwave"
-    },
-    {
-      "ticker": "LANE-CAPITAL",
-      "company_name": "Lane Capital",
-      "trend7d": 0.85,
-      "discord_members": 105,
-      "facebook_members": null,
-      "market_cap": 16599291.0,
-      "owner_count": 277,
-      "detail_url": "https://allaaktier.se/bolag/lane-capital"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -495,8 +495,8 @@
     {
       "ticker": "SYNACT-PHARMA",
       "company_name": "SynAct Pharma",
-      "trend7d": 0.37,
-      "discord_members": 4970,
+      "trend7d": 0.39,
+      "discord_members": 4972,
       "facebook_members": 2109,
       "market_cap": 815102536.0,
       "owner_count": 1300,
@@ -516,24 +516,7 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "TSLA",
-      "company_name": "Tesla Inc.",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95165509",
-        "https://www.flashback.org/sp95165871"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
     "total_posts_fetched": 49,
     "tickers_with_any_mentions": 1,
