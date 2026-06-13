@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T16:16:19.130759+00:00",
+  "generated_at": "2026-06-13T18:10:35.756775+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
-      "trend7d": 12.24,
-      "discord_members": 103,
+      "trend7d": 11.81,
+      "discord_members": 102,
       "facebook_members": null,
       "market_cap": 413288640.0,
       "owner_count": 266,
@@ -75,8 +75,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 6.24,
-      "discord_members": 412,
+      "trend7d": 6.16,
+      "discord_members": 411,
       "facebook_members": 507,
       "market_cap": 682861266.0,
       "owner_count": 749,
@@ -85,7 +85,7 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 4.26,
+      "trend7d": 4.23,
       "discord_members": 2524,
       "facebook_members": 2874,
       "market_cap": 29659696124.0,
@@ -383,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
     },
     {
-      "ticker": "ACCONEER",
-      "company_name": "Acconeer",
-      "trend7d": 0.59,
-      "discord_members": 1088,
-      "facebook_members": 1461,
-      "market_cap": 1480191382.0,
-      "owner_count": 1313,
-      "detail_url": "https://allaaktier.se/bolag/acconeer"
-    },
-    {
       "ticker": "AIK-FOTBOLL",
       "company_name": "AIK Fotboll",
       "trend7d": 0.56,
@@ -401,6 +391,16 @@
       "market_cap": 43898388.0,
       "owner_count": 522,
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
+      "ticker": "ACCONEER",
+      "company_name": "Acconeer",
+      "trend7d": 0.56,
+      "discord_members": 1087,
+      "facebook_members": 1461,
+      "market_cap": 1480191382.0,
+      "owner_count": 1313,
+      "detail_url": "https://allaaktier.se/bolag/acconeer"
     },
     {
       "ticker": "SPAGO-NANOMEDICAL",
@@ -483,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
-      "ticker": "TERRANET",
-      "company_name": "Terranet",
-      "trend7d": 0.45,
-      "discord_members": 1875,
-      "facebook_members": 2541,
-      "market_cap": 286612946.0,
-      "owner_count": 1822,
-      "detail_url": "https://allaaktier.se/bolag/terranet"
-    },
-    {
       "ticker": "SYNACT-PHARMA",
       "company_name": "SynAct Pharma",
       "trend7d": 0.44,
@@ -511,14 +501,41 @@
       "market_cap": 11015872.0,
       "owner_count": 239,
       "detail_url": "https://allaaktier.se/bolag/odinwell"
+    },
+    {
+      "ticker": "TERRANET",
+      "company_name": "Terranet",
+      "trend7d": 0.43,
+      "discord_members": 1874,
+      "facebook_members": 2541,
+      "market_cap": 286612946.0,
+      "owner_count": 1822,
+      "detail_url": "https://allaaktier.se/bolag/terranet"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95165509",
+        "https://www.flashback.org/sp95165871"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 51,
+    "total_posts_fetched": 45,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
