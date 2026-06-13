@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T11:16:51.884447+00:00",
+  "generated_at": "2026-06-13T14:06:26.740272+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -85,8 +85,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 4.24,
-      "discord_members": 2525,
+      "trend7d": 4.26,
+      "discord_members": 2526,
       "facebook_members": 2874,
       "market_cap": 29659696124.0,
       "owner_count": 5333,
@@ -165,8 +165,8 @@
     {
       "ticker": "ONCOZENGE",
       "company_name": "OncoZenge",
-      "trend7d": 2.19,
-      "discord_members": 722,
+      "trend7d": 2.29,
+      "discord_members": 724,
       "facebook_members": null,
       "market_cap": 130080155.0,
       "owner_count": 521,
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 1.43,
+      "discord_members": 1152,
+      "facebook_members": 297,
+      "market_cap": 807570206.0,
+      "owner_count": 2325,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
       "trend7d": 1.42,
@@ -221,16 +231,6 @@
       "market_cap": 177518763.0,
       "owner_count": 1129,
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 1.4,
-      "discord_members": 1151,
-      "facebook_members": 297,
-      "market_cap": 807570206.0,
-      "owner_count": 2325,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "36-GROUP",
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
+      "ticker": "SYNACT-PHARMA",
+      "company_name": "SynAct Pharma",
+      "trend7d": 0.44,
+      "discord_members": 4973,
+      "facebook_members": 2109,
+      "market_cap": 815102536.0,
+      "owner_count": 1300,
+      "detail_url": "https://allaaktier.se/bolag/synact-pharma"
+    },
+    {
       "ticker": "ODINWELL",
       "company_name": "Odinwell",
       "trend7d": 0.43,
@@ -501,16 +511,6 @@
       "market_cap": 11015872.0,
       "owner_count": 239,
       "detail_url": "https://allaaktier.se/bolag/odinwell"
-    },
-    {
-      "ticker": "SYNACT-PHARMA",
-      "company_name": "SynAct Pharma",
-      "trend7d": 0.43,
-      "discord_members": 4972,
-      "facebook_members": 2109,
-      "market_cap": 815102536.0,
-      "owner_count": 1300,
-      "detail_url": "https://allaaktier.se/bolag/synact-pharma"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 57,
+    "total_posts_fetched": 50,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
