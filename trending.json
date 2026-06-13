@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T14:06:26.740272+00:00",
+  "generated_at": "2026-06-13T16:16:19.130759+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -86,7 +86,7 @@
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 4.26,
-      "discord_members": 2526,
+      "discord_members": 2524,
       "facebook_members": 2874,
       "market_cap": 29659696124.0,
       "owner_count": 5333,
@@ -165,8 +165,8 @@
     {
       "ticker": "ONCOZENGE",
       "company_name": "OncoZenge",
-      "trend7d": 2.29,
-      "discord_members": 724,
+      "trend7d": 2.34,
+      "discord_members": 725,
       "facebook_members": null,
       "market_cap": 130080155.0,
       "owner_count": 521,
@@ -201,6 +201,16 @@
       "market_cap": 72115665.0,
       "owner_count": 1476,
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
+    },
+    {
+      "ticker": "LANE-CAPITAL",
+      "company_name": "Lane Capital",
+      "trend7d": 1.55,
+      "discord_members": 107,
+      "facebook_members": null,
+      "market_cap": 16599291.0,
+      "owner_count": 277,
+      "detail_url": "https://allaaktier.se/bolag/lane-capital"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -243,20 +253,10 @@
       "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
-      "ticker": "LANE-CAPITAL",
-      "company_name": "Lane Capital",
-      "trend7d": 1.22,
-      "discord_members": 106,
-      "facebook_members": null,
-      "market_cap": 16599291.0,
-      "owner_count": 277,
-      "detail_url": "https://allaaktier.se/bolag/lane-capital"
-    },
-    {
       "ticker": "SCIBASE",
       "company_name": "Scibase",
-      "trend7d": 1.17,
-      "discord_members": 664,
+      "trend7d": 1.12,
+      "discord_members": 663,
       "facebook_members": 286,
       "market_cap": 511265000.0,
       "owner_count": 264,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 50,
+    "total_posts_fetched": 51,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
