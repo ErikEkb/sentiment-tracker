@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T09:40:11.255236+00:00",
+  "generated_at": "2026-06-14T12:00:12.491461+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -195,8 +195,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.33,
-      "discord_members": 1069,
+      "trend7d": 1.36,
+      "discord_members": 1070,
       "facebook_members": 3706,
       "market_cap": 3744225641.0,
       "owner_count": 3551,
@@ -221,16 +221,6 @@
       "market_cap": 22557286986.0,
       "owner_count": 3793,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
-      "ticker": "SCIBASE",
-      "company_name": "Scibase",
-      "trend7d": 1.12,
-      "discord_members": 663,
-      "facebook_members": 286,
-      "market_cap": 511265000.0,
-      "owner_count": 264,
-      "detail_url": "https://allaaktier.se/bolag/scibase"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -261,6 +251,16 @@
       "market_cap": 16599291.0,
       "owner_count": 277,
       "detail_url": "https://allaaktier.se/bolag/lane-capital"
+    },
+    {
+      "ticker": "SCIBASE",
+      "company_name": "Scibase",
+      "trend7d": 1.07,
+      "discord_members": 662,
+      "facebook_members": 286,
+      "market_cap": 511265000.0,
+      "owner_count": 264,
+      "detail_url": "https://allaaktier.se/bolag/scibase"
     },
     {
       "ticker": "VO2-CAP",
@@ -406,7 +406,7 @@
       "ticker": "WHITE-PEARL-TECHNOLOGY",
       "company_name": "White Pearl Technology",
       "trend7d": 0.5,
-      "discord_members": 198,
+      "discord_members": 4,
       "facebook_members": null,
       "market_cap": 447974517.0,
       "owner_count": 982,
@@ -425,8 +425,8 @@
     {
       "ticker": "SYNACT-PHARMA",
       "company_name": "SynAct Pharma",
-      "trend7d": 0.46,
-      "discord_members": 4975,
+      "trend7d": 0.47,
+      "discord_members": 4976,
       "facebook_members": 2109,
       "market_cap": 815102536.0,
       "owner_count": 1300,
@@ -522,22 +522,22 @@
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.6,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 3.0,
+      "trending_score": 2.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95165509",
         "https://www.flashback.org/sp95165871",
-        "https://www.flashback.org/sp95172621"
+        "https://www.flashback.org/sp95172621",
+        "https://www.flashback.org/sp95172856"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 54,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 73,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
