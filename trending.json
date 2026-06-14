@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T14:23:35.948458+00:00",
+  "generated_at": "2026-06-14T16:25:16.544501+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -253,16 +253,6 @@
       "detail_url": "https://allaaktier.se/bolag/lane-capital"
     },
     {
-      "ticker": "SCIBASE",
-      "company_name": "Scibase",
-      "trend7d": 1.07,
-      "discord_members": 662,
-      "facebook_members": 286,
-      "market_cap": 511265000.0,
-      "owner_count": 264,
-      "detail_url": "https://allaaktier.se/bolag/scibase"
-    },
-    {
       "ticker": "VO2-CAP",
       "company_name": "VO2 Cap",
       "trend7d": 1.06,
@@ -271,6 +261,16 @@
       "market_cap": 128170489.0,
       "owner_count": 199,
       "detail_url": "https://allaaktier.se/bolag/vo2-cap"
+    },
+    {
+      "ticker": "SCIBASE",
+      "company_name": "Scibase",
+      "trend7d": 1.02,
+      "discord_members": 661,
+      "facebook_members": 286,
+      "market_cap": 511265000.0,
+      "owner_count": 264,
+      "detail_url": "https://allaaktier.se/bolag/scibase"
     },
     {
       "ticker": "SENZAGEN",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 42,
+    "total_posts_fetched": 49,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
