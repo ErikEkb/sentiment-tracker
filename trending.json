@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T05:52:42.037586+00:00",
+  "generated_at": "2026-06-14T09:40:11.255236+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "NEXAR",
       "company_name": "Nexar",
-      "trend7d": 13.87,
-      "discord_members": 58,
+      "trend7d": 13.08,
+      "discord_members": 57,
       "facebook_members": null,
       "market_cap": 23581681.0,
       "owner_count": 462,
@@ -35,8 +35,8 @@
     {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
-      "trend7d": 11.13,
-      "discord_members": 102,
+      "trend7d": 11.55,
+      "discord_members": 103,
       "facebook_members": null,
       "market_cap": 413288640.0,
       "owner_count": 266,
@@ -145,8 +145,8 @@
     {
       "ticker": "ONCOZENGE",
       "company_name": "OncoZenge",
-      "trend7d": 2.35,
-      "discord_members": 725,
+      "trend7d": 2.4,
+      "discord_members": 726,
       "facebook_members": null,
       "market_cap": 130080155.0,
       "owner_count": 521,
@@ -248,7 +248,7 @@
       "trend7d": 1.1,
       "discord_members": 384,
       "facebook_members": 7036,
-      "market_cap": 1227730304.48,
+      "market_cap": 1227730000.0,
       "owner_count": 2125,
       "detail_url": "https://allaaktier.se/bolag/xtract-one-technologies"
     },
@@ -343,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
+      "ticker": "NANOLOGICA",
+      "company_name": "Nanologica",
+      "trend7d": 0.63,
+      "discord_members": 351,
+      "facebook_members": 247,
+      "market_cap": 181480953.0,
+      "owner_count": 474,
+      "detail_url": "https://allaaktier.se/bolag/nanologica"
+    },
+    {
       "ticker": "EDYOUTEC",
       "company_name": "edyoutec",
       "trend7d": 0.59,
@@ -351,16 +361,6 @@
       "market_cap": 26871053.0,
       "owner_count": 238,
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
-    },
-    {
-      "ticker": "NANOLOGICA",
-      "company_name": "Nanologica",
-      "trend7d": 0.54,
-      "discord_members": 350,
-      "facebook_members": 247,
-      "market_cap": 181480953.0,
-      "owner_count": 474,
-      "detail_url": "https://allaaktier.se/bolag/nanologica"
     },
     {
       "ticker": "SERVANA",
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     },
     {
+      "ticker": "SYNACT-PHARMA",
+      "company_name": "SynAct Pharma",
+      "trend7d": 0.46,
+      "discord_members": 4975,
+      "facebook_members": 2109,
+      "market_cap": 815102536.0,
+      "owner_count": 1300,
+      "detail_url": "https://allaaktier.se/bolag/synact-pharma"
+    },
+    {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
       "trend7d": 0.45,
@@ -441,16 +451,6 @@
       "market_cap": 96626381.0,
       "owner_count": 362,
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
-    },
-    {
-      "ticker": "SYNACT-PHARMA",
-      "company_name": "SynAct Pharma",
-      "trend7d": 0.45,
-      "discord_members": 4974,
-      "facebook_members": 2109,
-      "market_cap": 815102536.0,
-      "owner_count": 1300,
-      "detail_url": "https://allaaktier.se/bolag/synact-pharma"
     },
     {
       "ticker": "AIK-FOTBOLL",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 59,
+    "total_posts_fetched": 54,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
