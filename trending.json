@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T21:46:23.467774+00:00",
+  "generated_at": "2026-06-15T23:48:34.703156+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -68,7 +68,7 @@
       "trend7d": 6.07,
       "discord_members": 346,
       "facebook_members": null,
-      "market_cap": 112144272.0,
+      "market_cap": 113673512.0,
       "owner_count": 562,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
@@ -158,7 +158,7 @@
       "trend7d": 1.47,
       "discord_members": 224,
       "facebook_members": null,
-      "market_cap": 22571746785.0,
+      "market_cap": 22051194009.0,
       "owner_count": 3807,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -245,8 +245,8 @@
     {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
-      "trend7d": 0.88,
-      "discord_members": 987,
+      "trend7d": 0.91,
+      "discord_members": 988,
       "facebook_members": 129,
       "market_cap": 169510398.0,
       "owner_count": 1130,
@@ -373,16 +373,6 @@
       "detail_url": "https://allaaktier.se/bolag/synact-pharma"
     },
     {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.49,
-      "discord_members": 1072,
-      "facebook_members": 3706,
-      "market_cap": 3960515954.0,
-      "owner_count": 3549,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
       "ticker": "XTRACT-ONE-TECHNOLOGIES",
       "company_name": "Xtract One Technologies",
       "trend7d": 0.49,
@@ -391,6 +381,16 @@
       "market_cap": 1155236028.3,
       "owner_count": 2128,
       "detail_url": "https://allaaktier.se/bolag/xtract-one-technologies"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.46,
+      "discord_members": 1071,
+      "facebook_members": 3706,
+      "market_cap": 3960515954.0,
+      "owner_count": 3549,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "KONTIGO-CARE",
@@ -498,7 +498,7 @@
       "trend7d": 0.35,
       "discord_members": 71,
       "facebook_members": null,
-      "market_cap": 18730787.0,
+      "market_cap": 19662667.0,
       "owner_count": 682,
       "detail_url": "https://allaaktier.se/bolag/nanoecho"
     },
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 52,
+    "total_posts_fetched": 46,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
