@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T15:40:45.194782+00:00",
+  "generated_at": "2026-06-17T18:22:58.739169+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "NEXAR",
       "company_name": "Nexar",
-      "trend7d": 30.0,
-      "discord_members": 92,
+      "trend7d": 30.65,
+      "discord_members": 93,
       "facebook_members": null,
       "market_cap": 27135085.0,
       "owner_count": 476,
@@ -105,8 +105,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 2.28,
-      "discord_members": 929,
+      "trend7d": 2.47,
+      "discord_members": 934,
       "facebook_members": 1928,
       "market_cap": 456573167.0,
       "owner_count": 6410,
@@ -165,8 +165,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 1.39,
-      "discord_members": 2188,
+      "trend7d": 1.47,
+      "discord_members": 2193,
       "facebook_members": 405,
       "market_cap": 588532718.0,
       "owner_count": 2025,
@@ -353,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/brilliant-future"
     },
     {
-      "ticker": "HYDROGENPRO",
-      "company_name": "HydrogenPro",
-      "trend7d": 0.65,
-      "discord_members": 242,
-      "facebook_members": 283,
-      "market_cap": 207560252.84,
-      "owner_count": 2697,
-      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
-    },
-    {
       "ticker": "CYCLEZYME",
       "company_name": "Cyclezyme",
       "trend7d": 0.61,
@@ -413,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/kontigo-care"
     },
     {
+      "ticker": "HYDROGENPRO",
+      "company_name": "HydrogenPro",
+      "trend7d": 0.51,
+      "discord_members": 241,
+      "facebook_members": 283,
+      "market_cap": 207560252.84,
+      "owner_count": 2697,
+      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
+    },
+    {
       "ticker": "I-TECH",
       "company_name": "I-Tech",
       "trend7d": 0.5,
@@ -441,6 +441,16 @@
       "market_cap": 362819908.0,
       "owner_count": 1599,
       "detail_url": "https://allaaktier.se/bolag/kebni"
+    },
+    {
+      "ticker": "KINNEVIK",
+      "company_name": "Kinnevik",
+      "trend7d": 0.45,
+      "discord_members": 152,
+      "facebook_members": null,
+      "market_cap": 16146914011.0,
+      "owner_count": 14276,
+      "detail_url": "https://allaaktier.se/bolag/kinnevik"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -501,16 +511,6 @@
       "market_cap": 1007357583.0,
       "owner_count": 575,
       "detail_url": "https://allaaktier.se/bolag/district-metals-corp"
-    },
-    {
-      "ticker": "FERROAMP",
-      "company_name": "Ferroamp",
-      "trend7d": 0.4,
-      "discord_members": 47,
-      "facebook_members": null,
-      "market_cap": 305344814.0,
-      "owner_count": 1019,
-      "detail_url": "https://allaaktier.se/bolag/ferroamp"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 30,
+    "total_posts_fetched": 32,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
