@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T22:15:15.164867+00:00",
+  "generated_at": "2026-06-17T00:20:12.148258+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
-      "trend7d": 7.95,
-      "discord_members": 249,
+      "trend7d": 7.81,
+      "discord_members": 248,
       "facebook_members": 12,
       "market_cap": 521251968.0,
       "owner_count": 889,
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
+      "ticker": "PARADOX-INTERACTIVE",
+      "company_name": "Paradox Interactive",
+      "trend7d": 4.64,
+      "discord_members": 64,
+      "facebook_members": null,
+      "market_cap": 13646494830.0,
+      "owner_count": 2832,
+      "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
+    },
+    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 4.48,
@@ -91,16 +101,6 @@
       "market_cap": 112144272.0,
       "owner_count": 573,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "PARADOX-INTERACTIVE",
-      "company_name": "Paradox Interactive",
-      "trend7d": 4.05,
-      "discord_members": 63,
-      "facebook_members": null,
-      "market_cap": 13646494830.0,
-      "owner_count": 2832,
-      "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
     },
     {
       "ticker": "MODUS-THERAPEUTICS",
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
+      "ticker": "K33",
+      "company_name": "K33",
+      "trend7d": 1.5,
+      "discord_members": 918,
+      "facebook_members": 1928,
+      "market_cap": 595335601.0,
+      "owner_count": 6411,
+      "detail_url": "https://allaaktier.se/bolag/k33"
+    },
+    {
       "ticker": "RANLOS",
       "company_name": "RanLOS",
       "trend7d": 1.44,
@@ -143,24 +153,14 @@
       "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
     {
-      "ticker": "K33",
-      "company_name": "K33",
-      "trend7d": 1.35,
-      "discord_members": 914,
-      "facebook_members": 1928,
-      "market_cap": 595335601.0,
-      "owner_count": 6411,
-      "detail_url": "https://allaaktier.se/bolag/k33"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 1.31,
-      "discord_members": 224,
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 1.41,
+      "discord_members": 583,
       "facebook_members": null,
-      "market_cap": 21357123640.0,
-      "owner_count": 3826,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+      "market_cap": 511988658.0,
+      "owner_count": 1736,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -171,6 +171,16 @@
       "market_cap": 30038035.0,
       "owner_count": 326,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 1.02,
+      "discord_members": 224,
+      "facebook_members": null,
+      "market_cap": 21357123640.0,
+      "owner_count": 3826,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "ONCOZENGE",
@@ -223,16 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 0.95,
-      "discord_members": 583,
-      "facebook_members": null,
-      "market_cap": 511988658.0,
-      "owner_count": 1736,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
-    },
-    {
       "ticker": "AIXIA",
       "company_name": "Aixia",
       "trend7d": 0.91,
@@ -265,8 +265,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 0.88,
-      "discord_members": 2161,
+      "trend7d": 0.87,
+      "discord_members": 2160,
       "facebook_members": 405,
       "market_cap": 561882180.0,
       "owner_count": 2019,
@@ -323,16 +323,6 @@
       "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     },
     {
-      "ticker": "HYDROGENPRO",
-      "company_name": "HydrogenPro",
-      "trend7d": 0.63,
-      "discord_members": 243,
-      "facebook_members": 283,
-      "market_cap": 211900472.9,
-      "owner_count": 2699,
-      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
-    },
-    {
       "ticker": "NANOLOGICA",
       "company_name": "Nanologica",
       "trend7d": 0.62,
@@ -373,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
+      "ticker": "HYDROGENPRO",
+      "company_name": "HydrogenPro",
+      "trend7d": 0.5,
+      "discord_members": 242,
+      "facebook_members": 283,
+      "market_cap": 211900472.9,
+      "owner_count": 2699,
+      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
+    },
+    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 0.49,
@@ -381,6 +381,16 @@
       "market_cap": 364195440.0,
       "owner_count": 766,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
+    },
+    {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.49,
+      "discord_members": 1318,
+      "facebook_members": 295,
+      "market_cap": 629188855.0,
+      "owner_count": 1634,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "SALTX-TECHNOLOGY",
@@ -411,16 +421,6 @@
       "market_cap": 867172308.0,
       "owner_count": 2317,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.46,
-      "discord_members": 1317,
-      "facebook_members": 295,
-      "market_cap": 629188855.0,
-      "owner_count": 1634,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "I-TECH",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 70,
+    "total_posts_fetched": 65,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
