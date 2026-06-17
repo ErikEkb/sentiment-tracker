@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T11:51:32.421433+00:00",
+  "generated_at": "2026-06-17T15:40:45.194782+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "NEXAR",
       "company_name": "Nexar",
-      "trend7d": 29.35,
-      "discord_members": 91,
+      "trend7d": 30.0,
+      "discord_members": 92,
       "facebook_members": null,
       "market_cap": 27135085.0,
       "owner_count": 476,
@@ -55,8 +55,8 @@
     {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
-      "trend7d": 6.2,
-      "discord_members": 157,
+      "trend7d": 6.42,
+      "discord_members": 158,
       "facebook_members": null,
       "market_cap": 24869481.0,
       "owner_count": 1825,
@@ -71,6 +71,16 @@
       "market_cap": 109595538.0,
       "owner_count": 588,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 3.53,
+      "discord_members": 105,
+      "facebook_members": null,
+      "market_cap": 427064928.0,
+      "owner_count": 266,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
       "ticker": "PARADOX-INTERACTIVE",
@@ -93,20 +103,10 @@
       "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
-      "ticker": "FLEXQUBE",
-      "company_name": "FlexQube",
-      "trend7d": 3.19,
-      "discord_members": 104,
-      "facebook_members": null,
-      "market_cap": 427064928.0,
-      "owner_count": 266,
-      "detail_url": "https://allaaktier.se/bolag/flexqube"
-    },
-    {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 2.13,
-      "discord_members": 926,
+      "trend7d": 2.28,
+      "discord_members": 929,
       "facebook_members": 1928,
       "market_cap": 456573167.0,
       "owner_count": 6410,
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/ecoclime"
     },
     {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 1.6,
+      "discord_members": 164,
+      "facebook_members": null,
+      "market_cap": 60075524.0,
+      "owner_count": 519,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
       "trend7d": 1.49,
@@ -153,20 +163,30 @@
       "detail_url": "https://allaaktier.se/bolag/unibap"
     },
     {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
       "trend7d": 1.39,
-      "discord_members": 163,
+      "discord_members": 2188,
+      "facebook_members": 405,
+      "market_cap": 588532718.0,
+      "owner_count": 2025,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
+    },
+    {
+      "ticker": "SENZAGEN",
+      "company_name": "SenzaGen",
+      "trend7d": 1.16,
+      "discord_members": 33,
       "facebook_members": null,
-      "market_cap": 60075524.0,
-      "owner_count": 519,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+      "market_cap": 185295868.0,
+      "owner_count": 420,
+      "detail_url": "https://allaaktier.se/bolag/senzagen"
     },
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 1.1,
-      "discord_members": 583,
+      "trend7d": 1.16,
+      "discord_members": 584,
       "facebook_members": null,
       "market_cap": 520108831.0,
       "owner_count": 1727,
@@ -233,16 +253,6 @@
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 0.94,
-      "discord_members": 2159,
-      "facebook_members": 405,
-      "market_cap": 588532718.0,
-      "owner_count": 2025,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
       "ticker": "TRANSTEMA",
       "company_name": "Transtema",
       "trend7d": 0.9,
@@ -303,14 +313,14 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
+      "ticker": "QLIRO",
+      "company_name": "Qliro",
       "trend7d": 0.78,
-      "discord_members": 205,
+      "discord_members": 42,
       "facebook_members": null,
-      "market_cap": 47913686.0,
-      "owner_count": 119,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+      "market_cap": 653040804.0,
+      "owner_count": 945,
+      "detail_url": "https://allaaktier.se/bolag/qliro"
     },
     {
       "ticker": "AIXIA",
@@ -353,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
     {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.61,
+      "discord_members": 204,
+      "facebook_members": null,
+      "market_cap": 47913686.0,
+      "owner_count": 119,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
       "trend7d": 0.58,
@@ -383,24 +403,14 @@
       "detail_url": "https://allaaktier.se/bolag/absolicon"
     },
     {
-      "ticker": "CHARGEPANEL",
-      "company_name": "ChargePanel",
-      "trend7d": 0.54,
-      "discord_members": 63,
+      "ticker": "KONTIGO-CARE",
+      "company_name": "Kontigo Care",
+      "trend7d": 0.52,
+      "discord_members": 43,
       "facebook_members": null,
-      "market_cap": 73474070.0,
-      "owner_count": 366,
-      "detail_url": "https://allaaktier.se/bolag/chargepanel"
-    },
-    {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.53,
-      "discord_members": 862,
-      "facebook_members": 1046,
-      "market_cap": 362819908.0,
-      "owner_count": 1599,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
+      "market_cap": 51467080.0,
+      "owner_count": 190,
+      "detail_url": "https://allaaktier.se/bolag/kontigo-care"
     },
     {
       "ticker": "I-TECH",
@@ -415,12 +425,22 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.46,
-      "discord_members": 1073,
+      "trend7d": 0.5,
+      "discord_members": 1074,
       "facebook_members": 3706,
       "market_cap": 4022999822.0,
       "owner_count": 3558,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.49,
+      "discord_members": 861,
+      "facebook_members": 1046,
+      "market_cap": 362819908.0,
+      "owner_count": 1599,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -491,26 +511,6 @@
       "market_cap": 305344814.0,
       "owner_count": 1019,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
-      "ticker": "REFINE-GROUP",
-      "company_name": "Refine Group",
-      "trend7d": 0.39,
-      "discord_members": 81,
-      "facebook_members": null,
-      "market_cap": 226325075.0,
-      "owner_count": 432,
-      "detail_url": "https://allaaktier.se/bolag/refine-group"
-    },
-    {
-      "ticker": "S2MEDICAL",
-      "company_name": "S2Medical",
-      "trend7d": 0.38,
-      "discord_members": 117,
-      "facebook_members": null,
-      "market_cap": 4871267.0,
-      "owner_count": 429,
-      "detail_url": "https://allaaktier.se/bolag/s2medical"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 43,
+    "total_posts_fetched": 30,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
