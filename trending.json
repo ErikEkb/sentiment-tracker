@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T12:57:20.081487+00:00",
+  "generated_at": "2026-06-18T16:39:05.606063+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "PARADOX-INTERACTIVE",
       "company_name": "Paradox Interactive",
-      "trend7d": 5.54,
-      "discord_members": 69,
+      "trend7d": 6.1,
+      "discord_members": 70,
       "facebook_members": null,
       "market_cap": 13181753520.0,
       "owner_count": 2830,
@@ -65,8 +65,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 3.67,
-      "discord_members": 936,
+      "trend7d": 3.7,
+      "discord_members": 937,
       "facebook_members": 1928,
       "market_cap": 520732142.0,
       "owner_count": 6464,
@@ -95,8 +95,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 2.63,
-      "discord_members": 2219,
+      "trend7d": 2.6,
+      "discord_members": 2217,
       "facebook_members": 405,
       "market_cap": 719564530.0,
       "owner_count": 2047,
@@ -145,8 +145,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.23,
-      "discord_members": 1382,
+      "trend7d": 1.2,
+      "discord_members": 1381,
       "facebook_members": null,
       "market_cap": 814521273.0,
       "owner_count": 755,
@@ -155,8 +155,8 @@
     {
       "ticker": "SALTX-TECHNOLOGY",
       "company_name": "SaltX Technology",
-      "trend7d": 1.21,
-      "discord_members": 1645,
+      "trend7d": 1.19,
+      "discord_members": 1644,
       "facebook_members": null,
       "market_cap": 1721020672.0,
       "owner_count": 3923,
@@ -181,6 +181,16 @@
       "market_cap": 92865990.0,
       "owner_count": 341,
       "detail_url": "https://allaaktier.se/bolag/checkin-com"
+    },
+    {
+      "ticker": "GAME-CHEST",
+      "company_name": "Game Chest",
+      "trend7d": 1.15,
+      "discord_members": 259,
+      "facebook_members": 188,
+      "market_cap": 9027709.0,
+      "owner_count": 176,
+      "detail_url": "https://allaaktier.se/bolag/game-chest"
     },
     {
       "ticker": "DEVYSER-DIAGNOSTICS",
@@ -243,16 +253,6 @@
       "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
-      "ticker": "GAME-CHEST",
-      "company_name": "Game Chest",
-      "trend7d": 1.02,
-      "discord_members": 258,
-      "facebook_members": 188,
-      "market_cap": 9027709.0,
-      "owner_count": 176,
-      "detail_url": "https://allaaktier.se/bolag/game-chest"
-    },
-    {
       "ticker": "INCOAX-NETWORKS",
       "company_name": "InCoax Networks",
       "trend7d": 0.94,
@@ -281,6 +281,16 @@
       "market_cap": 4616308620.0,
       "owner_count": 2564,
       "detail_url": "https://allaaktier.se/bolag/note"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.84,
+      "discord_members": 205,
+      "facebook_members": null,
+      "market_cap": 47913686.0,
+      "owner_count": 119,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -343,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.68,
-      "discord_members": 204,
-      "facebook_members": null,
-      "market_cap": 47913686.0,
-      "owner_count": 119,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
       "ticker": "BRILLIANT-FUTURE",
       "company_name": "Brilliant Future",
       "trend7d": 0.65,
@@ -361,16 +361,6 @@
       "market_cap": 53240829.0,
       "owner_count": 90,
       "detail_url": "https://allaaktier.se/bolag/brilliant-future"
-    },
-    {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.65,
-      "discord_members": 861,
-      "facebook_members": 1046,
-      "market_cap": 353228747.0,
-      "owner_count": 1602,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "HYDROGENPRO",
@@ -391,6 +381,16 @@
       "market_cap": 411781893.0,
       "owner_count": 1374,
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
+    },
+    {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.61,
+      "discord_members": 860,
+      "facebook_members": 1046,
+      "market_cap": 353228747.0,
+      "owner_count": 1602,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "UNIBAP",
@@ -421,16 +421,6 @@
       "market_cap": 934858363.0,
       "owner_count": 575,
       "detail_url": "https://allaaktier.se/bolag/district-metals-corp"
-    },
-    {
-      "ticker": "NANOLOGICA",
-      "company_name": "Nanologica",
-      "trend7d": 0.57,
-      "discord_members": 353,
-      "facebook_members": 247,
-      "market_cap": 189371429.0,
-      "owner_count": 476,
-      "detail_url": "https://allaaktier.se/bolag/nanologica"
     },
     {
       "ticker": "ABSOLICON",
@@ -473,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.53,
-      "discord_members": 1283,
-      "facebook_members": 195,
-      "market_cap": 700148901.0,
-      "owner_count": 1477,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
       "ticker": "KONTIGO-CARE",
       "company_name": "Kontigo Care",
       "trend7d": 0.52,
@@ -503,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/aixia"
     },
     {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.5,
+      "discord_members": 1282,
+      "facebook_members": 195,
+      "market_cap": 700148901.0,
+      "owner_count": 1477,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
       "ticker": "FERROAMP",
       "company_name": "Ferroamp",
       "trend7d": 0.49,
@@ -511,6 +501,16 @@
       "market_cap": 298871072.0,
       "owner_count": 1019,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "NANOLOGICA",
+      "company_name": "Nanologica",
+      "trend7d": 0.47,
+      "discord_members": 352,
+      "facebook_members": 247,
+      "market_cap": 189371429.0,
+      "owner_count": 476,
+      "detail_url": "https://allaaktier.se/bolag/nanologica"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 51,
+    "total_posts_fetched": 60,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
