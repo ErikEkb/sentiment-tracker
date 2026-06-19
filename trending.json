@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T12:09:44.126190+00:00",
+  "generated_at": "2026-06-19T16:07:47.216038+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 4.05,
-      "discord_members": 939,
+      "trend7d": 4.08,
+      "discord_members": 940,
       "facebook_members": 1928,
       "market_cap": 453589029.0,
       "owner_count": 6485,
@@ -161,16 +161,6 @@
       "market_cap": 646202680.0,
       "owner_count": 948,
       "detail_url": "https://allaaktier.se/bolag/qliro"
-    },
-    {
-      "ticker": "TRANSTEMA",
-      "company_name": "Transtema",
-      "trend7d": 1.53,
-      "discord_members": 88,
-      "facebook_members": null,
-      "market_cap": 236231360.0,
-      "owner_count": 502,
-      "detail_url": "https://allaaktier.se/bolag/transtema"
     },
     {
       "ticker": "BIOFRIGAS",
@@ -363,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     },
     {
+      "ticker": "TRANSTEMA",
+      "company_name": "Transtema",
+      "trend7d": 0.78,
+      "discord_members": 88,
+      "facebook_members": null,
+      "market_cap": 236231360.0,
+      "owner_count": 502,
+      "detail_url": "https://allaaktier.se/bolag/transtema"
+    },
+    {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
       "trend7d": 0.78,
@@ -463,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
     {
-      "ticker": "ENERSIZE",
-      "company_name": "Enersize",
-      "trend7d": 0.58,
-      "discord_members": 199,
-      "facebook_members": null,
-      "market_cap": 12232886.0,
-      "owner_count": 504,
-      "detail_url": "https://allaaktier.se/bolag/enersize"
-    },
-    {
       "ticker": "PREBONA",
       "company_name": "Prebona",
       "trend7d": 0.57,
@@ -511,6 +501,16 @@
       "market_cap": 633723349.0,
       "owner_count": 1060,
       "detail_url": "https://allaaktier.se/bolag/gapwaves"
+    },
+    {
+      "ticker": "KINNEVIK",
+      "company_name": "Kinnevik",
+      "trend7d": 0.55,
+      "discord_members": 152,
+      "facebook_members": null,
+      "market_cap": 15498593610.0,
+      "owner_count": 14241,
+      "detail_url": "https://allaaktier.se/bolag/kinnevik"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 63,
+    "total_posts_fetched": 67,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
