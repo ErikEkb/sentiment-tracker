@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T16:07:47.216038+00:00",
+  "generated_at": "2026-06-19T18:58:13.599938+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -145,8 +145,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 1.67,
-      "discord_members": 465,
+      "trend7d": 1.74,
+      "discord_members": 466,
       "facebook_members": 52,
       "market_cap": 310691634.0,
       "owner_count": 983,
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
+      "ticker": "FINEPART",
+      "company_name": "Finepart",
+      "trend7d": 1.31,
+      "discord_members": 210,
+      "facebook_members": 212,
+      "market_cap": 30845281.0,
+      "owner_count": 882,
+      "detail_url": "https://allaaktier.se/bolag/finepart"
+    },
+    {
       "ticker": "I-TECH",
       "company_name": "I-Tech",
       "trend7d": 1.3,
@@ -231,16 +241,6 @@
       "market_cap": 3878806280.0,
       "owner_count": 3610,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "FINEPART",
-      "company_name": "Finepart",
-      "trend7d": 1.15,
-      "discord_members": 209,
-      "facebook_members": 212,
-      "market_cap": 30845281.0,
-      "owner_count": 882,
-      "detail_url": "https://allaaktier.se/bolag/finepart"
     },
     {
       "ticker": "CYCLEZYME",
@@ -383,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
+      "ticker": "MEDIVIR",
+      "company_name": "Medivir",
+      "trend7d": 0.76,
+      "discord_members": 490,
+      "facebook_members": null,
+      "market_cap": 1006272056.0,
+      "owner_count": 1312,
+      "detail_url": "https://allaaktier.se/bolag/medivir"
+    },
+    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 0.75,
@@ -421,16 +431,6 @@
       "market_cap": 12338911513011.94,
       "owner_count": 43956,
       "detail_url": "https://allaaktier.se/bolag/tesla"
-    },
-    {
-      "ticker": "MEDIVIR",
-      "company_name": "Medivir",
-      "trend7d": 0.69,
-      "discord_members": 489,
-      "facebook_members": null,
-      "market_cap": 1006272056.0,
-      "owner_count": 1312,
-      "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
       "ticker": "BRILLIANT-FUTURE",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 67,
+    "total_posts_fetched": 59,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
