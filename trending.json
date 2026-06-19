@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T20:41:18.014740+00:00",
+  "generated_at": "2026-06-19T22:06:51.300001+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 2.36,
+      "discord_members": 231,
+      "facebook_members": null,
+      "market_cap": 21443882436.0,
+      "owner_count": 3853,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 2.29,
@@ -131,16 +141,6 @@
       "market_cap": 87891026.0,
       "owner_count": 342,
       "detail_url": "https://allaaktier.se/bolag/checkin-com"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 2.21,
-      "discord_members": 230,
-      "facebook_members": null,
-      "market_cap": 21443882436.0,
-      "owner_count": 3853,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "FREEMELT",
@@ -458,7 +458,7 @@
       "trend7d": 0.61,
       "discord_members": 241,
       "facebook_members": 283,
-      "market_cap": 212653909.57,
+      "market_cap": 198540199.99,
       "owner_count": 2695,
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
@@ -518,16 +518,32 @@
   "min_mentions": 2,
   "trending": [
     {
+      "ticker": "INTC",
+      "company_name": "Intel Corporation",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95225953",
+        "https://www.flashback.org/sp95226111"
+      ]
+    },
+    {
       "ticker": "SIVE",
       "company_name": "Sivers Semiconductors",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.4,
+      "mentions": 8,
+      "velocity_mentions_per_day": 2.67,
+      "avg_sentiment": 0.1,
       "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.2,
+      "label": "neutral",
+      "trending_score": 0.8,
       "sample_posts": [
         "https://www.flashback.org/sp95218957",
         "https://www.flashback.org/sp95219220",
@@ -537,7 +553,7 @@
   ],
   "stats": {
     "total_posts_fetched": 62,
-    "tickers_with_any_mentions": 2,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
