@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T16:22:14.838662+00:00",
+  "generated_at": "2026-06-20T18:15:24.530376+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
-      "trend7d": 5.07,
-      "discord_members": 157,
+      "trend7d": 5.28,
+      "discord_members": 158,
       "facebook_members": null,
       "market_cap": 29014394.0,
       "owner_count": 1845,
@@ -75,8 +75,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 4.12,
-      "discord_members": 941,
+      "trend7d": 4.16,
+      "discord_members": 942,
       "facebook_members": 1928,
       "market_cap": 453589029.0,
       "owner_count": 6485,
@@ -85,8 +85,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 3.45,
-      "discord_members": 2219,
+      "trend7d": 3.47,
+      "discord_members": 2220,
       "facebook_members": 405,
       "market_cap": 699576627.0,
       "owner_count": 2076,
@@ -105,8 +105,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 2.83,
-      "discord_members": 347,
+      "trend7d": 2.93,
+      "discord_members": 348,
       "facebook_members": null,
       "market_cap": 103478578.0,
       "owner_count": 592,
@@ -333,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 0.93,
+      "discord_members": 151,
+      "facebook_members": null,
+      "market_cap": 89506631.0,
+      "owner_count": 261,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
       "ticker": "NOTE",
       "company_name": "NOTE",
       "trend7d": 0.86,
@@ -375,22 +385,12 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 0.76,
-      "discord_members": 1409,
+      "trend7d": 0.73,
+      "discord_members": 1408,
       "facebook_members": 477,
       "market_cap": 404380584.0,
       "owner_count": 1381,
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
-    },
-    {
-      "ticker": "BIBBINSTRUMENTS",
-      "company_name": "BiBBInstruments",
-      "trend7d": 0.71,
-      "discord_members": 150,
-      "facebook_members": null,
-      "market_cap": 89506631.0,
-      "owner_count": 261,
-      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "TRIBORON-INTERNATIONAL",
@@ -403,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
     },
     {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.71,
-      "discord_members": 251,
-      "facebook_members": 223,
-      "market_cap": 98628848.0,
-      "owner_count": 817,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.7,
@@ -421,6 +411,16 @@
       "market_cap": 12338911513011.94,
       "owner_count": 43956,
       "detail_url": "https://allaaktier.se/bolag/tesla"
+    },
+    {
+      "ticker": "DUSTIN",
+      "company_name": "Dustin",
+      "trend7d": 0.69,
+      "discord_members": 67,
+      "facebook_members": null,
+      "market_cap": 2220301005.0,
+      "owner_count": 1712,
+      "detail_url": "https://allaaktier.se/bolag/dustin"
     },
     {
       "ticker": "MEDIVIR",
@@ -493,48 +493,30 @@
       "detail_url": "https://allaaktier.se/bolag/gapwaves"
     },
     {
-      "ticker": "DISTRICT-METALS-CORP",
-      "company_name": "District Metals Corp",
-      "trend7d": 0.56,
-      "discord_members": 565,
+      "ticker": "VO2-CAP",
+      "company_name": "VO2 Cap",
+      "trend7d": 0.59,
+      "discord_members": 87,
       "facebook_members": null,
-      "market_cap": 937720174.0,
-      "owner_count": 574,
-      "detail_url": "https://allaaktier.se/bolag/district-metals-corp"
+      "market_cap": 126949817.0,
+      "owner_count": 198,
+      "detail_url": "https://allaaktier.se/bolag/vo2-cap"
     },
     {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.55,
-      "discord_members": 1282,
-      "facebook_members": 195,
-      "market_cap": 746952852.0,
-      "owner_count": 1480,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
+      "ticker": "ENERSIZE",
+      "company_name": "Enersize",
+      "trend7d": 0.58,
+      "discord_members": 199,
+      "facebook_members": null,
+      "market_cap": 12232886.0,
+      "owner_count": 504,
+      "detail_url": "https://allaaktier.se/bolag/enersize"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "SIVE",
-      "company_name": "Sivers Semiconductors",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 8,
-      "velocity_mentions_per_day": 2.67,
-      "avg_sentiment": 0.1,
-      "avg_upvote_ratio": 0.5,
-      "label": "neutral",
-      "trending_score": 0.8,
-      "sample_posts": [
-        "https://www.flashback.org/sp95218957",
-        "https://www.flashback.org/sp95219220",
-        "https://www.flashback.org/sp95220698"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
     "total_posts_fetched": 73,
     "tickers_with_any_mentions": 1,
