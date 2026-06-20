@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T14:24:38.854270+00:00",
+  "generated_at": "2026-06-20T16:22:14.838662+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -223,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/i-tech"
     },
     {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 1.24,
+      "discord_members": 90,
+      "facebook_members": null,
+      "market_cap": 105734484.0,
+      "owner_count": 366,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
       "ticker": "SALTX-TECHNOLOGY",
       "company_name": "SaltX Technology",
       "trend7d": 1.17,
@@ -331,16 +341,6 @@
       "market_cap": 4670550960.0,
       "owner_count": 2563,
       "detail_url": "https://allaaktier.se/bolag/note"
-    },
-    {
-      "ticker": "ACUCORT",
-      "company_name": "AcuCort",
-      "trend7d": 0.86,
-      "discord_members": 89,
-      "facebook_members": null,
-      "market_cap": 105734484.0,
-      "owner_count": 366,
-      "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -473,6 +473,16 @@
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
     },
     {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 0.64,
+      "discord_members": 165,
+      "facebook_members": null,
+      "market_cap": 60075524.0,
+      "owner_count": 517,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "GAPWAVES",
       "company_name": "Gapwaves",
       "trend7d": 0.64,
@@ -501,16 +511,6 @@
       "market_cap": 746952852.0,
       "owner_count": 1480,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
-      "ticker": "CANDLES-SCANDINAVIA",
-      "company_name": "Candles Scandinavia",
-      "trend7d": 0.54,
-      "discord_members": 44,
-      "facebook_members": 166,
-      "market_cap": 342525350.0,
-      "owner_count": 336,
-      "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
     }
   ],
   "twitter_mentions": 0,
