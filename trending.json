@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T18:15:24.530376+00:00",
+  "generated_at": "2026-06-20T20:17:52.526563+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/k33"
     },
     {
+      "ticker": "EATGOOD",
+      "company_name": "EatGood",
+      "trend7d": 3.79,
+      "discord_members": 67,
+      "facebook_members": null,
+      "market_cap": 5185394.0,
+      "owner_count": 218,
+      "detail_url": "https://allaaktier.se/bolag/eatgood"
+    },
+    {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
       "trend7d": 3.47,
@@ -91,16 +101,6 @@
       "market_cap": 699576627.0,
       "owner_count": 2076,
       "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
-      "ticker": "EATGOOD",
-      "company_name": "EatGood",
-      "trend7d": 3.28,
-      "discord_members": 66,
-      "facebook_members": null,
-      "market_cap": 5185394.0,
-      "owner_count": 218,
-      "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
+      "ticker": "SENZAGEN",
+      "company_name": "SenzaGen",
+      "trend7d": 2.1,
+      "discord_members": 34,
+      "facebook_members": null,
+      "market_cap": 178794258.0,
+      "owner_count": 420,
+      "detail_url": "https://allaaktier.se/bolag/senzagen"
+    },
+    {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
       "trend7d": 1.74,
@@ -171,6 +181,26 @@
       "market_cap": 28447471.0,
       "owner_count": 332,
       "detail_url": "https://allaaktier.se/bolag/biofrigas"
+    },
+    {
+      "ticker": "TRIBORON-INTERNATIONAL",
+      "company_name": "Triboron International",
+      "trend7d": 1.5,
+      "discord_members": 44,
+      "facebook_members": 175,
+      "market_cap": 70169058.0,
+      "owner_count": 320,
+      "detail_url": "https://allaaktier.se/bolag/triboron-international"
+    },
+    {
+      "ticker": "I-TECH",
+      "company_name": "I-Tech",
+      "trend7d": 1.47,
+      "discord_members": 196,
+      "facebook_members": null,
+      "market_cap": 839844390.0,
+      "owner_count": 714,
+      "detail_url": "https://allaaktier.se/bolag/i-tech"
     },
     {
       "ticker": "PREBONA",
@@ -203,26 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
-      "ticker": "FINEPART",
-      "company_name": "Finepart",
-      "trend7d": 1.31,
-      "discord_members": 210,
-      "facebook_members": 212,
-      "market_cap": 30845281.0,
-      "owner_count": 882,
-      "detail_url": "https://allaaktier.se/bolag/finepart"
-    },
-    {
-      "ticker": "I-TECH",
-      "company_name": "I-Tech",
-      "trend7d": 1.3,
-      "discord_members": 195,
-      "facebook_members": null,
-      "market_cap": 839844390.0,
-      "owner_count": 714,
-      "detail_url": "https://allaaktier.se/bolag/i-tech"
-    },
-    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 1.24,
@@ -231,6 +241,16 @@
       "market_cap": 105734484.0,
       "owner_count": 366,
       "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
+      "ticker": "FERROAMP",
+      "company_name": "Ferroamp",
+      "trend7d": 1.18,
+      "discord_members": 48,
+      "facebook_members": null,
+      "market_cap": 298871072.0,
+      "owner_count": 1019,
+      "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
       "ticker": "SALTX-TECHNOLOGY",
@@ -293,16 +313,6 @@
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
-      "ticker": "SENZAGEN",
-      "company_name": "SenzaGen",
-      "trend7d": 1.06,
-      "discord_members": 33,
-      "facebook_members": null,
-      "market_cap": 178794258.0,
-      "owner_count": 420,
-      "detail_url": "https://allaaktier.se/bolag/senzagen"
-    },
-    {
       "ticker": "LUXBRIGHT",
       "company_name": "Luxbright",
       "trend7d": 1.05,
@@ -333,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
+      "ticker": "FINEPART",
+      "company_name": "Finepart",
+      "trend7d": 0.99,
+      "discord_members": 208,
+      "facebook_members": 212,
+      "market_cap": 30845281.0,
+      "owner_count": 882,
+      "detail_url": "https://allaaktier.se/bolag/finepart"
+    },
+    {
       "ticker": "BIBBINSTRUMENTS",
       "company_name": "BiBBInstruments",
       "trend7d": 0.93,
@@ -351,6 +371,16 @@
       "market_cap": 4670550960.0,
       "owner_count": 2563,
       "detail_url": "https://allaaktier.se/bolag/note"
+    },
+    {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 0.84,
+      "discord_members": 166,
+      "facebook_members": null,
+      "market_cap": 60075524.0,
+      "owner_count": 517,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -393,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
-      "ticker": "TRIBORON-INTERNATIONAL",
-      "company_name": "Triboron International",
-      "trend7d": 0.71,
-      "discord_members": 43,
-      "facebook_members": 175,
-      "market_cap": 70169058.0,
-      "owner_count": 320,
-      "detail_url": "https://allaaktier.se/bolag/triboron-international"
-    },
-    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.7,
@@ -421,16 +441,6 @@
       "market_cap": 2220301005.0,
       "owner_count": 1712,
       "detail_url": "https://allaaktier.se/bolag/dustin"
-    },
-    {
-      "ticker": "MEDIVIR",
-      "company_name": "Medivir",
-      "trend7d": 0.69,
-      "discord_members": 488,
-      "facebook_members": null,
-      "market_cap": 1006272056.0,
-      "owner_count": 1312,
-      "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
       "ticker": "HYDROGENPRO",
@@ -473,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
     },
     {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 0.64,
-      "discord_members": 165,
-      "facebook_members": null,
-      "market_cap": 60075524.0,
-      "owner_count": 517,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
-    },
-    {
       "ticker": "GAPWAVES",
       "company_name": "Gapwaves",
       "trend7d": 0.64,
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/gapwaves"
     },
     {
+      "ticker": "MEDIVIR",
+      "company_name": "Medivir",
+      "trend7d": 0.62,
+      "discord_members": 487,
+      "facebook_members": null,
+      "market_cap": 1006272056.0,
+      "owner_count": 1312,
+      "detail_url": "https://allaaktier.se/bolag/medivir"
+    },
+    {
       "ticker": "VO2-CAP",
       "company_name": "VO2 Cap",
       "trend7d": 0.59,
@@ -501,16 +511,6 @@
       "market_cap": 126949817.0,
       "owner_count": 198,
       "detail_url": "https://allaaktier.se/bolag/vo2-cap"
-    },
-    {
-      "ticker": "ENERSIZE",
-      "company_name": "Enersize",
-      "trend7d": 0.58,
-      "discord_members": 199,
-      "facebook_members": null,
-      "market_cap": 12232886.0,
-      "owner_count": 504,
-      "detail_url": "https://allaaktier.se/bolag/enersize"
     }
   ],
   "twitter_mentions": 0,
