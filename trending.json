@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T11:58:45.337486+00:00",
+  "generated_at": "2026-06-20T14:24:38.854270+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -85,8 +85,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 3.47,
-      "discord_members": 2220,
+      "trend7d": 3.45,
+      "discord_members": 2219,
       "facebook_members": 405,
       "market_cap": 699576627.0,
       "owner_count": 2076,
@@ -323,16 +323,6 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
-      "ticker": "DEVYSER-DIAGNOSTICS",
-      "company_name": "Devyser Diagnostics",
-      "trend7d": 0.88,
-      "discord_members": 147,
-      "facebook_members": null,
-      "market_cap": 1464346180.0,
-      "owner_count": 603,
-      "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
-    },
-    {
       "ticker": "NOTE",
       "company_name": "NOTE",
       "trend7d": 0.86,
@@ -351,16 +341,6 @@
       "market_cap": 105734484.0,
       "owner_count": 366,
       "detail_url": "https://allaaktier.se/bolag/acucort"
-    },
-    {
-      "ticker": "MEDIVIR",
-      "company_name": "Medivir",
-      "trend7d": 0.83,
-      "discord_members": 490,
-      "facebook_members": null,
-      "market_cap": 1006272056.0,
-      "owner_count": 1312,
-      "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -443,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
+      "ticker": "MEDIVIR",
+      "company_name": "Medivir",
+      "trend7d": 0.69,
+      "discord_members": 488,
+      "facebook_members": null,
+      "market_cap": 1006272056.0,
+      "owner_count": 1312,
+      "detail_url": "https://allaaktier.se/bolag/medivir"
+    },
+    {
       "ticker": "HYDROGENPRO",
       "company_name": "HydrogenPro",
       "trend7d": 0.66,
@@ -471,6 +461,16 @@
       "market_cap": 7130816784.0,
       "owner_count": 2833,
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
+    },
+    {
+      "ticker": "DEVYSER-DIAGNOSTICS",
+      "company_name": "Devyser Diagnostics",
+      "trend7d": 0.65,
+      "discord_members": 146,
+      "facebook_members": null,
+      "market_cap": 1464346180.0,
+      "owner_count": 603,
+      "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
     },
     {
       "ticker": "GAPWAVES",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 67,
+    "total_posts_fetched": 73,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
