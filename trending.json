@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T05:18:00.530901+00:00",
+  "generated_at": "2026-06-20T09:21:32.457892+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "NEXAR",
       "company_name": "Nexar",
-      "trend7d": 28.33,
-      "discord_members": 101,
+      "trend7d": 28.9,
+      "discord_members": 102,
       "facebook_members": null,
       "market_cap": 29315583.0,
       "owner_count": 491,
@@ -85,8 +85,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 3.47,
-      "discord_members": 2220,
+      "trend7d": 3.45,
+      "discord_members": 2219,
       "facebook_members": 405,
       "market_cap": 699576627.0,
       "owner_count": 2076,
@@ -135,8 +135,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 2.05,
-      "discord_members": 231,
+      "trend7d": 2.2,
+      "discord_members": 232,
       "facebook_members": null,
       "market_cap": 21443882436.0,
       "owner_count": 3853,
@@ -315,7 +315,7 @@
     {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
-      "trend7d": 0.99,
+      "trend7d": 1.0,
       "discord_members": 995,
       "facebook_members": 129,
       "market_cap": 179854536.0,
@@ -403,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
-      "ticker": "HYDROGENPRO",
-      "company_name": "HydrogenPro",
-      "trend7d": 0.75,
-      "discord_members": 241,
-      "facebook_members": 283,
-      "market_cap": 198540199.99,
-      "owner_count": 2695,
-      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
-    },
-    {
       "ticker": "BIBBINSTRUMENTS",
       "company_name": "BiBBInstruments",
       "trend7d": 0.71,
@@ -453,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
+      "ticker": "HYDROGENPRO",
+      "company_name": "HydrogenPro",
+      "trend7d": 0.66,
+      "discord_members": 241,
+      "facebook_members": 283,
+      "market_cap": 199306118.55,
+      "owner_count": 2695,
+      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
+    },
+    {
       "ticker": "BRILLIANT-FUTURE",
       "company_name": "Brilliant Future",
       "trend7d": 0.65,
@@ -475,8 +475,8 @@
     {
       "ticker": "GAPWAVES",
       "company_name": "Gapwaves",
-      "trend7d": 0.6,
-      "discord_members": 878,
+      "trend7d": 0.64,
+      "discord_members": 879,
       "facebook_members": 1447,
       "market_cap": 633723349.0,
       "owner_count": 1060,
@@ -518,22 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "INTC",
-      "company_name": "Intel Corporation",
-      "sector": "Information Technology",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95225953",
-        "https://www.flashback.org/sp95226111"
-      ]
-    },
-    {
       "ticker": "SIVE",
       "company_name": "Sivers Semiconductors",
       "sector": "Discovered",
@@ -552,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 67,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
