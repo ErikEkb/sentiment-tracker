@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T20:17:52.526563+00:00",
+  "generated_at": "2026-06-20T22:12:07.909510+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.71,
+      "discord_members": 251,
+      "facebook_members": 223,
+      "market_cap": 98628848.0,
+      "owner_count": 817,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.7,
@@ -493,33 +503,58 @@
       "detail_url": "https://allaaktier.se/bolag/gapwaves"
     },
     {
-      "ticker": "MEDIVIR",
-      "company_name": "Medivir",
-      "trend7d": 0.62,
-      "discord_members": 487,
+      "ticker": "ZENERGY",
+      "company_name": "Zenergy",
+      "trend7d": 0.63,
+      "discord_members": 57,
       "facebook_members": null,
-      "market_cap": 1006272056.0,
-      "owner_count": 1312,
-      "detail_url": "https://allaaktier.se/bolag/medivir"
-    },
-    {
-      "ticker": "VO2-CAP",
-      "company_name": "VO2 Cap",
-      "trend7d": 0.59,
-      "discord_members": 87,
-      "facebook_members": null,
-      "market_cap": 126949817.0,
-      "owner_count": 198,
-      "detail_url": "https://allaaktier.se/bolag/vo2-cap"
+      "market_cap": 9160297.0,
+      "owner_count": 411,
+      "detail_url": "https://allaaktier.se/bolag/zenergy"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95234421",
+        "https://www.flashback.org/sp95234459",
+        "https://www.flashback.org/sp95234767"
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "company_name": "Adobe Inc.",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.133,
+      "avg_upvote_ratio": 0.5,
+      "label": "neutral",
+      "trending_score": 0.667,
+      "sample_posts": [
+        "https://www.flashback.org/sp95230749",
+        "https://www.flashback.org/sp95232929",
+        "https://www.flashback.org/sp95234451"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 73,
-    "tickers_with_any_mentions": 1,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
