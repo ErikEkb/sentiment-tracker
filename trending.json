@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T06:05:44.151899+00:00",
+  "generated_at": "2026-06-21T10:32:44.556022+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,18 +25,18 @@
     {
       "ticker": "CESSATECH",
       "company_name": "Cessatech",
-      "trend7d": 649.9,
-      "discord_members": 1035,
+      "trend7d": 649.93,
+      "discord_members": 1036,
       "facebook_members": 164,
-      "market_cap": 519351666.25,
+      "market_cap": 519582368.61,
       "owner_count": 3793,
       "detail_url": "https://allaaktier.se/bolag/cessatech"
     },
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 521.76,
-      "discord_members": 1084,
+      "trend7d": 521.72,
+      "discord_members": 1083,
       "facebook_members": 2135,
       "market_cap": 3278811013.0,
       "owner_count": 3431,
@@ -65,8 +65,8 @@
     {
       "ticker": "ACCONEER",
       "company_name": "Acconeer",
-      "trend7d": 464.61,
-      "discord_members": 1086,
+      "trend7d": 464.58,
+      "discord_members": 1085,
       "facebook_members": 1461,
       "market_cap": 1324862657.0,
       "owner_count": 1301,
@@ -85,8 +85,8 @@
     {
       "ticker": "POWERCELL-SWEDEN",
       "company_name": "PowerCell Sweden",
-      "trend7d": 410.97,
-      "discord_members": 475,
+      "trend7d": 410.76,
+      "discord_members": 472,
       "facebook_members": 2907,
       "market_cap": 1337315225.0,
       "owner_count": 5082,
@@ -205,8 +205,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 2.76,
-      "discord_members": 2219,
+      "trend7d": 2.75,
+      "discord_members": 2218,
       "facebook_members": 405,
       "market_cap": 699576627.0,
       "owner_count": 2076,
@@ -235,8 +235,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 2.23,
-      "discord_members": 348,
+      "trend7d": 2.13,
+      "discord_members": 347,
       "facebook_members": null,
       "market_cap": 103478578.0,
       "owner_count": 592,
@@ -503,37 +503,20 @@
       "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
     },
     {
-      "ticker": "NOTE",
-      "company_name": "NOTE",
-      "trend7d": 0.76,
-      "discord_members": 46,
+      "ticker": "DISTRICT-METALS-CORP",
+      "company_name": "District Metals Corp",
+      "trend7d": 0.74,
+      "discord_members": 565,
       "facebook_members": null,
-      "market_cap": 4670550960.0,
-      "owner_count": 2563,
-      "detail_url": "https://allaaktier.se/bolag/note"
+      "market_cap": 937720174.0,
+      "owner_count": 574,
+      "detail_url": "https://allaaktier.se/bolag/district-metals-corp"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "SPCX",
-      "company_name": "SpaceX",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.333,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95234421",
-        "https://www.flashback.org/sp95234459",
-        "https://www.flashback.org/sp95234767"
-      ]
-    },
     {
       "ticker": "ADBE",
       "company_name": "Adobe Inc.",
@@ -553,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 56,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
