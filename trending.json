@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T13:09:18.335386+00:00",
+  "generated_at": "2026-06-21T15:55:33.578308+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "ACCONEER",
       "company_name": "Acconeer",
-      "trend7d": 464.58,
-      "discord_members": 1085,
+      "trend7d": 464.61,
+      "discord_members": 1086,
       "facebook_members": 1461,
       "market_cap": 1324862657.0,
       "owner_count": 1301,
@@ -185,8 +185,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 4.15,
-      "discord_members": 941,
+      "trend7d": 4.19,
+      "discord_members": 942,
       "facebook_members": 1928,
       "market_cap": 453589029.0,
       "owner_count": 6485,
@@ -363,16 +363,6 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
-      "ticker": "FERROAMP",
-      "company_name": "Ferroamp",
-      "trend7d": 1.31,
-      "discord_members": 48,
-      "facebook_members": null,
-      "market_cap": 298871072.0,
-      "owner_count": 1019,
-      "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 1.13,
@@ -453,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 0.85,
-      "discord_members": 75,
-      "facebook_members": null,
-      "market_cap": 6251904792.0,
-      "owner_count": 2597,
-      "detail_url": "https://allaaktier.se/bolag/mips"
-    },
-    {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
       "trend7d": 0.83,
@@ -511,6 +491,26 @@
       "market_cap": 19598097030.0,
       "owner_count": 7504,
       "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
+    },
+    {
+      "ticker": "DISTRICT-METALS-CORP",
+      "company_name": "District Metals Corp",
+      "trend7d": 0.74,
+      "discord_members": 565,
+      "facebook_members": null,
+      "market_cap": 937720174.0,
+      "owner_count": 574,
+      "detail_url": "https://allaaktier.se/bolag/district-metals-corp"
+    },
+    {
+      "ticker": "CANDLES-SCANDINAVIA",
+      "company_name": "Candles Scandinavia",
+      "trend7d": 0.74,
+      "discord_members": 44,
+      "facebook_members": 166,
+      "market_cap": 342525350.0,
+      "owner_count": 336,
+      "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
