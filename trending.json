@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T15:55:33.578308+00:00",
+  "generated_at": "2026-06-21T17:42:44.041052+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "ACCONEER",
       "company_name": "Acconeer",
-      "trend7d": 464.61,
-      "discord_members": 1086,
+      "trend7d": 464.58,
+      "discord_members": 1085,
       "facebook_members": 1461,
       "market_cap": 1324862657.0,
       "owner_count": 1301,
@@ -185,8 +185,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 4.19,
-      "discord_members": 942,
+      "trend7d": 4.15,
+      "discord_members": 941,
       "facebook_members": 1928,
       "market_cap": 453589029.0,
       "owner_count": 6485,
@@ -415,8 +415,8 @@
     {
       "ticker": "SALTX-TECHNOLOGY",
       "company_name": "SaltX Technology",
-      "trend7d": 0.96,
-      "discord_members": 1643,
+      "trend7d": 0.94,
+      "discord_members": 1642,
       "facebook_members": null,
       "market_cap": 1748704651.0,
       "owner_count": 3924,
@@ -443,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
-      "ticker": "ELICERA-THERAPEUTICS",
-      "company_name": "Elicera Therapeutics",
-      "trend7d": 0.83,
-      "discord_members": 995,
-      "facebook_members": 129,
-      "market_cap": 179854536.0,
-      "owner_count": 1142,
-      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
-    },
-    {
       "ticker": "GOSOL-ENERGY",
       "company_name": "Gosol Energy",
       "trend7d": 0.81,
@@ -461,6 +451,16 @@
       "market_cap": 52756255.0,
       "owner_count": 380,
       "detail_url": "https://allaaktier.se/bolag/gosol-energy"
+    },
+    {
+      "ticker": "ELICERA-THERAPEUTICS",
+      "company_name": "Elicera Therapeutics",
+      "trend7d": 0.8,
+      "discord_members": 994,
+      "facebook_members": 129,
+      "market_cap": 179854536.0,
+      "owner_count": 1142,
+      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
       "ticker": "FINEPART",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
