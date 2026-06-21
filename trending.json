@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T19:47:25.782407+00:00",
+  "generated_at": "2026-06-21T21:18:25.996755+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -28,7 +28,7 @@
       "trend7d": 649.93,
       "discord_members": 1036,
       "facebook_members": 164,
-      "market_cap": 519582368.61,
+      "market_cap": 519581085.25,
       "owner_count": 3793,
       "detail_url": "https://allaaktier.se/bolag/cessatech"
     },
@@ -85,8 +85,8 @@
     {
       "ticker": "POWERCELL-SWEDEN",
       "company_name": "PowerCell Sweden",
-      "trend7d": 410.76,
-      "discord_members": 472,
+      "trend7d": 410.69,
+      "discord_members": 471,
       "facebook_members": 2907,
       "market_cap": 1337315225.0,
       "owner_count": 5082,
@@ -175,8 +175,8 @@
     {
       "ticker": "RENEWABLE-VENTURES-NORDIC",
       "company_name": "Renewable Ventures Nordic",
-      "trend7d": 4.23,
-      "discord_members": 63,
+      "trend7d": 4.76,
+      "discord_members": 64,
       "facebook_members": null,
       "market_cap": 205076879.0,
       "owner_count": 357,
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/k33"
     },
     {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 2.79,
+      "discord_members": 2221,
+      "facebook_members": 405,
+      "market_cap": 699576627.0,
+      "owner_count": 2076,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
+    },
+    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 2.77,
@@ -201,16 +211,6 @@
       "market_cap": 5185394.0,
       "owner_count": 218,
       "detail_url": "https://allaaktier.se/bolag/eatgood"
-    },
-    {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 2.76,
-      "discord_members": 2219,
-      "facebook_members": 405,
-      "market_cap": 699576627.0,
-      "owner_count": 2076,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
       "ticker": "RANLOS",
@@ -233,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/checkin-com"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 2.23,
+      "discord_members": 233,
+      "facebook_members": null,
+      "market_cap": 21443882436.0,
+      "owner_count": 3853,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 2.13,
@@ -241,16 +251,6 @@
       "market_cap": 103478578.0,
       "owner_count": 592,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 2.08,
-      "discord_members": 232,
-      "facebook_members": null,
-      "market_cap": 21443882436.0,
-      "owner_count": 3853,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "SENZAGEN",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 60,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
