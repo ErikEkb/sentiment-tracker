@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T12:35:52.534888+00:00",
+  "generated_at": "2026-06-23T15:51:43.303425+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -23,14 +23,14 @@
       "detail_url": "https://allaaktier.se/bolag/renewable-ventures-nordic"
     },
     {
-      "ticker": "NEXAR",
-      "company_name": "Nexar",
-      "trend7d": 3.6,
-      "discord_members": 101,
+      "ticker": "MOVEBYBIKE",
+      "company_name": "MoveByBike",
+      "trend7d": 4.38,
+      "discord_members": 58,
       "facebook_members": null,
-      "market_cap": 27215844.0,
-      "owner_count": 495,
-      "detail_url": "https://allaaktier.se/bolag/nexar"
+      "market_cap": 48822860.0,
+      "owner_count": 1057,
+      "detail_url": "https://allaaktier.se/bolag/movebybike"
     },
     {
       "ticker": "PARADOX-INTERACTIVE",
@@ -43,6 +43,16 @@
       "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
     },
     {
+      "ticker": "NEXAR",
+      "company_name": "Nexar",
+      "trend7d": 3.25,
+      "discord_members": 100,
+      "facebook_members": null,
+      "market_cap": 27215844.0,
+      "owner_count": 495,
+      "detail_url": "https://allaaktier.se/bolag/nexar"
+    },
+    {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
       "trend7d": 2.8,
@@ -51,16 +61,6 @@
       "market_cap": 575207449.0,
       "owner_count": 2104,
       "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
-      "ticker": "MOVEBYBIKE",
-      "company_name": "MoveByBike",
-      "trend7d": 2.53,
-      "discord_members": 55,
-      "facebook_members": null,
-      "market_cap": 48822860.0,
-      "owner_count": 1057,
-      "detail_url": "https://allaaktier.se/bolag/movebybike"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -115,8 +115,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.66,
-      "discord_members": 2514,
+      "trend7d": 1.65,
+      "discord_members": 2513,
       "facebook_members": 2874,
       "market_cap": 27212051299.0,
       "owner_count": 5434,
@@ -165,8 +165,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 1.17,
-      "discord_members": 935,
+      "trend7d": 1.14,
+      "discord_members": 934,
       "facebook_members": 1928,
       "market_cap": 396890400.0,
       "owner_count": 6486,
@@ -303,6 +303,16 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
+      "ticker": "PEPTONIC-MEDICAL",
+      "company_name": "Peptonic Medical",
+      "trend7d": 0.77,
+      "discord_members": 160,
+      "facebook_members": null,
+      "market_cap": 29014394.0,
+      "owner_count": 1848,
+      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
+    },
+    {
       "ticker": "I-TECH",
       "company_name": "I-Tech",
       "trend7d": 0.74,
@@ -401,16 +411,6 @@
       "market_cap": 30383920.0,
       "owner_count": 884,
       "detail_url": "https://allaaktier.se/bolag/finepart"
-    },
-    {
-      "ticker": "PEPTONIC-MEDICAL",
-      "company_name": "Peptonic Medical",
-      "trend7d": 0.56,
-      "discord_members": 158,
-      "facebook_members": null,
-      "market_cap": 29014394.0,
-      "owner_count": 1848,
-      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
       "ticker": "MEDIVIR",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
