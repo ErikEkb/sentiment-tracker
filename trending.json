@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T18:00:30.015944+00:00",
+  "generated_at": "2026-06-23T20:19:28.443197+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 2.78,
-      "discord_members": 2223,
+      "trend7d": 2.81,
+      "discord_members": 2225,
       "facebook_members": 405,
       "market_cap": 575207449.0,
       "owner_count": 2104,
@@ -125,8 +125,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 1.5,
-      "discord_members": 472,
+      "trend7d": 1.57,
+      "discord_members": 473,
       "facebook_members": 52,
       "market_cap": 446290946.0,
       "owner_count": 991,
@@ -151,6 +151,16 @@
       "market_cap": 159764854.0,
       "owner_count": 235,
       "detail_url": "https://allaaktier.se/bolag/talkpool"
+    },
+    {
+      "ticker": "PEPTONIC-MEDICAL",
+      "company_name": "Peptonic Medical",
+      "trend7d": 1.19,
+      "discord_members": 161,
+      "facebook_members": null,
+      "market_cap": 29014394.0,
+      "owner_count": 1848,
+      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
       "ticker": "LOHILO-FOODS",
@@ -179,7 +189,7 @@
       "discord_members": 740,
       "facebook_members": 592,
       "market_cap": 27753018908.0,
-      "owner_count": 3826,
+      "owner_count": 3827,
       "detail_url": "https://allaaktier.se/bolag/bioarctic"
     },
     {
@@ -221,16 +231,6 @@
       "market_cap": 4548917.0,
       "owner_count": 138,
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
-    },
-    {
-      "ticker": "PEPTONIC-MEDICAL",
-      "company_name": "Peptonic Medical",
-      "trend7d": 0.98,
-      "discord_members": 160,
-      "facebook_members": null,
-      "market_cap": 29014394.0,
-      "owner_count": 1848,
-      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -363,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
+      "ticker": "MEDIVIR",
+      "company_name": "Medivir",
+      "trend7d": 0.62,
+      "discord_members": 489,
+      "facebook_members": null,
+      "market_cap": 1029846864.0,
+      "owner_count": 1311,
+      "detail_url": "https://allaaktier.se/bolag/medivir"
+    },
+    {
       "ticker": "CLOETTA",
       "company_name": "Cloetta",
       "trend7d": 0.57,
@@ -391,16 +401,6 @@
       "market_cap": 30383920.0,
       "owner_count": 884,
       "detail_url": "https://allaaktier.se/bolag/finepart"
-    },
-    {
-      "ticker": "MEDIVIR",
-      "company_name": "Medivir",
-      "trend7d": 0.55,
-      "discord_members": 488,
-      "facebook_members": null,
-      "market_cap": 1029846864.0,
-      "owner_count": 1311,
-      "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
       "ticker": "GAPWAVES",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 72,
+    "total_posts_fetched": 64,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
