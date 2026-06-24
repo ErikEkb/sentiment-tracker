@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T22:17:05.618723+00:00",
+  "generated_at": "2026-06-24T00:01:24.453047+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -153,16 +153,6 @@
       "detail_url": "https://allaaktier.se/bolag/talkpool"
     },
     {
-      "ticker": "PEPTONIC-MEDICAL",
-      "company_name": "Peptonic Medical",
-      "trend7d": 1.19,
-      "discord_members": 161,
-      "facebook_members": null,
-      "market_cap": 37304221.0,
-      "owner_count": 1848,
-      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
-    },
-    {
       "ticker": "LOHILO-FOODS",
       "company_name": "Lohilo Foods",
       "trend7d": 1.18,
@@ -173,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
+      "ticker": "BIOARCTIC",
+      "company_name": "BioArctic",
+      "trend7d": 1.18,
+      "discord_members": 741,
+      "facebook_members": 592,
+      "market_cap": 27753018908.0,
+      "owner_count": 3827,
+      "detail_url": "https://allaaktier.se/bolag/bioarctic"
+    },
+    {
       "ticker": "K33",
       "company_name": "K33",
       "trend7d": 1.14,
@@ -181,16 +181,6 @@
       "market_cap": 399874539.0,
       "owner_count": 6486,
       "detail_url": "https://allaaktier.se/bolag/k33"
-    },
-    {
-      "ticker": "BIOARCTIC",
-      "company_name": "BioArctic",
-      "trend7d": 1.13,
-      "discord_members": 740,
-      "facebook_members": 592,
-      "market_cap": 27753018908.0,
-      "owner_count": 3827,
-      "detail_url": "https://allaaktier.se/bolag/bioarctic"
     },
     {
       "ticker": "CHECKIN-COM",
@@ -353,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
+      "ticker": "PEPTONIC-MEDICAL",
+      "company_name": "Peptonic Medical",
+      "trend7d": 0.64,
+      "discord_members": 161,
+      "facebook_members": null,
+      "market_cap": 37304221.0,
+      "owner_count": 1848,
+      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
+    },
+    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.63,
@@ -433,6 +433,16 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 0.49,
+      "discord_members": 1319,
+      "facebook_members": 128,
+      "market_cap": 1269468328.0,
+      "owner_count": 1395,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
       "ticker": "B-TREASURY-CAPITAL",
       "company_name": "B Treasury Capital",
       "trend7d": 0.47,
@@ -441,16 +451,6 @@
       "market_cap": 84273804.0,
       "owner_count": 376,
       "detail_url": "https://allaaktier.se/bolag/b-treasury-capital"
-    },
-    {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 0.47,
-      "discord_members": 1318,
-      "facebook_members": 128,
-      "market_cap": 1269468328.0,
-      "owner_count": 1395,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     },
     {
       "ticker": "VIBROSENSE-DYNAMICS",
