@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T21:39:40.862849+00:00",
+  "generated_at": "2026-06-24T23:07:10.191148+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
+      "ticker": "FREEMELT",
+      "company_name": "Freemelt",
+      "trend7d": 2.32,
+      "discord_members": 484,
+      "facebook_members": 52,
+      "market_cap": 478168870.0,
+      "owner_count": 997,
+      "detail_url": "https://allaaktier.se/bolag/freemelt"
+    },
+    {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
       "trend7d": 2.27,
@@ -78,19 +88,9 @@
       "trend7d": 2.27,
       "discord_members": 210,
       "facebook_members": null,
-      "market_cap": 62417289.0,
+      "market_cap": 66043190.0,
       "owner_count": 122,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
-      "ticker": "FREEMELT",
-      "company_name": "Freemelt",
-      "trend7d": 2.25,
-      "discord_members": 483,
-      "facebook_members": 52,
-      "market_cap": 478168870.0,
-      "owner_count": 997,
-      "detail_url": "https://allaaktier.se/bolag/freemelt"
     },
     {
       "ticker": "HACKSAW",
@@ -98,7 +98,7 @@
       "trend7d": 1.96,
       "discord_members": null,
       "facebook_members": null,
-      "market_cap": 22412688992.0,
+      "market_cap": 22499447789.0,
       "owner_count": 3874,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -138,7 +138,7 @@
       "trend7d": 1.51,
       "discord_members": 47,
       "facebook_members": null,
-      "market_cap": 11940228728440.12,
+      "market_cap": 11747957284980.58,
       "owner_count": 44018,
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
@@ -228,7 +228,7 @@
       "trend7d": 0.99,
       "discord_members": 34,
       "facebook_members": null,
-      "market_cap": 184645707.0,
+      "market_cap": 174893293.0,
       "owner_count": 420,
       "detail_url": "https://allaaktier.se/bolag/senzagen"
     },
@@ -243,16 +243,6 @@
       "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
-      "ticker": "XOMA",
-      "company_name": "Xoma",
-      "trend7d": 0.83,
-      "discord_members": 814,
-      "facebook_members": null,
-      "market_cap": 72780667.0,
-      "owner_count": 1131,
-      "detail_url": "https://allaaktier.se/bolag/xoma"
-    },
-    {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
       "trend7d": 0.77,
@@ -263,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
+      "ticker": "XOMA",
+      "company_name": "Xoma",
+      "trend7d": 0.75,
+      "discord_members": 812,
+      "facebook_members": null,
+      "market_cap": 74051945.0,
+      "owner_count": 1131,
+      "detail_url": "https://allaaktier.se/bolag/xoma"
+    },
+    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 0.75,
@@ -271,16 +271,6 @@
       "market_cap": 95187640.0,
       "owner_count": 340,
       "detail_url": "https://allaaktier.se/bolag/checkin-com"
-    },
-    {
-      "ticker": "I-TECH",
-      "company_name": "I-Tech",
-      "trend7d": 0.74,
-      "discord_members": 192,
-      "facebook_members": null,
-      "market_cap": 827846613.0,
-      "owner_count": 714,
-      "detail_url": "https://allaaktier.se/bolag/i-tech"
     },
     {
       "ticker": "PROSTATYPE-GENOMICS",
@@ -368,7 +358,7 @@
       "trend7d": 0.6,
       "discord_members": 117,
       "facebook_members": null,
-      "market_cap": 84273804.0,
+      "market_cap": 78811613.0,
       "owner_count": 375,
       "detail_url": "https://allaaktier.se/bolag/b-treasury-capital"
     },
@@ -411,16 +401,6 @@
       "market_cap": 5141491.0,
       "owner_count": 359,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
-    },
-    {
-      "ticker": "ANNEXIN-PHARMACEUTICALS",
-      "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 0.56,
-      "discord_members": 307,
-      "facebook_members": null,
-      "market_cap": 109415925.0,
-      "owner_count": 283,
-      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
       "ticker": "GAPWAVES",
@@ -493,6 +473,16 @@
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
     },
     {
+      "ticker": "ANNEXIN-PHARMACEUTICALS",
+      "company_name": "Annexin Pharmaceuticals",
+      "trend7d": 0.45,
+      "discord_members": 306,
+      "facebook_members": null,
+      "market_cap": 109415925.0,
+      "owner_count": 283,
+      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
+    },
+    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 0.44,
@@ -511,15 +501,43 @@
       "market_cap": 28340750.0,
       "owner_count": 881,
       "detail_url": "https://allaaktier.se/bolag/finepart"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.44,
+      "discord_members": 1076,
+      "facebook_members": 3706,
+      "market_cap": 4608425602.0,
+      "owner_count": 3623,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95263131",
+        "https://www.flashback.org/sp95264428",
+        "https://www.flashback.org/sp95264466"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 61,
-    "tickers_with_any_mentions": 0,
+    "total_posts_fetched": 62,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
