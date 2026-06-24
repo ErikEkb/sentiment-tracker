@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T15:34:41.652388+00:00",
+  "generated_at": "2026-06-24T17:57:53.343919+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -16,7 +16,7 @@
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
       "trend7d": 10.94,
-      "discord_members": 239,
+      "discord_members": 240,
       "facebook_members": null,
       "market_cap": 247264123.0,
       "owner_count": 389,
@@ -53,6 +53,26 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
+      "ticker": "FREEMELT",
+      "company_name": "Freemelt",
+      "trend7d": 2.32,
+      "discord_members": 484,
+      "facebook_members": 52,
+      "market_cap": 499800319.0,
+      "owner_count": 997,
+      "detail_url": "https://allaaktier.se/bolag/freemelt"
+    },
+    {
+      "ticker": "PEPTONIC-MEDICAL",
+      "company_name": "Peptonic Medical",
+      "trend7d": 2.27,
+      "discord_members": 164,
+      "facebook_members": null,
+      "market_cap": 37304221.0,
+      "owner_count": 1845,
+      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
+    },
+    {
       "ticker": "CYCLEZYME",
       "company_name": "Cyclezyme",
       "trend7d": 2.27,
@@ -63,16 +83,6 @@
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
-      "ticker": "FREEMELT",
-      "company_name": "Freemelt",
-      "trend7d": 2.25,
-      "discord_members": 483,
-      "facebook_members": 52,
-      "market_cap": 499800319.0,
-      "owner_count": 997,
-      "detail_url": "https://allaaktier.se/bolag/freemelt"
-    },
-    {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
       "trend7d": 2.06,
@@ -81,16 +91,6 @@
       "market_cap": 54573557.0,
       "owner_count": 519,
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
-    },
-    {
-      "ticker": "PEPTONIC-MEDICAL",
-      "company_name": "Peptonic Medical",
-      "trend7d": 2.05,
-      "discord_members": 163,
-      "facebook_members": null,
-      "market_cap": 37304221.0,
-      "owner_count": 1845,
-      "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
       "ticker": "HACKSAW",
@@ -155,8 +155,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 1.32,
-      "discord_members": 2226,
+      "trend7d": 1.33,
+      "discord_members": 2227,
       "facebook_members": 405,
       "market_cap": 641833794.0,
       "owner_count": 2101,
@@ -383,26 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
-      "ticker": "GAPWAVES",
-      "company_name": "Gapwaves",
-      "trend7d": 0.56,
-      "discord_members": 887,
-      "facebook_members": 1447,
-      "market_cap": 628636120.0,
-      "owner_count": 1062,
-      "detail_url": "https://allaaktier.se/bolag/gapwaves"
-    },
-    {
-      "ticker": "MENDUS",
-      "company_name": "Mendus",
-      "trend7d": 0.55,
-      "discord_members": 506,
-      "facebook_members": 989,
-      "market_cap": 434336971.0,
-      "owner_count": 1017,
-      "detail_url": "https://allaaktier.se/bolag/mendus"
-    },
-    {
       "ticker": "MEDIVIR",
       "company_name": "Medivir",
       "trend7d": 0.54,
@@ -433,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
+      "ticker": "GAPWAVES",
+      "company_name": "Gapwaves",
+      "trend7d": 0.52,
+      "discord_members": 886,
+      "facebook_members": 1447,
+      "market_cap": 628636120.0,
+      "owner_count": 1062,
+      "detail_url": "https://allaaktier.se/bolag/gapwaves"
+    },
+    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.5,
@@ -441,6 +431,16 @@
       "market_cap": 902860043949.0,
       "owner_count": 15898,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
+    },
+    {
+      "ticker": "MENDUS",
+      "company_name": "Mendus",
+      "trend7d": 0.48,
+      "discord_members": 505,
+      "facebook_members": 989,
+      "market_cap": 434336971.0,
+      "owner_count": 1017,
+      "detail_url": "https://allaaktier.se/bolag/mendus"
     },
     {
       "ticker": "FRACTAL-GAMING-GROUP",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
