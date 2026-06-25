@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T03:54:04.733277+00:00",
+  "generated_at": "2026-06-25T07:49:22.980027+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 8.15,
-      "discord_members": 240,
+      "trend7d": 8.29,
+      "discord_members": 241,
       "facebook_members": null,
       "market_cap": 255467198.0,
       "owner_count": 389,
@@ -35,12 +35,22 @@
     {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
-      "trend7d": 2.49,
-      "discord_members": 164,
+      "trend7d": 2.7,
+      "discord_members": 165,
       "facebook_members": null,
       "market_cap": 44128032.0,
       "owner_count": 1845,
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
+    },
+    {
+      "ticker": "FREEMELT",
+      "company_name": "Freemelt",
+      "trend7d": 2.58,
+      "discord_members": 487,
+      "facebook_members": 52,
+      "market_cap": 478168870.0,
+      "owner_count": 997,
+      "detail_url": "https://allaaktier.se/bolag/freemelt"
     },
     {
       "ticker": "MODUS-THERAPEUTICS",
@@ -53,20 +63,10 @@
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
-      "ticker": "FREEMELT",
-      "company_name": "Freemelt",
-      "trend7d": 2.29,
-      "discord_members": 483,
-      "facebook_members": 52,
-      "market_cap": 478168870.0,
-      "owner_count": 997,
-      "detail_url": "https://allaaktier.se/bolag/freemelt"
-    },
-    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.13,
-      "discord_members": 2512,
+      "trend7d": 2.14,
+      "discord_members": 2513,
       "facebook_members": 2874,
       "market_cap": 27164058263.0,
       "owner_count": 5545,
@@ -363,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
+      "ticker": "ANNEXIN-PHARMACEUTICALS",
+      "company_name": "Annexin Pharmaceuticals",
+      "trend7d": 0.49,
+      "discord_members": 306,
+      "facebook_members": null,
+      "market_cap": 109415925.0,
+      "owner_count": 283,
+      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
+    },
+    {
       "ticker": "FRACTAL-GAMING-GROUP",
       "company_name": "Fractal Gaming Group",
       "trend7d": 0.48,
@@ -413,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/mendus"
     },
     {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.41,
+      "discord_members": 250,
+      "facebook_members": 223,
+      "market_cap": 45369270.0,
+      "owner_count": 816,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
       "company_name": "Trophy Games Development",
       "trend7d": 0.4,
@@ -453,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
-      "ticker": "ANNEXIN-PHARMACEUTICALS",
-      "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 0.38,
-      "discord_members": 305,
-      "facebook_members": null,
-      "market_cap": 109415925.0,
-      "owner_count": 283,
-      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
-    },
-    {
       "ticker": "GOLD-TOWN-GAMES",
       "company_name": "Gold Town Games",
       "trend7d": 0.38,
@@ -501,43 +511,15 @@
       "market_cap": 12022513544.0,
       "owner_count": 4394,
       "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.35,
-      "discord_members": 1161,
-      "facebook_members": 297,
-      "market_cap": 696512797.0,
-      "owner_count": 2326,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "SPCX",
-      "company_name": "SpaceX",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95263131",
-        "https://www.flashback.org/sp95264428",
-        "https://www.flashback.org/sp95264466"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 45,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 0,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
