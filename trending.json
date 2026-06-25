@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T21:46:19.612571+00:00",
+  "generated_at": "2026-06-25T23:21:15.992782+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
-      "trend7d": 1.95,
-      "discord_members": 115,
+      "trend7d": 2.26,
+      "discord_members": 116,
       "facebook_members": null,
       "market_cap": 389728979.0,
       "owner_count": 415,
@@ -181,6 +181,16 @@
       "market_cap": 14632998459.0,
       "owner_count": 5252,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
+      "ticker": "EATGOOD",
+      "company_name": "EatGood",
+      "trend7d": 1.13,
+      "discord_members": 69,
+      "facebook_members": null,
+      "market_cap": 5243657.0,
+      "owner_count": 216,
+      "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
       "ticker": "REDSENSE-MEDICAL",
@@ -278,7 +288,7 @@
       "trend7d": 0.71,
       "discord_members": 232,
       "facebook_members": null,
-      "market_cap": 22166872404.0,
+      "market_cap": 22065653808.0,
       "owner_count": 3874,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -343,14 +353,14 @@
       "detail_url": "https://allaaktier.se/bolag/qliro"
     },
     {
-      "ticker": "EATGOOD",
-      "company_name": "EatGood",
-      "trend7d": 0.62,
-      "discord_members": 68,
-      "facebook_members": null,
-      "market_cap": 5243657.0,
-      "owner_count": 216,
-      "detail_url": "https://allaaktier.se/bolag/eatgood"
+      "ticker": "ASCELIA-PHARMA",
+      "company_name": "Ascelia Pharma",
+      "trend7d": 0.63,
+      "discord_members": 1425,
+      "facebook_members": 477,
+      "market_cap": 403707738.0,
+      "owner_count": 1391,
+      "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
       "ticker": "KILIARO",
@@ -411,16 +421,6 @@
       "market_cap": 27996549.0,
       "owner_count": 561,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
-      "ticker": "ASCELIA-PHARMA",
-      "company_name": "Ascelia Pharma",
-      "trend7d": 0.49,
-      "discord_members": 1419,
-      "facebook_members": 477,
-      "market_cap": 403707738.0,
-      "owner_count": 1391,
-      "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
       "ticker": "GOSOL-ENERGY",
@@ -516,10 +516,27 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95269857",
+        "https://www.flashback.org/sp95270585"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 70,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 71,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
