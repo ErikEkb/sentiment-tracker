@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T14:31:14.085214+00:00",
+  "generated_at": "2026-06-26T17:02:35.255973+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -85,8 +85,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.64,
-      "discord_members": 2517,
+      "trend7d": 2.63,
+      "discord_members": 2516,
       "facebook_members": 2874,
       "market_cap": 18525311819.0,
       "owner_count": 5556,
@@ -155,8 +155,8 @@
     {
       "ticker": "BIOARCTIC",
       "company_name": "BioArctic",
-      "trend7d": 1.67,
-      "discord_members": 741,
+      "trend7d": 1.63,
+      "discord_members": 740,
       "facebook_members": 592,
       "market_cap": 27149692410.0,
       "owner_count": 3835,
@@ -166,7 +166,7 @@
       "ticker": "CHARGEPANEL",
       "company_name": "ChargePanel",
       "trend7d": 1.18,
-      "discord_members": 63,
+      "discord_members": 64,
       "facebook_members": null,
       "market_cap": 62316116.0,
       "owner_count": 368,
@@ -195,8 +195,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.01,
-      "discord_members": 1442,
+      "trend7d": 1.03,
+      "discord_members": 1443,
       "facebook_members": 477,
       "market_cap": 410436200.0,
       "owner_count": 1391,
@@ -263,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
     {
+      "ticker": "HYDROGENPRO",
+      "company_name": "HydrogenPro",
+      "trend7d": 0.7,
+      "discord_members": 242,
+      "facebook_members": 283,
+      "market_cap": 85740028.63,
+      "owner_count": 2737,
+      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
+    },
+    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 0.69,
@@ -326,7 +336,7 @@
       "ticker": "GOSOL-ENERGY",
       "company_name": "Gosol Energy",
       "trend7d": 0.64,
-      "discord_members": 75,
+      "discord_members": 76,
       "facebook_members": null,
       "market_cap": 53936107.0,
       "owner_count": 382,
@@ -433,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
     },
     {
-      "ticker": "HYDROGENPRO",
-      "company_name": "HydrogenPro",
-      "trend7d": 0.56,
-      "discord_members": 241,
-      "facebook_members": 283,
-      "market_cap": 85740028.63,
-      "owner_count": 2737,
-      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
-    },
-    {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
       "trend7d": 0.53,
@@ -461,6 +461,26 @@
       "market_cap": 172847216.0,
       "owner_count": 1152,
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
+    },
+    {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 0.49,
+      "discord_members": 106,
+      "facebook_members": null,
+      "market_cap": 433953072.0,
+      "owner_count": 265,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
+    },
+    {
+      "ticker": "NORD-INSURETECH",
+      "company_name": "Nord Insuretech",
+      "trend7d": 0.47,
+      "discord_members": 117,
+      "facebook_members": null,
+      "market_cap": 273513027.0,
+      "owner_count": 712,
+      "detail_url": "https://allaaktier.se/bolag/nord-insuretech"
     },
     {
       "ticker": "FRACTAL-GAMING-GROUP",
@@ -491,26 +511,6 @@
       "market_cap": 400541299.0,
       "owner_count": 1016,
       "detail_url": "https://allaaktier.se/bolag/mendus"
-    },
-    {
-      "ticker": "MINDARK",
-      "company_name": "MindArk",
-      "trend7d": 0.37,
-      "discord_members": 58,
-      "facebook_members": null,
-      "market_cap": 33731349.0,
-      "owner_count": 77,
-      "detail_url": "https://allaaktier.se/bolag/mindark"
-    },
-    {
-      "ticker": "ICONOVO",
-      "company_name": "Iconovo",
-      "trend7d": 0.37,
-      "discord_members": 69,
-      "facebook_members": 43,
-      "market_cap": 107712546.0,
-      "owner_count": 261,
-      "detail_url": "https://allaaktier.se/bolag/iconovo"
     }
   ],
   "twitter_mentions": 0,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 77,
+    "total_posts_fetched": 78,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
