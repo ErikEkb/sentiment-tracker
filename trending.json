@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T11:46:20.618294+00:00",
+  "generated_at": "2026-06-26T14:31:14.085214+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,12 +55,22 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 3.0,
-      "discord_members": 495,
+      "trend7d": 3.07,
+      "discord_members": 496,
       "facebook_members": 52,
       "market_cap": 458814416.0,
       "owner_count": 996,
       "detail_url": "https://allaaktier.se/bolag/freemelt"
+    },
+    {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 2.71,
+      "discord_members": 65,
+      "facebook_members": null,
+      "market_cap": 70318671331.0,
+      "owner_count": 5807,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "ORTOMA",
@@ -91,16 +101,6 @@
       "market_cap": 44128032.0,
       "owner_count": 1861,
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 2.15,
-      "discord_members": 64,
-      "facebook_members": null,
-      "market_cap": 70318671331.0,
-      "owner_count": 5807,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -155,8 +155,8 @@
     {
       "ticker": "BIOARCTIC",
       "company_name": "BioArctic",
-      "trend7d": 1.63,
-      "discord_members": 740,
+      "trend7d": 1.67,
+      "discord_members": 741,
       "facebook_members": 592,
       "market_cap": 27149692410.0,
       "owner_count": 3835,
@@ -195,12 +195,22 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 0.96,
-      "discord_members": 1440,
+      "trend7d": 1.01,
+      "discord_members": 1442,
       "facebook_members": 477,
       "market_cap": 410436200.0,
       "owner_count": 1391,
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
+    },
+    {
+      "ticker": "REDSENSE-MEDICAL",
+      "company_name": "Redsense Medical",
+      "trend7d": 0.95,
+      "discord_members": 117,
+      "facebook_members": 300,
+      "market_cap": 64957319.0,
+      "owner_count": 232,
+      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     },
     {
       "ticker": "ANNEXIN-PHARMACEUTICALS",
@@ -291,16 +301,6 @@
       "market_cap": 4235178468.0,
       "owner_count": 1726,
       "detail_url": "https://allaaktier.se/bolag/nyab"
-    },
-    {
-      "ticker": "REDSENSE-MEDICAL",
-      "company_name": "Redsense Medical",
-      "trend7d": 0.66,
-      "discord_members": 116,
-      "facebook_members": 300,
-      "market_cap": 64957319.0,
-      "owner_count": 232,
-      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     },
     {
       "ticker": "BYHMGARD",
@@ -413,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
+      "ticker": "NANOECHO",
+      "company_name": "NanoEcho",
+      "trend7d": 0.56,
+      "discord_members": 73,
+      "facebook_members": null,
+      "market_cap": 17397399.0,
+      "owner_count": 677,
+      "detail_url": "https://allaaktier.se/bolag/nanoecho"
+    },
+    {
       "ticker": "IMPLANTICA-SDB",
       "company_name": "Implantica SDB",
       "trend7d": 0.56,
@@ -501,16 +511,6 @@
       "market_cap": 107712546.0,
       "owner_count": 261,
       "detail_url": "https://allaaktier.se/bolag/iconovo"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.37,
-      "discord_members": 1076,
-      "facebook_members": 3706,
-      "market_cap": 4614193344.0,
-      "owner_count": 3621,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     }
   ],
   "twitter_mentions": 0,
