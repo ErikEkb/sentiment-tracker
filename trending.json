@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T03:43:45.563406+00:00",
+  "generated_at": "2026-06-27T06:55:05.348910+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "MOVEBYBIKE",
       "company_name": "MoveByBike",
-      "trend7d": 3.81,
-      "discord_members": 57,
+      "trend7d": 4.42,
+      "discord_members": 58,
       "facebook_members": null,
       "market_cap": 37789446.0,
       "owner_count": 1036,
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/tessin-nordic"
     },
     {
+      "ticker": "K33",
+      "company_name": "K33",
+      "trend7d": 1.27,
+      "discord_members": 980,
+      "facebook_members": 1928,
+      "market_cap": 493874897.0,
+      "owner_count": 6490,
+      "detail_url": "https://allaaktier.se/bolag/k33"
+    },
+    {
       "ticker": "REDSENSE-MEDICAL",
       "company_name": "Redsense Medical",
       "trend7d": 1.26,
@@ -211,16 +221,6 @@
       "market_cap": 322608125.0,
       "owner_count": 1016,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
-      "ticker": "K33",
-      "company_name": "K33",
-      "trend7d": 1.23,
-      "discord_members": 979,
-      "facebook_members": 1928,
-      "market_cap": 493874897.0,
-      "owner_count": 6490,
-      "detail_url": "https://allaaktier.se/bolag/k33"
     },
     {
       "ticker": "REFINE-GROUP",
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
+      "ticker": "ASCELIA-PHARMA",
+      "company_name": "Ascelia Pharma",
+      "trend7d": 1.01,
+      "discord_members": 1442,
+      "facebook_members": 477,
+      "market_cap": 414473278.0,
+      "owner_count": 1391,
+      "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
+    },
+    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 1.0,
@@ -251,16 +261,6 @@
       "market_cap": 42213147.0,
       "owner_count": 816,
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
-      "ticker": "ASCELIA-PHARMA",
-      "company_name": "Ascelia Pharma",
-      "trend7d": 0.99,
-      "discord_members": 1441,
-      "facebook_members": 477,
-      "market_cap": 414473278.0,
-      "owner_count": 1391,
-      "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
       "ticker": "BYHMGARD",
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 80,
+    "total_posts_fetched": 81,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
