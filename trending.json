@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T17:14:18.499565+00:00",
+  "generated_at": "2026-06-27T19:25:10.054597+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -93,16 +93,6 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 2.72,
-      "discord_members": 65,
-      "facebook_members": null,
-      "market_cap": 70250281582.77,
-      "owner_count": 5807,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 2.69,
@@ -123,6 +113,16 @@
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
+      "ticker": "K33",
+      "company_name": "K33",
+      "trend7d": 2.57,
+      "discord_members": 1015,
+      "facebook_members": 1928,
+      "market_cap": 493874897.0,
+      "owner_count": 6490,
+      "detail_url": "https://allaaktier.se/bolag/k33"
+    },
+    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 2.51,
@@ -133,20 +133,20 @@
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
-      "ticker": "K33",
-      "company_name": "K33",
-      "trend7d": 2.5,
-      "discord_members": 1013,
-      "facebook_members": 1928,
-      "market_cap": 493874897.0,
-      "owner_count": 6490,
-      "detail_url": "https://allaaktier.se/bolag/k33"
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 2.16,
+      "discord_members": 64,
+      "facebook_members": null,
+      "market_cap": 70250281582.77,
+      "owner_count": 5807,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 2.28,
-      "discord_members": 178,
+      "trend7d": 2.08,
+      "discord_members": 177,
       "facebook_members": null,
       "market_cap": 55465768.0,
       "owner_count": 517,
@@ -175,8 +175,8 @@
     {
       "ticker": "BIOARCTIC",
       "company_name": "BioArctic",
-      "trend7d": 1.59,
-      "discord_members": 739,
+      "trend7d": 1.55,
+      "discord_members": 738,
       "facebook_members": 592,
       "market_cap": 27859488290.0,
       "owner_count": 3835,
@@ -211,16 +211,6 @@
       "market_cap": 322608125.0,
       "owner_count": 1016,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
-      "ticker": "REDSENSE-MEDICAL",
-      "company_name": "Redsense Medical",
-      "trend7d": 1.23,
-      "discord_members": 117,
-      "facebook_members": 300,
-      "market_cap": 66601809.0,
-      "owner_count": 232,
-      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     },
     {
       "ticker": "DICOT-PHARMA",
@@ -271,6 +261,16 @@
       "market_cap": 142934206.0,
       "owner_count": 265,
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
+    },
+    {
+      "ticker": "REDSENSE-MEDICAL",
+      "company_name": "Redsense Medical",
+      "trend7d": 0.93,
+      "discord_members": 116,
+      "facebook_members": 300,
+      "market_cap": 66601809.0,
+      "owner_count": 232,
+      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     },
     {
       "ticker": "ANNEXIN-PHARMACEUTICALS",
@@ -522,16 +522,16 @@
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 6,
-      "velocity_mentions_per_day": 2.0,
-      "avg_sentiment": 0.643,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.464,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 3.857,
+      "trending_score": 1.857,
       "sample_posts": [
-        "https://www.flashback.org/sp95269857",
-        "https://www.flashback.org/sp95270585",
-        "https://www.flashback.org/sp95273380"
+        "https://www.flashback.org/sp95273380",
+        "https://www.flashback.org/sp95273755",
+        "https://www.flashback.org/sp95273826"
       ]
     }
   ],
