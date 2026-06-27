@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T21:07:48.960492+00:00",
+  "generated_at": "2026-06-27T23:05:18.603227+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 10.19,
-      "discord_members": 258,
+      "trend7d": 10.32,
+      "discord_members": 259,
       "facebook_members": null,
       "market_cap": 215623690.0,
       "owner_count": 386,
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
+      "ticker": "K33",
+      "company_name": "K33",
+      "trend7d": 2.82,
+      "discord_members": 1022,
+      "facebook_members": 1928,
+      "market_cap": 493874897.0,
+      "owner_count": 6490,
+      "detail_url": "https://allaaktier.se/bolag/k33"
+    },
+    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 2.69,
@@ -101,16 +111,6 @@
       "market_cap": 4835817.0,
       "owner_count": 216,
       "detail_url": "https://allaaktier.se/bolag/eatgood"
-    },
-    {
-      "ticker": "K33",
-      "company_name": "K33",
-      "trend7d": 2.68,
-      "discord_members": 1018,
-      "facebook_members": 1928,
-      "market_cap": 493874897.0,
-      "owner_count": 6490,
-      "detail_url": "https://allaaktier.se/bolag/k33"
     },
     {
       "ticker": "PEPTONIC-MEDICAL",
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
+      "ticker": "CLOETTA",
+      "company_name": "Cloetta",
+      "trend7d": 1.38,
+      "discord_members": 46,
+      "facebook_members": null,
+      "market_cap": 14618567494.0,
+      "owner_count": 5249,
+      "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
       "ticker": "FERROAMP",
       "company_name": "Ferroamp",
       "trend7d": 1.26,
@@ -203,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
+      "ticker": "ASCELIA-PHARMA",
+      "company_name": "Ascelia Pharma",
+      "trend7d": 1.12,
+      "discord_members": 1446,
+      "facebook_members": 477,
+      "market_cap": 414473278.0,
+      "owner_count": 1391,
+      "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
+    },
+    {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
       "trend7d": 1.1,
@@ -211,16 +231,6 @@
       "market_cap": 710387554.0,
       "owner_count": 2336,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "ASCELIA-PHARMA",
-      "company_name": "Ascelia Pharma",
-      "trend7d": 1.09,
-      "discord_members": 1445,
-      "facebook_members": 477,
-      "market_cap": 414473278.0,
-      "owner_count": 1391,
-      "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
       "ticker": "PREBONA",
@@ -263,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     },
     {
-      "ticker": "ANNEXIN-PHARMACEUTICALS",
-      "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 0.85,
-      "discord_members": 305,
-      "facebook_members": null,
-      "market_cap": 109853589.0,
-      "owner_count": 286,
-      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
-    },
-    {
       "ticker": "XMREALITY",
       "company_name": "XMReality",
       "trend7d": 0.85,
@@ -281,6 +281,16 @@
       "market_cap": 44913943.0,
       "owner_count": 874,
       "detail_url": "https://allaaktier.se/bolag/xmreality"
+    },
+    {
+      "ticker": "NYAB",
+      "company_name": "NYAB",
+      "trend7d": 0.83,
+      "discord_members": 204,
+      "facebook_members": null,
+      "market_cap": 4220918607.0,
+      "owner_count": 1726,
+      "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
       "ticker": "CHECKIN-COM",
@@ -301,6 +311,16 @@
       "market_cap": 27878170.0,
       "owner_count": 560,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
+      "ticker": "ANNEXIN-PHARMACEUTICALS",
+      "company_name": "Annexin Pharmaceuticals",
+      "trend7d": 0.74,
+      "discord_members": 304,
+      "facebook_members": null,
+      "market_cap": 109853589.0,
+      "owner_count": 286,
+      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
       "ticker": "TERRANET",
@@ -363,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
-      "ticker": "NYAB",
-      "company_name": "NYAB",
-      "trend7d": 0.66,
-      "discord_members": 203,
-      "facebook_members": null,
-      "market_cap": 4220918607.0,
-      "owner_count": 1726,
-      "detail_url": "https://allaaktier.se/bolag/nyab"
-    },
-    {
       "ticker": "HYDROGENPRO",
       "company_name": "HydrogenPro",
       "trend7d": 0.66,
@@ -411,16 +421,6 @@
       "market_cap": 4562066280.0,
       "owner_count": 2558,
       "detail_url": "https://allaaktier.se/bolag/note"
-    },
-    {
-      "ticker": "CLOETTA",
-      "company_name": "Cloetta",
-      "trend7d": 0.62,
-      "discord_members": 45,
-      "facebook_members": null,
-      "market_cap": 14618567494.0,
-      "owner_count": 5249,
-      "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
       "ticker": "TRUECALLER",
@@ -522,22 +522,55 @@
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.464,
+      "mentions": 6,
+      "velocity_mentions_per_day": 2.0,
+      "avg_sentiment": 0.476,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 1.857,
+      "trending_score": 2.857,
       "sample_posts": [
         "https://www.flashback.org/sp95273380",
         "https://www.flashback.org/sp95273755",
         "https://www.flashback.org/sp95273826"
       ]
+    },
+    {
+      "ticker": "MSTR",
+      "company_name": "MicroStrategy Inc.",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95275436",
+        "https://www.flashback.org/sp95287322"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company_name": "Micron Technology",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95278199",
+        "https://www.flashback.org/sp95278318",
+        "https://www.flashback.org/sp95282111"
+      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 80,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 83,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
