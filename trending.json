@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T11:37:05.188268+00:00",
+  "generated_at": "2026-06-27T13:49:03.898407+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/klimator"
     },
     {
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 2.89,
+      "discord_members": 46,
+      "facebook_members": null,
+      "market_cap": 30370979569.0,
+      "owner_count": 3635,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 2.69,
@@ -133,20 +143,10 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 2.11,
-      "discord_members": 45,
-      "facebook_members": null,
-      "market_cap": 30370979569.0,
-      "owner_count": 3635,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 1.97,
-      "discord_members": 998,
+      "trend7d": 2.11,
+      "discord_members": 1002,
       "facebook_members": 1928,
       "market_cap": 493874897.0,
       "owner_count": 6490,
@@ -273,6 +273,16 @@
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     },
     {
+      "ticker": "ANNEXIN-PHARMACEUTICALS",
+      "company_name": "Annexin Pharmaceuticals",
+      "trend7d": 0.85,
+      "discord_members": 305,
+      "facebook_members": null,
+      "market_cap": 109853589.0,
+      "owner_count": 286,
+      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
+    },
+    {
       "ticker": "XMREALITY",
       "company_name": "XMReality",
       "trend7d": 0.85,
@@ -291,16 +301,6 @@
       "market_cap": 91207669.0,
       "owner_count": 341,
       "detail_url": "https://allaaktier.se/bolag/checkin-com"
-    },
-    {
-      "ticker": "ANNEXIN-PHARMACEUTICALS",
-      "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 0.74,
-      "discord_members": 304,
-      "facebook_members": null,
-      "market_cap": 109853589.0,
-      "owner_count": 286,
-      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
       "ticker": "TERRANET",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 72,
+    "total_posts_fetched": 74,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
