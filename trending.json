@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T15:18:01.112347+00:00",
+  "generated_at": "2026-06-27T17:14:18.499565+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 4.01,
-      "discord_members": 504,
+      "trend7d": 4.08,
+      "discord_members": 505,
       "facebook_members": 52,
       "market_cap": 473614881.0,
       "owner_count": 996,
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
+      "ticker": "K33",
+      "company_name": "K33",
+      "trend7d": 2.5,
+      "discord_members": 1013,
+      "facebook_members": 1928,
+      "market_cap": 493874897.0,
+      "owner_count": 6490,
+      "detail_url": "https://allaaktier.se/bolag/k33"
+    },
+    {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
       "trend7d": 2.28,
@@ -141,16 +151,6 @@
       "market_cap": 55465768.0,
       "owner_count": 517,
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
-    },
-    {
-      "ticker": "K33",
-      "company_name": "K33",
-      "trend7d": 2.25,
-      "discord_members": 1006,
-      "facebook_members": 1928,
-      "market_cap": 493874897.0,
-      "owner_count": 6490,
-      "detail_url": "https://allaaktier.se/bolag/k33"
     },
     {
       "ticker": "TALKPOOL",
@@ -301,6 +301,16 @@
       "market_cap": 91207669.0,
       "owner_count": 341,
       "detail_url": "https://allaaktier.se/bolag/checkin-com"
+    },
+    {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.77,
+      "discord_members": 216,
+      "facebook_members": 63,
+      "market_cap": 27878170.0,
+      "owner_count": 560,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "TERRANET",
@@ -493,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
-      "ticker": "NANOECHO",
-      "company_name": "NanoEcho",
-      "trend7d": 0.5,
-      "discord_members": 73,
-      "facebook_members": null,
-      "market_cap": 17679519.0,
-      "owner_count": 677,
-      "detail_url": "https://allaaktier.se/bolag/nanoecho"
-    },
-    {
       "ticker": "TRANSTEMA",
       "company_name": "Transtema",
       "trend7d": 0.46,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 75,
+    "total_posts_fetched": 78,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
