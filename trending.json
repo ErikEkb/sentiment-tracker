@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T13:49:03.898407+00:00",
+  "generated_at": "2026-06-27T15:18:01.112347+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 2.72,
+      "discord_members": 65,
+      "facebook_members": null,
+      "market_cap": 70250281582.77,
+      "owner_count": 5807,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 2.69,
@@ -133,20 +143,10 @@
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 2.16,
-      "discord_members": 64,
-      "facebook_members": null,
-      "market_cap": 70250281582.77,
-      "owner_count": 5807,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 2.11,
-      "discord_members": 1002,
+      "trend7d": 2.25,
+      "discord_members": 1006,
       "facebook_members": 1928,
       "market_cap": 493874897.0,
       "owner_count": 6490,
@@ -235,8 +235,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.07,
-      "discord_members": 1444,
+      "trend7d": 1.09,
+      "discord_members": 1445,
       "facebook_members": 477,
       "market_cap": 414473278.0,
       "owner_count": 1391,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 74,
+    "total_posts_fetched": 75,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
