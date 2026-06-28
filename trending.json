@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T11:10:14.232655+00:00",
+  "generated_at": "2026-06-28T13:53:22.129706+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 3.92,
-      "discord_members": 506,
+      "trend7d": 4.49,
+      "discord_members": 514,
       "facebook_members": 52,
       "market_cap": 473614881.0,
       "owner_count": 996,
@@ -115,8 +115,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.53,
-      "discord_members": 2515,
+      "trend7d": 2.54,
+      "discord_members": 2516,
       "facebook_members": 2874,
       "market_cap": 20269058786.0,
       "owner_count": 5556,
@@ -253,16 +253,6 @@
       "detail_url": "https://allaaktier.se/bolag/xmreality"
     },
     {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 0.84,
-      "discord_members": 177,
-      "facebook_members": null,
-      "market_cap": 55465768.0,
-      "owner_count": 517,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
-    },
-    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 0.83,
@@ -281,6 +271,16 @@
       "market_cap": 42213147.0,
       "owner_count": 816,
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
+      "ticker": "NYAB",
+      "company_name": "NYAB",
+      "trend7d": 0.82,
+      "discord_members": 205,
+      "facebook_members": null,
+      "market_cap": 4220918607.0,
+      "owner_count": 1726,
+      "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
       "ticker": "TERRANET",
@@ -353,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
     },
     {
-      "ticker": "NYAB",
-      "company_name": "NYAB",
-      "trend7d": 0.66,
-      "discord_members": 204,
-      "facebook_members": null,
-      "market_cap": 4220918607.0,
-      "owner_count": 1726,
-      "detail_url": "https://allaaktier.se/bolag/nyab"
-    },
-    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 0.66,
@@ -381,6 +371,16 @@
       "market_cap": 55171844.0,
       "owner_count": 90,
       "detail_url": "https://allaaktier.se/bolag/brilliant-future"
+    },
+    {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 0.65,
+      "discord_members": 176,
+      "facebook_members": null,
+      "market_cap": 55465768.0,
+      "owner_count": 517,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "HYDROGENPRO",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
-      "ticker": "CHARGEPANEL",
-      "company_name": "ChargePanel",
-      "trend7d": 0.48,
-      "discord_members": 453,
-      "facebook_members": null,
-      "market_cap": 62526644.0,
-      "owner_count": 368,
-      "detail_url": "https://allaaktier.se/bolag/chargepanel"
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.5,
+      "discord_members": 1078,
+      "facebook_members": 3706,
+      "market_cap": 4758386886.0,
+      "owner_count": 3621,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     }
   ],
   "twitter_mentions": 0,
@@ -538,16 +538,15 @@
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.371,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 1.857,
+      "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95273755",
-        "https://www.flashback.org/sp95273826",
-        "https://www.flashback.org/sp95273852"
+        "https://www.flashback.org/sp95282682",
+        "https://www.flashback.org/sp95282939"
       ]
     },
     {
@@ -569,7 +568,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 76,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
