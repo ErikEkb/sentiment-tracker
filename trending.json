@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T04:07:52.014166+00:00",
+  "generated_at": "2026-06-28T08:23:24.516476+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
+      "ticker": "K33",
+      "company_name": "K33",
+      "trend7d": 3.08,
+      "discord_members": 1024,
+      "facebook_members": 1928,
+      "market_cap": 493874897.0,
+      "owner_count": 6490,
+      "detail_url": "https://allaaktier.se/bolag/k33"
+    },
+    {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
       "trend7d": 3.02,
@@ -71,16 +81,6 @@
       "market_cap": 388325394.0,
       "owner_count": 417,
       "detail_url": "https://allaaktier.se/bolag/ortoma"
-    },
-    {
-      "ticker": "K33",
-      "company_name": "K33",
-      "trend7d": 3.01,
-      "discord_members": 1023,
-      "facebook_members": 1928,
-      "market_cap": 493874897.0,
-      "owner_count": 6490,
-      "detail_url": "https://allaaktier.se/bolag/k33"
     },
     {
       "ticker": "KLIMATOR",
@@ -195,8 +195,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.12,
-      "discord_members": 1446,
+      "trend7d": 1.16,
+      "discord_members": 1448,
       "facebook_members": 477,
       "market_cap": 414473278.0,
       "owner_count": 1391,
@@ -283,16 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.77,
-      "discord_members": 602,
-      "facebook_members": null,
-      "market_cap": 1561194128.0,
-      "owner_count": 615,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
-    },
-    {
       "ticker": "TERRANET",
       "company_name": "Terranet",
       "trend7d": 0.74,
@@ -301,6 +291,16 @@
       "market_cap": 270248422.0,
       "owner_count": 1822,
       "detail_url": "https://allaaktier.se/bolag/terranet"
+    },
+    {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.72,
+      "discord_members": 601,
+      "facebook_members": null,
+      "market_cap": 1561194128.0,
+      "owner_count": 615,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
       "ticker": "TESLA",
@@ -518,23 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "TSLA",
-      "company_name": "Tesla Inc.",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 6,
-      "velocity_mentions_per_day": 2.0,
-      "avg_sentiment": 0.476,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.857,
-      "sample_posts": [
-        "https://www.flashback.org/sp95273380",
-        "https://www.flashback.org/sp95273755",
-        "https://www.flashback.org/sp95273826"
-      ]
-    },
-    {
       "ticker": "MSTR",
       "company_name": "MicroStrategy Inc.",
       "sector": "Information Technology",
@@ -548,6 +531,23 @@
       "sample_posts": [
         "https://www.flashback.org/sp95275436",
         "https://www.flashback.org/sp95287322"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.371,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.857,
+      "sample_posts": [
+        "https://www.flashback.org/sp95273755",
+        "https://www.flashback.org/sp95273826",
+        "https://www.flashback.org/sp95273852"
       ]
     },
     {
@@ -569,7 +569,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 84,
+    "total_posts_fetched": 75,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
