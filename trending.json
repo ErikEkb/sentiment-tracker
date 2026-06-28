@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T08:23:24.516476+00:00",
+  "generated_at": "2026-06-28T11:10:14.232655+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 3.08,
-      "discord_members": 1024,
+      "trend7d": 3.15,
+      "discord_members": 1026,
       "facebook_members": 1928,
       "market_cap": 493874897.0,
       "owner_count": 6490,
@@ -123,16 +123,6 @@
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 2.08,
-      "discord_members": 46,
-      "facebook_members": null,
-      "market_cap": 30370979569.0,
-      "owner_count": 3635,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
       "ticker": "SCANDIC-HOTELS",
       "company_name": "Scandic Hotels",
       "trend7d": 1.7,
@@ -183,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 1.32,
+      "discord_members": 45,
+      "facebook_members": null,
+      "market_cap": 30370979569.0,
+      "owner_count": 3635,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
       "ticker": "FERROAMP",
       "company_name": "Ferroamp",
       "trend7d": 1.26,
@@ -195,8 +195,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.16,
-      "discord_members": 1448,
+      "trend7d": 1.19,
+      "discord_members": 1449,
       "facebook_members": 477,
       "market_cap": 414473278.0,
       "owner_count": 1391,
@@ -388,7 +388,7 @@
       "trend7d": 0.65,
       "discord_members": 242,
       "facebook_members": 283,
-      "market_cap": 97664456.75,
+      "market_cap": 97683393.44,
       "owner_count": 2737,
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
@@ -569,7 +569,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 75,
+    "total_posts_fetched": 76,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
