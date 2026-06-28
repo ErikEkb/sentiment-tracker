@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T21:05:21.204071+00:00",
+  "generated_at": "2026-06-28T23:06:16.693159+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 4.56,
-      "discord_members": 515,
+      "trend7d": 4.63,
+      "discord_members": 516,
       "facebook_members": 52,
       "market_cap": 473614881.0,
       "owner_count": 996,
@@ -45,8 +45,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 3.65,
-      "discord_members": 1040,
+      "trend7d": 3.72,
+      "discord_members": 1042,
       "facebook_members": 1928,
       "market_cap": 493874897.0,
       "owner_count": 6490,
@@ -61,6 +61,16 @@
       "market_cap": 85507427.0,
       "owner_count": 732,
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
+    },
+    {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 3.33,
+      "discord_members": 118,
+      "facebook_members": null,
+      "market_cap": 388325394.0,
+      "owner_count": 417,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "EATGOOD",
@@ -81,16 +91,6 @@
       "market_cap": 68374126.0,
       "owner_count": 123,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 3.02,
-      "discord_members": 117,
-      "facebook_members": null,
-      "market_cap": 388325394.0,
-      "owner_count": 417,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "KLIMATOR",
@@ -195,8 +195,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.14,
-      "discord_members": 1447,
+      "trend7d": 1.16,
+      "discord_members": 1448,
       "facebook_members": 477,
       "market_cap": 414473278.0,
       "owner_count": 1391,
@@ -291,6 +291,16 @@
       "market_cap": 26888886.0,
       "owner_count": 327,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
+    },
+    {
+      "ticker": "ANNEXIN-PHARMACEUTICALS",
+      "company_name": "Annexin Pharmaceuticals",
+      "trend7d": 0.74,
+      "discord_members": 305,
+      "facebook_members": null,
+      "market_cap": 109853589.0,
+      "owner_count": 286,
+      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
       "ticker": "TESLA",
@@ -401,16 +411,6 @@
       "market_cap": 97683393.44,
       "owner_count": 2737,
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
-    },
-    {
-      "ticker": "ANNEXIN-PHARMACEUTICALS",
-      "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 0.63,
-      "discord_members": 304,
-      "facebook_members": null,
-      "market_cap": 109853589.0,
-      "owner_count": 286,
-      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
       "ticker": "NOTE",
@@ -532,28 +532,11 @@
         "https://www.flashback.org/sp95282682",
         "https://www.flashback.org/sp95282939"
       ]
-    },
-    {
-      "ticker": "MU",
-      "company_name": "Micron Technology",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.333,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95278199",
-        "https://www.flashback.org/sp95278318",
-        "https://www.flashback.org/sp95282111"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 60,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 61,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
