@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T17:16:28.774324+00:00",
+  "generated_at": "2026-06-28T19:25:25.597127+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 10.32,
-      "discord_members": 259,
+      "trend7d": 10.6,
+      "discord_members": 261,
       "facebook_members": null,
       "market_cap": 215623690.0,
       "owner_count": 386,
@@ -55,8 +55,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 3.4,
-      "discord_members": 1033,
+      "trend7d": 3.47,
+      "discord_members": 1035,
       "facebook_members": 1928,
       "market_cap": 493874897.0,
       "owner_count": 6490,
@@ -115,12 +115,22 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.53,
-      "discord_members": 2515,
+      "trend7d": 2.51,
+      "discord_members": 2514,
       "facebook_members": 2874,
       "market_cap": 20269058786.0,
       "owner_count": 5556,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
+      "ticker": "REFINE-GROUP",
+      "company_name": "Refine Group",
+      "trend7d": 1.85,
+      "discord_members": 80,
+      "facebook_members": null,
+      "market_cap": 244047577.0,
+      "owner_count": 435,
+      "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
       "ticker": "SCANDIC-HOTELS",
@@ -141,16 +151,6 @@
       "market_cap": 148778159.0,
       "owner_count": 233,
       "detail_url": "https://allaaktier.se/bolag/talkpool"
-    },
-    {
-      "ticker": "REFINE-GROUP",
-      "company_name": "Refine Group",
-      "trend7d": 1.42,
-      "discord_members": 79,
-      "facebook_members": null,
-      "market_cap": 244047577.0,
-      "owner_count": 435,
-      "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
       "ticker": "BIOARCTIC",
@@ -205,8 +205,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 1.1,
-      "discord_members": 1161,
+      "trend7d": 1.07,
+      "discord_members": 1160,
       "facebook_members": 297,
       "market_cap": 710387554.0,
       "owner_count": 2336,
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
+      "ticker": "LUXBRIGHT",
+      "company_name": "Luxbright",
+      "trend7d": 0.81,
+      "discord_members": 36,
+      "facebook_members": null,
+      "market_cap": 26888886.0,
+      "owner_count": 327,
+      "detail_url": "https://allaaktier.se/bolag/luxbright"
+    },
+    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.72,
@@ -291,16 +301,6 @@
       "market_cap": 11880779461946.51,
       "owner_count": 43996,
       "detail_url": "https://allaaktier.se/bolag/tesla"
-    },
-    {
-      "ticker": "TERRANET",
-      "company_name": "Terranet",
-      "trend7d": 0.72,
-      "discord_members": 1877,
-      "facebook_members": 2541,
-      "market_cap": 270248422.0,
-      "owner_count": 1822,
-      "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
       "ticker": "QLIRO",
@@ -331,6 +331,16 @@
       "market_cap": 259596800.0,
       "owner_count": 410,
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
+    },
+    {
+      "ticker": "TERRANET",
+      "company_name": "Terranet",
+      "trend7d": 0.69,
+      "discord_members": 1875,
+      "facebook_members": 2541,
+      "market_cap": 270248422.0,
+      "owner_count": 1822,
+      "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
       "ticker": "TRUECALLER",
@@ -493,24 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.5,
-      "discord_members": 1078,
-      "facebook_members": 3706,
-      "market_cap": 4758386886.0,
-      "owner_count": 3621,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "ABERA-BIOSCIENCE",
-      "company_name": "Abera Bioscience",
-      "trend7d": 0.45,
-      "discord_members": 239,
-      "facebook_members": 49,
-      "market_cap": 186540436.0,
-      "owner_count": 204,
-      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
+      "ticker": "OBSERVIT",
+      "company_name": "Observit",
+      "trend7d": 0.51,
+      "discord_members": 44,
+      "facebook_members": null,
+      "market_cap": 353998374.0,
+      "owner_count": 1345,
+      "detail_url": "https://allaaktier.se/bolag/observit"
     }
   ],
   "twitter_mentions": 0,
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 69,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
