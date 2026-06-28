@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T15:19:54.572061+00:00",
+  "generated_at": "2026-06-28T17:16:28.774324+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 4.49,
-      "discord_members": 514,
+      "trend7d": 4.56,
+      "discord_members": 515,
       "facebook_members": 52,
       "market_cap": 473614881.0,
       "owner_count": 996,
@@ -55,12 +55,22 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 3.22,
-      "discord_members": 1028,
+      "trend7d": 3.4,
+      "discord_members": 1033,
       "facebook_members": 1928,
       "market_cap": 493874897.0,
       "owner_count": 6490,
       "detail_url": "https://allaaktier.se/bolag/k33"
+    },
+    {
+      "ticker": "EATGOOD",
+      "company_name": "EatGood",
+      "trend7d": 3.2,
+      "discord_members": 72,
+      "facebook_members": null,
+      "market_cap": 4835817.0,
+      "owner_count": 216,
+      "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
       "ticker": "CYCLEZYME",
@@ -93,16 +103,6 @@
       "detail_url": "https://allaaktier.se/bolag/klimator"
     },
     {
-      "ticker": "EATGOOD",
-      "company_name": "EatGood",
-      "trend7d": 2.69,
-      "discord_members": 71,
-      "facebook_members": null,
-      "market_cap": 4835817.0,
-      "owner_count": 216,
-      "detail_url": "https://allaaktier.se/bolag/eatgood"
-    },
-    {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
       "trend7d": 2.65,
@@ -115,8 +115,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.54,
-      "discord_members": 2516,
+      "trend7d": 2.53,
+      "discord_members": 2515,
       "facebook_members": 2874,
       "market_cap": 20269058786.0,
       "owner_count": 5556,
@@ -143,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/talkpool"
     },
     {
-      "ticker": "BIOARCTIC",
-      "company_name": "BioArctic",
-      "trend7d": 1.47,
-      "discord_members": 738,
-      "facebook_members": 592,
-      "market_cap": 27859488290.0,
-      "owner_count": 3835,
-      "detail_url": "https://allaaktier.se/bolag/bioarctic"
-    },
-    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 1.42,
@@ -161,6 +151,16 @@
       "market_cap": 244047577.0,
       "owner_count": 435,
       "detail_url": "https://allaaktier.se/bolag/refine-group"
+    },
+    {
+      "ticker": "BIOARCTIC",
+      "company_name": "BioArctic",
+      "trend7d": 1.42,
+      "discord_members": 737,
+      "facebook_members": 592,
+      "market_cap": 27859488290.0,
+      "owner_count": 3835,
+      "detail_url": "https://allaaktier.se/bolag/bioarctic"
     },
     {
       "ticker": "CLOETTA",
@@ -195,8 +195,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.19,
-      "discord_members": 1449,
+      "trend7d": 1.14,
+      "discord_members": 1447,
       "facebook_members": 477,
       "market_cap": 414473278.0,
       "owner_count": 1391,
@@ -283,36 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
-      "ticker": "NYAB",
-      "company_name": "NYAB",
-      "trend7d": 0.82,
-      "discord_members": 205,
-      "facebook_members": null,
-      "market_cap": 4220918607.0,
-      "owner_count": 1726,
-      "detail_url": "https://allaaktier.se/bolag/nyab"
-    },
-    {
-      "ticker": "TERRANET",
-      "company_name": "Terranet",
-      "trend7d": 0.74,
-      "discord_members": 1878,
-      "facebook_members": 2541,
-      "market_cap": 270248422.0,
-      "owner_count": 1822,
-      "detail_url": "https://allaaktier.se/bolag/terranet"
-    },
-    {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.72,
-      "discord_members": 601,
-      "facebook_members": null,
-      "market_cap": 1561194128.0,
-      "owner_count": 615,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
-    },
-    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.72,
@@ -323,14 +293,14 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
-      "ticker": "TRUECALLER",
-      "company_name": "Truecaller",
-      "trend7d": 0.71,
-      "discord_members": 606,
-      "facebook_members": null,
-      "market_cap": 4274637544.0,
-      "owner_count": 3099,
-      "detail_url": "https://allaaktier.se/bolag/truecaller"
+      "ticker": "TERRANET",
+      "company_name": "Terranet",
+      "trend7d": 0.72,
+      "discord_members": 1877,
+      "facebook_members": 2541,
+      "market_cap": 270248422.0,
+      "owner_count": 1822,
+      "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
       "ticker": "QLIRO",
@@ -361,6 +331,36 @@
       "market_cap": 259596800.0,
       "owner_count": 410,
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
+    },
+    {
+      "ticker": "TRUECALLER",
+      "company_name": "Truecaller",
+      "trend7d": 0.66,
+      "discord_members": 605,
+      "facebook_members": null,
+      "market_cap": 4274637544.0,
+      "owner_count": 3099,
+      "detail_url": "https://allaaktier.se/bolag/truecaller"
+    },
+    {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.66,
+      "discord_members": 600,
+      "facebook_members": null,
+      "market_cap": 1561194128.0,
+      "owner_count": 615,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
+      "ticker": "NYAB",
+      "company_name": "NYAB",
+      "trend7d": 0.66,
+      "discord_members": 204,
+      "facebook_members": null,
+      "market_cap": 4220918607.0,
+      "owner_count": 1726,
+      "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
       "ticker": "BRILLIANT-FUTURE",
@@ -443,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/gosol-energy"
     },
     {
-      "ticker": "ABERA-BIOSCIENCE",
-      "company_name": "Abera Bioscience",
-      "trend7d": 0.59,
-      "discord_members": 240,
-      "facebook_members": 49,
-      "market_cap": 186540436.0,
-      "owner_count": 204,
-      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
-    },
-    {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
       "trend7d": 0.58,
@@ -511,28 +501,22 @@
       "market_cap": 4758386886.0,
       "owner_count": 3621,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "ABERA-BIOSCIENCE",
+      "company_name": "Abera Bioscience",
+      "trend7d": 0.45,
+      "discord_members": 239,
+      "facebook_members": 49,
+      "market_cap": 186540436.0,
+      "owner_count": 204,
+      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "MSTR",
-      "company_name": "MicroStrategy Inc.",
-      "sector": "Information Technology",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95275436",
-        "https://www.flashback.org/sp95287322"
-      ]
-    },
     {
       "ticker": "TSLA",
       "company_name": "Tesla Inc.",
@@ -568,8 +552,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 66,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 69,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
