@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T17:40:04.682559+00:00",
+  "generated_at": "2026-06-29T20:02:06.015337+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 5.79,
-      "discord_members": 529,
+      "trend7d": 6.14,
+      "discord_members": 534,
       "facebook_members": 52,
       "market_cap": 455398924.0,
       "owner_count": 1029,
@@ -25,8 +25,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 4.7,
-      "discord_members": 1064,
+      "trend7d": 4.67,
+      "discord_members": 1063,
       "facebook_members": 1928,
       "market_cap": 508795589.0,
       "owner_count": 6486,
@@ -43,16 +43,6 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
-      "ticker": "XER-TECH",
-      "company_name": "Xer Tech",
-      "trend7d": 3.6,
-      "discord_members": 261,
-      "facebook_members": null,
-      "market_cap": 200389407.0,
-      "owner_count": 385,
-      "detail_url": "https://allaaktier.se/bolag/xer-tech"
-    },
-    {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
       "trend7d": 3.54,
@@ -61,6 +51,16 @@
       "market_cap": 400021942.0,
       "owner_count": 419,
       "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
+      "ticker": "XER-TECH",
+      "company_name": "Xer Tech",
+      "trend7d": 3.46,
+      "discord_members": 260,
+      "facebook_members": null,
+      "market_cap": 200389407.0,
+      "owner_count": 385,
+      "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
     {
       "ticker": "KLIMATOR",
@@ -115,8 +115,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.69,
-      "discord_members": 2514,
+      "trend7d": 1.68,
+      "discord_members": 2513,
       "facebook_members": 2874,
       "market_cap": 21372898610.0,
       "owner_count": 5458,
@@ -135,8 +135,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.35,
-      "discord_members": 1452,
+      "trend7d": 1.37,
+      "discord_members": 1453,
       "facebook_members": 477,
       "market_cap": 407071969.0,
       "owner_count": 1397,
@@ -155,8 +155,8 @@
     {
       "ticker": "CHARGEPANEL",
       "company_name": "ChargePanel",
-      "trend7d": 1.21,
-      "discord_members": 453,
+      "trend7d": 1.06,
+      "discord_members": 451,
       "facebook_members": null,
       "market_cap": 61895061.0,
       "owner_count": 375,
@@ -263,6 +263,26 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
+      "ticker": "TRUECALLER",
+      "company_name": "Truecaller",
+      "trend7d": 0.8,
+      "discord_members": 606,
+      "facebook_members": null,
+      "market_cap": 4305013965.0,
+      "owner_count": 3095,
+      "detail_url": "https://allaaktier.se/bolag/truecaller"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.8,
+      "discord_members": 1093,
+      "facebook_members": 3706,
+      "market_cap": 4752619144.0,
+      "owner_count": 3621,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.78,
@@ -293,16 +313,6 @@
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     },
     {
-      "ticker": "TRUECALLER",
-      "company_name": "Truecaller",
-      "trend7d": 0.74,
-      "discord_members": 605,
-      "facebook_members": null,
-      "market_cap": 4305013965.0,
-      "owner_count": 3095,
-      "detail_url": "https://allaaktier.se/bolag/truecaller"
-    },
-    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 0.74,
@@ -321,26 +331,6 @@
       "market_cap": 686800468.0,
       "owner_count": 2337,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.74,
-      "discord_members": 1091,
-      "facebook_members": 3706,
-      "market_cap": 4752619144.0,
-      "owner_count": 3621,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "NOTE",
-      "company_name": "NOTE",
-      "trend7d": 0.73,
-      "discord_members": 46,
-      "facebook_members": null,
-      "market_cap": 4599179460.0,
-      "owner_count": 2561,
-      "detail_url": "https://allaaktier.se/bolag/note"
     },
     {
       "ticker": "TERRANET",
@@ -363,14 +353,14 @@
       "detail_url": "https://allaaktier.se/bolag/brilliant-future"
     },
     {
-      "ticker": "KILIARO",
-      "company_name": "Kiliaro",
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
       "trend7d": 0.63,
-      "discord_members": 45,
-      "facebook_members": null,
-      "market_cap": 4350492.0,
-      "owner_count": 358,
-      "detail_url": "https://allaaktier.se/bolag/kiliaro"
+      "discord_members": 217,
+      "facebook_members": 63,
+      "market_cap": 25747355.0,
+      "owner_count": 560,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "GOSOL-ENERGY",
@@ -483,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 0.47,
-      "discord_members": 216,
-      "facebook_members": 63,
-      "market_cap": 25747355.0,
-      "owner_count": 560,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
       "ticker": "RATOS",
       "company_name": "Ratos",
       "trend7d": 0.42,
@@ -511,6 +491,26 @@
       "market_cap": 107231686.0,
       "owner_count": 261,
       "detail_url": "https://allaaktier.se/bolag/iconovo"
+    },
+    {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 0.36,
+      "discord_members": 508,
+      "facebook_members": 363,
+      "market_cap": 172424180.0,
+      "owner_count": 421,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
+      "ticker": "RANLOS",
+      "company_name": "RanLOS",
+      "trend7d": 0.33,
+      "discord_members": 335,
+      "facebook_members": null,
+      "market_cap": 41439837.0,
+      "owner_count": 260,
+      "detail_url": "https://allaaktier.se/bolag/ranlos"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 54,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
