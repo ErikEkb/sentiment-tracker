@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T14:07:29.472840+00:00",
+  "generated_at": "2026-06-29T17:40:04.682559+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 5.02,
-      "discord_members": 518,
+      "trend7d": 5.79,
+      "discord_members": 529,
       "facebook_members": 52,
       "market_cap": 455398924.0,
       "owner_count": 1029,
@@ -25,8 +25,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 4.63,
-      "discord_members": 1062,
+      "trend7d": 4.7,
+      "discord_members": 1064,
       "facebook_members": 1928,
       "market_cap": 508795589.0,
       "owner_count": 6486,
@@ -115,8 +115,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.7,
-      "discord_members": 2515,
+      "trend7d": 1.69,
+      "discord_members": 2514,
       "facebook_members": 2874,
       "market_cap": 21372898610.0,
       "owner_count": 5458,
@@ -135,8 +135,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.37,
-      "discord_members": 1453,
+      "trend7d": 1.35,
+      "discord_members": 1452,
       "facebook_members": 477,
       "market_cap": 407071969.0,
       "owner_count": 1397,
@@ -155,22 +155,12 @@
     {
       "ticker": "CHARGEPANEL",
       "company_name": "ChargePanel",
-      "trend7d": 1.29,
-      "discord_members": 454,
+      "trend7d": 1.21,
+      "discord_members": 453,
       "facebook_members": null,
       "market_cap": 61895061.0,
       "owner_count": 375,
       "detail_url": "https://allaaktier.se/bolag/chargepanel"
-    },
-    {
-      "ticker": "REFINE-GROUP",
-      "company_name": "Refine Group",
-      "trend7d": 1.18,
-      "discord_members": 80,
-      "facebook_members": null,
-      "market_cap": 242304380.0,
-      "owner_count": 433,
-      "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
       "ticker": "ARGO-DEFENCE",
@@ -233,6 +223,26 @@
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
     },
     {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 0.86,
+      "discord_members": 107,
+      "facebook_members": null,
+      "market_cap": 452895468.0,
+      "owner_count": 266,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
+    },
+    {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 0.85,
+      "discord_members": 178,
+      "facebook_members": null,
+      "market_cap": 55019663.0,
+      "owner_count": 517,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 0.85,
@@ -263,14 +273,14 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
-      "ticker": "XMREALITY",
-      "company_name": "XMReality",
-      "trend7d": 0.77,
-      "discord_members": 134,
-      "facebook_members": 94,
-      "market_cap": 46622625.0,
-      "owner_count": 873,
-      "detail_url": "https://allaaktier.se/bolag/xmreality"
+      "ticker": "REFINE-GROUP",
+      "company_name": "Refine Group",
+      "trend7d": 0.76,
+      "discord_members": 79,
+      "facebook_members": null,
+      "market_cap": 242304380.0,
+      "owner_count": 433,
+      "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -313,6 +323,16 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.74,
+      "discord_members": 1091,
+      "facebook_members": 3706,
+      "market_cap": 4752619144.0,
+      "owner_count": 3621,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "NOTE",
       "company_name": "NOTE",
       "trend7d": 0.73,
@@ -333,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 0.66,
-      "discord_members": 177,
-      "facebook_members": null,
-      "market_cap": 55019663.0,
-      "owner_count": 517,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
-    },
-    {
       "ticker": "BRILLIANT-FUTURE",
       "company_name": "Brilliant Future",
       "trend7d": 0.65,
@@ -351,16 +361,6 @@
       "market_cap": 55171844.0,
       "owner_count": 90,
       "detail_url": "https://allaaktier.se/bolag/brilliant-future"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.64,
-      "discord_members": 1088,
-      "facebook_members": 3706,
-      "market_cap": 4752619144.0,
-      "owner_count": 3621,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "KILIARO",
@@ -423,26 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
-      "ticker": "FLEXQUBE",
-      "company_name": "FlexQube",
-      "trend7d": 0.55,
-      "discord_members": 106,
-      "facebook_members": null,
-      "market_cap": 452895468.0,
-      "owner_count": 266,
-      "detail_url": "https://allaaktier.se/bolag/flexqube"
-    },
-    {
-      "ticker": "ELICERA-THERAPEUTICS",
-      "company_name": "Elicera Therapeutics",
-      "trend7d": 0.53,
-      "discord_members": 997,
-      "facebook_members": 129,
-      "market_cap": 171512489.0,
-      "owner_count": 1155,
-      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
-    },
-    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 0.52,
@@ -451,6 +431,16 @@
       "market_cap": 134571161.0,
       "owner_count": 364,
       "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
+      "ticker": "XMREALITY",
+      "company_name": "XMReality",
+      "trend7d": 0.52,
+      "discord_members": 133,
+      "facebook_members": 94,
+      "market_cap": 46622625.0,
+      "owner_count": 873,
+      "detail_url": "https://allaaktier.se/bolag/xmreality"
     },
     {
       "ticker": "EGETIS-THERAPEUTICS",
@@ -481,6 +471,16 @@
       "market_cap": 4348968370.0,
       "owner_count": 634,
       "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
+    },
+    {
+      "ticker": "ELICERA-THERAPEUTICS",
+      "company_name": "Elicera Therapeutics",
+      "trend7d": 0.49,
+      "discord_members": 996,
+      "facebook_members": 129,
+      "market_cap": 171512489.0,
+      "owner_count": 1155,
+      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
       "ticker": "PROSTATYPE-GENOMICS",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 62,
+    "total_posts_fetched": 54,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
