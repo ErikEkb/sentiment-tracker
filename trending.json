@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T22:10:31.732840+00:00",
+  "generated_at": "2026-06-30T00:07:27.142354+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -103,16 +103,6 @@
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
-      "ticker": "SCANDIC-HOTELS",
-      "company_name": "Scandic Hotels",
-      "trend7d": 1.78,
-      "discord_members": 39,
-      "facebook_members": null,
-      "market_cap": 19501289745.0,
-      "owner_count": 7508,
-      "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
-    },
-    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 1.69,
@@ -121,16 +111,6 @@
       "market_cap": 20972956645.0,
       "owner_count": 5458,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
-      "ticker": "CLOETTA",
-      "company_name": "Cloetta",
-      "trend7d": 1.47,
-      "discord_members": 46,
-      "facebook_members": null,
-      "market_cap": 14488688810.0,
-      "owner_count": 5247,
-      "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
       "ticker": "ASCELIA-PHARMA",
@@ -155,8 +135,8 @@
     {
       "ticker": "CHARGEPANEL",
       "company_name": "ChargePanel",
-      "trend7d": 1.06,
-      "discord_members": 451,
+      "trend7d": 1.14,
+      "discord_members": 452,
       "facebook_members": null,
       "market_cap": 62526644.0,
       "owner_count": 375,
@@ -213,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
     },
     {
+      "ticker": "SCANDIC-HOTELS",
+      "company_name": "Scandic Hotels",
+      "trend7d": 0.87,
+      "discord_members": 38,
+      "facebook_members": null,
+      "market_cap": 19501289745.0,
+      "owner_count": 7508,
+      "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
+    },
+    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 0.86,
@@ -233,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
-      "ticker": "CHECKIN-COM",
-      "company_name": "Checkin.com",
-      "trend7d": 0.85,
-      "discord_members": 36,
-      "facebook_members": 49,
-      "market_cap": 88886019.0,
-      "owner_count": 341,
-      "detail_url": "https://allaaktier.se/bolag/checkin-com"
-    },
-    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 0.83,
@@ -251,16 +231,6 @@
       "market_cap": 4694941728.0,
       "owner_count": 3621,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 0.82,
-      "discord_members": 64,
-      "facebook_members": null,
-      "market_cap": 74510100020.5,
-      "owner_count": 5794,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "TRUECALLER",
@@ -315,12 +285,22 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 0.74,
-      "discord_members": 1160,
+      "trend7d": 0.72,
+      "discord_members": 1159,
       "facebook_members": 297,
       "market_cap": 690269157.0,
       "owner_count": 2337,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
+      "ticker": "CLOETTA",
+      "company_name": "Cloetta",
+      "trend7d": 0.71,
+      "discord_members": 45,
+      "facebook_members": null,
+      "market_cap": 14488688810.0,
+      "owner_count": 5247,
+      "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
       "ticker": "TERRANET",
@@ -463,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/ratos"
     },
     {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.38,
+      "discord_members": 64,
+      "facebook_members": null,
+      "market_cap": 74510100020.5,
+      "owner_count": 5794,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
       "ticker": "ICONOVO",
       "company_name": "Iconovo",
       "trend7d": 0.37,
@@ -483,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
-      "ticker": "REFINE-GROUP",
-      "company_name": "Refine Group",
-      "trend7d": 0.34,
-      "discord_members": 78,
-      "facebook_members": null,
-      "market_cap": 210345769.0,
-      "owner_count": 433,
-      "detail_url": "https://allaaktier.se/bolag/refine-group"
-    },
-    {
       "ticker": "RANLOS",
       "company_name": "RanLOS",
       "trend7d": 0.33,
@@ -511,6 +491,26 @@
       "market_cap": 12095378731.0,
       "owner_count": 13672,
       "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
+    },
+    {
+      "ticker": "FASTIGHETS-AB-BALDER",
+      "company_name": "Fastighets AB Balder",
+      "trend7d": 0.29,
+      "discord_members": 81,
+      "facebook_members": null,
+      "market_cap": 60856600000.0,
+      "owner_count": 3801,
+      "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
+    },
+    {
+      "ticker": "ALZINOVA",
+      "company_name": "Alzinova",
+      "trend7d": 0.29,
+      "discord_members": 568,
+      "facebook_members": null,
+      "market_cap": 109223260.0,
+      "owner_count": 754,
+      "detail_url": "https://allaaktier.se/bolag/alzinova"
     }
   ],
   "twitter_mentions": 0,
@@ -531,22 +531,6 @@
       "sample_posts": [
         "https://www.flashback.org/sp95297234",
         "https://www.flashback.org/sp95300584"
-      ]
-    },
-    {
-      "ticker": "MSTR",
-      "company_name": "MicroStrategy Inc.",
-      "sector": "Information Technology",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95287322",
-        "https://www.flashback.org/sp95294905"
       ]
     },
     {
@@ -585,8 +569,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 60,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 63,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
