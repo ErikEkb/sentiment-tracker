@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T17:59:56.117941+00:00",
+  "generated_at": "2026-07-01T20:07:32.394387+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 6.79,
-      "discord_members": 198,
+      "trend7d": 7.39,
+      "discord_members": 201,
       "facebook_members": null,
       "market_cap": 2905306.0,
       "owner_count": 437,
@@ -55,8 +55,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 3.61,
-      "discord_members": 812,
+      "trend7d": 3.57,
+      "discord_members": 811,
       "facebook_members": 2821,
       "market_cap": 155657370.0,
       "owner_count": 1866,
@@ -65,8 +65,8 @@
     {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
-      "trend7d": 2.62,
-      "discord_members": 99,
+      "trend7d": 2.99,
+      "discord_members": 100,
       "facebook_members": null,
       "market_cap": 145355610.0,
       "owner_count": 363,
@@ -133,13 +133,23 @@
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 1.26,
+      "discord_members": 1115,
+      "facebook_members": 3706,
+      "market_cap": 4527677219.0,
+      "owner_count": 3620,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 1.21,
+      "trend7d": 1.2,
       "discord_members": 1509,
       "facebook_members": null,
       "market_cap": 3606286104.0,
-      "owner_count": 6856,
+      "owner_count": 6855,
       "detail_url": "https://allaaktier.se/bolag/smart-eye"
     },
     {
@@ -151,16 +161,6 @@
       "market_cap": 699287749.0,
       "owner_count": 2372,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.2,
-      "discord_members": 1113,
-      "facebook_members": 3706,
-      "market_cap": 4527677219.0,
-      "owner_count": 3620,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "MOVEBYBIKE",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 58,
+    "total_posts_fetched": 64,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
