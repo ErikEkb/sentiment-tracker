@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T12:36:11.972789+00:00",
+  "generated_at": "2026-07-01T15:44:55.993376+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
-      "trend7d": 5.04,
-      "discord_members": 129,
+      "trend7d": 5.33,
+      "discord_members": 130,
       "facebook_members": null,
       "market_cap": 409379180.0,
       "owner_count": 424,
@@ -35,8 +35,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 4.83,
-      "discord_members": 1070,
+      "trend7d": 4.76,
+      "discord_members": 1068,
       "facebook_members": 1928,
       "market_cap": 505811450.0,
       "owner_count": 6501,
@@ -85,12 +85,22 @@
     {
       "ticker": "JONDETECH-SENSORS",
       "company_name": "JonDeTech Sensors",
-      "trend7d": 1.77,
-      "discord_members": 450,
+      "trend7d": 1.85,
+      "discord_members": 451,
       "facebook_members": null,
       "market_cap": 56390432.0,
       "owner_count": 712,
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
+      "ticker": "36-GROUP",
+      "company_name": "36 Group",
+      "trend7d": 1.7,
+      "discord_members": 176,
+      "facebook_members": null,
+      "market_cap": 2905306.0,
+      "owner_count": 437,
+      "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
       "ticker": "NYAB",
@@ -115,8 +125,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.26,
-      "discord_members": 1457,
+      "trend7d": 1.28,
+      "discord_members": 1458,
       "facebook_members": 477,
       "market_cap": 385540890.0,
       "owner_count": 1407,
@@ -203,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/observit"
     },
     {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 0.74,
+      "discord_members": 2523,
+      "facebook_members": 2874,
+      "market_cap": 17373478960.0,
+      "owner_count": 5587,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
       "ticker": "CRETURNER-GROUP",
       "company_name": "Creturner Group",
       "trend7d": 0.73,
@@ -211,16 +231,6 @@
       "market_cap": 18311507.0,
       "owner_count": 433,
       "detail_url": "https://allaaktier.se/bolag/creturner-group"
-    },
-    {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 0.72,
-      "discord_members": 2521,
-      "facebook_members": 2874,
-      "market_cap": 17373478960.0,
-      "owner_count": 5587,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
       "ticker": "CANDLES-SCANDINAVIA",
@@ -263,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
-      "ticker": "CHARGEPANEL",
-      "company_name": "ChargePanel",
-      "trend7d": 0.61,
-      "discord_members": 448,
-      "facebook_members": null,
-      "market_cap": 64099904.0,
-      "owner_count": 372,
-      "detail_url": "https://allaaktier.se/bolag/chargepanel"
-    },
-    {
       "ticker": "KLARNA",
       "company_name": "Klarna",
       "trend7d": 0.61,
@@ -311,6 +311,16 @@
       "market_cap": 107196855.0,
       "owner_count": 757,
       "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
+      "ticker": "CHARGEPANEL",
+      "company_name": "ChargePanel",
+      "trend7d": 0.54,
+      "discord_members": 447,
+      "facebook_members": null,
+      "market_cap": 64099904.0,
+      "owner_count": 372,
+      "detail_url": "https://allaaktier.se/bolag/chargepanel"
     },
     {
       "ticker": "ELICERA-THERAPEUTICS",
@@ -353,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/iconovo"
     },
     {
+      "ticker": "ALZECURE-PHARMA",
+      "company_name": "AlzeCure Pharma",
+      "trend7d": 0.44,
+      "discord_members": 257,
+      "facebook_members": 12,
+      "market_cap": 868753280.0,
+      "owner_count": 864,
+      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+    },
+    {
       "ticker": "EMB-MISSION-BOUND",
       "company_name": "EMB Mission Bound",
       "trend7d": 0.41,
@@ -371,6 +391,16 @@
       "market_cap": 145984631.0,
       "owner_count": 262,
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
+    },
+    {
+      "ticker": "CLINICAL-LASERTHERMIA-SYSTEMS",
+      "company_name": "Clinical Laserthermia Systems",
+      "trend7d": 0.38,
+      "discord_members": 749,
+      "facebook_members": 703,
+      "market_cap": 102849760.0,
+      "owner_count": 882,
+      "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
     },
     {
       "ticker": "IMPLANTICA-SDB",
@@ -413,26 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/maximum-entertainment"
     },
     {
-      "ticker": "CLINICAL-LASERTHERMIA-SYSTEMS",
-      "company_name": "Clinical Laserthermia Systems",
-      "trend7d": 0.33,
-      "discord_members": 748,
-      "facebook_members": 703,
-      "market_cap": 102849760.0,
-      "owner_count": 882,
-      "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
-    },
-    {
-      "ticker": "ALZECURE-PHARMA",
-      "company_name": "AlzeCure Pharma",
-      "trend7d": 0.31,
-      "discord_members": 256,
-      "facebook_members": 12,
-      "market_cap": 868753280.0,
-      "owner_count": 864,
-      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
       "trend7d": 0.3,
@@ -451,16 +461,6 @@
       "market_cap": 91207669.0,
       "owner_count": 343,
       "detail_url": "https://allaaktier.se/bolag/checkin-com"
-    },
-    {
-      "ticker": "36-GROUP",
-      "company_name": "36 Group",
-      "trend7d": 0.28,
-      "discord_members": 166,
-      "facebook_members": null,
-      "market_cap": 2905306.0,
-      "owner_count": 437,
-      "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
       "ticker": "SAAB",
@@ -483,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/fragbite"
     },
     {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 0.26,
+      "discord_members": 2229,
+      "facebook_members": 405,
+      "market_cap": 559323605.0,
+      "owner_count": 2106,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
+    },
+    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 0.24,
@@ -501,16 +511,6 @@
       "market_cap": 199463887.27,
       "owner_count": 82,
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
-    },
-    {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 0.23,
-      "discord_members": 2227,
-      "facebook_members": 405,
-      "market_cap": 559323605.0,
-      "owner_count": 2106,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
