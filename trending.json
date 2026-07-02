@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T18:26:49.482184+00:00",
+  "generated_at": "2026-07-02T20:21:09.420877+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 18.7,
-      "discord_members": 230,
+      "trend7d": 18.9,
+      "discord_members": 231,
       "facebook_members": null,
       "market_cap": 9068354.0,
       "owner_count": 482,
@@ -25,8 +25,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 8.32,
-      "discord_members": 549,
+      "trend7d": 8.25,
+      "discord_members": 548,
       "facebook_members": 52,
       "market_cap": 470199389.0,
       "owner_count": 1081,
@@ -53,16 +53,6 @@
       "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
-      "ticker": "K33",
-      "company_name": "K33",
-      "trend7d": 3.31,
-      "discord_members": 1069,
-      "facebook_members": 1928,
-      "market_cap": 443144545.0,
-      "owner_count": 6499,
-      "detail_url": "https://allaaktier.se/bolag/k33"
-    },
-    {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
       "trend7d": 3.3,
@@ -71,6 +61,16 @@
       "market_cap": 106736483.0,
       "owner_count": 1857,
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
+      "ticker": "K33",
+      "company_name": "K33",
+      "trend7d": 3.28,
+      "discord_members": 1068,
+      "facebook_members": 1928,
+      "market_cap": 443144545.0,
+      "owner_count": 6499,
+      "detail_url": "https://allaaktier.se/bolag/k33"
     },
     {
       "ticker": "ACUCORT",
@@ -95,8 +95,8 @@
     {
       "ticker": "TRUECALLER",
       "company_name": "Truecaller",
-      "trend7d": 1.92,
-      "discord_members": 624,
+      "trend7d": 1.98,
+      "discord_members": 625,
       "facebook_members": null,
       "market_cap": 5221369349.0,
       "owner_count": 3150,
@@ -133,16 +133,6 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
-      "ticker": "SMART-EYE",
-      "company_name": "Smart Eye",
-      "trend7d": 1.45,
-      "discord_members": 1509,
-      "facebook_members": null,
-      "market_cap": 3596486414.0,
-      "owner_count": 6897,
-      "detail_url": "https://allaaktier.se/bolag/smart-eye"
-    },
-    {
       "ticker": "JONDETECH-SENSORS",
       "company_name": "JonDeTech Sensors",
       "trend7d": 1.45,
@@ -151,6 +141,16 @@
       "market_cap": 50655812.0,
       "owner_count": 712,
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
+      "ticker": "SMART-EYE",
+      "company_name": "Smart Eye",
+      "trend7d": 1.41,
+      "discord_members": 1507,
+      "facebook_members": null,
+      "market_cap": 3596486414.0,
+      "owner_count": 6897,
+      "detail_url": "https://allaaktier.se/bolag/smart-eye"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -225,11 +225,11 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.12,
+      "trend7d": 1.11,
       "discord_members": 2526,
       "facebook_members": 2874,
       "market_cap": 17405474317.0,
-      "owner_count": 5629,
+      "owner_count": 5627,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
@@ -313,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
+      "ticker": "BIOEXTRAX",
+      "company_name": "Bioextrax",
+      "trend7d": 0.68,
+      "discord_members": 854,
+      "facebook_members": 280,
+      "market_cap": 128048659.0,
+      "owner_count": 566,
+      "detail_url": "https://allaaktier.se/bolag/bioextrax"
+    },
+    {
       "ticker": "BRILLIANT-FUTURE",
       "company_name": "Brilliant Future",
       "trend7d": 0.65,
@@ -321,16 +331,6 @@
       "market_cap": 53792548.0,
       "owner_count": 90,
       "detail_url": "https://allaaktier.se/bolag/brilliant-future"
-    },
-    {
-      "ticker": "BIOEXTRAX",
-      "company_name": "Bioextrax",
-      "trend7d": 0.64,
-      "discord_members": 853,
-      "facebook_members": 280,
-      "market_cap": 128048659.0,
-      "owner_count": 566,
-      "detail_url": "https://allaaktier.se/bolag/bioextrax"
     },
     {
       "ticker": "CLINICAL-LASERTHERMIA-SYSTEMS",
@@ -366,7 +366,7 @@
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 0.58,
-      "discord_members": 165,
+      "discord_members": 166,
       "facebook_members": null,
       "market_cap": 746591472.0,
       "owner_count": 174,
@@ -479,7 +479,7 @@
       "discord_members": 697,
       "facebook_members": null,
       "market_cap": 292394601083.0,
-      "owner_count": 56310,
+      "owner_count": 56309,
       "detail_url": "https://allaaktier.se/bolag/saab"
     },
     {
@@ -495,22 +495,22 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 0.29,
-      "discord_members": 2230,
+      "trend7d": 0.28,
+      "discord_members": 2229,
       "facebook_members": 405,
       "market_cap": 524219613.0,
       "owner_count": 2109,
       "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
-      "ticker": "CHARGEPANEL",
-      "company_name": "ChargePanel",
-      "trend7d": 0.28,
-      "discord_members": 450,
+      "ticker": "SENZIME",
+      "company_name": "Senzime",
+      "trend7d": 0.26,
+      "discord_members": 372,
       "facebook_members": null,
-      "market_cap": 67831748.0,
-      "owner_count": 367,
-      "detail_url": "https://allaaktier.se/bolag/chargepanel"
+      "market_cap": 668163946.0,
+      "owner_count": 505,
+      "detail_url": "https://allaaktier.se/bolag/senzime"
     }
   ],
   "twitter_mentions": 0,
@@ -522,21 +522,21 @@
       "company_name": "Saab B",
       "sector": "Industrials",
       "discovered": false,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.4,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 2.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95306394",
         "https://www.flashback.org/sp95307169",
-        "https://www.flashback.org/sp95307450"
+        "https://www.flashback.org/sp95307450",
+        "https://www.flashback.org/sp95307536"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
+    "total_posts_fetched": 67,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
