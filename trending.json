@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:36:53.602149+00:00",
+  "generated_at": "2026-07-02T14:08:39.817011+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 17.49,
-      "discord_members": 224,
+      "trend7d": 17.69,
+      "discord_members": 225,
       "facebook_members": null,
       "market_cap": 9068354.0,
       "owner_count": 482,
@@ -35,8 +35,8 @@
     {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
-      "trend7d": 7.67,
-      "discord_members": 260,
+      "trend7d": 7.54,
+      "discord_members": 259,
       "facebook_members": 12,
       "market_cap": 934944006.0,
       "owner_count": 970,
@@ -91,6 +91,16 @@
       "market_cap": 533088029.0,
       "owner_count": 550,
       "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
+    },
+    {
+      "ticker": "TRUECALLER",
+      "company_name": "Truecaller",
+      "trend7d": 1.59,
+      "discord_members": 618,
+      "facebook_members": null,
+      "market_cap": 5221369349.0,
+      "owner_count": 3150,
+      "detail_url": "https://allaaktier.se/bolag/truecaller"
     },
     {
       "ticker": "BEAMMWAVE",
@@ -183,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 1.13,
+      "discord_members": 1163,
+      "facebook_members": 297,
+      "market_cap": 752705563.0,
+      "owner_count": 2374,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "CRETURNER-GROUP",
       "company_name": "Creturner Group",
       "trend7d": 1.12,
@@ -195,32 +215,12 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.09,
-      "discord_members": 2524,
+      "trend7d": 1.12,
+      "discord_members": 2526,
       "facebook_members": 2874,
       "market_cap": 17405474317.0,
       "owner_count": 5629,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 1.04,
-      "discord_members": 1160,
-      "facebook_members": 297,
-      "market_cap": 752705563.0,
-      "owner_count": 2374,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "TRUECALLER",
-      "company_name": "Truecaller",
-      "trend7d": 0.93,
-      "discord_members": 606,
-      "facebook_members": null,
-      "market_cap": 5221369349.0,
-      "owner_count": 3150,
-      "detail_url": "https://allaaktier.se/bolag/truecaller"
     },
     {
       "ticker": "FLEXQUBE",
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/kinnevik"
     },
     {
+      "ticker": "HUNTER-CAPITAL",
+      "company_name": "Hunter Capital",
+      "trend7d": 0.68,
+      "discord_members": 83,
+      "facebook_members": null,
+      "market_cap": 45314190.0,
+      "owner_count": 147,
+      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
+    },
+    {
       "ticker": "BRILLIANT-FUTURE",
       "company_name": "Brilliant Future",
       "trend7d": 0.65,
@@ -295,12 +305,32 @@
     {
       "ticker": "BIOEXTRAX",
       "company_name": "Bioextrax",
-      "trend7d": 0.6,
-      "discord_members": 852,
+      "trend7d": 0.64,
+      "discord_members": 853,
       "facebook_members": 280,
       "market_cap": 128048659.0,
       "owner_count": 566,
       "detail_url": "https://allaaktier.se/bolag/bioextrax"
+    },
+    {
+      "ticker": "CLINICAL-LASERTHERMIA-SYSTEMS",
+      "company_name": "Clinical Laserthermia Systems",
+      "trend7d": 0.62,
+      "discord_members": 753,
+      "facebook_members": 703,
+      "market_cap": 106745584.0,
+      "owner_count": 882,
+      "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
+    },
+    {
+      "ticker": "CLOETTA",
+      "company_name": "Cloetta",
+      "trend7d": 0.59,
+      "discord_members": 46,
+      "facebook_members": null,
+      "market_cap": 14849462934.0,
+      "owner_count": 5240,
+      "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
       "ticker": "ICONOVO",
@@ -313,14 +343,14 @@
       "detail_url": "https://allaaktier.se/bolag/iconovo"
     },
     {
-      "ticker": "CLINICAL-LASERTHERMIA-SYSTEMS",
-      "company_name": "Clinical Laserthermia Systems",
-      "trend7d": 0.57,
-      "discord_members": 752,
-      "facebook_members": 703,
-      "market_cap": 106745584.0,
-      "owner_count": 882,
-      "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 0.58,
+      "discord_members": 165,
+      "facebook_members": null,
+      "market_cap": 746591472.0,
+      "owner_count": 174,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "HACKSAW",
@@ -393,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
-      "ticker": "SAAB",
-      "company_name": "SAAB",
-      "trend7d": 0.38,
-      "discord_members": 698,
-      "facebook_members": null,
-      "market_cap": 292394601083.0,
-      "owner_count": 56310,
-      "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
       "ticker": "XMREALITY",
       "company_name": "XMReality",
       "trend7d": 0.37,
@@ -443,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
+      "ticker": "SAAB",
+      "company_name": "SAAB",
+      "trend7d": 0.33,
+      "discord_members": 697,
+      "facebook_members": null,
+      "market_cap": 292394601083.0,
+      "owner_count": 56310,
+      "detail_url": "https://allaaktier.se/bolag/saab"
+    },
+    {
       "ticker": "SOLIDX",
       "company_name": "SolidX",
       "trend7d": 0.32,
@@ -451,16 +481,6 @@
       "market_cap": 89876238.0,
       "owner_count": 216,
       "detail_url": "https://allaaktier.se/bolag/solidx"
-    },
-    {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 0.31,
-      "discord_members": 45,
-      "facebook_members": null,
-      "market_cap": 31154925291.0,
-      "owner_count": 3649,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "SMOLTEK",
@@ -483,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/chargepanel"
     },
     {
-      "ticker": "HUNTER-CAPITAL",
-      "company_name": "Hunter Capital",
-      "trend7d": 0.27,
-      "discord_members": 82,
-      "facebook_members": null,
-      "market_cap": 45314190.0,
-      "owner_count": 147,
-      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
-    },
-    {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
       "trend7d": 0.27,
@@ -501,25 +511,33 @@
       "market_cap": 185527128.0,
       "owner_count": 1156,
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
-    },
-    {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 0.26,
-      "discord_members": 905,
-      "facebook_members": null,
-      "market_cap": 205848936.8,
-      "owner_count": 82,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "SAAB-B",
+      "company_name": "Saab B",
+      "sector": "Industrials",
+      "discovered": false,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.4,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95306394",
+        "https://www.flashback.org/sp95307169",
+        "https://www.flashback.org/sp95307450"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 61,
-    "tickers_with_any_mentions": 0,
+    "total_posts_fetched": 66,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
