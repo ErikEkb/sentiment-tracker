@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T14:08:39.817011+00:00",
+  "generated_at": "2026-07-02T16:52:36.018227+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 8.38,
-      "discord_members": 550,
+      "trend7d": 8.32,
+      "discord_members": 549,
       "facebook_members": 52,
       "market_cap": 470199389.0,
       "owner_count": 1081,
@@ -95,8 +95,8 @@
     {
       "ticker": "TRUECALLER",
       "company_name": "Truecaller",
-      "trend7d": 1.59,
-      "discord_members": 618,
+      "trend7d": 1.65,
+      "discord_members": 619,
       "facebook_members": null,
       "market_cap": 5221369349.0,
       "owner_count": 3150,
@@ -113,20 +113,10 @@
       "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
-      "ticker": "JONDETECH-SENSORS",
-      "company_name": "JonDeTech Sensors",
-      "trend7d": 1.52,
-      "discord_members": 452,
-      "facebook_members": null,
-      "market_cap": 50655812.0,
-      "owner_count": 712,
-      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
-    },
-    {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 1.49,
-      "discord_members": 1462,
+      "trend7d": 1.51,
+      "discord_members": 1463,
       "facebook_members": 477,
       "market_cap": 400343507.0,
       "owner_count": 1419,
@@ -143,6 +133,26 @@
       "detail_url": "https://allaaktier.se/bolag/smart-eye"
     },
     {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 1.45,
+      "discord_members": 451,
+      "facebook_members": null,
+      "market_cap": 50655812.0,
+      "owner_count": 712,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 1.33,
+      "discord_members": 1116,
+      "facebook_members": 3706,
+      "market_cap": 4787225594.0,
+      "owner_count": 3620,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "MOVEBYBIKE",
       "company_name": "MoveByBike",
       "trend7d": 1.32,
@@ -151,16 +161,6 @@
       "market_cap": 35858598.0,
       "owner_count": 1022,
       "detail_url": "https://allaaktier.se/bolag/movebybike"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.3,
-      "discord_members": 1115,
-      "facebook_members": 3706,
-      "market_cap": 4787225594.0,
-      "owner_count": 3620,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -223,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
+      "ticker": "HUNTER-CAPITAL",
+      "company_name": "Hunter Capital",
+      "trend7d": 1.09,
+      "discord_members": 84,
+      "facebook_members": null,
+      "market_cap": 45314190.0,
+      "owner_count": 147,
+      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
+    },
+    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 0.88,
@@ -283,14 +293,24 @@
       "detail_url": "https://allaaktier.se/bolag/kinnevik"
     },
     {
-      "ticker": "HUNTER-CAPITAL",
-      "company_name": "Hunter Capital",
-      "trend7d": 0.68,
-      "discord_members": 83,
+      "ticker": "FERROAMP",
+      "company_name": "Ferroamp",
+      "trend7d": 0.72,
+      "discord_members": 49,
       "facebook_members": null,
-      "market_cap": 45314190.0,
-      "owner_count": 147,
-      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
+      "market_cap": 320450211.0,
+      "owner_count": 1018,
+      "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 0.71,
+      "discord_members": 94,
+      "facebook_members": null,
+      "market_cap": 321819551.0,
+      "owner_count": 275,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "BRILLIANT-FUTURE",
@@ -453,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/ratos"
     },
     {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 0.35,
-      "discord_members": 93,
-      "facebook_members": null,
-      "market_cap": 321819551.0,
-      "owner_count": 275,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
       "ticker": "SAAB",
       "company_name": "SAAB",
       "trend7d": 0.33,
@@ -501,16 +511,6 @@
       "market_cap": 67831748.0,
       "owner_count": 367,
       "detail_url": "https://allaaktier.se/bolag/chargepanel"
-    },
-    {
-      "ticker": "ELICERA-THERAPEUTICS",
-      "company_name": "Elicera Therapeutics",
-      "trend7d": 0.27,
-      "discord_members": 1000,
-      "facebook_members": 129,
-      "market_cap": 185527128.0,
-      "owner_count": 1156,
-      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
