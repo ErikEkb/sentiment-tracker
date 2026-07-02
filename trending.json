@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T16:52:36.018227+00:00",
+  "generated_at": "2026-07-02T18:26:49.482184+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 17.69,
-      "discord_members": 225,
+      "trend7d": 18.7,
+      "discord_members": 230,
       "facebook_members": null,
       "market_cap": 9068354.0,
       "owner_count": 482,
@@ -55,8 +55,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 3.35,
-      "discord_members": 1070,
+      "trend7d": 3.31,
+      "discord_members": 1069,
       "facebook_members": 1928,
       "market_cap": 443144545.0,
       "owner_count": 6499,
@@ -65,8 +65,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 3.34,
-      "discord_members": 809,
+      "trend7d": 3.3,
+      "discord_members": 808,
       "facebook_members": 2821,
       "market_cap": 106736483.0,
       "owner_count": 1857,
@@ -95,8 +95,8 @@
     {
       "ticker": "TRUECALLER",
       "company_name": "Truecaller",
-      "trend7d": 1.65,
-      "discord_members": 619,
+      "trend7d": 1.92,
+      "discord_members": 624,
       "facebook_members": null,
       "market_cap": 5221369349.0,
       "owner_count": 3150,
@@ -121,6 +121,16 @@
       "market_cap": 400343507.0,
       "owner_count": 1419,
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
+    },
+    {
+      "ticker": "HUNTER-CAPITAL",
+      "company_name": "Hunter Capital",
+      "trend7d": 1.5,
+      "discord_members": 85,
+      "facebook_members": null,
+      "market_cap": 45314190.0,
+      "owner_count": 147,
+      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
       "ticker": "SMART-EYE",
@@ -183,6 +193,26 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
+      "ticker": "CRETURNER-GROUP",
+      "company_name": "Creturner Group",
+      "trend7d": 1.18,
+      "discord_members": 553,
+      "facebook_members": 656,
+      "market_cap": 13556193.0,
+      "owner_count": 435,
+      "detail_url": "https://allaaktier.se/bolag/creturner-group"
+    },
+    {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 1.16,
+      "discord_members": 1164,
+      "facebook_members": 297,
+      "market_cap": 752705563.0,
+      "owner_count": 2374,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 1.14,
@@ -193,26 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 1.13,
-      "discord_members": 1163,
-      "facebook_members": 297,
-      "market_cap": 752705563.0,
-      "owner_count": 2374,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "CRETURNER-GROUP",
-      "company_name": "Creturner Group",
-      "trend7d": 1.12,
-      "discord_members": 552,
-      "facebook_members": 656,
-      "market_cap": 13556193.0,
-      "owner_count": 435,
-      "detail_url": "https://allaaktier.se/bolag/creturner-group"
-    },
-    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 1.12,
@@ -221,16 +231,6 @@
       "market_cap": 17405474317.0,
       "owner_count": 5629,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
-      "ticker": "HUNTER-CAPITAL",
-      "company_name": "Hunter Capital",
-      "trend7d": 1.09,
-      "discord_members": 84,
-      "facebook_members": null,
-      "market_cap": 45314190.0,
-      "owner_count": 147,
-      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
       "ticker": "FLEXQUBE",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 63,
+    "total_posts_fetched": 64,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
