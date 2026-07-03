@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T14:12:46.904013+00:00",
+  "generated_at": "2026-07-03T16:27:45.543603+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
-      "trend7d": 9.98,
-      "discord_members": 264,
+      "trend7d": 10.11,
+      "discord_members": 265,
       "facebook_members": 12,
       "market_cap": 1075599299.0,
       "owner_count": 992,
@@ -45,12 +45,22 @@
     {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
-      "trend7d": 4.08,
-      "discord_members": 128,
+      "trend7d": 4.37,
+      "discord_members": 129,
       "facebook_members": null,
       "market_cap": 453826062.0,
       "owner_count": 426,
       "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 4.01,
+      "discord_members": 103,
+      "facebook_members": null,
+      "market_cap": 138322274.0,
+      "owner_count": 362,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
       "ticker": "SUBGEN-AI",
@@ -61,16 +71,6 @@
       "market_cap": 107625953.0,
       "owner_count": 1848,
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
-    },
-    {
-      "ticker": "ACUCORT",
-      "company_name": "AcuCort",
-      "trend7d": 3.27,
-      "discord_members": 101,
-      "facebook_members": null,
-      "market_cap": 138322274.0,
-      "owner_count": 362,
-      "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
       "ticker": "LEADING-EDGE-MATERIALS",
@@ -95,8 +95,8 @@
     {
       "ticker": "ASCELIA-PHARMA",
       "company_name": "Ascelia Pharma",
-      "trend7d": 2.59,
-      "discord_members": 1462,
+      "trend7d": 2.64,
+      "discord_members": 1464,
       "facebook_members": 477,
       "market_cap": 448115589.0,
       "owner_count": 1454,
@@ -105,8 +105,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 2.45,
-      "discord_members": 1144,
+      "trend7d": 2.51,
+      "discord_members": 1146,
       "facebook_members": 3706,
       "market_cap": 5092915903.0,
       "owner_count": 3635,
@@ -155,8 +155,8 @@
     {
       "ticker": "K33",
       "company_name": "K33",
-      "trend7d": 1.51,
-      "discord_members": 1066,
+      "trend7d": 1.54,
+      "discord_members": 1067,
       "facebook_members": 1928,
       "market_cap": 435684199.0,
       "owner_count": 6493,
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
+      "ticker": "ICONOVO",
+      "company_name": "Iconovo",
+      "trend7d": 1.07,
+      "discord_members": 71,
+      "facebook_members": 43,
+      "market_cap": 104346529.0,
+      "owner_count": 263,
+      "detail_url": "https://allaaktier.se/bolag/iconovo"
+    },
+    {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
       "company_name": "Trophy Games Development",
       "trend7d": 1.06,
@@ -251,6 +261,16 @@
       "market_cap": 608264874.36,
       "owner_count": 1814,
       "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
+    },
+    {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 1.04,
+      "discord_members": 94,
+      "facebook_members": null,
+      "market_cap": 339137195.0,
+      "owner_count": 278,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -313,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/observit"
     },
     {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 0.68,
-      "discord_members": 93,
-      "facebook_members": null,
-      "market_cap": 339137195.0,
-      "owner_count": 278,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
       "ticker": "KINNEVIK",
       "company_name": "Kinnevik",
       "trend7d": 0.65,
@@ -331,6 +341,16 @@
       "market_cap": 15321496761.0,
       "owner_count": 14183,
       "detail_url": "https://allaaktier.se/bolag/kinnevik"
+    },
+    {
+      "ticker": "BIOEXTRAX",
+      "company_name": "Bioextrax",
+      "trend7d": 0.63,
+      "discord_members": 854,
+      "facebook_members": 280,
+      "market_cap": 133284850.0,
+      "owner_count": 565,
+      "detail_url": "https://allaaktier.se/bolag/bioextrax"
     },
     {
       "ticker": "FERROAMP",
@@ -363,26 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
-      "ticker": "ICONOVO",
-      "company_name": "Iconovo",
-      "trend7d": 0.59,
-      "discord_members": 70,
-      "facebook_members": 43,
-      "market_cap": 104346529.0,
-      "owner_count": 263,
-      "detail_url": "https://allaaktier.se/bolag/iconovo"
-    },
-    {
-      "ticker": "BIOEXTRAX",
-      "company_name": "Bioextrax",
-      "trend7d": 0.59,
-      "discord_members": 853,
-      "facebook_members": 280,
-      "market_cap": 133284850.0,
-      "owner_count": 565,
-      "detail_url": "https://allaaktier.se/bolag/bioextrax"
-    },
-    {
       "ticker": "CLOETTA",
       "company_name": "Cloetta",
       "trend7d": 0.57,
@@ -391,6 +391,16 @@
       "market_cap": 14777308109.0,
       "owner_count": 5304,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.57,
+      "discord_members": 64,
+      "facebook_members": null,
+      "market_cap": 72136182938.17,
+      "owner_count": 5849,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "EMB-MISSION-BOUND",
@@ -501,16 +511,6 @@
       "market_cap": 302881900471.0,
       "owner_count": 56319,
       "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
-      "ticker": "RATOS",
-      "company_name": "Ratos",
-      "trend7d": 0.28,
-      "discord_members": 65,
-      "facebook_members": null,
-      "market_cap": 11097128584.0,
-      "owner_count": 594,
-      "detail_url": "https://allaaktier.se/bolag/ratos"
     }
   ],
   "twitter_mentions": 0,
