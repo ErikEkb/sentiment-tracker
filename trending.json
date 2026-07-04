@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T22:07:40.672892+00:00",
+  "generated_at": "2026-07-04T00:07:37.147711+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
-      "trend7d": 10.24,
-      "discord_members": 266,
+      "trend7d": 10.37,
+      "discord_members": 267,
       "facebook_members": 12,
       "market_cap": 1056293670.0,
       "owner_count": 992,
@@ -35,8 +35,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 7.67,
-      "discord_members": 550,
+      "trend7d": 7.03,
+      "discord_members": 551,
       "facebook_members": 52,
       "market_cap": 466783897.0,
       "owner_count": 1081,
@@ -55,7 +55,7 @@
     {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
-      "trend7d": 4.37,
+      "trend7d": 4.06,
       "discord_members": 129,
       "facebook_members": null,
       "market_cap": 442129514.0,
@@ -315,8 +315,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 0.78,
-      "discord_members": 1168,
+      "trend7d": 0.75,
+      "discord_members": 1167,
       "facebook_members": 297,
       "market_cap": 707612603.0,
       "owner_count": 2375,
@@ -331,16 +331,6 @@
       "market_cap": 39444458.0,
       "owner_count": 1020,
       "detail_url": "https://allaaktier.se/bolag/movebybike"
-    },
-    {
-      "ticker": "OBSERVIT",
-      "company_name": "Observit",
-      "trend7d": 0.69,
-      "discord_members": 44,
-      "facebook_members": null,
-      "market_cap": 355795320.0,
-      "owner_count": 1344,
-      "detail_url": "https://allaaktier.se/bolag/observit"
     },
     {
       "ticker": "CRETURNER-GROUP",
@@ -443,16 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
     },
     {
-      "ticker": "S2MEDICAL",
-      "company_name": "S2Medical",
-      "trend7d": 0.48,
-      "discord_members": 118,
-      "facebook_members": null,
-      "market_cap": 5058623.0,
-      "owner_count": 425,
-      "detail_url": "https://allaaktier.se/bolag/s2medical"
-    },
-    {
       "ticker": "TOUCHTECH",
       "company_name": "Touchtech",
       "trend7d": 0.48,
@@ -511,6 +491,26 @@
       "market_cap": 97204445.0,
       "owner_count": 333,
       "detail_url": "https://allaaktier.se/bolag/clemondo"
+    },
+    {
+      "ticker": "EATGOOD",
+      "company_name": "EatGood",
+      "trend7d": 0.35,
+      "discord_members": 72,
+      "facebook_members": null,
+      "market_cap": 6253547.0,
+      "owner_count": 216,
+      "detail_url": "https://allaaktier.se/bolag/eatgood"
+    },
+    {
+      "ticker": "FASTIGHETS-AB-BALDER",
+      "company_name": "Fastighets AB Balder",
+      "trend7d": 0.34,
+      "discord_members": 81,
+      "facebook_members": null,
+      "market_cap": 64759800000.0,
+      "owner_count": 3835,
+      "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
     }
   ],
   "twitter_mentions": 0,
@@ -569,22 +569,6 @@
       ]
     },
     {
-      "ticker": "MSTR",
-      "company_name": "MicroStrategy Inc.",
-      "sector": "Information Technology",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95334851",
-        "https://www.flashback.org/sp95334912"
-      ]
-    },
-    {
       "ticker": "SAAB-B",
       "company_name": "Saab B",
       "sector": "Industrials",
@@ -603,8 +587,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 76,
-    "tickers_with_any_mentions": 6,
+    "total_posts_fetched": 67,
+    "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
