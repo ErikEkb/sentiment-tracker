@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T14:40:04.002160+00:00",
+  "generated_at": "2026-07-04T16:05:34.378085+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -175,8 +175,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.43,
-      "discord_members": 1381,
+      "trend7d": 1.45,
+      "discord_members": 1382,
       "facebook_members": null,
       "market_cap": 843746323.0,
       "owner_count": 763,
@@ -203,6 +203,16 @@
       "detail_url": "https://allaaktier.se/bolag/tessin-nordic"
     },
     {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 1.26,
+      "discord_members": 405,
+      "facebook_members": null,
+      "market_cap": 23905352569.09,
+      "owner_count": 1081,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+    },
+    {
       "ticker": "LOHILO-FOODS",
       "company_name": "Lohilo Foods",
       "trend7d": 1.25,
@@ -211,16 +221,6 @@
       "market_cap": 79103787.0,
       "owner_count": 734,
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 1.17,
-      "discord_members": 404,
-      "facebook_members": null,
-      "market_cap": 23905352569.09,
-      "owner_count": 1081,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "APR-TECHNOLOGIES",
@@ -323,6 +323,16 @@
       "detail_url": "https://allaaktier.se/bolag/klimator"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.85,
+      "discord_members": 1168,
+      "facebook_members": 297,
+      "market_cap": 707612603.0,
+      "owner_count": 2375,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "CLOETTA",
       "company_name": "Cloetta",
       "trend7d": 0.82,
@@ -331,16 +341,6 @@
       "market_cap": 15080358373.0,
       "owner_count": 5304,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.82,
-      "discord_members": 1167,
-      "facebook_members": 297,
-      "market_cap": 707612603.0,
-      "owner_count": 2375,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "MONIVENT",
@@ -443,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
+      "ticker": "SAAB",
+      "company_name": "SAAB",
+      "trend7d": 0.52,
+      "discord_members": 698,
+      "facebook_members": null,
+      "market_cap": 305816170766.0,
+      "owner_count": 56319,
+      "detail_url": "https://allaaktier.se/bolag/saab"
+    },
+    {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
       "trend7d": 0.51,
@@ -473,14 +483,14 @@
       "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
     },
     {
-      "ticker": "SAAB",
-      "company_name": "SAAB",
-      "trend7d": 0.47,
-      "discord_members": 697,
-      "facebook_members": null,
-      "market_cap": 305816170766.0,
-      "owner_count": 56319,
-      "detail_url": "https://allaaktier.se/bolag/saab"
+      "ticker": "FRAGBITE",
+      "company_name": "Fragbite",
+      "trend7d": 0.43,
+      "discord_members": 158,
+      "facebook_members": 20,
+      "market_cap": 40304450.0,
+      "owner_count": 358,
+      "detail_url": "https://allaaktier.se/bolag/fragbite"
     },
     {
       "ticker": "CLEAN-MOTION",
@@ -491,16 +501,6 @@
       "market_cap": 42966655.0,
       "owner_count": 597,
       "detail_url": "https://allaaktier.se/bolag/clean-motion"
-    },
-    {
-      "ticker": "ADVERTY",
-      "company_name": "Adverty",
-      "trend7d": 0.41,
-      "discord_members": 1207,
-      "facebook_members": 367,
-      "market_cap": 85265941.0,
-      "owner_count": 442,
-      "detail_url": "https://allaaktier.se/bolag/adverty"
     },
     {
       "ticker": "FASTIGHETS-AB-BALDER",
