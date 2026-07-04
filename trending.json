@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T12:08:58.217317+00:00",
+  "generated_at": "2026-07-04T14:40:04.002160+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
-      "trend7d": 4.34,
-      "discord_members": 104,
+      "trend7d": 4.7,
+      "discord_members": 105,
       "facebook_members": null,
       "market_cap": 143480054.0,
       "owner_count": 362,
@@ -85,8 +85,8 @@
     {
       "ticker": "LEADING-EDGE-MATERIALS",
       "company_name": "Leading Edge Materials",
-      "trend7d": 2.91,
-      "discord_members": 684,
+      "trend7d": 2.95,
+      "discord_members": 685,
       "facebook_members": null,
       "market_cap": 576868206.0,
       "owner_count": 552,
@@ -125,12 +125,22 @@
     {
       "ticker": "TRUECALLER",
       "company_name": "Truecaller",
-      "trend7d": 2.34,
-      "discord_members": 628,
+      "trend7d": 2.4,
+      "discord_members": 629,
       "facebook_members": null,
       "market_cap": 5027297767.0,
       "owner_count": 3160,
       "detail_url": "https://allaaktier.se/bolag/truecaller"
+    },
+    {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 2.08,
+      "discord_members": 95,
+      "facebook_members": null,
+      "market_cap": 314603866.0,
+      "owner_count": 280,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
@@ -143,20 +153,10 @@
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 1.72,
-      "discord_members": 94,
-      "facebook_members": null,
-      "market_cap": 314603866.0,
-      "owner_count": 280,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.56,
-      "discord_members": 342,
+      "trend7d": 1.66,
+      "discord_members": 343,
       "facebook_members": null,
       "market_cap": 122339206.0,
       "owner_count": 627,
@@ -185,8 +185,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 1.37,
-      "discord_members": 1506,
+      "trend7d": 1.39,
+      "discord_members": 1507,
       "facebook_members": null,
       "market_cap": 3482810004.0,
       "owner_count": 6915,
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
     },
     {
+      "ticker": "ENORAMA-PHARMA",
+      "company_name": "Enorama Pharma",
+      "trend7d": 1.04,
+      "discord_members": 38,
+      "facebook_members": 707,
+      "market_cap": 22078250.0,
+      "owner_count": 166,
+      "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
+    },
+    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.96,
@@ -345,8 +355,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 0.69,
-      "discord_members": 567,
+      "trend7d": 0.75,
+      "discord_members": 568,
       "facebook_members": null,
       "market_cap": 100307076.0,
       "owner_count": 759,
@@ -355,8 +365,8 @@
     {
       "ticker": "BIOEXTRAX",
       "company_name": "Bioextrax",
-      "trend7d": 0.66,
-      "discord_members": 854,
+      "trend7d": 0.7,
+      "discord_members": 855,
       "facebook_members": 280,
       "market_cap": 126144590.0,
       "owner_count": 565,
@@ -473,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/saab"
     },
     {
+      "ticker": "CLEAN-MOTION",
+      "company_name": "Clean Motion",
+      "trend7d": 0.41,
+      "discord_members": 270,
+      "facebook_members": 250,
+      "market_cap": 42966655.0,
+      "owner_count": 597,
+      "detail_url": "https://allaaktier.se/bolag/clean-motion"
+    },
+    {
       "ticker": "ADVERTY",
       "company_name": "Adverty",
       "trend7d": 0.41,
@@ -491,26 +511,6 @@
       "market_cap": 64759800000.0,
       "owner_count": 3835,
       "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
-    },
-    {
-      "ticker": "CLEMONDO",
-      "company_name": "Clemondo",
-      "trend7d": 0.33,
-      "discord_members": 61,
-      "facebook_members": 3711,
-      "market_cap": 97204445.0,
-      "owner_count": 333,
-      "detail_url": "https://allaaktier.se/bolag/clemondo"
-    },
-    {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 0.3,
-      "discord_members": 904,
-      "facebook_members": null,
-      "market_cap": 201187729.25,
-      "owner_count": 82,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     }
   ],
   "twitter_mentions": 0,
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
