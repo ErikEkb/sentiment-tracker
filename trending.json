@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T04:37:48.858646+00:00",
+  "generated_at": "2026-07-04T07:48:58.223815+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
-      "trend7d": 10.36,
-      "discord_members": 268,
+      "trend7d": 10.5,
+      "discord_members": 269,
       "facebook_members": 12,
       "market_cap": 1056293670.0,
       "owner_count": 992,
@@ -105,8 +105,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 2.48,
-      "discord_members": 1147,
+      "trend7d": 2.54,
+      "discord_members": 1149,
       "facebook_members": 3706,
       "market_cap": 5162128804.0,
       "owner_count": 3635,
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 1.17,
+      "discord_members": 404,
+      "facebook_members": null,
+      "market_cap": 23998001966.98,
+      "owner_count": 1081,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+    },
+    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
       "trend7d": 1.17,
@@ -241,16 +251,6 @@
       "market_cap": 17961639.0,
       "owner_count": 677,
       "detail_url": "https://allaaktier.se/bolag/nanoecho"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 1.09,
-      "discord_members": 403,
-      "facebook_members": null,
-      "market_cap": 23998001966.98,
-      "owner_count": 1081,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "ICONOVO",
@@ -567,28 +567,11 @@
         "https://www.flashback.org/sp95332875",
         "https://www.flashback.org/sp95333601"
       ]
-    },
-    {
-      "ticker": "SAAB-B",
-      "company_name": "Saab B",
-      "sector": "Industrials",
-      "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.111,
-      "avg_upvote_ratio": 0.5,
-      "label": "neutral",
-      "trending_score": 0.333,
-      "sample_posts": [
-        "https://www.flashback.org/sp95331505",
-        "https://www.flashback.org/sp95331615",
-        "https://www.flashback.org/sp95332272"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 70,
-    "tickers_with_any_mentions": 5,
+    "total_posts_fetched": 72,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
