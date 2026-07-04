@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T10:13:31.150238+00:00",
+  "generated_at": "2026-07-04T12:08:58.217317+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,7 +15,7 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 21.64,
+      "trend7d": 22.41,
       "discord_members": 241,
       "facebook_members": null,
       "market_cap": 11161050.0,
@@ -55,7 +55,7 @@
     {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
-      "trend7d": 4.06,
+      "trend7d": 4.17,
       "discord_members": 129,
       "facebook_members": null,
       "market_cap": 442129514.0,
@@ -105,8 +105,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 2.63,
-      "discord_members": 1149,
+      "trend7d": 2.66,
+      "discord_members": 1150,
       "facebook_members": 3706,
       "market_cap": 5162128804.0,
       "owner_count": 3635,
@@ -145,7 +145,7 @@
     {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
-      "trend7d": 1.65,
+      "trend7d": 1.72,
       "discord_members": 94,
       "facebook_members": null,
       "market_cap": 314603866.0,
@@ -155,7 +155,7 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.64,
+      "trend7d": 1.56,
       "discord_members": 342,
       "facebook_members": null,
       "market_cap": 122339206.0,
@@ -285,7 +285,7 @@
     {
       "ticker": "NYAB",
       "company_name": "NYAB",
-      "trend7d": 1.0,
+      "trend7d": 0.96,
       "discord_members": 205,
       "facebook_members": null,
       "market_cap": 4334997489.0,
@@ -305,7 +305,7 @@
     {
       "ticker": "KLIMATOR",
       "company_name": "Klimator",
-      "trend7d": 0.83,
+      "trend7d": 0.88,
       "discord_members": 39,
       "facebook_members": null,
       "market_cap": 134984272.0,
@@ -413,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.53,
+      "discord_members": 215,
+      "facebook_members": null,
+      "market_cap": 56978438.0,
+      "owner_count": 124,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
       "trend7d": 0.53,
@@ -421,6 +431,16 @@
       "market_cap": 195537585.0,
       "owner_count": 1160,
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
+    },
+    {
+      "ticker": "ZENERGY",
+      "company_name": "Zenergy",
+      "trend7d": 0.51,
+      "discord_members": 54,
+      "facebook_members": null,
+      "market_cap": 6555216.0,
+      "owner_count": 411,
+      "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
       "ticker": "EMB-MISSION-BOUND",
@@ -443,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.48,
-      "discord_members": 215,
-      "facebook_members": null,
-      "market_cap": 56978438.0,
-      "owner_count": 124,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
       "ticker": "SAAB",
       "company_name": "SAAB",
       "trend7d": 0.47,
@@ -461,16 +471,6 @@
       "market_cap": 305816170766.0,
       "owner_count": 56319,
       "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
-      "ticker": "ZENERGY",
-      "company_name": "Zenergy",
-      "trend7d": 0.47,
-      "discord_members": 54,
-      "facebook_members": null,
-      "market_cap": 6555216.0,
-      "owner_count": 411,
-      "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
       "ticker": "ADVERTY",
@@ -518,23 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "SPCX",
-      "company_name": "SpaceX",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.6,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 3.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95326832",
-        "https://www.flashback.org/sp95328883",
-        "https://www.flashback.org/sp95329535"
-      ]
-    },
-    {
       "ticker": "HM-B",
       "company_name": "Hennes & Mauritz B",
       "sector": "Consumer Discretionary",
@@ -570,8 +553,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 71,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 64,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
