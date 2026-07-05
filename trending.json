@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T17:15:00.189219+00:00",
+  "generated_at": "2026-07-05T19:22:28.943303+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.37,
-      "discord_members": 2525,
+      "trend7d": 2.34,
+      "discord_members": 2523,
       "facebook_members": 2874,
       "market_cap": 18013386104.0,
       "owner_count": 5646,
@@ -183,20 +183,20 @@
       "detail_url": "https://allaaktier.se/bolag/smart-eye"
     },
     {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 1.35,
-      "discord_members": 405,
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 1.42,
+      "discord_members": 168,
       "facebook_members": null,
-      "market_cap": 23905351708.49,
-      "owner_count": 1081,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+      "market_cap": 707879322.0,
+      "owner_count": 174,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.35,
-      "discord_members": 1381,
+      "trend7d": 1.33,
+      "discord_members": 1380,
       "facebook_members": null,
       "market_cap": 843746323.0,
       "owner_count": 763,
@@ -211,6 +211,16 @@
       "market_cap": 322608125.0,
       "owner_count": 1017,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 1.27,
+      "discord_members": 404,
+      "facebook_members": null,
+      "market_cap": 23905351708.49,
+      "owner_count": 1081,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "TESSIN-NORDIC",
@@ -231,16 +241,6 @@
       "market_cap": 17961639.0,
       "owner_count": 677,
       "detail_url": "https://allaaktier.se/bolag/nanoecho"
-    },
-    {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 1.21,
-      "discord_members": 167,
-      "facebook_members": null,
-      "market_cap": 707879322.0,
-      "owner_count": 174,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "LOHILO-FOODS",
@@ -333,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/creturner-group"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.81,
+      "discord_members": 234,
+      "facebook_members": null,
+      "market_cap": 22759724177.0,
+      "owner_count": 3878,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 0.79,
@@ -371,16 +381,6 @@
       "market_cap": 355795320.0,
       "owner_count": 1344,
       "detail_url": "https://allaaktier.se/bolag/observit"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.67,
-      "discord_members": 233,
-      "facebook_members": null,
-      "market_cap": 22759724177.0,
-      "owner_count": 3878,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "DUSTIN",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
