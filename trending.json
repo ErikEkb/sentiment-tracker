@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T11:06:32.611158+00:00",
+  "generated_at": "2026-07-05T13:46:30.382871+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -56,7 +56,7 @@
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 4.43,
-      "discord_members": 104,
+      "discord_members": 105,
       "facebook_members": null,
       "market_cap": 143480054.0,
       "owner_count": 362,
@@ -253,16 +253,6 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
-      "ticker": "JONDETECH-SENSORS",
-      "company_name": "JonDeTech Sensors",
-      "trend7d": 1.17,
-      "discord_members": 448,
-      "facebook_members": null,
-      "market_cap": 50655812.0,
-      "owner_count": 712,
-      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
-    },
-    {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
       "trend7d": 1.16,
@@ -271,6 +261,16 @@
       "market_cap": 6555216.0,
       "owner_count": 411,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
+    },
+    {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 1.1,
+      "discord_members": 447,
+      "facebook_members": null,
+      "market_cap": 50655812.0,
+      "owner_count": 712,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
       "ticker": "ICONOVO",
@@ -305,8 +305,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 0.87,
-      "discord_members": 1168,
+      "trend7d": 0.84,
+      "discord_members": 1167,
       "facebook_members": 297,
       "market_cap": 707612603.0,
       "owner_count": 2375,
@@ -533,28 +533,11 @@
         "https://www.flashback.org/sp95334342",
         "https://www.flashback.org/sp95334416"
       ]
-    },
-    {
-      "ticker": "HODL",
-      "company_name": "Sol Strategies",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 3.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95332014",
-        "https://www.flashback.org/sp95332875",
-        "https://www.flashback.org/sp95333601"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 69,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 70,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
