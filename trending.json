@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T15:15:00.161315+00:00",
+  "generated_at": "2026-07-05T17:15:00.189219+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 4.7,
-      "discord_members": 551,
+      "trend7d": 4.77,
+      "discord_members": 552,
       "facebook_members": 52,
       "market_cap": 466783897.0,
       "owner_count": 1081,
@@ -233,16 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/nanoecho"
     },
     {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.22,
-      "discord_members": 518,
-      "facebook_members": 363,
-      "market_cap": 191838378.0,
-      "owner_count": 427,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 1.21,
@@ -271,6 +261,16 @@
       "market_cap": 6555216.0,
       "owner_count": 411,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
+    },
+    {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 1.15,
+      "discord_members": 517,
+      "facebook_members": 363,
+      "market_cap": 191838378.0,
+      "owner_count": 427,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
       "ticker": "JONDETECH-SENSORS",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 71,
+    "total_posts_fetched": 65,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
