@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T21:04:45.733852+00:00",
+  "generated_at": "2026-07-05T23:03:48.682017+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -23,6 +23,16 @@
       "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 16.64,
+      "discord_members": 29,
+      "facebook_members": null,
+      "market_cap": 563750000.0,
+      "owner_count": 602,
+      "detail_url": "https://allaaktier.se/bolag/envar"
+    },
+    {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
       "trend7d": 12.3,
@@ -43,6 +53,16 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
+      "ticker": "FREEMELT",
+      "company_name": "Freemelt",
+      "trend7d": 4.83,
+      "discord_members": 553,
+      "facebook_members": 52,
+      "market_cap": 466783897.0,
+      "owner_count": 1081,
+      "detail_url": "https://allaaktier.se/bolag/freemelt"
+    },
+    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 4.79,
@@ -51,16 +71,6 @@
       "market_cap": 143480054.0,
       "owner_count": 362,
       "detail_url": "https://allaaktier.se/bolag/acucort"
-    },
-    {
-      "ticker": "FREEMELT",
-      "company_name": "Freemelt",
-      "trend7d": 4.77,
-      "discord_members": 552,
-      "facebook_members": 52,
-      "market_cap": 466783897.0,
-      "owner_count": 1081,
-      "detail_url": "https://allaaktier.se/bolag/freemelt"
     },
     {
       "ticker": "ORTOMA",
@@ -286,7 +296,7 @@
       "ticker": "ICONOVO",
       "company_name": "Iconovo",
       "trend7d": 1.07,
-      "discord_members": 71,
+      "discord_members": 70,
       "facebook_members": 43,
       "market_cap": 103384810.0,
       "owner_count": 263,
@@ -473,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
     },
     {
-      "ticker": "SAAB",
-      "company_name": "SAAB",
-      "trend7d": 0.4,
-      "discord_members": 696,
-      "facebook_members": null,
-      "market_cap": 305816170766.0,
-      "owner_count": 56319,
-      "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
       "ticker": "KINNEVIK",
       "company_name": "Kinnevik",
       "trend7d": 0.37,
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/kinnevik"
     },
     {
+      "ticker": "SAAB",
+      "company_name": "SAAB",
+      "trend7d": 0.35,
+      "discord_members": 695,
+      "facebook_members": null,
+      "market_cap": 305816170766.0,
+      "owner_count": 56319,
+      "detail_url": "https://allaaktier.se/bolag/saab"
+    },
+    {
       "ticker": "MONIVENT",
       "company_name": "Monivent",
       "trend7d": 0.32,
@@ -501,16 +511,6 @@
       "market_cap": 43152790.0,
       "owner_count": 182,
       "detail_url": "https://allaaktier.se/bolag/monivent"
-    },
-    {
-      "ticker": "PETROTAL",
-      "company_name": "Petrotal",
-      "trend7d": 0.31,
-      "discord_members": 232,
-      "facebook_members": null,
-      "market_cap": 2846698524.81,
-      "owner_count": 561,
-      "detail_url": "https://allaaktier.se/bolag/petrotal"
     }
   ],
   "twitter_mentions": 0,
@@ -518,25 +518,26 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "HM-B",
-      "company_name": "Hennes & Mauritz B",
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
+      "mentions": 6,
+      "velocity_mentions_per_day": 2.0,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 3.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95334342",
-        "https://www.flashback.org/sp95334416"
+        "https://www.flashback.org/sp95346931",
+        "https://www.flashback.org/sp95346946",
+        "https://www.flashback.org/sp95346952"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 67,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 68,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
