@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T13:46:30.382871+00:00",
+  "generated_at": "2026-07-05T15:15:00.161315+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -43,6 +43,16 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 4.79,
+      "discord_members": 105,
+      "facebook_members": null,
+      "market_cap": 143480054.0,
+      "owner_count": 362,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
       "trend7d": 4.7,
@@ -51,16 +61,6 @@
       "market_cap": 466783897.0,
       "owner_count": 1081,
       "detail_url": "https://allaaktier.se/bolag/freemelt"
-    },
-    {
-      "ticker": "ACUCORT",
-      "company_name": "AcuCort",
-      "trend7d": 4.43,
-      "discord_members": 105,
-      "facebook_members": null,
-      "market_cap": 143480054.0,
-      "owner_count": 362,
-      "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
       "ticker": "ORTOMA",
@@ -73,16 +73,6 @@
       "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
-      "ticker": "LEADING-EDGE-MATERIALS",
-      "company_name": "Leading Edge Materials",
-      "trend7d": 2.91,
-      "discord_members": 685,
-      "facebook_members": null,
-      "market_cap": 576868206.0,
-      "owner_count": 552,
-      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
-    },
-    {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
       "trend7d": 2.89,
@@ -91,6 +81,16 @@
       "market_cap": 106439992.0,
       "owner_count": 1848,
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
+      "ticker": "LEADING-EDGE-MATERIALS",
+      "company_name": "Leading Edge Materials",
+      "trend7d": 2.86,
+      "discord_members": 684,
+      "facebook_members": null,
+      "market_cap": 576868206.0,
+      "owner_count": 552,
+      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
     },
     {
       "ticker": "ASCELIA-PHARMA",
@@ -201,6 +201,16 @@
       "market_cap": 843746323.0,
       "owner_count": 763,
       "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
+      "ticker": "FERROAMP",
+      "company_name": "Ferroamp",
+      "trend7d": 1.31,
+      "discord_members": 50,
+      "facebook_members": null,
+      "market_cap": 322608125.0,
+      "owner_count": 1017,
+      "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
       "ticker": "TESSIN-NORDIC",
@@ -393,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
-      "ticker": "FERROAMP",
-      "company_name": "Ferroamp",
-      "trend7d": 0.61,
-      "discord_members": 49,
-      "facebook_members": null,
-      "market_cap": 322608125.0,
-      "owner_count": 1017,
-      "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
       "ticker": "XMREALITY",
       "company_name": "XMReality",
       "trend7d": 0.58,
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/bioextrax"
     },
     {
+      "ticker": "ELICERA-THERAPEUTICS",
+      "company_name": "Elicera Therapeutics",
+      "trend7d": 0.51,
+      "discord_members": 1001,
+      "facebook_members": 129,
+      "market_cap": 195537585.0,
+      "owner_count": 1160,
+      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
+    },
+    {
       "ticker": "EMB-MISSION-BOUND",
       "company_name": "EMB Mission Bound",
       "trend7d": 0.5,
@@ -431,16 +441,6 @@
       "market_cap": 171083830.0,
       "owner_count": 103,
       "detail_url": "https://allaaktier.se/bolag/emb-mission-bound"
-    },
-    {
-      "ticker": "ELICERA-THERAPEUTICS",
-      "company_name": "Elicera Therapeutics",
-      "trend7d": 0.48,
-      "discord_members": 1000,
-      "facebook_members": 129,
-      "market_cap": 195537585.0,
-      "owner_count": 1160,
-      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
       "ticker": "SODER-SPORTFISKE",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 70,
+    "total_posts_fetched": 71,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
