@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T11:53:34.686228+00:00",
+  "generated_at": "2026-07-07T14:42:38.880232+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 19.81,
-      "discord_members": 255,
+      "trend7d": 19.65,
+      "discord_members": 254,
       "facebook_members": null,
       "market_cap": 15578966.0,
       "owner_count": 526,
@@ -43,6 +43,16 @@
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
+      "ticker": "SKANSKA",
+      "company_name": "Skanska",
+      "trend7d": 6.11,
+      "discord_members": 26,
+      "facebook_members": null,
+      "market_cap": 111400285002.0,
+      "owner_count": 9856,
+      "detail_url": "https://allaaktier.se/bolag/skanska"
+    },
+    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 5.52,
@@ -55,8 +65,8 @@
     {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
-      "trend7d": 4.99,
-      "discord_members": 148,
+      "trend7d": 5.5,
+      "discord_members": 150,
       "facebook_members": null,
       "market_cap": 467861920.0,
       "owner_count": 426,
@@ -65,8 +75,8 @@
     {
       "ticker": "MONIVENT",
       "company_name": "Monivent",
-      "trend7d": 3.97,
-      "discord_members": 203,
+      "trend7d": 4.13,
+      "discord_members": 204,
       "facebook_members": 131,
       "market_cap": 41191299.0,
       "owner_count": 202,
@@ -75,8 +85,8 @@
     {
       "ticker": "CLOETTA",
       "company_name": "Cloetta",
-      "trend7d": 2.82,
-      "discord_members": 47,
+      "trend7d": 3.56,
+      "discord_members": 48,
       "facebook_members": null,
       "market_cap": 14546412670.0,
       "owner_count": 5347,
@@ -145,12 +155,22 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.76,
-      "discord_members": 1150,
+      "trend7d": 1.79,
+      "discord_members": 1151,
       "facebook_members": 3706,
       "market_cap": 4867973978.0,
       "owner_count": 3656,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 1.64,
+      "discord_members": 169,
+      "facebook_members": null,
+      "market_cap": 652576250.0,
+      "owner_count": 172,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "TRUECALLER",
@@ -163,20 +183,10 @@
       "detail_url": "https://allaaktier.se/bolag/truecaller"
     },
     {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 1.43,
-      "discord_members": 168,
-      "facebook_members": null,
-      "market_cap": 652576250.0,
-      "owner_count": 172,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 1.32,
-      "discord_members": 587,
+      "trend7d": 1.49,
+      "discord_members": 590,
       "facebook_members": null,
       "market_cap": 211151460.0,
       "owner_count": 755,
@@ -193,14 +203,14 @@
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 1.25,
-      "discord_members": 217,
-      "facebook_members": 63,
-      "market_cap": 145960866.0,
-      "owner_count": 559,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+      "ticker": "BIOEXTRAX",
+      "company_name": "Bioextrax",
+      "trend7d": 1.29,
+      "discord_members": 865,
+      "facebook_members": 280,
+      "market_cap": 138045023.0,
+      "owner_count": 570,
+      "detail_url": "https://allaaktier.se/bolag/bioextrax"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -223,24 +233,24 @@
       "detail_url": "https://allaaktier.se/bolag/sedana-medical"
     },
     {
-      "ticker": "BIOEXTRAX",
-      "company_name": "Bioextrax",
-      "trend7d": 1.13,
-      "discord_members": 861,
-      "facebook_members": 280,
-      "market_cap": 138045023.0,
-      "owner_count": 570,
-      "detail_url": "https://allaaktier.se/bolag/bioextrax"
-    },
-    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.12,
-      "discord_members": 2523,
+      "trend7d": 1.11,
+      "discord_members": 2522,
       "facebook_members": 2874,
       "market_cap": 14077957168.0,
       "owner_count": 5639,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 1.09,
+      "discord_members": 216,
+      "facebook_members": 63,
+      "market_cap": 145960866.0,
+      "owner_count": 559,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -323,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/dustin"
     },
     {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.64,
+      "discord_members": 249,
+      "facebook_members": 223,
+      "market_cap": 20268228.0,
+      "owner_count": 827,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
       "ticker": "DEVYSER-DIAGNOSTICS",
       "company_name": "Devyser Diagnostics",
       "trend7d": 0.63,
@@ -341,6 +361,16 @@
       "market_cap": 13007679815924.62,
       "owner_count": 43843,
       "detail_url": "https://allaaktier.se/bolag/tesla"
+    },
+    {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.63,
+      "discord_members": 1171,
+      "facebook_members": 297,
+      "market_cap": 665294594.0,
+      "owner_count": 2382,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "OBSERVIT",
@@ -373,24 +403,14 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.57,
-      "discord_members": 1169,
-      "facebook_members": 297,
-      "market_cap": 665294594.0,
-      "owner_count": 2382,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "ATLAS-COPCO",
-      "company_name": "Atlas Copco",
-      "trend7d": 0.55,
-      "discord_members": 94,
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.54,
+      "discord_members": 406,
       "facebook_members": null,
-      "market_cap": 906870047888.0,
-      "owner_count": 15989,
-      "detail_url": "https://allaaktier.se/bolag/atlas-copco"
+      "market_cap": 23153221030.83,
+      "owner_count": 1080,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "HACKSAW",
@@ -401,16 +421,6 @@
       "market_cap": 22846482973.0,
       "owner_count": 3894,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.5,
-      "discord_members": 248,
-      "facebook_members": 223,
-      "market_cap": 20268228.0,
-      "owner_count": 827,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "FREJA-EID",
@@ -441,16 +451,6 @@
       "market_cap": 79764912.0,
       "owner_count": 443,
       "detail_url": "https://allaaktier.se/bolag/adverty"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.45,
-      "discord_members": 405,
-      "facebook_members": null,
-      "market_cap": 23153221030.83,
-      "owner_count": 1080,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/iconovo"
     },
     {
-      "ticker": "DLABORATORY-SWEDEN",
-      "company_name": "Dlaboratory Sweden",
-      "trend7d": 0.35,
-      "discord_members": 140,
-      "facebook_members": null,
-      "market_cap": 43040239.0,
-      "owner_count": 195,
-      "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
+      "ticker": "CERENO-SCIENTIFIC",
+      "company_name": "Cereno Scientific",
+      "trend7d": 0.36,
+      "discord_members": 4697,
+      "facebook_members": 488,
+      "market_cap": 1658122388.0,
+      "owner_count": 1569,
+      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
