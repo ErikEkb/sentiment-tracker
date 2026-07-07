@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T14:42:38.880232+00:00",
+  "generated_at": "2026-07-07T17:18:58.410270+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -53,6 +53,16 @@
       "detail_url": "https://allaaktier.se/bolag/skanska"
     },
     {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 5.76,
+      "discord_members": 151,
+      "facebook_members": null,
+      "market_cap": 467861920.0,
+      "owner_count": 426,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 5.52,
@@ -61,16 +71,6 @@
       "market_cap": 248986635.0,
       "owner_count": 445,
       "detail_url": "https://allaaktier.se/bolag/refine-group"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 5.5,
-      "discord_members": 150,
-      "facebook_members": null,
-      "market_cap": 467861920.0,
-      "owner_count": 426,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "MONIVENT",
@@ -173,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
+      "ticker": "ALZINOVA",
+      "company_name": "Alzinova",
+      "trend7d": 1.55,
+      "discord_members": 591,
+      "facebook_members": null,
+      "market_cap": 211151460.0,
+      "owner_count": 755,
+      "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
       "ticker": "TRUECALLER",
       "company_name": "Truecaller",
       "trend7d": 1.49,
@@ -183,14 +193,14 @@
       "detail_url": "https://allaaktier.se/bolag/truecaller"
     },
     {
-      "ticker": "ALZINOVA",
-      "company_name": "Alzinova",
-      "trend7d": 1.49,
-      "discord_members": 590,
-      "facebook_members": null,
-      "market_cap": 211151460.0,
-      "owner_count": 755,
-      "detail_url": "https://allaaktier.se/bolag/alzinova"
+      "ticker": "BIOEXTRAX",
+      "company_name": "Bioextrax",
+      "trend7d": 1.37,
+      "discord_members": 867,
+      "facebook_members": 280,
+      "market_cap": 138045023.0,
+      "owner_count": 570,
+      "detail_url": "https://allaaktier.se/bolag/bioextrax"
     },
     {
       "ticker": "CYCLEZYME",
@@ -201,16 +211,6 @@
       "market_cap": 53093544.0,
       "owner_count": 128,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
-      "ticker": "BIOEXTRAX",
-      "company_name": "Bioextrax",
-      "trend7d": 1.29,
-      "discord_members": 865,
-      "facebook_members": 280,
-      "market_cap": 138045023.0,
-      "owner_count": 570,
-      "detail_url": "https://allaaktier.se/bolag/bioextrax"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -235,22 +235,12 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.11,
-      "discord_members": 2522,
+      "trend7d": 1.1,
+      "discord_members": 2521,
       "facebook_members": 2874,
       "market_cap": 14077957168.0,
       "owner_count": 5639,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 1.09,
-      "discord_members": 216,
-      "facebook_members": 63,
-      "market_cap": 145960866.0,
-      "owner_count": 559,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -271,6 +261,16 @@
       "market_cap": 785004490.0,
       "owner_count": 755,
       "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.94,
+      "discord_members": 215,
+      "facebook_members": 63,
+      "market_cap": 145960866.0,
+      "owner_count": 559,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "SENZAGEN",
@@ -295,12 +295,22 @@
     {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
-      "trend7d": 0.83,
-      "discord_members": 555,
+      "trend7d": 0.89,
+      "discord_members": 556,
       "facebook_members": 52,
       "market_cap": 402117250.0,
       "owner_count": 1083,
       "detail_url": "https://allaaktier.se/bolag/freemelt"
+    },
+    {
+      "ticker": "SPRINT-BIOSCIENCE",
+      "company_name": "Sprint Bioscience",
+      "trend7d": 0.83,
+      "discord_members": 712,
+      "facebook_members": 396,
+      "market_cap": 414676064.0,
+      "owner_count": 757,
+      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
       "ticker": "MIPS",
@@ -311,16 +321,6 @@
       "market_cap": 7184392286.0,
       "owner_count": 2629,
       "detail_url": "https://allaaktier.se/bolag/mips"
-    },
-    {
-      "ticker": "SPRINT-BIOSCIENCE",
-      "company_name": "Sprint Bioscience",
-      "trend7d": 0.79,
-      "discord_members": 711,
-      "facebook_members": 396,
-      "market_cap": 414676064.0,
-      "owner_count": 757,
-      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
       "ticker": "DUSTIN",
@@ -403,6 +403,26 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 0.56,
+      "discord_members": 518,
+      "facebook_members": 363,
+      "market_cap": 203735332.0,
+      "owner_count": 427,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
+      "ticker": "ATLAS-COPCO",
+      "company_name": "Atlas Copco",
+      "trend7d": 0.55,
+      "discord_members": 94,
+      "facebook_members": null,
+      "market_cap": 906870047888.0,
+      "owner_count": 15989,
+      "detail_url": "https://allaaktier.se/bolag/atlas-copco"
+    },
+    {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
       "trend7d": 0.54,
@@ -453,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/adverty"
     },
     {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.43,
-      "discord_members": 516,
-      "facebook_members": 363,
-      "market_cap": 203735332.0,
-      "owner_count": 427,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
       "ticker": "SODER-SPORTFISKE",
       "company_name": "Söder Sportfiske",
       "trend7d": 0.42,
@@ -471,16 +481,6 @@
       "market_cap": 135094793.0,
       "owner_count": 259,
       "detail_url": "https://allaaktier.se/bolag/soder-sportfiske"
-    },
-    {
-      "ticker": "LEADING-EDGE-MATERIALS",
-      "company_name": "Leading Edge Materials",
-      "trend7d": 0.41,
-      "discord_members": 683,
-      "facebook_members": null,
-      "market_cap": 578155858.0,
-      "owner_count": 554,
-      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
     },
     {
       "ticker": "VESTUM",
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/vestum"
     },
     {
+      "ticker": "LEADING-EDGE-MATERIALS",
+      "company_name": "Leading Edge Materials",
+      "trend7d": 0.36,
+      "discord_members": 682,
+      "facebook_members": null,
+      "market_cap": 578155858.0,
+      "owner_count": 554,
+      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
+    },
+    {
       "ticker": "ICONOVO",
       "company_name": "Iconovo",
       "trend7d": 0.36,
@@ -501,16 +511,6 @@
       "market_cap": 106269967.0,
       "owner_count": 262,
       "detail_url": "https://allaaktier.se/bolag/iconovo"
-    },
-    {
-      "ticker": "CERENO-SCIENTIFIC",
-      "company_name": "Cereno Scientific",
-      "trend7d": 0.36,
-      "discord_members": 4697,
-      "facebook_members": 488,
-      "market_cap": 1658122388.0,
-      "owner_count": 1569,
-      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 63,
+    "total_posts_fetched": 73,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
