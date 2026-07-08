@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T16:41:44.822474+00:00",
+  "generated_at": "2026-07-08T18:20:19.058083+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 19.18,
-      "discord_members": 627,
+      "trend7d": 19.42,
+      "discord_members": 631,
       "facebook_members": null,
       "market_cap": 200614151.0,
       "owner_count": 959,
@@ -35,8 +35,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 10.3,
-      "discord_members": 254,
+      "trend7d": 10.45,
+      "discord_members": 255,
       "facebook_members": null,
       "market_cap": 13579278.0,
       "owner_count": 523,
@@ -155,8 +155,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 1.52,
-      "discord_members": 918,
+      "trend7d": 1.56,
+      "discord_members": 919,
       "facebook_members": 289,
       "market_cap": 3851270112.0,
       "owner_count": 2101,
@@ -313,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/saab"
     },
     {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 0.64,
+      "discord_members": 170,
+      "facebook_members": null,
+      "market_cap": 633220174.0,
+      "owner_count": 174,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
       "trend7d": 0.61,
@@ -373,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/net-insight"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 0.52,
+      "discord_members": 519,
+      "facebook_members": 363,
+      "market_cap": 194812617.0,
+      "owner_count": 427,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "OBSERVIT",
       "company_name": "Observit",
       "trend7d": 0.51,
@@ -411,36 +431,6 @@
       "market_cap": 254351456.0,
       "owner_count": 1852,
       "detail_url": "https://allaaktier.se/bolag/terranet"
-    },
-    {
-      "ticker": "NYAB",
-      "company_name": "NYAB",
-      "trend7d": 0.45,
-      "discord_members": 204,
-      "facebook_members": null,
-      "market_cap": 4327867559.0,
-      "owner_count": 1744,
-      "detail_url": "https://allaaktier.se/bolag/nyab"
-    },
-    {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.45,
-      "discord_members": 518,
-      "facebook_members": 363,
-      "market_cap": 194812617.0,
-      "owner_count": 427,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 0.44,
-      "discord_members": 169,
-      "facebook_members": null,
-      "market_cap": 633220174.0,
-      "owner_count": 174,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "FREEMELT",
@@ -511,6 +501,16 @@
       "market_cap": 124882683.0,
       "owner_count": 350,
       "detail_url": "https://allaaktier.se/bolag/physitrack"
+    },
+    {
+      "ticker": "LEADING-EDGE-MATERIALS",
+      "company_name": "Leading Edge Materials",
+      "trend7d": 0.3,
+      "discord_members": 682,
+      "facebook_members": null,
+      "market_cap": 544676900.0,
+      "owner_count": 557,
+      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 37,
+    "total_posts_fetched": 40,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
