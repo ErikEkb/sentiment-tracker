@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T14:20:38.692723+00:00",
+  "generated_at": "2026-07-08T16:41:44.822474+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 18.95,
-      "discord_members": 623,
+      "trend7d": 19.18,
+      "discord_members": 627,
       "facebook_members": null,
       "market_cap": 200614151.0,
       "owner_count": 959,
@@ -35,8 +35,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 10.16,
-      "discord_members": 253,
+      "trend7d": 10.3,
+      "discord_members": 254,
       "facebook_members": null,
       "market_cap": 13579278.0,
       "owner_count": 523,
@@ -45,8 +45,8 @@
     {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
-      "trend7d": 6.68,
-      "discord_members": 155,
+      "trend7d": 6.94,
+      "discord_members": 156,
       "facebook_members": null,
       "market_cap": 442597376.0,
       "owner_count": 426,
@@ -55,8 +55,8 @@
     {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
-      "trend7d": 6.27,
-      "discord_members": 275,
+      "trend7d": 6.39,
+      "discord_members": 276,
       "facebook_members": 12,
       "market_cap": 937701953.0,
       "owner_count": 1027,
@@ -143,24 +143,24 @@
       "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     },
     {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 1.48,
-      "discord_members": 917,
-      "facebook_members": 289,
-      "market_cap": 3851270112.0,
-      "owner_count": 2101,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
-    },
-    {
       "ticker": "CYCLEZYME",
       "company_name": "Cyclezyme",
-      "trend7d": 1.47,
-      "discord_members": 215,
+      "trend7d": 1.63,
+      "discord_members": 216,
       "facebook_members": null,
       "market_cap": 65784197.0,
       "owner_count": 127,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 1.52,
+      "discord_members": 918,
+      "facebook_members": 289,
+      "market_cap": 3851270112.0,
+      "owner_count": 2101,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
@@ -223,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
     },
     {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.97,
+      "discord_members": 216,
+      "facebook_members": 63,
+      "market_cap": 101213739.0,
+      "owner_count": 557,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
       "ticker": "MIPS",
       "company_name": "Mips",
       "trend7d": 0.94,
@@ -251,16 +261,6 @@
       "market_cap": 30280277.0,
       "owner_count": 327,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
-    },
-    {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 0.82,
-      "discord_members": 215,
-      "facebook_members": 63,
-      "market_cap": 101213739.0,
-      "owner_count": 557,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "TESLA",
@@ -413,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
+      "ticker": "NYAB",
+      "company_name": "NYAB",
+      "trend7d": 0.45,
+      "discord_members": 204,
+      "facebook_members": null,
+      "market_cap": 4327867559.0,
+      "owner_count": 1744,
+      "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
       "trend7d": 0.45,
@@ -501,16 +511,6 @@
       "market_cap": 124882683.0,
       "owner_count": 350,
       "detail_url": "https://allaaktier.se/bolag/physitrack"
-    },
-    {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.32,
-      "discord_members": 249,
-      "facebook_members": 223,
-      "market_cap": 27073619.0,
-      "owner_count": 824,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 37,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
