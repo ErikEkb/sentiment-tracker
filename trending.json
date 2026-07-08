@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T02:56:13.950549+00:00",
+  "generated_at": "2026-07-08T05:56:30.563585+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 6.44,
+      "discord_members": 154,
+      "facebook_members": null,
+      "market_cap": 466926196.0,
+      "owner_count": 426,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
       "trend7d": 6.27,
@@ -41,16 +51,6 @@
       "market_cap": 976313210.0,
       "owner_count": 1027,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 6.18,
-      "discord_members": 153,
-      "facebook_members": null,
-      "market_cap": 466926196.0,
-      "owner_count": 426,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "SKANSKA",
@@ -115,8 +115,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 2.1,
-      "discord_members": 602,
+      "trend7d": 2.16,
+      "discord_members": 603,
       "facebook_members": null,
       "market_cap": 283696780.0,
       "owner_count": 755,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 81,
+    "total_posts_fetched": 82,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
