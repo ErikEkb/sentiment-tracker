@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:59:19.237873+00:00",
+  "generated_at": "2026-07-09T18:05:47.370875+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -133,16 +133,6 @@
       "detail_url": "https://allaaktier.se/bolag/senzagen"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 1.76,
-      "discord_members": 217,
-      "facebook_members": null,
-      "market_cap": 71026099.0,
-      "owner_count": 128,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 1.64,
@@ -151,6 +141,16 @@
       "market_cap": 893902401571.0,
       "owner_count": 16015,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 1.6,
+      "discord_members": 216,
+      "facebook_members": null,
+      "market_cap": 71026099.0,
+      "owner_count": 128,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "FREJA-EID",
@@ -165,8 +165,8 @@
     {
       "ticker": "BIOEXTRAX",
       "company_name": "Bioextrax",
-      "trend7d": 1.29,
-      "discord_members": 871,
+      "trend7d": 1.25,
+      "discord_members": 870,
       "facebook_members": 280,
       "market_cap": 134712902.0,
       "owner_count": 573,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 83,
+    "total_posts_fetched": 86,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
