@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T18:05:47.370875+00:00",
+  "generated_at": "2026-07-09T20:49:01.694453+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 6.34,
-      "discord_members": 255,
+      "trend7d": 6.48,
+      "discord_members": 256,
       "facebook_members": null,
       "market_cap": 14881401.0,
       "owner_count": 501,
@@ -83,24 +83,24 @@
       "detail_url": "https://allaaktier.se/bolag/monivent"
     },
     {
-      "ticker": "ALZECURE-PHARMA",
-      "company_name": "AlzeCure Pharma",
-      "trend7d": 3.6,
-      "discord_members": 276,
-      "facebook_members": 12,
-      "market_cap": 926670165.0,
-      "owner_count": 1022,
-      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
-      "trend7d": 3.12,
-      "discord_members": 38,
+      "trend7d": 3.99,
+      "discord_members": 39,
       "facebook_members": null,
       "market_cap": 459687638.0,
       "owner_count": 304,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
+      "ticker": "ALZECURE-PHARMA",
+      "company_name": "AlzeCure Pharma",
+      "trend7d": 3.72,
+      "discord_members": 277,
+      "facebook_members": 12,
+      "market_cap": 926670165.0,
+      "owner_count": 1022,
+      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
       "ticker": "CLOETTA",
@@ -193,16 +193,6 @@
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
-      "ticker": "SEDANA-MEDICAL",
-      "company_name": "Sedana Medical",
-      "trend7d": 1.11,
-      "discord_members": 448,
-      "facebook_members": null,
-      "market_cap": 874165248.0,
-      "owner_count": 929,
-      "detail_url": "https://allaaktier.se/bolag/sedana-medical"
-    },
-    {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
       "company_name": "Trophy Games Development",
       "trend7d": 1.07,
@@ -211,6 +201,16 @@
       "market_cap": 623433488.96,
       "owner_count": 1816,
       "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
+    },
+    {
+      "ticker": "SEDANA-MEDICAL",
+      "company_name": "Sedana Medical",
+      "trend7d": 1.04,
+      "discord_members": 447,
+      "facebook_members": null,
+      "market_cap": 874165248.0,
+      "owner_count": 929,
+      "detail_url": "https://allaaktier.se/bolag/sedana-medical"
     },
     {
       "ticker": "SHT-SMART-HIGH-TECH",
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.95,
+      "discord_members": 1156,
+      "facebook_members": 3706,
+      "market_cap": 4510373994.0,
+      "owner_count": 3672,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "SAAB",
       "company_name": "SAAB",
       "trend7d": 0.93,
@@ -251,16 +261,6 @@
       "market_cap": 312119418067.0,
       "owner_count": 57097,
       "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.92,
-      "discord_members": 1155,
-      "facebook_members": 3706,
-      "market_cap": 4510373994.0,
-      "owner_count": 3672,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -285,8 +285,8 @@
     {
       "ticker": "CERENO-SCIENTIFIC",
       "company_name": "Cereno Scientific",
-      "trend7d": 0.86,
-      "discord_members": 4698,
+      "trend7d": 0.87,
+      "discord_members": 4699,
       "facebook_members": 488,
       "market_cap": 1617317033.0,
       "owner_count": 1584,
@@ -321,6 +321,16 @@
       "market_cap": 154733391.0,
       "owner_count": 359,
       "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.8,
+      "discord_members": 65,
+      "facebook_members": null,
+      "market_cap": 69679677508.54,
+      "owner_count": 5869,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "NET-INSIGHT",
@@ -371,6 +381,16 @@
       "market_cap": 5952821973.0,
       "owner_count": 1225,
       "detail_url": "https://allaaktier.se/bolag/vestum"
+    },
+    {
+      "ticker": "BPC-INSTRUMENTS",
+      "company_name": "BPC Instruments",
+      "trend7d": 0.57,
+      "discord_members": 106,
+      "facebook_members": null,
+      "market_cap": 189883530.0,
+      "owner_count": 165,
+      "detail_url": "https://allaaktier.se/bolag/bpc-instruments"
     },
     {
       "ticker": "OBSERVIT",
@@ -443,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     },
     {
-      "ticker": "TERRANET",
-      "company_name": "Terranet",
-      "trend7d": 0.47,
-      "discord_members": 1865,
-      "facebook_members": 2541,
-      "market_cap": 280534694.0,
-      "owner_count": 1858,
-      "detail_url": "https://allaaktier.se/bolag/terranet"
-    },
-    {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
       "trend7d": 0.45,
@@ -461,6 +471,16 @@
       "market_cap": 629220226.0,
       "owner_count": 2388,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
+      "ticker": "TERRANET",
+      "company_name": "Terranet",
+      "trend7d": 0.45,
+      "discord_members": 1864,
+      "facebook_members": 2541,
+      "market_cap": 280534694.0,
+      "owner_count": 1858,
+      "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
       "ticker": "PROSTATYPE-GENOMICS",
@@ -491,26 +511,6 @@
       "market_cap": 166638847.0,
       "owner_count": 375,
       "detail_url": "https://allaaktier.se/bolag/izafe"
-    },
-    {
-      "ticker": "GOLD-TOWN-GAMES",
-      "company_name": "Gold Town Games",
-      "trend7d": 0.41,
-      "discord_members": 82,
-      "facebook_members": null,
-      "market_cap": 16035511.0,
-      "owner_count": 251,
-      "detail_url": "https://allaaktier.se/bolag/gold-town-games"
-    },
-    {
-      "ticker": "SENZIME",
-      "company_name": "Senzime",
-      "trend7d": 0.39,
-      "discord_members": 374,
-      "facebook_members": null,
-      "market_cap": 662661419.0,
-      "owner_count": 508,
-      "detail_url": "https://allaaktier.se/bolag/senzime"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 86,
+    "total_posts_fetched": 87,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
