@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T16:58:07.326865+00:00",
+  "generated_at": "2026-07-10T18:37:51.887999+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 5.41,
-      "discord_members": 258,
+      "trend7d": 5.27,
+      "discord_members": 257,
       "facebook_members": null,
       "market_cap": 12742199.0,
       "owner_count": 495,
@@ -323,16 +323,6 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
-      "ticker": "CERENO-SCIENTIFIC",
-      "company_name": "Cereno Scientific",
-      "trend7d": 0.82,
-      "discord_members": 4699,
-      "facebook_members": 488,
-      "market_cap": 1562909892.0,
-      "owner_count": 1584,
-      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
-    },
-    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 0.81,
@@ -341,6 +331,16 @@
       "market_cap": 252763562.0,
       "owner_count": 446,
       "detail_url": "https://allaaktier.se/bolag/refine-group"
+    },
+    {
+      "ticker": "CERENO-SCIENTIFIC",
+      "company_name": "Cereno Scientific",
+      "trend7d": 0.81,
+      "discord_members": 4698,
+      "facebook_members": 488,
+      "market_cap": 1562909892.0,
+      "owner_count": 1584,
+      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     },
     {
       "ticker": "TERRANET",
@@ -453,6 +453,26 @@
       "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
+      "ticker": "GRANGEX",
+      "company_name": "GRANGEX",
+      "trend7d": 0.51,
+      "discord_members": 1036,
+      "facebook_members": 305,
+      "market_cap": 567017128.0,
+      "owner_count": 1192,
+      "detail_url": "https://allaaktier.se/bolag/grangex"
+    },
+    {
+      "ticker": "SOUND-DIMENSION",
+      "company_name": "Sound Dimension",
+      "trend7d": 0.48,
+      "discord_members": 773,
+      "facebook_members": null,
+      "market_cap": 106012384.0,
+      "owner_count": 475,
+      "detail_url": "https://allaaktier.se/bolag/sound-dimension"
+    },
+    {
       "ticker": "KLIMATOR",
       "company_name": "Klimator",
       "trend7d": 0.47,
@@ -473,16 +493,6 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
-      "ticker": "GRANGEX",
-      "company_name": "GRANGEX",
-      "trend7d": 0.47,
-      "discord_members": 1035,
-      "facebook_members": 305,
-      "market_cap": 567017128.0,
-      "owner_count": 1192,
-      "detail_url": "https://allaaktier.se/bolag/grangex"
-    },
-    {
       "ticker": "PRECISE-BIOMETRICS",
       "company_name": "Precise Biometrics",
       "trend7d": 0.46,
@@ -501,24 +511,32 @@
       "market_cap": 5945305784.0,
       "owner_count": 1223,
       "detail_url": "https://allaaktier.se/bolag/vestum"
-    },
-    {
-      "ticker": "SOUND-DIMENSION",
-      "company_name": "Sound Dimension",
-      "trend7d": 0.44,
-      "discord_members": 772,
-      "facebook_members": null,
-      "market_cap": 106012384.0,
-      "owner_count": 475,
-      "detail_url": "https://allaaktier.se/bolag/sound-dimension"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "NORDEN",
+      "company_name": "Norden Estates",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.111,
+      "avg_upvote_ratio": 0.5,
+      "label": "neutral",
+      "trending_score": 0.333,
+      "sample_posts": [
+        "https://www.flashback.org/sp95379594",
+        "https://www.flashback.org/sp95379815",
+        "https://www.flashback.org/sp95384930"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 44,
+    "total_posts_fetched": 41,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
