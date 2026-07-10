@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T18:37:51.887999+00:00",
+  "generated_at": "2026-07-10T20:25:40.030136+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 20.21,
-      "discord_members": 636,
+      "trend7d": 20.33,
+      "discord_members": 638,
       "facebook_members": null,
       "market_cap": 174878801.0,
       "owner_count": 986,
@@ -105,8 +105,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 1.9,
-      "discord_members": 922,
+      "trend7d": 1.94,
+      "discord_members": 923,
       "facebook_members": 289,
       "market_cap": 3637310662.0,
       "owner_count": 2105,
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     },
     {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 1.54,
+      "discord_members": 217,
+      "facebook_members": null,
+      "market_cap": 71871648.0,
+      "owner_count": 127,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
       "ticker": "DEVYSER-DIAGNOSTICS",
       "company_name": "Devyser Diagnostics",
       "trend7d": 1.43,
@@ -151,16 +161,6 @@
       "market_cap": 1038723069.0,
       "owner_count": 605,
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
-    },
-    {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 1.39,
-      "discord_members": 216,
-      "facebook_members": null,
-      "market_cap": 71871648.0,
-      "owner_count": 127,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "ALZECURE-PHARMA",
@@ -243,16 +243,6 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 1.01,
-      "discord_members": 507,
-      "facebook_members": 2766,
-      "market_cap": 10696750976.0,
-      "owner_count": 4534,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
       "trend7d": 0.97,
@@ -271,6 +261,16 @@
       "market_cap": 454975293.0,
       "owner_count": 409,
       "detail_url": "https://allaaktier.se/bolag/premium-snacks-nordic"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.94,
+      "discord_members": 506,
+      "facebook_members": 2766,
+      "market_cap": 10696750976.0,
+      "owner_count": 4534,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -343,16 +343,6 @@
       "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     },
     {
-      "ticker": "TERRANET",
-      "company_name": "Terranet",
-      "trend7d": 0.8,
-      "discord_members": 1863,
-      "facebook_members": 2541,
-      "market_cap": 268845749.0,
-      "owner_count": 1876,
-      "detail_url": "https://allaaktier.se/bolag/terranet"
-    },
-    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 0.79,
@@ -361,6 +351,16 @@
       "market_cap": 645500776.0,
       "owner_count": 952,
       "detail_url": "https://allaaktier.se/bolag/qliro"
+    },
+    {
+      "ticker": "TERRANET",
+      "company_name": "Terranet",
+      "trend7d": 0.78,
+      "discord_members": 1862,
+      "facebook_members": 2541,
+      "market_cap": 268845749.0,
+      "owner_count": 1876,
+      "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
       "ticker": "NITRO-GAMES",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 41,
+    "total_posts_fetched": 33,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
