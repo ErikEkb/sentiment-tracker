@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T11:54:46.797481+00:00",
+  "generated_at": "2026-07-10T14:33:30.560943+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -135,8 +135,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 1.53,
-      "discord_members": 1367,
+      "trend7d": 1.58,
+      "discord_members": 1369,
       "facebook_members": 128,
       "market_cap": 863551912.0,
       "owner_count": 1349,
@@ -161,16 +161,6 @@
       "market_cap": 1038723069.0,
       "owner_count": 605,
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 1.42,
-      "discord_members": 65,
-      "facebook_members": null,
-      "market_cap": 72982429512.15,
-      "owner_count": 5877,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "CYCLEZYME",
@@ -293,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/sedana-medical"
     },
     {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.89,
+      "discord_members": 64,
+      "facebook_members": null,
+      "market_cap": 72982429512.15,
+      "owner_count": 5877,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
       "ticker": "NOTE",
       "company_name": "NOTE",
       "trend7d": 0.87,
@@ -345,8 +345,8 @@
     {
       "ticker": "TERRANET",
       "company_name": "Terranet",
-      "trend7d": 0.81,
-      "discord_members": 1864,
+      "trend7d": 0.8,
+      "discord_members": 1863,
       "facebook_members": 2541,
       "market_cap": 268845749.0,
       "owner_count": 1876,
@@ -473,6 +473,16 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
+      "ticker": "GRANGEX",
+      "company_name": "GRANGEX",
+      "trend7d": 0.47,
+      "discord_members": 1035,
+      "facebook_members": 305,
+      "market_cap": 567017128.0,
+      "owner_count": 1192,
+      "detail_url": "https://allaaktier.se/bolag/grangex"
+    },
+    {
       "ticker": "PRECISE-BIOMETRICS",
       "company_name": "Precise Biometrics",
       "trend7d": 0.46,
@@ -501,43 +511,15 @@
       "market_cap": 106012384.0,
       "owner_count": 475,
       "detail_url": "https://allaaktier.se/bolag/sound-dimension"
-    },
-    {
-      "ticker": "IZAFE",
-      "company_name": "iZafe",
-      "trend7d": 0.41,
-      "discord_members": 166,
-      "facebook_members": 1413,
-      "market_cap": 165347073.0,
-      "owner_count": 375,
-      "detail_url": "https://allaaktier.se/bolag/izafe"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "ELIC",
-      "company_name": "Elicera Therapeutics AB",
-      "sector": "Unknown",
-      "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.333,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95386713",
-        "https://www.flashback.org/sp95386748",
-        "https://www.flashback.org/sp95386824"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 68,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 42,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
