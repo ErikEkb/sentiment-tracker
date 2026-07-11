@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T13:25:46.738146+00:00",
+  "generated_at": "2026-07-11T14:56:53.054522+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -153,16 +153,6 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
-      "ticker": "FREJA-EID",
-      "company_name": "Freja eID",
-      "trend7d": 1.67,
-      "discord_members": 220,
-      "facebook_members": 105,
-      "market_cap": 674038986.0,
-      "owner_count": 692,
-      "detail_url": "https://allaaktier.se/bolag/freja-eid"
-    },
-    {
       "ticker": "CYCLEZYME",
       "company_name": "Cyclezyme",
       "trend7d": 1.65,
@@ -175,8 +165,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 1.61,
-      "discord_members": 1372,
+      "trend7d": 1.59,
+      "discord_members": 1371,
       "facebook_members": 128,
       "market_cap": 974826297.0,
       "owner_count": 1349,
@@ -191,6 +181,16 @@
       "market_cap": 650637387.0,
       "owner_count": 952,
       "detail_url": "https://allaaktier.se/bolag/qliro"
+    },
+    {
+      "ticker": "FREJA-EID",
+      "company_name": "Freja eID",
+      "trend7d": 1.52,
+      "discord_members": 219,
+      "facebook_members": 105,
+      "market_cap": 674038986.0,
+      "owner_count": 692,
+      "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
       "ticker": "DEVYSER-DIAGNOSTICS",
@@ -423,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     },
     {
-      "ticker": "GRANGEX",
-      "company_name": "GRANGEX",
-      "trend7d": 0.6,
-      "discord_members": 1037,
-      "facebook_members": 305,
-      "market_cap": 581157206.0,
-      "owner_count": 1192,
-      "detail_url": "https://allaaktier.se/bolag/grangex"
-    },
-    {
       "ticker": "ACAST",
       "company_name": "Acast",
       "trend7d": 0.58,
@@ -441,6 +431,16 @@
       "market_cap": 7207377770.0,
       "owner_count": 1337,
       "detail_url": "https://allaaktier.se/bolag/acast"
+    },
+    {
+      "ticker": "GRANGEX",
+      "company_name": "GRANGEX",
+      "trend7d": 0.57,
+      "discord_members": 1036,
+      "facebook_members": 305,
+      "market_cap": 581157206.0,
+      "owner_count": 1192,
+      "detail_url": "https://allaaktier.se/bolag/grangex"
     },
     {
       "ticker": "BICO",
