@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T21:53:14.948898+00:00",
+  "generated_at": "2026-07-11T22:52:55.483301+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 4.71,
-      "discord_members": 257,
+      "trend7d": 4.57,
+      "discord_members": 256,
       "facebook_members": null,
       "market_cap": 13021226.0,
       "owner_count": 495,
@@ -153,6 +153,16 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
+      "ticker": "FREJA-EID",
+      "company_name": "Freja eID",
+      "trend7d": 1.67,
+      "discord_members": 220,
+      "facebook_members": 105,
+      "market_cap": 674038986.0,
+      "owner_count": 692,
+      "detail_url": "https://allaaktier.se/bolag/freja-eid"
+    },
+    {
       "ticker": "CYCLEZYME",
       "company_name": "Cyclezyme",
       "trend7d": 1.65,
@@ -181,16 +191,6 @@
       "market_cap": 650637387.0,
       "owner_count": 952,
       "detail_url": "https://allaaktier.se/bolag/qliro"
-    },
-    {
-      "ticker": "FREJA-EID",
-      "company_name": "Freja eID",
-      "trend7d": 1.52,
-      "discord_members": 219,
-      "facebook_members": 105,
-      "market_cap": 674038986.0,
-      "owner_count": 692,
-      "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
       "ticker": "DEVYSER-DIAGNOSTICS",
@@ -393,16 +393,6 @@
       "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
     },
     {
-      "ticker": "NET-INSIGHT",
-      "company_name": "Net Insight",
-      "trend7d": 0.73,
-      "discord_members": 331,
-      "facebook_members": 594,
-      "market_cap": 877409408.0,
-      "owner_count": 1107,
-      "detail_url": "https://allaaktier.se/bolag/net-insight"
-    },
-    {
       "ticker": "NITRO-GAMES",
       "company_name": "Nitro Games",
       "trend7d": 0.7,
@@ -411,6 +401,16 @@
       "market_cap": 54335114.0,
       "owner_count": 289,
       "detail_url": "https://allaaktier.se/bolag/nitro-games"
+    },
+    {
+      "ticker": "NET-INSIGHT",
+      "company_name": "Net Insight",
+      "trend7d": 0.63,
+      "discord_members": 330,
+      "facebook_members": 594,
+      "market_cap": 877409408.0,
+      "owner_count": 1107,
+      "detail_url": "https://allaaktier.se/bolag/net-insight"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -518,10 +518,27 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "MSTR",
-      "company_name": "MicroStrategy Inc.",
-      "sector": "Information Technology",
-      "discovered": false,
+      "ticker": "HTRO",
+      "company_name": "Hexatronic Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 3.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95401353",
+        "https://www.flashback.org/sp95401546",
+        "https://www.flashback.org/sp95402219"
+      ]
+    },
+    {
+      "ticker": "VALUNO",
+      "company_name": "Valuno Group",
+      "sector": "Discovered",
+      "discovered": true,
       "mentions": 2,
       "velocity_mentions_per_day": 0.67,
       "avg_sentiment": 0.5,
@@ -529,31 +546,31 @@
       "label": "bullish",
       "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95387579",
-        "https://www.flashback.org/sp95387587"
+        "https://www.flashback.org/sp95394562",
+        "https://www.flashback.org/sp95401557"
       ]
     },
     {
-      "ticker": "SIVE",
-      "company_name": "Sivers Semiconductors",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.1,
+      "ticker": "MSTR",
+      "company_name": "MicroStrategy Inc.",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
       "avg_upvote_ratio": 0.5,
-      "label": "neutral",
-      "trending_score": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95389329",
-        "https://www.flashback.org/sp95389519",
-        "https://www.flashback.org/sp95389584"
+        "https://www.flashback.org/sp95387579",
+        "https://www.flashback.org/sp95387587",
+        "https://www.flashback.org/sp95398185"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 54,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
