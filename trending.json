@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T14:56:53.054522+00:00",
+  "generated_at": "2026-07-11T16:00:40.425494+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 2.0,
-      "discord_members": 923,
+      "trend7d": 1.96,
+      "discord_members": 922,
       "facebook_members": 289,
       "market_cap": 3592266567.0,
       "owner_count": 2105,
@@ -255,8 +255,8 @@
     {
       "ticker": "SAAB",
       "company_name": "SAAB",
-      "trend7d": 1.19,
-      "discord_members": 697,
+      "trend7d": 1.14,
+      "discord_members": 696,
       "facebook_members": null,
       "market_cap": 296959021542.0,
       "owner_count": 57185,
@@ -346,7 +346,7 @@
       "ticker": "CERENO-SCIENTIFIC",
       "company_name": "Cereno Scientific",
       "trend7d": 0.82,
-      "discord_members": 4697,
+      "discord_members": 4696,
       "facebook_members": 488,
       "market_cap": 1562909892.0,
       "owner_count": 1584,
@@ -518,22 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "STOR-B",
-      "company_name": "Storskogen B",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95383879",
-        "https://www.flashback.org/sp95384629"
-      ]
-    },
-    {
       "ticker": "MSTR",
       "company_name": "MicroStrategy Inc.",
       "sector": "Information Technology",
@@ -569,7 +553,7 @@
   ],
   "stats": {
     "total_posts_fetched": 62,
-    "tickers_with_any_mentions": 3,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
