@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T21:54:35.017725+00:00",
+  "generated_at": "2026-07-12T22:53:26.052576+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 3.38,
-      "discord_members": 268,
+      "trend7d": 3.64,
+      "discord_members": 270,
       "facebook_members": null,
       "market_cap": 13021226.0,
       "owner_count": 495,
@@ -522,9 +522,9 @@
       "company_name": "Hexatronic Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 1.0,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.75,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 3.0,
@@ -535,25 +535,43 @@
       ]
     },
     {
+      "ticker": "BOL",
+      "company_name": "Boliden",
+      "sector": "Materials",
+      "discovered": false,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95404278",
+        "https://www.flashback.org/sp95404481",
+        "https://www.flashback.org/sp95404758"
+      ]
+    },
+    {
       "ticker": "VALUNO",
       "company_name": "Valuno Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.25,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 1.0,
       "sample_posts": [
         "https://www.flashback.org/sp95394562",
-        "https://www.flashback.org/sp95401557"
+        "https://www.flashback.org/sp95401557",
+        "https://www.flashback.org/sp95405115"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 73,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 56,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
