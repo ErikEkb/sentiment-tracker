@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T20:06:31.992888+00:00",
+  "generated_at": "2026-07-12T21:54:35.017725+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 20.08,
-      "discord_members": 639,
+      "trend7d": 20.14,
+      "discord_members": 640,
       "facebook_members": null,
       "market_cap": 141848390.0,
       "owner_count": 986,
@@ -55,8 +55,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 3.25,
-      "discord_members": 267,
+      "trend7d": 3.38,
+      "discord_members": 268,
       "facebook_members": null,
       "market_cap": 13021226.0,
       "owner_count": 495,
@@ -75,8 +75,8 @@
     {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
-      "trend7d": 1.96,
-      "discord_members": 778,
+      "trend7d": 2.01,
+      "discord_members": 779,
       "facebook_members": null,
       "market_cap": 106159623.0,
       "owner_count": 475,
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/iconovo"
     },
     {
-      "ticker": "DEVYSER-DIAGNOSTICS",
-      "company_name": "Devyser Diagnostics",
-      "trend7d": 0.45,
-      "discord_members": 145,
-      "facebook_members": null,
-      "market_cap": 1043790011.0,
-      "owner_count": 605,
-      "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
+      "ticker": "MINESTO",
+      "company_name": "Minesto",
+      "trend7d": 0.46,
+      "discord_members": 1418,
+      "facebook_members": 5066,
+      "market_cap": 548835501.0,
+      "owner_count": 2920,
+      "detail_url": "https://allaaktier.se/bolag/minesto"
     }
   ],
   "twitter_mentions": 0,
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 72,
+    "total_posts_fetched": 73,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
