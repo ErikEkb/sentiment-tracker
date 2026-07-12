@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T03:45:10.447137+00:00",
+  "generated_at": "2026-07-12T06:35:52.557670+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -75,8 +75,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 1.92,
-      "discord_members": 922,
+      "trend7d": 1.96,
+      "discord_members": 923,
       "facebook_members": 289,
       "market_cap": 3592266567.0,
       "owner_count": 2105,
@@ -549,28 +549,11 @@
         "https://www.flashback.org/sp95394562",
         "https://www.flashback.org/sp95401557"
       ]
-    },
-    {
-      "ticker": "MSTR",
-      "company_name": "MicroStrategy Inc.",
-      "sector": "Information Technology",
-      "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.333,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95387579",
-        "https://www.flashback.org/sp95387587",
-        "https://www.flashback.org/sp95398185"
-      ]
     }
   ],
   "stats": {
     "total_posts_fetched": 54,
-    "tickers_with_any_mentions": 4,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
