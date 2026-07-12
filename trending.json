@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T16:05:59.177410+00:00",
+  "generated_at": "2026-07-12T18:00:40.726946+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 20.02,
-      "discord_members": 638,
+      "trend7d": 20.08,
+      "discord_members": 639,
       "facebook_members": null,
       "market_cap": 141848390.0,
       "owner_count": 986,
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/free2move"
     },
     {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 4.67,
+      "discord_members": 67,
+      "facebook_members": null,
+      "market_cap": 565000000.0,
+      "owner_count": 600,
+      "detail_url": "https://allaaktier.se/bolag/envar"
+    },
+    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 4.25,
@@ -43,20 +53,10 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
-      "ticker": "ENVAR",
-      "company_name": "Envar",
-      "trend7d": 4.1,
-      "discord_members": 66,
-      "facebook_members": null,
-      "market_cap": 565000000.0,
-      "owner_count": 600,
-      "detail_url": "https://allaaktier.se/bolag/envar"
-    },
-    {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 2.6,
-      "discord_members": 262,
+      "trend7d": 2.99,
+      "discord_members": 265,
       "facebook_members": null,
       "market_cap": 13021226.0,
       "owner_count": 495,
@@ -105,8 +105,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 1.88,
-      "discord_members": 921,
+      "trend7d": 1.85,
+      "discord_members": 920,
       "facebook_members": 289,
       "market_cap": 3592266567.0,
       "owner_count": 2105,
@@ -175,8 +175,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 1.49,
-      "discord_members": 1372,
+      "trend7d": 1.46,
+      "discord_members": 1371,
       "facebook_members": 128,
       "market_cap": 974826297.0,
       "owner_count": 1349,
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/note"
     },
     {
+      "ticker": "CHECKIN-COM",
+      "company_name": "Checkin.com",
+      "trend7d": 0.88,
+      "discord_members": 35,
+      "facebook_members": 49,
+      "market_cap": 84906048.0,
+      "owner_count": 341,
+      "detail_url": "https://allaaktier.se/bolag/checkin-com"
+    },
+    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 0.82,
@@ -293,6 +303,16 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
+      "ticker": "SCANDIC-HOTELS",
+      "company_name": "Scandic Hotels",
+      "trend7d": 0.81,
+      "discord_members": 39,
+      "facebook_members": null,
+      "market_cap": 18866664210.0,
+      "owner_count": 7532,
+      "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
+    },
+    {
       "ticker": "SENZAGEN",
       "company_name": "SenzaGen",
       "trend7d": 0.81,
@@ -301,6 +321,16 @@
       "market_cap": 185295868.0,
       "owner_count": 417,
       "detail_url": "https://allaaktier.se/bolag/senzagen"
+    },
+    {
+      "ticker": "TRIBORON-INTERNATIONAL",
+      "company_name": "Triboron International",
+      "trend7d": 0.78,
+      "discord_members": 43,
+      "facebook_members": 175,
+      "market_cap": 71444859.0,
+      "owner_count": 318,
+      "detail_url": "https://allaaktier.se/bolag/triboron-international"
     },
     {
       "ticker": "NET-INSIGHT",
@@ -353,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     },
     {
-      "ticker": "NITRO-GAMES",
-      "company_name": "Nitro Games",
-      "trend7d": 0.61,
-      "discord_members": 389,
-      "facebook_members": 172,
-      "market_cap": 54335114.0,
-      "owner_count": 289,
-      "detail_url": "https://allaaktier.se/bolag/nitro-games"
-    },
-    {
       "ticker": "AIXIA",
       "company_name": "Aixia",
       "trend7d": 0.6,
@@ -403,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/observit"
     },
     {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.53,
+      "discord_members": 217,
+      "facebook_members": 63,
+      "market_cap": 77508416.0,
+      "owner_count": 553,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
       "ticker": "KLIMATOR",
       "company_name": "Klimator",
       "trend7d": 0.52,
@@ -411,6 +441,16 @@
       "market_cap": 137438532.0,
       "owner_count": 144,
       "detail_url": "https://allaaktier.se/bolag/klimator"
+    },
+    {
+      "ticker": "NITRO-GAMES",
+      "company_name": "Nitro Games",
+      "trend7d": 0.52,
+      "discord_members": 388,
+      "facebook_members": 172,
+      "market_cap": 54335114.0,
+      "owner_count": 289,
+      "detail_url": "https://allaaktier.se/bolag/nitro-games"
     },
     {
       "ticker": "GOLD-TOWN-GAMES",
@@ -443,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/iconovo"
     },
     {
-      "ticker": "MINESTO",
-      "company_name": "Minesto",
-      "trend7d": 0.46,
-      "discord_members": 1418,
-      "facebook_members": 5066,
-      "market_cap": 548835501.0,
-      "owner_count": 2920,
-      "detail_url": "https://allaaktier.se/bolag/minesto"
-    },
-    {
       "ticker": "DEVYSER-DIAGNOSTICS",
       "company_name": "Devyser Diagnostics",
       "trend7d": 0.45,
@@ -473,44 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     },
     {
-      "ticker": "VESTUM",
-      "company_name": "Vestum",
-      "trend7d": 0.41,
-      "discord_members": 148,
-      "facebook_members": null,
-      "market_cap": 5915241026.0,
-      "owner_count": 1223,
-      "detail_url": "https://allaaktier.se/bolag/vestum"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 0.41,
-      "discord_members": 64,
-      "facebook_members": null,
-      "market_cap": 72841538539.28,
-      "owner_count": 5877,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.41,
-      "discord_members": 1174,
-      "facebook_members": 297,
-      "market_cap": 665294594.0,
-      "owner_count": 2392,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 0.39,
-      "discord_members": 74,
-      "facebook_members": null,
-      "market_cap": 7189690511.0,
-      "owner_count": 2630,
-      "detail_url": "https://allaaktier.se/bolag/mips"
+      "ticker": "MINESTO",
+      "company_name": "Minesto",
+      "trend7d": 0.43,
+      "discord_members": 1417,
+      "facebook_members": 5066,
+      "market_cap": 548835501.0,
+      "owner_count": 2920,
+      "detail_url": "https://allaaktier.se/bolag/minesto"
     }
   ],
   "twitter_mentions": 0,
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 68,
+    "total_posts_fetched": 71,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
