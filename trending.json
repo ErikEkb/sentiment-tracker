@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T11:13:11.345585+00:00",
+  "generated_at": "2026-07-12T13:26:33.061018+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,12 +65,22 @@
     {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
-      "trend7d": 2.01,
-      "discord_members": 779,
+      "trend7d": 1.96,
+      "discord_members": 778,
       "facebook_members": null,
       "market_cap": 106159623.0,
       "owner_count": 475,
       "detail_url": "https://allaaktier.se/bolag/sound-dimension"
+    },
+    {
+      "ticker": "36-GROUP",
+      "company_name": "36 Group",
+      "trend7d": 1.96,
+      "discord_members": 257,
+      "facebook_members": null,
+      "market_cap": 13021226.0,
+      "owner_count": 495,
+      "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
       "ticker": "VICORE-PHARMA",
@@ -93,26 +103,6 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
-      "ticker": "36-GROUP",
-      "company_name": "36 Group",
-      "trend7d": 1.83,
-      "discord_members": 256,
-      "facebook_members": null,
-      "market_cap": 13021226.0,
-      "owner_count": 495,
-      "detail_url": "https://allaaktier.se/bolag/36-group"
-    },
-    {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 1.66,
-      "discord_members": 825,
-      "facebook_members": null,
-      "market_cap": 10277036334.0,
-      "owner_count": 6488,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
       "ticker": "SERVANA",
       "company_name": "Servana",
       "trend7d": 1.66,
@@ -131,6 +121,16 @@
       "market_cap": 650637387.0,
       "owner_count": 952,
       "detail_url": "https://allaaktier.se/bolag/qliro"
+    },
+    {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 1.62,
+      "discord_members": 824,
+      "facebook_members": null,
+      "market_cap": 10277036334.0,
+      "owner_count": 6488,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
       "ticker": "CYCLEZYME",
@@ -153,16 +153,6 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 1.52,
-      "discord_members": 506,
-      "facebook_members": 2766,
-      "market_cap": 10662757064.0,
-      "owner_count": 4534,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
       "trend7d": 1.49,
@@ -171,6 +161,16 @@
       "market_cap": 974826297.0,
       "owner_count": 1349,
       "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 1.45,
+      "discord_members": 505,
+      "facebook_members": 2766,
+      "market_cap": 10662757064.0,
+      "owner_count": 4534,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "SKANSKA",
@@ -285,8 +285,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.85,
-      "discord_members": 1156,
+      "trend7d": 0.82,
+      "discord_members": 1155,
       "facebook_members": 3706,
       "market_cap": 4504606252.0,
       "owner_count": 3678,
@@ -463,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     },
     {
+      "ticker": "PRECISE-BIOMETRICS",
+      "company_name": "Precise Biometrics",
+      "trend7d": 0.44,
+      "discord_members": 144,
+      "facebook_members": 540,
+      "market_cap": 139666502.0,
+      "owner_count": 1842,
+      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
+    },
+    {
       "ticker": "VESTUM",
       "company_name": "Vestum",
       "trend7d": 0.41,
@@ -501,16 +511,6 @@
       "market_cap": 70713031.0,
       "owner_count": 236,
       "detail_url": "https://allaaktier.se/bolag/redsense-medical"
-    },
-    {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 0.39,
-      "discord_members": 74,
-      "facebook_members": null,
-      "market_cap": 7189690511.0,
-      "owner_count": 2630,
-      "detail_url": "https://allaaktier.se/bolag/mips"
     }
   ],
   "twitter_mentions": 0,
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 57,
+    "total_posts_fetched": 59,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
