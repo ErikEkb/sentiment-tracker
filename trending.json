@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:26:33.061018+00:00",
+  "generated_at": "2026-07-12T14:59:34.016249+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -53,6 +53,16 @@
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
+      "ticker": "36-GROUP",
+      "company_name": "36 Group",
+      "trend7d": 2.6,
+      "discord_members": 262,
+      "facebook_members": null,
+      "market_cap": 13021226.0,
+      "owner_count": 495,
+      "detail_url": "https://allaaktier.se/bolag/36-group"
+    },
+    {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
       "trend7d": 2.26,
@@ -71,16 +81,6 @@
       "market_cap": 106159623.0,
       "owner_count": 475,
       "detail_url": "https://allaaktier.se/bolag/sound-dimension"
-    },
-    {
-      "ticker": "36-GROUP",
-      "company_name": "36 Group",
-      "trend7d": 1.96,
-      "discord_members": 257,
-      "facebook_members": null,
-      "market_cap": 13021226.0,
-      "owner_count": 495,
-      "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
       "ticker": "VICORE-PHARMA",
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
     },
     {
+      "ticker": "BIOEXTRAX",
+      "company_name": "Bioextrax",
+      "trend7d": 1.19,
+      "discord_members": 873,
+      "facebook_members": 280,
+      "market_cap": 132332815.0,
+      "owner_count": 574,
+      "detail_url": "https://allaaktier.se/bolag/bioextrax"
+    },
+    {
       "ticker": "SAAB",
       "company_name": "SAAB",
       "trend7d": 1.15,
@@ -221,16 +231,6 @@
       "market_cap": 296959021542.0,
       "owner_count": 57185,
       "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
-      "ticker": "BIOEXTRAX",
-      "company_name": "Bioextrax",
-      "trend7d": 1.15,
-      "discord_members": 872,
-      "facebook_members": 280,
-      "market_cap": 132332815.0,
-      "owner_count": 574,
-      "detail_url": "https://allaaktier.se/bolag/bioextrax"
     },
     {
       "ticker": "REFINE-GROUP",
@@ -335,8 +335,8 @@
     {
       "ticker": "CERENO-SCIENTIFIC",
       "company_name": "Cereno Scientific",
-      "trend7d": 0.65,
-      "discord_members": 4696,
+      "trend7d": 0.64,
+      "discord_members": 4695,
       "facebook_members": 488,
       "market_cap": 1562909892.0,
       "owner_count": 1584,
@@ -383,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
-      "ticker": "GRANGEX",
-      "company_name": "GRANGEX",
-      "trend7d": 0.54,
-      "discord_members": 1036,
-      "facebook_members": 305,
-      "market_cap": 581157206.0,
-      "owner_count": 1192,
-      "detail_url": "https://allaaktier.se/bolag/grangex"
-    },
-    {
       "ticker": "BICO",
       "company_name": "BICO",
       "trend7d": 0.54,
@@ -423,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/gold-town-games"
     },
     {
+      "ticker": "GRANGEX",
+      "company_name": "GRANGEX",
+      "trend7d": 0.51,
+      "discord_members": 1035,
+      "facebook_members": 305,
+      "market_cap": 581157206.0,
+      "owner_count": 1192,
+      "detail_url": "https://allaaktier.se/bolag/grangex"
+    },
+    {
       "ticker": "ICONOVO",
       "company_name": "Iconovo",
       "trend7d": 0.47,
@@ -451,16 +451,6 @@
       "market_cap": 1043790011.0,
       "owner_count": 605,
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
-    },
-    {
-      "ticker": "INHALATION-SCIENCES",
-      "company_name": "Inhalation Sciences",
-      "trend7d": 0.45,
-      "discord_members": 310,
-      "facebook_members": 1168,
-      "market_cap": 11417073.0,
-      "owner_count": 263,
-      "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     },
     {
       "ticker": "PRECISE-BIOMETRICS",
@@ -503,14 +493,24 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
-      "ticker": "REDSENSE-MEDICAL",
-      "company_name": "Redsense Medical",
-      "trend7d": 0.4,
-      "discord_members": 116,
-      "facebook_members": 300,
-      "market_cap": 70713031.0,
-      "owner_count": 236,
-      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
+      "ticker": "MIPS",
+      "company_name": "Mips",
+      "trend7d": 0.39,
+      "discord_members": 74,
+      "facebook_members": null,
+      "market_cap": 7189690511.0,
+      "owner_count": 2630,
+      "detail_url": "https://allaaktier.se/bolag/mips"
+    },
+    {
+      "ticker": "INCOAX-NETWORKS",
+      "company_name": "InCoax Networks",
+      "trend7d": 0.38,
+      "discord_members": 158,
+      "facebook_members": 13,
+      "market_cap": 148163506.0,
+      "owner_count": 262,
+      "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     }
   ],
   "twitter_mentions": 0,
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 59,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
