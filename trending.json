@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:53:26.052576+00:00",
+  "generated_at": "2026-07-12T23:57:46.697812+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -75,8 +75,8 @@
     {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
-      "trend7d": 2.01,
-      "discord_members": 779,
+      "trend7d": 2.09,
+      "discord_members": 781,
       "facebook_members": null,
       "market_cap": 106159623.0,
       "owner_count": 475,
@@ -173,16 +173,6 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 1.46,
-      "discord_members": 1371,
-      "facebook_members": 128,
-      "market_cap": 974826297.0,
-      "owner_count": 1349,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
-    },
-    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 1.45,
@@ -201,6 +191,16 @@
       "market_cap": 106487419059.0,
       "owner_count": 9862,
       "detail_url": "https://allaaktier.se/bolag/skanska"
+    },
+    {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 1.43,
+      "discord_members": 1370,
+      "facebook_members": 128,
+      "market_cap": 974826297.0,
+      "owner_count": 1349,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     },
     {
       "ticker": "ATLAS-COPCO",
@@ -549,23 +549,6 @@
         "https://www.flashback.org/sp95404278",
         "https://www.flashback.org/sp95404481",
         "https://www.flashback.org/sp95404758"
-      ]
-    },
-    {
-      "ticker": "VALUNO",
-      "company_name": "Valuno Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.25,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95394562",
-        "https://www.flashback.org/sp95401557",
-        "https://www.flashback.org/sp95405115"
       ]
     }
   ],
