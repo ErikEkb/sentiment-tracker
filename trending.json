@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T18:00:40.726946+00:00",
+  "generated_at": "2026-07-12T20:06:31.992888+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "FREE2MOVE",
       "company_name": "Free2move",
-      "trend7d": 9.18,
-      "discord_members": 28,
+      "trend7d": 10.7,
+      "discord_members": 29,
       "facebook_members": null,
       "market_cap": 7305113.0,
       "owner_count": 377,
@@ -55,8 +55,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 2.99,
-      "discord_members": 265,
+      "trend7d": 3.25,
+      "discord_members": 267,
       "facebook_members": null,
       "market_cap": 13021226.0,
       "owner_count": 495,
@@ -293,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/checkin-com"
     },
     {
+      "ticker": "LUXBRIGHT",
+      "company_name": "Luxbright",
+      "trend7d": 0.86,
+      "discord_members": 37,
+      "facebook_members": null,
+      "market_cap": 27494492.0,
+      "owner_count": 328,
+      "detail_url": "https://allaaktier.se/bolag/luxbright"
+    },
+    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 0.82,
@@ -311,6 +321,16 @@
       "market_cap": 18866664210.0,
       "owner_count": 7532,
       "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
+    },
+    {
+      "ticker": "KILIARO",
+      "company_name": "Kiliaro",
+      "trend7d": 0.81,
+      "discord_members": 44,
+      "facebook_members": null,
+      "market_cap": 4152742.0,
+      "owner_count": 359,
+      "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
       "ticker": "SENZAGEN",
@@ -491,26 +511,6 @@
       "market_cap": 1043790011.0,
       "owner_count": 605,
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
-    },
-    {
-      "ticker": "PRECISE-BIOMETRICS",
-      "company_name": "Precise Biometrics",
-      "trend7d": 0.44,
-      "discord_members": 144,
-      "facebook_members": 540,
-      "market_cap": 139666502.0,
-      "owner_count": 1842,
-      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
-    },
-    {
-      "ticker": "MINESTO",
-      "company_name": "Minesto",
-      "trend7d": 0.43,
-      "discord_members": 1417,
-      "facebook_members": 5066,
-      "market_cap": 548835501.0,
-      "owner_count": 2920,
-      "detail_url": "https://allaaktier.se/bolag/minesto"
     }
   ],
   "twitter_mentions": 0,
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 71,
+    "total_posts_fetched": 72,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
