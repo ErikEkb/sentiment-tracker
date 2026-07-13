@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T18:45:28.001676+00:00",
+  "generated_at": "2026-07-13T20:18:07.383554+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 18.89,
-      "discord_members": 643,
+      "trend7d": 18.94,
+      "discord_members": 644,
       "facebook_members": null,
       "market_cap": 140227265.0,
       "owner_count": 1000,
@@ -113,6 +113,16 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 1.69,
+      "discord_members": 174,
+      "facebook_members": null,
+      "market_cap": 746591472.0,
+      "owner_count": 176,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 1.58,
@@ -153,14 +163,14 @@
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 1.3,
-      "discord_members": 172,
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 1.5,
+      "discord_members": 149,
       "facebook_members": null,
-      "market_cap": 746591472.0,
-      "owner_count": 176,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+      "market_cap": 91760395.0,
+      "owner_count": 261,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "SPAGO-NANOMEDICAL",
@@ -311,16 +321,6 @@
       "market_cap": 185295868.0,
       "owner_count": 418,
       "detail_url": "https://allaaktier.se/bolag/senzagen"
-    },
-    {
-      "ticker": "BIBBINSTRUMENTS",
-      "company_name": "BiBBInstruments",
-      "trend7d": 0.8,
-      "discord_members": 146,
-      "facebook_members": null,
-      "market_cap": 91760395.0,
-      "owner_count": 261,
-      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "TRIBORON-INTERNATIONAL",
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 62,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
