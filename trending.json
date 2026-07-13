@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T16:36:55.829996+00:00",
+  "generated_at": "2026-07-13T18:45:28.001676+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 18.83,
-      "discord_members": 642,
+      "trend7d": 18.89,
+      "discord_members": 643,
       "facebook_members": null,
       "market_cap": 140227265.0,
       "owner_count": 1000,
@@ -175,8 +175,8 @@
     {
       "ticker": "SAAB",
       "company_name": "SAAB",
-      "trend7d": 1.22,
-      "discord_members": 696,
+      "trend7d": 1.18,
+      "discord_members": 695,
       "facebook_members": null,
       "market_cap": 292937984471.0,
       "owner_count": 57226,
@@ -385,12 +385,22 @@
     {
       "ticker": "CERENO-SCIENTIFIC",
       "company_name": "Cereno Scientific",
-      "trend7d": 0.67,
-      "discord_members": 4695,
+      "trend7d": 0.66,
+      "discord_members": 4694,
       "facebook_members": 488,
       "market_cap": 1580397902.0,
       "owner_count": 1585,
       "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.62,
+      "discord_members": 1157,
+      "facebook_members": 3706,
+      "market_cap": 4406554644.0,
+      "owner_count": 3679,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "VESTUM",
@@ -411,16 +421,6 @@
       "market_cap": 127656000.0,
       "owner_count": 136,
       "detail_url": "https://allaaktier.se/bolag/aixia"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.59,
-      "discord_members": 1156,
-      "facebook_members": 3706,
-      "market_cap": 4406554644.0,
-      "owner_count": 3679,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "GOLD-TOWN-GAMES",
@@ -486,7 +486,7 @@
       "ticker": "SYNACT-PHARMA",
       "company_name": "SynAct Pharma",
       "trend7d": 0.48,
-      "discord_members": 4977,
+      "discord_members": 4978,
       "facebook_members": 2109,
       "market_cap": 1197357518.0,
       "owner_count": 1285,
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 63,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
