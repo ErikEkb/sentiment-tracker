@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T10:32:04.230817+00:00",
+  "generated_at": "2026-07-13T13:30:22.905660+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 18.78,
-      "discord_members": 641,
+      "trend7d": 18.72,
+      "discord_members": 640,
       "facebook_members": null,
       "market_cap": 140227265.0,
       "owner_count": 1000,
@@ -45,8 +45,8 @@
     {
       "ticker": "INTRUM",
       "company_name": "Intrum",
-      "trend7d": 4.85,
-      "discord_members": 824,
+      "trend7d": 4.89,
+      "discord_members": 825,
       "facebook_members": null,
       "market_cap": 10627028283.0,
       "owner_count": 7118,
@@ -75,8 +75,8 @@
     {
       "ticker": "PLEJD",
       "company_name": "Plejd",
-      "trend7d": 1.85,
-      "discord_members": 505,
+      "trend7d": 1.92,
+      "discord_members": 506,
       "facebook_members": 2766,
       "market_cap": 10447462288.0,
       "owner_count": 4586,
@@ -113,6 +113,16 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 1.6,
+      "discord_members": 1372,
+      "facebook_members": 128,
+      "market_cap": 1051621294.0,
+      "owner_count": 1343,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 1.58,
@@ -131,16 +141,6 @@
       "market_cap": 7097898614.0,
       "owner_count": 1349,
       "detail_url": "https://allaaktier.se/bolag/acast"
-    },
-    {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 1.57,
-      "discord_members": 1371,
-      "facebook_members": 128,
-      "market_cap": 1051621294.0,
-      "owner_count": 1343,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     },
     {
       "ticker": "VICORE-PHARMA",
@@ -183,14 +183,14 @@
       "detail_url": "https://allaaktier.se/bolag/saab"
     },
     {
-      "ticker": "NOTE",
-      "company_name": "NOTE",
-      "trend7d": 1.17,
-      "discord_members": 45,
+      "ticker": "KONTIGO-CARE",
+      "company_name": "Kontigo Care",
+      "trend7d": 1.14,
+      "discord_members": 43,
       "facebook_members": null,
-      "market_cap": 4153821300.0,
-      "owner_count": 2563,
-      "detail_url": "https://allaaktier.se/bolag/note"
+      "market_cap": 59751165.0,
+      "owner_count": 192,
+      "detail_url": "https://allaaktier.se/bolag/kontigo-care"
     },
     {
       "ticker": "M-O-B-A-NETWORK",
@@ -405,8 +405,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.57,
-      "discord_members": 1155,
+      "trend7d": 0.59,
+      "discord_members": 1156,
       "facebook_members": 3706,
       "market_cap": 4406554644.0,
       "owner_count": 3679,
@@ -431,6 +431,16 @@
       "market_cap": 345612626.0,
       "owner_count": 1336,
       "detail_url": "https://allaaktier.se/bolag/observit"
+    },
+    {
+      "ticker": "GRANGEX",
+      "company_name": "GRANGEX",
+      "trend7d": 0.49,
+      "discord_members": 1037,
+      "facebook_members": 305,
+      "market_cap": 564189112.0,
+      "owner_count": 1192,
+      "detail_url": "https://allaaktier.se/bolag/grangex"
     },
     {
       "ticker": "BICO",
@@ -483,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
+      "ticker": "AXOLOT-SOLUTIONS",
+      "company_name": "Axolot Solutions",
+      "trend7d": 0.44,
+      "discord_members": 137,
+      "facebook_members": null,
+      "market_cap": 91044212.0,
+      "owner_count": 774,
+      "detail_url": "https://allaaktier.se/bolag/axolot-solutions"
+    },
+    {
       "ticker": "OVZON",
       "company_name": "Ovzon",
       "trend7d": 0.43,
@@ -491,26 +511,6 @@
       "market_cap": 4860114356.0,
       "owner_count": 3552,
       "detail_url": "https://allaaktier.se/bolag/ovzon"
-    },
-    {
-      "ticker": "CRUSTAL-RESOURCES",
-      "company_name": "Crustal Resources",
-      "trend7d": 0.42,
-      "discord_members": 60,
-      "facebook_members": null,
-      "market_cap": 30792567.0,
-      "owner_count": 512,
-      "detail_url": "https://allaaktier.se/bolag/crustal-resources"
-    },
-    {
-      "ticker": "GRANGEX",
-      "company_name": "GRANGEX",
-      "trend7d": 0.42,
-      "discord_members": 1035,
-      "facebook_members": 305,
-      "market_cap": 564189112.0,
-      "owner_count": 1192,
-      "detail_url": "https://allaaktier.se/bolag/grangex"
     }
   ],
   "twitter_mentions": 0,
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 56,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
