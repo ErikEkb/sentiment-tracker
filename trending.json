@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:30:22.905660+00:00",
+  "generated_at": "2026-07-13T16:36:55.829996+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
-      "trend7d": 18.72,
-      "discord_members": 640,
+      "trend7d": 18.83,
+      "discord_members": 642,
       "facebook_members": null,
       "market_cap": 140227265.0,
       "owner_count": 1000,
@@ -73,6 +73,16 @@
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
+      "ticker": "LUXBRIGHT",
+      "company_name": "Luxbright",
+      "trend7d": 2.71,
+      "discord_members": 39,
+      "facebook_members": null,
+      "market_cap": 27252249.0,
+      "owner_count": 328,
+      "detail_url": "https://allaaktier.se/bolag/luxbright"
+    },
+    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 1.92,
@@ -93,16 +103,6 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "LUXBRIGHT",
-      "company_name": "Luxbright",
-      "trend7d": 1.78,
-      "discord_members": 38,
-      "facebook_members": null,
-      "market_cap": 27252249.0,
-      "owner_count": 328,
-      "detail_url": "https://allaaktier.se/bolag/luxbright"
-    },
-    {
       "ticker": "SERVANA",
       "company_name": "Servana",
       "trend7d": 1.75,
@@ -111,16 +111,6 @@
       "market_cap": 30470645.0,
       "owner_count": 835,
       "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 1.6,
-      "discord_members": 1372,
-      "facebook_members": 128,
-      "market_cap": 1051621294.0,
-      "owner_count": 1343,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     },
     {
       "ticker": "QLIRO",
@@ -141,6 +131,16 @@
       "market_cap": 7097898614.0,
       "owner_count": 1349,
       "detail_url": "https://allaaktier.se/bolag/acast"
+    },
+    {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 1.57,
+      "discord_members": 1371,
+      "facebook_members": 128,
+      "market_cap": 1051621294.0,
+      "owner_count": 1343,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     },
     {
       "ticker": "VICORE-PHARMA",
@@ -303,16 +303,6 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.84,
-      "discord_members": 217,
-      "facebook_members": null,
-      "market_cap": 63416160.0,
-      "owner_count": 127,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
       "ticker": "SENZAGEN",
       "company_name": "SenzaGen",
       "trend7d": 0.81,
@@ -321,6 +311,16 @@
       "market_cap": 185295868.0,
       "owner_count": 418,
       "detail_url": "https://allaaktier.se/bolag/senzagen"
+    },
+    {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 0.8,
+      "discord_members": 146,
+      "facebook_members": null,
+      "market_cap": 91760395.0,
+      "owner_count": 261,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "TRIBORON-INTERNATIONAL",
@@ -361,6 +361,16 @@
       "market_cap": 63022400000.0,
       "owner_count": 3882,
       "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.69,
+      "discord_members": 216,
+      "facebook_members": null,
+      "market_cap": 63416160.0,
+      "owner_count": 127,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "SOLIDX",
@@ -501,16 +511,6 @@
       "market_cap": 91044212.0,
       "owner_count": 774,
       "detail_url": "https://allaaktier.se/bolag/axolot-solutions"
-    },
-    {
-      "ticker": "OVZON",
-      "company_name": "Ovzon",
-      "trend7d": 0.43,
-      "discord_members": 516,
-      "facebook_members": null,
-      "market_cap": 4860114356.0,
-      "owner_count": 3552,
-      "detail_url": "https://allaaktier.se/bolag/ovzon"
     }
   ],
   "twitter_mentions": 0,
@@ -553,8 +553,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 56,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 63,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
