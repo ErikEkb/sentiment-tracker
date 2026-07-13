@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T21:59:36.775020+00:00",
+  "generated_at": "2026-07-13T23:05:03.014688+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 1.89,
+      "discord_members": 175,
+      "facebook_members": null,
+      "market_cap": 774243008.0,
+      "owner_count": 176,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
       "trend7d": 1.83,
@@ -111,16 +121,6 @@
       "market_cap": 36274578.0,
       "owner_count": 835,
       "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 1.69,
-      "discord_members": 174,
-      "facebook_members": null,
-      "market_cap": 774243008.0,
-      "owner_count": 176,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "SHT-SMART-HIGH-TECH",
@@ -518,23 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "HTRO",
-      "company_name": "Hexatronic Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.75,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 3.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95401353",
-        "https://www.flashback.org/sp95401546",
-        "https://www.flashback.org/sp95402219"
-      ]
-    },
-    {
       "ticker": "BOL",
       "company_name": "Boliden",
       "sector": "Materials",
@@ -550,10 +533,26 @@
         "https://www.flashback.org/sp95404481",
         "https://www.flashback.org/sp95404758"
       ]
+    },
+    {
+      "ticker": "HTRO",
+      "company_name": "Hexatronic Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95402219",
+        "https://www.flashback.org/sp95402825"
+      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 60,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
