@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T14:55:07.772659+00:00",
+  "generated_at": "2026-07-14T16:18:03.444481+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "INTRUM",
       "company_name": "Intrum",
-      "trend7d": 5.26,
-      "discord_members": 825,
+      "trend7d": 5.3,
+      "discord_members": 826,
       "facebook_members": null,
       "market_cap": 10900658353.0,
       "owner_count": 7165,
@@ -45,8 +45,8 @@
     {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
-      "trend7d": 4.2,
-      "discord_members": 41,
+      "trend7d": 3.32,
+      "discord_members": 40,
       "facebook_members": null,
       "market_cap": 459687638.0,
       "owner_count": 313,
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/saab"
     },
     {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 0.56,
+      "discord_members": 1372,
+      "facebook_members": 128,
+      "market_cap": 1095504150.0,
+      "owner_count": 1339,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 0.54,
@@ -381,16 +391,6 @@
       "market_cap": 448174466.0,
       "owner_count": 411,
       "detail_url": "https://allaaktier.se/bolag/premium-snacks-nordic"
-    },
-    {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 0.51,
-      "discord_members": 1370,
-      "facebook_members": 128,
-      "market_cap": 1095504150.0,
-      "owner_count": 1339,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     },
     {
       "ticker": "HUNTER-CAPITAL",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 72,
+    "total_posts_fetched": 74,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
