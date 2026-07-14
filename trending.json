@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T05:34:01.006773+00:00",
+  "generated_at": "2026-07-14T08:11:23.098419+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -19,7 +19,7 @@
       "discord_members": 29,
       "facebook_members": null,
       "market_cap": 6574602.0,
-      "owner_count": 378,
+      "owner_count": 379,
       "detail_url": "https://allaaktier.se/bolag/free2move"
     },
     {
@@ -65,22 +65,32 @@
     {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
-      "trend7d": 1.88,
+      "trend7d": 2.07,
       "discord_members": 222,
       "facebook_members": 105,
       "market_cap": 668326792.0,
-      "owner_count": 700,
+      "owner_count": 704,
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
       "ticker": "PLEJD",
       "company_name": "Plejd",
-      "trend7d": 1.83,
-      "discord_members": 506,
+      "trend7d": 1.85,
+      "discord_members": 505,
       "facebook_members": 2766,
       "market_cap": 10260495772.0,
-      "owner_count": 4586,
+      "owner_count": 4597,
       "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 1.7,
+      "discord_members": 149,
+      "facebook_members": null,
+      "market_cap": 92726294.0,
+      "owner_count": 261,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "SERVANA",
@@ -121,16 +131,6 @@
       "market_cap": 774243008.0,
       "owner_count": 176,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
-      "ticker": "BIBBINSTRUMENTS",
-      "company_name": "BiBBInstruments",
-      "trend7d": 1.47,
-      "discord_members": 149,
-      "facebook_members": null,
-      "market_cap": 92726294.0,
-      "owner_count": 261,
-      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "ALZINOVA",
@@ -181,16 +181,6 @@
       "market_cap": 95007235.0,
       "owner_count": 363,
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
-    },
-    {
-      "ticker": "PREBONA",
-      "company_name": "Prebona",
-      "trend7d": 0.88,
-      "discord_members": 41,
-      "facebook_members": null,
-      "market_cap": 23174127.0,
-      "owner_count": 152,
-      "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
       "ticker": "CHECKIN-COM",
@@ -269,7 +259,7 @@
       "discord_members": 78,
       "facebook_members": null,
       "market_cap": 270195532.0,
-      "owner_count": 445,
+      "owner_count": 443,
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
@@ -279,7 +269,7 @@
       "discord_members": 1037,
       "facebook_members": 305,
       "market_cap": 558533081.0,
-      "owner_count": 1192,
+      "owner_count": 1190,
       "detail_url": "https://allaaktier.se/bolag/grangex"
     },
     {
@@ -299,8 +289,18 @@
       "discord_members": 388,
       "facebook_members": 172,
       "market_cap": 52590408.0,
-      "owner_count": 291,
+      "owner_count": 288,
       "detail_url": "https://allaaktier.se/bolag/nitro-games"
+    },
+    {
+      "ticker": "CIRCHEM",
+      "company_name": "CirChem",
+      "trend7d": 0.65,
+      "discord_members": 342,
+      "facebook_members": 118,
+      "market_cap": 43643444.0,
+      "owner_count": 431,
+      "detail_url": "https://allaaktier.se/bolag/circhem"
     },
     {
       "ticker": "FASTIGHETS-AB-BALDER",
@@ -309,7 +309,7 @@
       "discord_members": 80,
       "facebook_members": null,
       "market_cap": 62998600000.0,
-      "owner_count": 3882,
+      "owner_count": 3898,
       "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
     },
     {
@@ -333,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/observit"
     },
     {
+      "ticker": "HUNTER-CAPITAL",
+      "company_name": "Hunter Capital",
+      "trend7d": 0.57,
+      "discord_members": 88,
+      "facebook_members": null,
+      "market_cap": 43770420.0,
+      "owner_count": 148,
+      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
+    },
+    {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
       "trend7d": 0.53,
@@ -341,6 +351,16 @@
       "market_cap": 38612028.0,
       "owner_count": 1856,
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.5,
+      "discord_members": 1158,
+      "facebook_members": 3706,
+      "market_cap": 4371948193.0,
+      "owner_count": 3688,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "MIPS",
@@ -379,7 +399,7 @@
       "discord_members": 1860,
       "facebook_members": 2541,
       "market_cap": 254351456.0,
-      "owner_count": 1881,
+      "owner_count": 1883,
       "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
@@ -415,22 +435,12 @@
     {
       "ticker": "SYNACT-PHARMA",
       "company_name": "SynAct Pharma",
-      "trend7d": 0.42,
-      "discord_members": 4978,
+      "trend7d": 0.41,
+      "discord_members": 4977,
       "facebook_members": 2109,
       "market_cap": 1186114725.0,
       "owner_count": 1285,
       "detail_url": "https://allaaktier.se/bolag/synact-pharma"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.41,
-      "discord_members": 1158,
-      "facebook_members": 3706,
-      "market_cap": 4371948193.0,
-      "owner_count": 3679,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "CLEMONDO",
@@ -483,16 +493,6 @@
       "detail_url": "https://allaaktier.se/bolag/vo2-cap"
     },
     {
-      "ticker": "HUNTER-CAPITAL",
-      "company_name": "Hunter Capital",
-      "trend7d": 0.35,
-      "discord_members": 88,
-      "facebook_members": null,
-      "market_cap": 43770420.0,
-      "owner_count": 147,
-      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
-    },
-    {
       "ticker": "AIXIA",
       "company_name": "Aixia",
       "trend7d": 0.35,
@@ -503,41 +503,23 @@
       "detail_url": "https://allaaktier.se/bolag/aixia"
     },
     {
-      "ticker": "ECOMB",
-      "company_name": "ECOMB",
+      "ticker": "INTEGRUM",
+      "company_name": "Integrum",
       "trend7d": 0.32,
-      "discord_members": 159,
+      "discord_members": 592,
       "facebook_members": null,
-      "market_cap": 4208659.0,
-      "owner_count": 306,
-      "detail_url": "https://allaaktier.se/bolag/ecomb"
+      "market_cap": 224010444.0,
+      "owner_count": 577,
+      "detail_url": "https://allaaktier.se/bolag/integrum"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "BOL",
-      "company_name": "Boliden",
-      "sector": "Materials",
-      "discovered": false,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95404278",
-        "https://www.flashback.org/sp95404481",
-        "https://www.flashback.org/sp95404758"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
     "total_posts_fetched": 63,
-    "tickers_with_any_mentions": 2,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
