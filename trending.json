@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:16:44.767407+00:00",
+  "generated_at": "2026-07-14T14:55:07.772659+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
-      "trend7d": 6.0,
-      "discord_members": 782,
+      "trend7d": 6.09,
+      "discord_members": 784,
       "facebook_members": null,
       "market_cap": 123681114.0,
       "owner_count": 528,
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
+      "ticker": "FREJA-EID",
+      "company_name": "Freja eID",
+      "trend7d": 2.8,
+      "discord_members": 226,
+      "facebook_members": 105,
+      "market_cap": 696887766.0,
+      "owner_count": 704,
+      "detail_url": "https://allaaktier.se/bolag/freja-eid"
+    },
+    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 2.75,
@@ -73,34 +83,24 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
-      "ticker": "FREJA-EID",
-      "company_name": "Freja eID",
-      "trend7d": 2.65,
-      "discord_members": 225,
-      "facebook_members": 105,
-      "market_cap": 696887766.0,
-      "owner_count": 704,
-      "detail_url": "https://allaaktier.se/bolag/freja-eid"
-    },
-    {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 1.95,
-      "discord_members": 505,
-      "facebook_members": 2766,
-      "market_cap": 10334149248.0,
-      "owner_count": 4597,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
       "ticker": "CIRCHEM",
       "company_name": "CirChem",
-      "trend7d": 1.92,
-      "discord_members": 342,
+      "trend7d": 2.02,
+      "discord_members": 343,
       "facebook_members": 118,
       "market_cap": 43387470.0,
       "owner_count": 431,
       "detail_url": "https://allaaktier.se/bolag/circhem"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 2.02,
+      "discord_members": 506,
+      "facebook_members": 2766,
+      "market_cap": 10334149248.0,
+      "owner_count": 4597,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
+      "ticker": "ALZINOVA",
+      "company_name": "Alzinova",
+      "trend7d": 0.87,
+      "discord_members": 644,
+      "facebook_members": null,
+      "market_cap": 147927607.0,
+      "owner_count": 992,
+      "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
       "ticker": "FASTIGHETS-AB-BALDER",
       "company_name": "Fastighets AB Balder",
       "trend7d": 0.86,
@@ -211,16 +221,6 @@
       "market_cap": 13882588282.0,
       "owner_count": 5360,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
-    },
-    {
-      "ticker": "ALZINOVA",
-      "company_name": "Alzinova",
-      "trend7d": 0.82,
-      "discord_members": 643,
-      "facebook_members": null,
-      "market_cap": 147927607.0,
-      "owner_count": 992,
-      "detail_url": "https://allaaktier.se/bolag/alzinova"
     },
     {
       "ticker": "QLIRO",
@@ -253,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
+      "ticker": "GRANGEX",
+      "company_name": "GRANGEX",
+      "trend7d": 0.74,
+      "discord_members": 1040,
+      "facebook_members": 305,
+      "market_cap": 557119073.0,
+      "owner_count": 1190,
+      "detail_url": "https://allaaktier.se/bolag/grangex"
+    },
+    {
       "ticker": "SPAGO-NANOMEDICAL",
       "company_name": "Spago Nanomedical",
       "trend7d": 0.74,
@@ -281,16 +291,6 @@
       "market_cap": 76229113.0,
       "owner_count": 318,
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
-    },
-    {
-      "ticker": "GRANGEX",
-      "company_name": "GRANGEX",
-      "trend7d": 0.71,
-      "discord_members": 1039,
-      "facebook_members": 305,
-      "market_cap": 557119073.0,
-      "owner_count": 1190,
-      "detail_url": "https://allaaktier.se/bolag/grangex"
     },
     {
       "ticker": "KILIARO",
@@ -385,8 +385,8 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 0.53,
-      "discord_members": 1371,
+      "trend7d": 0.51,
+      "discord_members": 1370,
       "facebook_members": 128,
       "market_cap": 1095504150.0,
       "owner_count": 1339,
@@ -518,8 +518,8 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 70,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 72,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
