@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T18:06:34.570207+00:00",
+  "generated_at": "2026-07-14T20:14:55.090865+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
     },
     {
-      "ticker": "BIBBINSTRUMENTS",
-      "company_name": "BiBBInstruments",
-      "trend7d": 0.73,
-      "discord_members": 148,
-      "facebook_members": null,
-      "market_cap": 92726294.0,
-      "owner_count": 256,
-      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
-    },
-    {
       "ticker": "TRIBORON-INTERNATIONAL",
       "company_name": "Triboron International",
       "trend7d": 0.72,
@@ -403,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 0.5,
+      "discord_members": 147,
+      "facebook_members": null,
+      "market_cap": 92726294.0,
+      "owner_count": 256,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
       "ticker": "MIPS",
       "company_name": "Mips",
       "trend7d": 0.49,
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
       "trend7d": 0.42,
-      "discord_members": 216,
-      "facebook_members": 63,
-      "market_cap": 122521894.0,
-      "owner_count": 568,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+      "discord_members": 159,
+      "facebook_members": null,
+      "market_cap": 429965104.0,
+      "owner_count": 424,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 75,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
