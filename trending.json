@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T16:18:03.444481+00:00",
+  "generated_at": "2026-07-14T18:06:34.570207+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,16 +63,6 @@
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
-      "ticker": "FREJA-EID",
-      "company_name": "Freja eID",
-      "trend7d": 2.8,
-      "discord_members": 226,
-      "facebook_members": 105,
-      "market_cap": 696887766.0,
-      "owner_count": 704,
-      "detail_url": "https://allaaktier.se/bolag/freja-eid"
-    },
-    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 2.75,
@@ -83,6 +73,26 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
+      "ticker": "FREJA-EID",
+      "company_name": "Freja eID",
+      "trend7d": 2.65,
+      "discord_members": 225,
+      "facebook_members": 105,
+      "market_cap": 696887766.0,
+      "owner_count": 704,
+      "detail_url": "https://allaaktier.se/bolag/freja-eid"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 2.08,
+      "discord_members": 507,
+      "facebook_members": 2766,
+      "market_cap": 10334149248.0,
+      "owner_count": 4597,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
       "ticker": "CIRCHEM",
       "company_name": "CirChem",
       "trend7d": 2.02,
@@ -91,16 +101,6 @@
       "market_cap": 43387470.0,
       "owner_count": 431,
       "detail_url": "https://allaaktier.se/bolag/circhem"
-    },
-    {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 2.02,
-      "discord_members": 506,
-      "facebook_members": 2766,
-      "market_cap": 10334149248.0,
-      "owner_count": 4597,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
     },
     {
+      "ticker": "ALZINOVA",
+      "company_name": "Alzinova",
+      "trend7d": 0.93,
+      "discord_members": 645,
+      "facebook_members": null,
+      "market_cap": 147927607.0,
+      "owner_count": 992,
+      "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 0.92,
@@ -181,16 +191,6 @@
       "market_cap": 23207977957.0,
       "owner_count": 3945,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
-      "ticker": "ALZINOVA",
-      "company_name": "Alzinova",
-      "trend7d": 0.87,
-      "discord_members": 644,
-      "facebook_members": null,
-      "market_cap": 147927607.0,
-      "owner_count": 992,
-      "detail_url": "https://allaaktier.se/bolag/alzinova"
     },
     {
       "ticker": "FASTIGHETS-AB-BALDER",
@@ -333,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
+      "ticker": "SAAB",
+      "company_name": "SAAB",
+      "trend7d": 0.62,
+      "discord_members": 698,
+      "facebook_members": null,
+      "market_cap": 282885391793.0,
+      "owner_count": 57256,
+      "detail_url": "https://allaaktier.se/bolag/saab"
+    },
+    {
       "ticker": "OBSERVIT",
       "company_name": "Observit",
       "trend7d": 0.62,
@@ -341,16 +351,6 @@
       "market_cap": 344414662.0,
       "owner_count": 1336,
       "detail_url": "https://allaaktier.se/bolag/observit"
-    },
-    {
-      "ticker": "SAAB",
-      "company_name": "SAAB",
-      "trend7d": 0.58,
-      "discord_members": 697,
-      "facebook_members": null,
-      "market_cap": 282885391793.0,
-      "owner_count": 57256,
-      "detail_url": "https://allaaktier.se/bolag/saab"
     },
     {
       "ticker": "SHT-SMART-HIGH-TECH",
@@ -483,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/international-petroleum"
     },
     {
-      "ticker": "SYNACT-PHARMA",
-      "company_name": "SynAct Pharma",
-      "trend7d": 0.43,
-      "discord_members": 4977,
-      "facebook_members": 2109,
-      "market_cap": 1166439836.0,
-      "owner_count": 1285,
-      "detail_url": "https://allaaktier.se/bolag/synact-pharma"
-    },
-    {
       "ticker": "VESTUM",
       "company_name": "Vestum",
       "trend7d": 0.42,
@@ -511,6 +501,16 @@
       "market_cap": 882776927555.0,
       "owner_count": 16025,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
+    },
+    {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.42,
+      "discord_members": 216,
+      "facebook_members": 63,
+      "market_cap": 122521894.0,
+      "owner_count": 568,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 74,
+    "total_posts_fetched": 75,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
