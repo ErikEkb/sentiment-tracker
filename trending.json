@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:00:24.101838+00:00",
+  "generated_at": "2026-07-14T23:54:50.748580+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -43,14 +43,14 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
-      "ticker": "UPSALES-TECHNOLOGY",
-      "company_name": "Upsales Technology",
-      "trend7d": 3.32,
-      "discord_members": 40,
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 2.95,
+      "discord_members": 178,
       "facebook_members": null,
-      "market_cap": 461371475.0,
-      "owner_count": 313,
-      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+      "market_cap": 774243008.0,
+      "owner_count": 178,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "HEMPLY-BALANCE",
@@ -63,16 +63,6 @@
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 2.75,
-      "discord_members": 177,
-      "facebook_members": null,
-      "market_cap": 774243008.0,
-      "owner_count": 178,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
       "trend7d": 2.65,
@@ -83,10 +73,20 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
+      "ticker": "UPSALES-TECHNOLOGY",
+      "company_name": "Upsales Technology",
+      "trend7d": 2.44,
+      "discord_members": 39,
+      "facebook_members": null,
+      "market_cap": 461371475.0,
+      "owner_count": 313,
+      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
-      "trend7d": 2.08,
-      "discord_members": 507,
+      "trend7d": 2.15,
+      "discord_members": 508,
       "facebook_members": 2766,
       "market_cap": 10198173600.0,
       "owner_count": 4597,
@@ -463,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/axolot-solutions"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 0.45,
+      "discord_members": 823,
+      "facebook_members": 2821,
+      "market_cap": 94876873.0,
+      "owner_count": 1852,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "ENERSIZE",
       "company_name": "Enersize",
       "trend7d": 0.44,
@@ -501,16 +511,6 @@
       "market_cap": 6020467677.0,
       "owner_count": 1224,
       "detail_url": "https://allaaktier.se/bolag/vestum"
-    },
-    {
-      "ticker": "ATLAS-COPCO",
-      "company_name": "Atlas Copco",
-      "trend7d": 0.42,
-      "discord_members": 96,
-      "facebook_members": null,
-      "market_cap": 895120223459.0,
-      "owner_count": 16025,
-      "detail_url": "https://allaaktier.se/bolag/atlas-copco"
     }
   ],
   "twitter_mentions": 0,
