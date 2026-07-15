@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T18:10:18.952878+00:00",
+  "generated_at": "2026-07-15T20:12:23.017210+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
-      "trend7d": 6.12,
-      "discord_members": 782,
+      "trend7d": 6.08,
+      "discord_members": 781,
       "facebook_members": null,
       "market_cap": 89668808.0,
       "owner_count": 530,
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 2.03,
+      "discord_members": 246,
+      "facebook_members": null,
+      "market_cap": 23656231737.0,
+      "owner_count": 3945,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 1.9,
@@ -131,16 +141,6 @@
       "market_cap": 7225624296.0,
       "owner_count": 1353,
       "detail_url": "https://allaaktier.se/bolag/acast"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 1.47,
-      "discord_members": 242,
-      "facebook_members": null,
-      "market_cap": 23656231737.0,
-      "owner_count": 3945,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "REFINE-GROUP",
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 0.94,
+      "discord_members": 833,
+      "facebook_members": 2821,
+      "market_cap": 98434756.0,
+      "owner_count": 1851,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 0.9,
@@ -201,16 +211,6 @@
       "market_cap": 79931084.0,
       "owner_count": 341,
       "detail_url": "https://allaaktier.se/bolag/checkin-com"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 0.9,
-      "discord_members": 832,
-      "facebook_members": 2821,
-      "market_cap": 98434756.0,
-      "owner_count": 1851,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "KONTIGO-CARE",
@@ -231,6 +231,16 @@
       "market_cap": 7226778082.0,
       "owner_count": 2629,
       "detail_url": "https://allaaktier.se/bolag/mips"
+    },
+    {
+      "ticker": "FASTIGHETS-AB-BALDER",
+      "company_name": "Fastighets AB Balder",
+      "trend7d": 0.84,
+      "discord_members": 81,
+      "facebook_members": null,
+      "market_cap": 61523000000.0,
+      "owner_count": 3897,
+      "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
     },
     {
       "ticker": "TRIBORON-INTERNATIONAL",
@@ -323,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
+      "ticker": "TOUCHTECH",
+      "company_name": "Touchtech",
+      "trend7d": 0.6,
+      "discord_members": 193,
+      "facebook_members": null,
+      "market_cap": 59306526.0,
+      "owner_count": 143,
+      "detail_url": "https://allaaktier.se/bolag/touchtech"
+    },
+    {
       "ticker": "ADVERTY",
       "company_name": "Adverty",
       "trend7d": 0.6,
@@ -343,6 +363,26 @@
       "detail_url": "https://allaaktier.se/bolag/observit"
     },
     {
+      "ticker": "ABERA-BIOSCIENCE",
+      "company_name": "Abera Bioscience",
+      "trend7d": 0.59,
+      "discord_members": 239,
+      "facebook_members": 49,
+      "market_cap": 171371214.0,
+      "owner_count": 207,
+      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
+    },
+    {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.58,
+      "discord_members": 411,
+      "facebook_members": null,
+      "market_cap": 19886281632.85,
+      "owner_count": 1073,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+    },
+    {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
       "trend7d": 0.51,
@@ -351,16 +391,6 @@
       "market_cap": 93223181.0,
       "owner_count": 566,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.5,
-      "discord_members": 410,
-      "facebook_members": null,
-      "market_cap": 19886281632.85,
-      "owner_count": 1073,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "XER-TECH",
@@ -413,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
-      "ticker": "ABERA-BIOSCIENCE",
-      "company_name": "Abera Bioscience",
-      "trend7d": 0.45,
-      "discord_members": 238,
-      "facebook_members": 49,
-      "market_cap": 171371214.0,
-      "owner_count": 207,
-      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
-    },
-    {
       "ticker": "MINESTO",
       "company_name": "Minesto",
       "trend7d": 0.45,
@@ -443,24 +463,14 @@
       "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
-      "ticker": "FASTIGHETS-AB-BALDER",
-      "company_name": "Fastighets AB Balder",
-      "trend7d": 0.43,
-      "discord_members": 80,
-      "facebook_members": null,
-      "market_cap": 61523000000.0,
-      "owner_count": 3897,
-      "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
-    },
-    {
-      "ticker": "TOUCHTECH",
-      "company_name": "Touchtech",
-      "trend7d": 0.43,
-      "discord_members": 192,
-      "facebook_members": null,
-      "market_cap": 59306526.0,
-      "owner_count": 143,
-      "detail_url": "https://allaaktier.se/bolag/touchtech"
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.41,
+      "discord_members": 1160,
+      "facebook_members": 3706,
+      "market_cap": 4596890119.0,
+      "owner_count": 3692,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "SPAGO-NANOMEDICAL",
@@ -473,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
     },
     {
+      "ticker": "TERRANET",
+      "company_name": "Terranet",
+      "trend7d": 0.39,
+      "discord_members": 1861,
+      "facebook_members": 2541,
+      "market_cap": 244065184.0,
+      "owner_count": 1883,
+      "detail_url": "https://allaaktier.se/bolag/terranet"
+    },
+    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 0.38,
@@ -483,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.38,
-      "discord_members": 1159,
-      "facebook_members": 3706,
-      "market_cap": 4596890119.0,
-      "owner_count": 3692,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
       "ticker": "ENERSIZE",
       "company_name": "Enersize",
       "trend7d": 0.37,
@@ -501,16 +511,6 @@
       "market_cap": 11417361.0,
       "owner_count": 506,
       "detail_url": "https://allaaktier.se/bolag/enersize"
-    },
-    {
-      "ticker": "TERRANET",
-      "company_name": "Terranet",
-      "trend7d": 0.37,
-      "discord_members": 1860,
-      "facebook_members": 2541,
-      "market_cap": 244065184.0,
-      "owner_count": 1883,
-      "detail_url": "https://allaaktier.se/bolag/terranet"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 67,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
