@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T16:25:06.863501+00:00",
+  "generated_at": "2026-07-15T18:10:18.952878+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
-      "trend7d": 2.59,
-      "discord_members": 179,
+      "trend7d": 2.78,
+      "discord_members": 180,
       "facebook_members": null,
       "market_cap": 738296011.0,
       "owner_count": 178,
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 1.47,
+      "discord_members": 242,
+      "facebook_members": null,
+      "market_cap": 23656231737.0,
+      "owner_count": 3945,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 1.38,
@@ -151,16 +161,6 @@
       "market_cap": 7061609.0,
       "owner_count": 379,
       "detail_url": "https://allaaktier.se/bolag/free2move"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 1.19,
-      "discord_members": 240,
-      "facebook_members": null,
-      "market_cap": 23656231737.0,
-      "owner_count": 3945,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "SERVANA",
@@ -393,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
+      "ticker": "SAAB",
+      "company_name": "SAAB",
+      "trend7d": 0.45,
+      "discord_members": 699,
+      "facebook_members": null,
+      "market_cap": 283374436842.0,
+      "owner_count": 57256,
+      "detail_url": "https://allaaktier.se/bolag/saab"
+    },
+    {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
       "trend7d": 0.45,
@@ -453,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
     {
-      "ticker": "SAAB",
-      "company_name": "SAAB",
-      "trend7d": 0.4,
-      "discord_members": 698,
-      "facebook_members": null,
-      "market_cap": 283374436842.0,
-      "owner_count": 57256,
-      "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
       "ticker": "SPAGO-NANOMEDICAL",
       "company_name": "Spago Nanomedical",
       "trend7d": 0.39,
@@ -516,28 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "VALUNO",
-      "company_name": "Valuno Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 3.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95423010",
-        "https://www.flashback.org/sp95424014",
-        "https://www.flashback.org/sp95424690"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 65,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 66,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
