@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T10:53:06.891475+00:00",
+  "generated_at": "2026-07-15T12:17:45.155109+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.91,
+      "discord_members": 238,
+      "facebook_members": null,
+      "market_cap": 23656231737.0,
+      "owner_count": 3945,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 0.9,
@@ -251,16 +261,6 @@
       "market_cap": 15296822847.0,
       "owner_count": 5369,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.77,
-      "discord_members": 237,
-      "facebook_members": null,
-      "market_cap": 23656231737.0,
-      "owner_count": 3945,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "QLIRO",
