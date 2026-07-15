@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T14:53:59.930063+00:00",
+  "generated_at": "2026-07-15T16:25:06.863501+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -153,6 +153,16 @@
       "detail_url": "https://allaaktier.se/bolag/free2move"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 1.19,
+      "discord_members": 240,
+      "facebook_members": null,
+      "market_cap": 23656231737.0,
+      "owner_count": 3945,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "SERVANA",
       "company_name": "Servana",
       "trend7d": 1.18,
@@ -161,16 +171,6 @@
       "market_cap": 34823595.0,
       "owner_count": 829,
       "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 1.05,
-      "discord_members": 239,
-      "facebook_members": null,
-      "market_cap": 23656231737.0,
-      "owner_count": 3945,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
