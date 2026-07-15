@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T05:35:01.578360+00:00",
+  "generated_at": "2026-07-15T08:18:35.895685+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,34 +63,24 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 2.06,
-      "discord_members": 508,
-      "facebook_members": 2766,
-      "market_cap": 10198173600.0,
-      "owner_count": 4597,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
-      "trend7d": 2.02,
+      "trend7d": 2.26,
       "discord_members": 225,
       "facebook_members": 105,
       "market_cap": 696887766.0,
-      "owner_count": 704,
+      "owner_count": 709,
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "CIRCHEM",
-      "company_name": "CirChem",
-      "trend7d": 1.92,
-      "discord_members": 343,
-      "facebook_members": 118,
-      "market_cap": 47739016.0,
-      "owner_count": 431,
-      "detail_url": "https://allaaktier.se/bolag/circhem"
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 2.26,
+      "discord_members": 508,
+      "facebook_members": 2766,
+      "market_cap": 10198173600.0,
+      "owner_count": 4624,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -101,6 +91,16 @@
       "market_cap": 24175773.0,
       "owner_count": 328,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
+    },
+    {
+      "ticker": "CIRCHEM",
+      "company_name": "CirChem",
+      "trend7d": 1.84,
+      "discord_members": 343,
+      "facebook_members": 118,
+      "market_cap": 47739016.0,
+      "owner_count": 430,
+      "detail_url": "https://allaaktier.se/bolag/circhem"
     },
     {
       "ticker": "ACAST",
@@ -179,7 +179,7 @@
       "discord_members": 75,
       "facebook_members": null,
       "market_cap": 7136708267.0,
-      "owner_count": 2631,
+      "owner_count": 2629,
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
@@ -209,7 +209,7 @@
       "discord_members": 78,
       "facebook_members": null,
       "market_cap": 306802668.0,
-      "owner_count": 443,
+      "owner_count": 444,
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
@@ -233,26 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 0.77,
-      "discord_members": 216,
-      "facebook_members": 63,
-      "market_cap": 97484812.0,
-      "owner_count": 568,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
-      "ticker": "ADVERTY",
-      "company_name": "Adverty",
-      "trend7d": 0.76,
-      "discord_members": 1201,
-      "facebook_members": 367,
-      "market_cap": 112220980.0,
-      "owner_count": 447,
-      "detail_url": "https://allaaktier.se/bolag/adverty"
-    },
-    {
       "ticker": "CLOETTA",
       "company_name": "Cloetta",
       "trend7d": 0.74,
@@ -269,7 +249,7 @@
       "discord_members": 43,
       "facebook_members": 175,
       "market_cap": 73358561.0,
-      "owner_count": 318,
+      "owner_count": 319,
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
     },
     {
@@ -293,6 +273,16 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
+      "ticker": "ADVERTY",
+      "company_name": "Adverty",
+      "trend7d": 0.69,
+      "discord_members": 1201,
+      "facebook_members": 367,
+      "market_cap": 112220980.0,
+      "owner_count": 446,
+      "detail_url": "https://allaaktier.se/bolag/adverty"
+    },
+    {
       "ticker": "OBSERVIT",
       "company_name": "Observit",
       "trend7d": 0.68,
@@ -313,6 +303,16 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.65,
+      "discord_members": 216,
+      "facebook_members": 63,
+      "market_cap": 97484812.0,
+      "owner_count": 566,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.64,
@@ -329,7 +329,7 @@
       "discord_members": 825,
       "facebook_members": 2821,
       "market_cap": 94876873.0,
-      "owner_count": 1852,
+      "owner_count": 1851,
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
@@ -353,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/pixelfox"
     },
     {
-      "ticker": "HUNTER-CAPITAL",
-      "company_name": "Hunter Capital",
-      "trend7d": 0.5,
-      "discord_members": 88,
-      "facebook_members": null,
-      "market_cap": 44950950.0,
-      "owner_count": 148,
-      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
-    },
-    {
       "ticker": "FLEXION-MOBILE",
       "company_name": "Flexion Mobile",
       "trend7d": 0.49,
@@ -371,16 +361,6 @@
       "market_cap": 170043886.0,
       "owner_count": 158,
       "detail_url": "https://allaaktier.se/bolag/flexion-mobile"
-    },
-    {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 0.47,
-      "discord_members": 897,
-      "facebook_members": null,
-      "market_cap": 179014917.62,
-      "owner_count": 82,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
       "ticker": "TOUCHTECH",
@@ -393,14 +373,34 @@
       "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
     {
+      "ticker": "ABERA-BIOSCIENCE",
+      "company_name": "Abera Bioscience",
+      "trend7d": 0.45,
+      "discord_members": 238,
+      "facebook_members": 49,
+      "market_cap": 179570793.0,
+      "owner_count": 207,
+      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
+    },
+    {
       "ticker": "CLEMONDO",
       "company_name": "Clemondo",
       "trend7d": 0.42,
       "discord_members": 62,
       "facebook_members": 3711,
       "market_cap": 103020095.0,
-      "owner_count": 329,
+      "owner_count": 328,
       "detail_url": "https://allaaktier.se/bolag/clemondo"
+    },
+    {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.41,
+      "discord_members": 409,
+      "facebook_members": null,
+      "market_cap": 19963432848.8,
+      "owner_count": 1073,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "SAAB",
@@ -419,7 +419,7 @@
       "discord_members": 80,
       "facebook_members": null,
       "market_cap": 61951400000.0,
-      "owner_count": 3898,
+      "owner_count": 3897,
       "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
     },
     {
@@ -453,16 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/terranet"
     },
     {
-      "ticker": "MEDCLAIR-INVEST",
-      "company_name": "Medclair Invest",
-      "trend7d": 0.39,
-      "discord_members": 968,
-      "facebook_members": null,
-      "market_cap": 279523524.0,
-      "owner_count": 379,
-      "detail_url": "https://allaaktier.se/bolag/medclair-invest"
-    },
-    {
       "ticker": "SPAGO-NANOMEDICAL",
       "company_name": "Spago Nanomedical",
       "trend7d": 0.39,
@@ -471,6 +461,16 @@
       "market_cap": 92212905.0,
       "owner_count": 362,
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
+    },
+    {
+      "ticker": "MINESTO",
+      "company_name": "Minesto",
+      "trend7d": 0.39,
+      "discord_members": 1416,
+      "facebook_members": 5066,
+      "market_cap": 560540524.0,
+      "owner_count": 2937,
+      "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
       "ticker": "ACUCORT",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 71,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
