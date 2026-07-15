@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T12:17:45.155109+00:00",
+  "generated_at": "2026-07-15T14:53:59.930063+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
-      "trend7d": 6.16,
-      "discord_members": 783,
+      "trend7d": 6.12,
+      "discord_members": 782,
       "facebook_members": null,
       "market_cap": 89668808.0,
       "owner_count": 530,
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 2.08,
+      "discord_members": 68,
+      "facebook_members": null,
+      "market_cap": 537500000.0,
+      "owner_count": 600,
+      "detail_url": "https://allaaktier.se/bolag/envar"
+    },
+    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 1.9,
@@ -123,16 +133,6 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
-      "ticker": "ENVAR",
-      "company_name": "Envar",
-      "trend7d": 1.55,
-      "discord_members": 67,
-      "facebook_members": null,
-      "market_cap": 537500000.0,
-      "owner_count": 600,
-      "detail_url": "https://allaaktier.se/bolag/envar"
-    },
-    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 1.38,
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 1.05,
+      "discord_members": 239,
+      "facebook_members": null,
+      "market_cap": 23656231737.0,
+      "owner_count": 3945,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "BIBBINSTRUMENTS",
       "company_name": "BiBBInstruments",
       "trend7d": 0.97,
@@ -181,16 +191,6 @@
       "market_cap": 31642534.0,
       "owner_count": 109,
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.91,
-      "discord_members": 238,
-      "facebook_members": null,
-      "market_cap": 23656231737.0,
-      "owner_count": 3945,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "CHECKIN-COM",
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.5,
+      "discord_members": 410,
+      "facebook_members": null,
+      "market_cap": 19886281632.85,
+      "owner_count": 1073,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+    },
+    {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
       "trend7d": 0.49,
@@ -373,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/flexion-mobile"
     },
     {
+      "ticker": "XVIVO-PERFUSION",
+      "company_name": "Xvivo Perfusion",
+      "trend7d": 0.47,
+      "discord_members": 171,
+      "facebook_members": null,
+      "market_cap": 7452774602.0,
+      "owner_count": 1997,
+      "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
+    },
+    {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
       "trend7d": 0.45,
@@ -391,6 +411,16 @@
       "market_cap": 171371214.0,
       "owner_count": 207,
       "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
+    },
+    {
+      "ticker": "MINESTO",
+      "company_name": "Minesto",
+      "trend7d": 0.45,
+      "discord_members": 1418,
+      "facebook_members": 5066,
+      "market_cap": 606060056.0,
+      "owner_count": 2937,
+      "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
       "ticker": "ORTOMA",
@@ -421,26 +451,6 @@
       "market_cap": 59306526.0,
       "owner_count": 143,
       "detail_url": "https://allaaktier.se/bolag/touchtech"
-    },
-    {
-      "ticker": "MINESTO",
-      "company_name": "Minesto",
-      "trend7d": 0.43,
-      "discord_members": 1417,
-      "facebook_members": 5066,
-      "market_cap": 606060056.0,
-      "owner_count": 2937,
-      "detail_url": "https://allaaktier.se/bolag/minesto"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.41,
-      "discord_members": 409,
-      "facebook_members": null,
-      "market_cap": 19886281632.85,
-      "owner_count": 1073,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "SAAB",
@@ -501,16 +511,6 @@
       "market_cap": 244065184.0,
       "owner_count": 1883,
       "detail_url": "https://allaaktier.se/bolag/terranet"
-    },
-    {
-      "ticker": "S2MEDICAL",
-      "company_name": "S2Medical",
-      "trend7d": 0.35,
-      "discord_members": 119,
-      "facebook_members": null,
-      "market_cap": 5027267.0,
-      "owner_count": 424,
-      "detail_url": "https://allaaktier.se/bolag/s2medical"
     }
   ],
   "twitter_mentions": 0,
