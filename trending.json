@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T10:11:06.348426+00:00",
+  "generated_at": "2026-07-16T12:21:45.969139+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,12 +15,22 @@
     {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
-      "trend7d": 5.6,
+      "trend7d": 4.51,
       "discord_members": 781,
       "facebook_members": null,
       "market_cap": 86576780.0,
       "owner_count": 518,
       "detail_url": "https://allaaktier.se/bolag/sound-dimension"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 4.13,
+      "discord_members": 261,
+      "facebook_members": null,
+      "market_cap": 23728530733.0,
+      "owner_count": 3952,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "HEMPLY-BALANCE",
@@ -35,7 +45,7 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 3.57,
+      "trend7d": 3.59,
       "discord_members": 280,
       "facebook_members": null,
       "market_cap": 12788704.0,
@@ -45,7 +55,7 @@
     {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
-      "trend7d": 2.79,
+      "trend7d": 2.87,
       "discord_members": 180,
       "facebook_members": null,
       "market_cap": 718939936.0,
@@ -53,20 +63,10 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 2.77,
-      "discord_members": 255,
-      "facebook_members": null,
-      "market_cap": 23728530733.0,
-      "owner_count": 3952,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
       "ticker": "MIPS",
       "company_name": "Mips",
-      "trend7d": 2.28,
-      "discord_members": 78,
+      "trend7d": 2.74,
+      "discord_members": 79,
       "facebook_members": null,
       "market_cap": 9097051295.0,
       "owner_count": 2634,
@@ -85,7 +85,7 @@
     {
       "ticker": "LUXBRIGHT",
       "company_name": "Luxbright",
-      "trend7d": 1.75,
+      "trend7d": 1.71,
       "discord_members": 38,
       "facebook_members": null,
       "market_cap": 25556554.0,
@@ -101,6 +101,16 @@
       "market_cap": 47611029.0,
       "owner_count": 430,
       "detail_url": "https://allaaktier.se/bolag/circhem"
+    },
+    {
+      "ticker": "M-O-B-A-NETWORK",
+      "company_name": "M.O.B.A. Network",
+      "trend7d": 1.52,
+      "discord_members": 28,
+      "facebook_members": null,
+      "market_cap": 28580353.0,
+      "owner_count": 109,
+      "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
     },
     {
       "ticker": "ACAST",
@@ -183,16 +193,6 @@
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
-      "ticker": "M-O-B-A-NETWORK",
-      "company_name": "M.O.B.A. Network",
-      "trend7d": 1.05,
-      "discord_members": 28,
-      "facebook_members": null,
-      "market_cap": 28580353.0,
-      "owner_count": 109,
-      "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
-    },
-    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 0.92,
@@ -213,14 +213,14 @@
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
-      "ticker": "PIXELFOX",
-      "company_name": "PixelFox",
-      "trend7d": 0.85,
-      "discord_members": 181,
+      "ticker": "UPSALES-TECHNOLOGY",
+      "company_name": "Upsales Technology",
+      "trend7d": 0.87,
+      "discord_members": 39,
       "facebook_members": null,
-      "market_cap": 75542544.0,
-      "owner_count": 310,
-      "detail_url": "https://allaaktier.se/bolag/pixelfox"
+      "market_cap": 456319962.0,
+      "owner_count": 314,
+      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
       "ticker": "TRIBORON-INTERNATIONAL",
@@ -233,14 +233,14 @@
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
     },
     {
-      "ticker": "UPSALES-TECHNOLOGY",
-      "company_name": "Upsales Technology",
-      "trend7d": 0.81,
-      "discord_members": 39,
+      "ticker": "KONTIGO-CARE",
+      "company_name": "Kontigo Care",
+      "trend7d": 0.82,
+      "discord_members": 43,
       "facebook_members": null,
-      "market_cap": 456319962.0,
-      "owner_count": 314,
-      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+      "market_cap": 59222394.0,
+      "owner_count": 191,
+      "detail_url": "https://allaaktier.se/bolag/kontigo-care"
     },
     {
       "ticker": "CLOETTA",
@@ -253,26 +253,6 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 0.74,
-      "discord_members": 160,
-      "facebook_members": null,
-      "market_cap": 399086218.0,
-      "owner_count": 425,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
-    },
-    {
-      "ticker": "KONTIGO-CARE",
-      "company_name": "Kontigo Care",
-      "trend7d": 0.72,
-      "discord_members": 43,
-      "facebook_members": null,
-      "market_cap": 59222394.0,
-      "owner_count": 191,
-      "detail_url": "https://allaaktier.se/bolag/kontigo-care"
-    },
-    {
       "ticker": "ABERA-BIOSCIENCE",
       "company_name": "Abera Bioscience",
       "trend7d": 0.71,
@@ -281,6 +261,16 @@
       "market_cap": 181620688.0,
       "owner_count": 207,
       "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
+    },
+    {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 0.68,
+      "discord_members": 160,
+      "facebook_members": null,
+      "market_cap": 399086218.0,
+      "owner_count": 425,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "QLIRO",
@@ -293,9 +283,19 @@
       "detail_url": "https://allaaktier.se/bolag/qliro"
     },
     {
+      "ticker": "PIXELFOX",
+      "company_name": "PixelFox",
+      "trend7d": 0.67,
+      "discord_members": 181,
+      "facebook_members": null,
+      "market_cap": 75542544.0,
+      "owner_count": 310,
+      "detail_url": "https://allaaktier.se/bolag/pixelfox"
+    },
+    {
       "ticker": "TESLA",
       "company_name": "Tesla",
-      "trend7d": 0.66,
+      "trend7d": 0.63,
       "discord_members": 48,
       "facebook_members": null,
       "market_cap": 12199872128818.18,
@@ -335,12 +335,22 @@
     {
       "ticker": "OBSERVIT",
       "company_name": "Observit",
-      "trend7d": 0.59,
+      "trend7d": 0.58,
       "discord_members": 46,
       "facebook_members": null,
       "market_cap": 335429931.0,
       "owner_count": 1334,
       "detail_url": "https://allaaktier.se/bolag/observit"
+    },
+    {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 0.58,
+      "discord_members": 2527,
+      "facebook_members": 2874,
+      "market_cap": 13095398971.0,
+      "owner_count": 5508,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
       "ticker": "FASTIGHETS-AB-BALDER",
@@ -361,16 +371,6 @@
       "market_cap": 322068647.0,
       "owner_count": 1015,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 0.56,
-      "discord_members": 2526,
-      "facebook_members": 2874,
-      "market_cap": 13095398971.0,
-      "owner_count": 5508,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
       "ticker": "FLEXION-MOBILE",
@@ -401,16 +401,6 @@
       "market_cap": 56357979.0,
       "owner_count": 514,
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
-    },
-    {
-      "ticker": "XER-TECH",
-      "company_name": "Xer Tech",
-      "trend7d": 0.53,
-      "discord_members": 268,
-      "facebook_members": null,
-      "market_cap": 187498861.0,
-      "owner_count": 384,
-      "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
     {
       "ticker": "SPAGO-NANOMEDICAL",
@@ -463,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 0.37,
+      "discord_members": 92,
+      "facebook_members": null,
+      "market_cap": 327592099.0,
+      "owner_count": 280,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+    },
+    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 0.34,
@@ -493,14 +493,14 @@
       "detail_url": "https://allaaktier.se/bolag/s2medical"
     },
     {
-      "ticker": "PREMIUM-SNACKS-NORDIC",
-      "company_name": "Premium Snacks Nordic",
+      "ticker": "BONESUPPORT",
+      "company_name": "Bonesupport",
       "trend7d": 0.33,
-      "discord_members": 141,
+      "discord_members": 452,
       "facebook_members": null,
-      "market_cap": 444774053.0,
-      "owner_count": 414,
-      "detail_url": "https://allaaktier.se/bolag/premium-snacks-nordic"
+      "market_cap": 13766808970.0,
+      "owner_count": 3479,
+      "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
       "ticker": "VO2-CAP",
@@ -518,25 +518,25 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "TSLA",
-      "company_name": "Tesla Inc.",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.25,
+      "ticker": "IBM",
+      "company_name": "International Business Machines",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.444,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 1.0,
+      "trending_score": 1.333,
       "sample_posts": [
-        "https://www.flashback.org/sp95429020",
-        "https://www.flashback.org/sp95429991",
-        "https://www.flashback.org/sp95434702"
+        "https://www.flashback.org/sp95430472",
+        "https://www.flashback.org/sp95430622",
+        "https://www.flashback.org/sp95432114"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 62,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
