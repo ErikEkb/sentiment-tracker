@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T15:04:13.854016+00:00",
+  "generated_at": "2026-07-16T17:20:27.855193+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 4.55,
-      "discord_members": 264,
+      "trend7d": 4.97,
+      "discord_members": 267,
       "facebook_members": null,
       "market_cap": 23728530733.0,
       "owner_count": 3952,
@@ -75,8 +75,8 @@
     {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
-      "trend7d": 2.05,
-      "discord_members": 225,
+      "trend7d": 2.2,
+      "discord_members": 226,
       "facebook_members": 105,
       "market_cap": 634053623.0,
       "owner_count": 709,
@@ -191,16 +191,6 @@
       "market_cap": 4548242.0,
       "owner_count": 361,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
-    },
-    {
-      "ticker": "BIBBINSTRUMENTS",
-      "company_name": "BiBBInstruments",
-      "trend7d": 1.06,
-      "discord_members": 148,
-      "facebook_members": null,
-      "market_cap": 96589889.0,
-      "owner_count": 258,
-      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "RAYSEARCH-LABORATORIES",
@@ -333,6 +323,16 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 0.6,
+      "discord_members": 146,
+      "facebook_members": null,
+      "market_cap": 96589889.0,
+      "owner_count": 258,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
       "trend7d": 0.6,
@@ -413,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
     },
     {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 0.49,
+      "discord_members": 590,
+      "facebook_members": null,
+      "market_cap": 400170021.0,
+      "owner_count": 1665,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
+    },
+    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 0.45,
@@ -431,6 +441,16 @@
       "market_cap": 282272936.0,
       "owner_count": 377,
       "detail_url": "https://allaaktier.se/bolag/medclair-invest"
+    },
+    {
+      "ticker": "BONESUPPORT",
+      "company_name": "Bonesupport",
+      "trend7d": 0.4,
+      "discord_members": 453,
+      "facebook_members": null,
+      "market_cap": 13766808970.0,
+      "owner_count": 3479,
+      "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
       "ticker": "ATLAS-COPCO",
@@ -463,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
+      "ticker": "ADVERTY",
+      "company_name": "Adverty",
+      "trend7d": 0.37,
+      "discord_members": 1202,
+      "facebook_members": 367,
+      "market_cap": 118822214.0,
+      "owner_count": 445,
+      "detail_url": "https://allaaktier.se/bolag/adverty"
+    },
+    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 0.34,
@@ -473,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
-      "ticker": "ADVERTY",
-      "company_name": "Adverty",
-      "trend7d": 0.34,
-      "discord_members": 1201,
-      "facebook_members": 367,
-      "market_cap": 118822214.0,
-      "owner_count": 445,
-      "detail_url": "https://allaaktier.se/bolag/adverty"
-    },
-    {
       "ticker": "S2MEDICAL",
       "company_name": "S2Medical",
       "trend7d": 0.33,
@@ -491,26 +511,6 @@
       "market_cap": 5027267.0,
       "owner_count": 424,
       "detail_url": "https://allaaktier.se/bolag/s2medical"
-    },
-    {
-      "ticker": "BONESUPPORT",
-      "company_name": "Bonesupport",
-      "trend7d": 0.33,
-      "discord_members": 452,
-      "facebook_members": null,
-      "market_cap": 13766808970.0,
-      "owner_count": 3479,
-      "detail_url": "https://allaaktier.se/bolag/bonesupport"
-    },
-    {
-      "ticker": "VO2-CAP",
-      "company_name": "VO2 Cap",
-      "trend7d": 0.32,
-      "discord_members": 84,
-      "facebook_members": null,
-      "market_cap": 123287803.0,
-      "owner_count": 196,
-      "detail_url": "https://allaaktier.se/bolag/vo2-cap"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 54,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
