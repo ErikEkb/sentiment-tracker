@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T22:04:02.020259+00:00",
+  "generated_at": "2026-07-16T00:01:01.287227+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 2.46,
+      "discord_members": 249,
+      "facebook_members": null,
+      "market_cap": 23858668928.0,
+      "owner_count": 3945,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
       "trend7d": 2.31,
@@ -75,8 +85,8 @@
     {
       "ticker": "PLEJD",
       "company_name": "Plejd",
-      "trend7d": 2.29,
-      "discord_members": 507,
+      "trend7d": 2.23,
+      "discord_members": 506,
       "facebook_members": 2766,
       "market_cap": 10198173600.0,
       "owner_count": 4624,
@@ -91,16 +101,6 @@
       "market_cap": 548750000.0,
       "owner_count": 600,
       "detail_url": "https://allaaktier.se/bolag/envar"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 2.03,
-      "discord_members": 249,
-      "facebook_members": null,
-      "market_cap": 23858668928.0,
-      "owner_count": 3945,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "UPSALES-TECHNOLOGY",
@@ -143,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
-      "ticker": "REFINE-GROUP",
-      "company_name": "Refine Group",
-      "trend7d": 1.38,
-      "discord_members": 78,
-      "facebook_members": null,
-      "market_cap": 284141108.0,
-      "owner_count": 444,
-      "detail_url": "https://allaaktier.se/bolag/refine-group"
-    },
-    {
       "ticker": "FREE2MOVE",
       "company_name": "Free2move",
       "trend7d": 1.32,
@@ -171,6 +161,16 @@
       "market_cap": 31921629.0,
       "owner_count": 829,
       "detail_url": "https://allaaktier.se/bolag/servana"
+    },
+    {
+      "ticker": "REFINE-GROUP",
+      "company_name": "Refine Group",
+      "trend7d": 1.04,
+      "discord_members": 78,
+      "facebook_members": null,
+      "market_cap": 284141108.0,
+      "owner_count": 444,
+      "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
