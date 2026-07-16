@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T19:16:11.416206+00:00",
+  "generated_at": "2026-07-16T21:03:19.012012+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 5.25,
-      "discord_members": 269,
+      "trend7d": 5.39,
+      "discord_members": 270,
       "facebook_members": null,
       "market_cap": 23728530733.0,
       "owner_count": 3952,
@@ -163,16 +163,6 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "FREE2MOVE",
-      "company_name": "Free2move",
-      "trend7d": 1.28,
-      "discord_members": 29,
-      "facebook_members": null,
-      "market_cap": 7061609.0,
-      "owner_count": 379,
-      "detail_url": "https://allaaktier.se/bolag/free2move"
-    },
-    {
       "ticker": "SCANDIC-HOTELS",
       "company_name": "Scandic Hotels",
       "trend7d": 1.15,
@@ -309,7 +299,7 @@
       "discord_members": 48,
       "facebook_members": null,
       "market_cap": 12199872128818.18,
-      "owner_count": 43845,
+      "owner_count": 43846,
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
@@ -361,6 +351,16 @@
       "market_cap": 335429931.0,
       "owner_count": 1334,
       "detail_url": "https://allaaktier.se/bolag/observit"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.58,
+      "discord_members": 250,
+      "facebook_members": 223,
+      "market_cap": 22931207.0,
+      "owner_count": 830,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
@@ -421,16 +421,6 @@
       "market_cap": 91813715.0,
       "owner_count": 364,
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
-    },
-    {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.45,
-      "discord_members": 250,
-      "facebook_members": 223,
-      "market_cap": 22931207.0,
-      "owner_count": 830,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "MEDCLAIR-INVEST",
@@ -511,6 +501,16 @@
       "market_cap": 5027267.0,
       "owner_count": 424,
       "detail_url": "https://allaaktier.se/bolag/s2medical"
+    },
+    {
+      "ticker": "VO2-CAP",
+      "company_name": "VO2 Cap",
+      "trend7d": 0.32,
+      "discord_members": 84,
+      "facebook_members": null,
+      "market_cap": 123287803.0,
+      "owner_count": 196,
+      "detail_url": "https://allaaktier.se/bolag/vo2-cap"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
