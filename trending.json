@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T04:10:10.317135+00:00",
+  "generated_at": "2026-07-16T07:23:42.805624+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 2.63,
-      "discord_members": 251,
+      "trend7d": 2.77,
+      "discord_members": 252,
       "facebook_members": null,
       "market_cap": 23858668928.0,
       "owner_count": 3945,
@@ -121,6 +121,16 @@
       "market_cap": 7305113.0,
       "owner_count": 379,
       "detail_url": "https://allaaktier.se/bolag/free2move"
+    },
+    {
+      "ticker": "MIPS",
+      "company_name": "Mips",
+      "trend7d": 1.33,
+      "discord_members": 76,
+      "facebook_members": null,
+      "market_cap": 7422812384.0,
+      "owner_count": 2629,
+      "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
       "ticker": "PLEJD",
@@ -201,16 +211,6 @@
       "market_cap": 52524623.0,
       "owner_count": 192,
       "detail_url": "https://allaaktier.se/bolag/kontigo-care"
-    },
-    {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 0.87,
-      "discord_members": 75,
-      "facebook_members": null,
-      "market_cap": 7422812384.0,
-      "owner_count": 2629,
-      "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
       "ticker": "PIXELFOX",
@@ -570,7 +570,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 67,
+    "total_posts_fetched": 69,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
