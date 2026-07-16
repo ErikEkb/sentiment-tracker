@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:21:45.969139+00:00",
+  "generated_at": "2026-07-16T15:04:13.854016+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -13,6 +13,16 @@
   "allaaktier_source": "https://allaaktier.se/",
   "allaaktier_hot": [
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 4.55,
+      "discord_members": 264,
+      "facebook_members": null,
+      "market_cap": 23728530733.0,
+      "owner_count": 3952,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
       "trend7d": 4.51,
@@ -21,16 +31,6 @@
       "market_cap": 86576780.0,
       "owner_count": 518,
       "detail_url": "https://allaaktier.se/bolag/sound-dimension"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 4.13,
-      "discord_members": 261,
-      "facebook_members": null,
-      "market_cap": 23728530733.0,
-      "owner_count": 3952,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "HEMPLY-BALANCE",
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
+      "ticker": "QLIRO",
+      "company_name": "Qliro",
+      "trend7d": 1.43,
+      "discord_members": 46,
+      "facebook_members": null,
+      "market_cap": 662622813.0,
+      "owner_count": 951,
+      "detail_url": "https://allaaktier.se/bolag/qliro"
+    },
+    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 1.42,
@@ -191,6 +201,16 @@
       "market_cap": 96589889.0,
       "owner_count": 258,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 0.94,
+      "discord_members": 85,
+      "facebook_members": null,
+      "market_cap": 7734193589.0,
+      "owner_count": 2824,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "CHECKIN-COM",
@@ -273,16 +293,6 @@
       "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
-      "ticker": "QLIRO",
-      "company_name": "Qliro",
-      "trend7d": 0.67,
-      "discord_members": 45,
-      "facebook_members": null,
-      "market_cap": 662622813.0,
-      "owner_count": 951,
-      "detail_url": "https://allaaktier.se/bolag/qliro"
-    },
-    {
       "ticker": "PIXELFOX",
       "company_name": "PixelFox",
       "trend7d": 0.67,
@@ -343,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/observit"
     },
     {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 0.58,
-      "discord_members": 2527,
-      "facebook_members": 2874,
-      "market_cap": 13095398971.0,
-      "owner_count": 5508,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
       "ticker": "FASTIGHETS-AB-BALDER",
       "company_name": "Fastighets AB Balder",
       "trend7d": 0.57,
@@ -373,6 +373,16 @@
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 0.56,
+      "discord_members": 2526,
+      "facebook_members": 2874,
+      "market_cap": 13095398971.0,
+      "owner_count": 5508,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
       "ticker": "FLEXION-MOBILE",
       "company_name": "Flexion Mobile",
       "trend7d": 0.55,
@@ -381,16 +391,6 @@
       "market_cap": 170043886.0,
       "owner_count": 158,
       "detail_url": "https://allaaktier.se/bolag/flexion-mobile"
-    },
-    {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 0.54,
-      "discord_members": 84,
-      "facebook_members": null,
-      "market_cap": 7734193589.0,
-      "owner_count": 2824,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "MODUS-THERAPEUTICS",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 54,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
