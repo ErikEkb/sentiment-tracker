@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T17:20:27.855193+00:00",
+  "generated_at": "2026-07-16T19:16:11.416206+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 4.97,
-      "discord_members": 267,
+      "trend7d": 5.25,
+      "discord_members": 269,
       "facebook_members": null,
       "market_cap": 23728530733.0,
       "owner_count": 3952,
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 1.34,
+      "discord_members": 86,
+      "facebook_members": null,
+      "market_cap": 7734193589.0,
+      "owner_count": 2824,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
+    },
+    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 1.34,
@@ -191,16 +201,6 @@
       "market_cap": 4548242.0,
       "owner_count": 361,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
-    },
-    {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 0.94,
-      "discord_members": 85,
-      "facebook_members": null,
-      "market_cap": 7734193589.0,
-      "owner_count": 2824,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "CHECKIN-COM",
@@ -261,6 +261,16 @@
       "market_cap": 15989509165.0,
       "owner_count": 5368,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 0.72,
+      "discord_members": 594,
+      "facebook_members": null,
+      "market_cap": 400170021.0,
+      "owner_count": 1665,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "ABERA-BIOSCIENCE",
@@ -353,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/observit"
     },
     {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 0.58,
+      "discord_members": 2527,
+      "facebook_members": 2874,
+      "market_cap": 13095398971.0,
+      "owner_count": 5508,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
       "ticker": "FASTIGHETS-AB-BALDER",
       "company_name": "Fastighets AB Balder",
       "trend7d": 0.57,
@@ -371,16 +391,6 @@
       "market_cap": 322068647.0,
       "owner_count": 1015,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 0.56,
-      "discord_members": 2526,
-      "facebook_members": 2874,
-      "market_cap": 13095398971.0,
-      "owner_count": 5508,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
       "ticker": "FLEXION-MOBILE",
@@ -413,20 +423,10 @@
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
     },
     {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 0.49,
-      "discord_members": 590,
-      "facebook_members": null,
-      "market_cap": 400170021.0,
-      "owner_count": 1665,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
-    },
-    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 0.45,
-      "discord_members": 249,
+      "discord_members": 250,
       "facebook_members": 223,
       "market_cap": 22931207.0,
       "owner_count": 830,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 58,
+    "total_posts_fetched": 55,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
