@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T18:07:33.600907+00:00",
+  "generated_at": "2026-07-17T20:07:10.362938+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
+      "ticker": "MIPS",
+      "company_name": "Mips",
+      "trend7d": 1.95,
+      "discord_members": 80,
+      "facebook_members": null,
+      "market_cap": 9711645325.0,
+      "owner_count": 2608,
+      "detail_url": "https://allaaktier.se/bolag/mips"
+    },
+    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
       "trend7d": 1.91,
@@ -131,16 +141,6 @@
       "market_cap": 24466464.0,
       "owner_count": 328,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
-    },
-    {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 1.5,
-      "discord_members": 79,
-      "facebook_members": null,
-      "market_cap": 9711645325.0,
-      "owner_count": 2608,
-      "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
       "ticker": "M-O-B-A-NETWORK",
@@ -518,8 +518,8 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 57,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 47,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
