@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T16:17:03.052824+00:00",
+  "generated_at": "2026-07-17T18:07:33.600907+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 6.78,
-      "discord_members": 280,
+      "trend7d": 7.2,
+      "discord_members": 283,
       "facebook_members": null,
       "market_cap": 23511633743.0,
       "owner_count": 3960,
@@ -73,6 +73,16 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 2.17,
+      "discord_members": 623,
+      "facebook_members": null,
+      "market_cap": 385808560.0,
+      "owner_count": 1662,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
+    },
+    {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
       "trend7d": 2.05,
@@ -81,16 +91,6 @@
       "market_cap": 6102333594.0,
       "owner_count": 2811,
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
-    },
-    {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 1.94,
-      "discord_members": 619,
-      "facebook_members": null,
-      "market_cap": 385808560.0,
-      "owner_count": 1662,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "FREJA-EID",
@@ -483,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/ortelius-international"
     },
     {
+      "ticker": "SAAB",
+      "company_name": "SAAB",
+      "trend7d": 0.47,
+      "discord_members": 702,
+      "facebook_members": null,
+      "market_cap": 295546224733.0,
+      "owner_count": 57345,
+      "detail_url": "https://allaaktier.se/bolag/saab"
+    },
+    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 0.47,
@@ -501,16 +511,6 @@
       "market_cap": 78811212.0,
       "owner_count": 309,
       "detail_url": "https://allaaktier.se/bolag/pixelfox"
-    },
-    {
-      "ticker": "XER-TECH",
-      "company_name": "Xer Tech",
-      "trend7d": 0.44,
-      "discord_members": 268,
-      "facebook_members": null,
-      "market_cap": 176952050.0,
-      "owner_count": 386,
-      "detail_url": "https://allaaktier.se/bolag/xer-tech"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 71,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
