@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T12:11:37.604454+00:00",
+  "generated_at": "2026-07-17T14:44:51.698761+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,12 +15,22 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 6.22,
-      "discord_members": 276,
+      "trend7d": 6.78,
+      "discord_members": 280,
       "facebook_members": null,
       "market_cap": 23511633743.0,
       "owner_count": 3960,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
+      "ticker": "36-GROUP",
+      "company_name": "36 Group",
+      "trend7d": 3.67,
+      "discord_members": 281,
+      "facebook_members": null,
+      "market_cap": 11626094.0,
+      "owner_count": 490,
+      "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
       "ticker": "INTRUM",
@@ -41,16 +51,6 @@
       "market_cap": 4705776.0,
       "owner_count": 144,
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
-    },
-    {
-      "ticker": "36-GROUP",
-      "company_name": "36 Group",
-      "trend7d": 3.54,
-      "discord_members": 280,
-      "facebook_members": null,
-      "market_cap": 11626094.0,
-      "owner_count": 490,
-      "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
       "ticker": "SOUND-DIMENSION",
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 1.94,
+      "discord_members": 619,
+      "facebook_members": null,
+      "market_cap": 385808560.0,
+      "owner_count": 1662,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
+    },
+    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
       "trend7d": 1.91,
@@ -91,16 +101,6 @@
       "market_cap": 639765818.0,
       "owner_count": 706,
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
-    },
-    {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 1.83,
-      "discord_members": 617,
-      "facebook_members": null,
-      "market_cap": 385808560.0,
-      "owner_count": 1662,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "CIRCHEM",
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
     },
     {
+      "ticker": "HANZA",
+      "company_name": "HANZA",
+      "trend7d": 1.12,
+      "discord_members": 111,
+      "facebook_members": 152,
+      "market_cap": 8474326895.0,
+      "owner_count": 1433,
+      "detail_url": "https://allaaktier.se/bolag/hanza"
+    },
+    {
       "ticker": "ODINWELL",
       "company_name": "Odinwell",
       "trend7d": 1.05,
@@ -283,14 +293,14 @@
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
-      "ticker": "HANZA",
-      "company_name": "HANZA",
-      "trend7d": 0.82,
-      "discord_members": 110,
-      "facebook_members": 152,
-      "market_cap": 8474326895.0,
-      "owner_count": 1433,
-      "detail_url": "https://allaaktier.se/bolag/hanza"
+      "ticker": "SEAFIRE",
+      "company_name": "Seafire",
+      "trend7d": 0.88,
+      "discord_members": 64,
+      "facebook_members": 3,
+      "market_cap": 481134050.0,
+      "owner_count": 348,
+      "detail_url": "https://allaaktier.se/bolag/seafire"
     },
     {
       "ticker": "ADVERTY",
@@ -341,6 +351,16 @@
       "market_cap": 181620688.0,
       "owner_count": 207,
       "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
+    },
+    {
+      "ticker": "ZENERGY",
+      "company_name": "Zenergy",
+      "trend7d": 0.71,
+      "discord_members": 54,
+      "facebook_members": null,
+      "market_cap": 6184166.0,
+      "owner_count": 413,
+      "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
       "ticker": "QLIRO",
@@ -413,6 +433,16 @@
       "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
+      "ticker": "ATTANA",
+      "company_name": "Attana",
+      "trend7d": 0.52,
+      "discord_members": 435,
+      "facebook_members": 1946,
+      "market_cap": 21611799.0,
+      "owner_count": 1131,
+      "detail_url": "https://allaaktier.se/bolag/attana"
+    },
+    {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
       "trend7d": 0.51,
@@ -453,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/ortelius-international"
     },
     {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 0.47,
+      "discord_members": 110,
+      "facebook_members": null,
+      "market_cap": 149575611.0,
+      "owner_count": 358,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
       "ticker": "PIXELFOX",
       "company_name": "PixelFox",
       "trend7d": 0.46,
@@ -463,54 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/pixelfox"
     },
     {
-      "ticker": "ATTANA",
-      "company_name": "Attana",
+      "ticker": "XER-TECH",
+      "company_name": "Xer Tech",
       "trend7d": 0.44,
-      "discord_members": 434,
-      "facebook_members": 1946,
-      "market_cap": 21611799.0,
-      "owner_count": 1131,
-      "detail_url": "https://allaaktier.se/bolag/attana"
-    },
-    {
-      "ticker": "ATLAS-COPCO",
-      "company_name": "Atlas Copco",
-      "trend7d": 0.43,
-      "discord_members": 97,
+      "discord_members": 268,
       "facebook_members": null,
-      "market_cap": 909644251098.0,
-      "owner_count": 16058,
-      "detail_url": "https://allaaktier.se/bolag/atlas-copco"
-    },
-    {
-      "ticker": "MILDEF-GROUP",
-      "company_name": "Mildef Group",
-      "trend7d": 0.43,
-      "discord_members": 460,
-      "facebook_members": null,
-      "market_cap": 8655006212.0,
-      "owner_count": 7466,
-      "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
-      "ticker": "ACCONEER",
-      "company_name": "Acconeer",
-      "trend7d": 0.43,
-      "discord_members": 1103,
-      "facebook_members": 1461,
-      "market_cap": 1078164093.0,
-      "owner_count": 1305,
-      "detail_url": "https://allaaktier.se/bolag/acconeer"
-    },
-    {
-      "ticker": "SAAB",
-      "company_name": "SAAB",
-      "trend7d": 0.42,
-      "discord_members": 701,
-      "facebook_members": null,
-      "market_cap": 295546224733.0,
-      "owner_count": 57345,
-      "detail_url": "https://allaaktier.se/bolag/saab"
+      "market_cap": 176952050.0,
+      "owner_count": 386,
+      "detail_url": "https://allaaktier.se/bolag/xer-tech"
     }
   ],
   "twitter_mentions": 0,
@@ -518,8 +518,8 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 51,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 60,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
