@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:59:08.393706+00:00",
+  "generated_at": "2026-07-17T00:07:11.046664+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,7 +65,7 @@
     {
       "ticker": "MIPS",
       "company_name": "Mips",
-      "trend7d": 2.74,
+      "trend7d": 2.27,
       "discord_members": 79,
       "facebook_members": null,
       "market_cap": 9489119900.0,
@@ -113,6 +113,16 @@
       "detail_url": "https://allaaktier.se/bolag/circhem"
     },
     {
+      "ticker": "TRIBORON-INTERNATIONAL",
+      "company_name": "Triboron International",
+      "trend7d": 1.62,
+      "discord_members": 44,
+      "facebook_members": 175,
+      "market_cap": 79737566.0,
+      "owner_count": 319,
+      "detail_url": "https://allaaktier.se/bolag/triboron-international"
+    },
+    {
       "ticker": "M-O-B-A-NETWORK",
       "company_name": "M.O.B.A. Network",
       "trend7d": 1.52,
@@ -121,16 +131,6 @@
       "market_cap": 27786455.0,
       "owner_count": 109,
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
-    },
-    {
-      "ticker": "ACAST",
-      "company_name": "Acast",
-      "trend7d": 1.51,
-      "discord_members": 56,
-      "facebook_members": null,
-      "market_cap": 7116145140.0,
-      "owner_count": 1354,
-      "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
       "ticker": "QLIRO",
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
+      "ticker": "ACAST",
+      "company_name": "Acast",
+      "trend7d": 1.09,
+      "discord_members": 56,
+      "facebook_members": null,
+      "market_cap": 7116145140.0,
+      "owner_count": 1354,
+      "detail_url": "https://allaaktier.se/bolag/acast"
+    },
+    {
       "ticker": "CHECKIN-COM",
       "company_name": "Checkin.com",
       "trend7d": 0.92,
@@ -205,7 +215,7 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 0.9,
+      "trend7d": 0.88,
       "discord_members": 831,
       "facebook_members": 2821,
       "market_cap": 96062834.0,
@@ -223,14 +233,14 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
-      "ticker": "TRIBORON-INTERNATIONAL",
-      "company_name": "Triboron International",
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
       "trend7d": 0.83,
-      "discord_members": 43,
-      "facebook_members": 175,
-      "market_cap": 79737566.0,
-      "owner_count": 319,
-      "detail_url": "https://allaaktier.se/bolag/triboron-international"
+      "discord_members": 596,
+      "facebook_members": null,
+      "market_cap": 401993314.0,
+      "owner_count": 1665,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "KONTIGO-CARE",
@@ -241,16 +251,6 @@
       "market_cap": 58869880.0,
       "owner_count": 191,
       "detail_url": "https://allaaktier.se/bolag/kontigo-care"
-    },
-    {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 0.77,
-      "discord_members": 595,
-      "facebook_members": null,
-      "market_cap": 401993314.0,
-      "owner_count": 1665,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "PROSTATYPE-GENOMICS",
@@ -265,12 +265,22 @@
     {
       "ticker": "CLOETTA",
       "company_name": "Cloetta",
-      "trend7d": 0.75,
+      "trend7d": 0.74,
       "discord_members": 49,
       "facebook_members": null,
       "market_cap": 16018371094.0,
       "owner_count": 5368,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 0.73,
+      "discord_members": 160,
+      "facebook_members": null,
+      "market_cap": 400489804.0,
+      "owner_count": 425,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "ABERA-BIOSCIENCE",
@@ -281,16 +291,6 @@
       "market_cap": 181620688.0,
       "owner_count": 207,
       "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 0.68,
-      "discord_members": 160,
-      "facebook_members": null,
-      "market_cap": 400489804.0,
-      "owner_count": 425,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "PIXELFOX",
@@ -311,6 +311,16 @@
       "market_cap": 12094716814619.68,
       "owner_count": 43846,
       "detail_url": "https://allaaktier.se/bolag/tesla"
+    },
+    {
+      "ticker": "FLEXION-MOBILE",
+      "company_name": "Flexion Mobile",
+      "trend7d": 0.62,
+      "discord_members": 131,
+      "facebook_members": 82,
+      "market_cap": 170043886.0,
+      "owner_count": 158,
+      "detail_url": "https://allaaktier.se/bolag/flexion-mobile"
     },
     {
       "ticker": "MINESTO",
@@ -343,6 +353,26 @@
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
+      "ticker": "FASTIGHETS-AB-BALDER",
+      "company_name": "Fastighets AB Balder",
+      "trend7d": 0.58,
+      "discord_members": 81,
+      "facebook_members": null,
+      "market_cap": 60951800000.0,
+      "owner_count": 3895,
+      "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
+    },
+    {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 0.58,
+      "discord_members": 178,
+      "facebook_members": null,
+      "market_cap": 55317066.0,
+      "owner_count": 514,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "OBSERVIT",
       "company_name": "Observit",
       "trend7d": 0.58,
@@ -373,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
-      "ticker": "FASTIGHETS-AB-BALDER",
-      "company_name": "Fastighets AB Balder",
-      "trend7d": 0.57,
-      "discord_members": 81,
-      "facebook_members": null,
-      "market_cap": 60951800000.0,
-      "owner_count": 3895,
-      "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
-    },
-    {
       "ticker": "FERROAMP",
       "company_name": "Ferroamp",
       "trend7d": 0.57,
@@ -391,26 +411,6 @@
       "market_cap": 317752819.0,
       "owner_count": 1015,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
-      "ticker": "FLEXION-MOBILE",
-      "company_name": "Flexion Mobile",
-      "trend7d": 0.55,
-      "discord_members": 131,
-      "facebook_members": 82,
-      "market_cap": 170043886.0,
-      "owner_count": 158,
-      "detail_url": "https://allaaktier.se/bolag/flexion-mobile"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 0.53,
-      "discord_members": 178,
-      "facebook_members": null,
-      "market_cap": 55317066.0,
-      "owner_count": 514,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "SPAGO-NANOMEDICAL",
@@ -423,10 +423,20 @@
       "detail_url": "https://allaaktier.se/bolag/spago-nanomedical"
     },
     {
+      "ticker": "S2MEDICAL",
+      "company_name": "S2Medical",
+      "trend7d": 0.38,
+      "discord_members": 119,
+      "facebook_members": null,
+      "market_cap": 5027267.0,
+      "owner_count": 424,
+      "detail_url": "https://allaaktier.se/bolag/s2medical"
+    },
+    {
       "ticker": "BONESUPPORT",
       "company_name": "Bonesupport",
-      "trend7d": 0.4,
-      "discord_members": 453,
+      "trend7d": 0.38,
+      "discord_members": 454,
       "facebook_members": null,
       "market_cap": 13793514710.0,
       "owner_count": 3479,
@@ -493,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
-      "ticker": "S2MEDICAL",
-      "company_name": "S2Medical",
-      "trend7d": 0.33,
-      "discord_members": 119,
-      "facebook_members": null,
-      "market_cap": 5027267.0,
-      "owner_count": 424,
-      "detail_url": "https://allaaktier.se/bolag/s2medical"
-    },
-    {
       "ticker": "VO2-CAP",
       "company_name": "VO2 Cap",
       "trend7d": 0.32,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 72,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
