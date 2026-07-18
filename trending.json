@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T05:29:33.720507+00:00",
+  "generated_at": "2026-07-18T07:56:29.899702+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/acconeer"
     },
     {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.38,
+      "discord_members": 412,
+      "facebook_members": null,
+      "market_cap": 19019765276.07,
+      "owner_count": 1072,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+    },
+    {
       "ticker": "SKANSKA",
       "company_name": "Skanska",
       "trend7d": 0.38,
@@ -501,16 +511,6 @@
       "market_cap": 107117273667.0,
       "owner_count": 9931,
       "detail_url": "https://allaaktier.se/bolag/skanska"
-    },
-    {
-      "ticker": "MEDCLAIR-INVEST",
-      "company_name": "Medclair Invest",
-      "trend7d": 0.36,
-      "discord_members": 967,
-      "facebook_members": null,
-      "market_cap": 265776465.0,
-      "owner_count": 376,
-      "detail_url": "https://allaaktier.se/bolag/medclair-invest"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 51,
+    "total_posts_fetched": 52,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
