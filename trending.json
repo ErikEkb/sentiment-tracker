@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:21:55.362345+00:00",
+  "generated_at": "2026-07-18T14:56:24.028755+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -113,6 +113,16 @@
       "detail_url": "https://allaaktier.se/bolag/circhem"
     },
     {
+      "ticker": "UPSALES-TECHNOLOGY",
+      "company_name": "Upsales Technology",
+      "trend7d": 1.46,
+      "discord_members": 40,
+      "facebook_members": null,
+      "market_cap": 461371475.0,
+      "owner_count": 312,
+      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
       "ticker": "HANZA",
       "company_name": "HANZA",
       "trend7d": 1.43,
@@ -203,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 0.92,
+      "discord_members": 831,
+      "facebook_members": 2821,
+      "market_cap": 94876873.0,
+      "owner_count": 1853,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "TRIBORON-INTERNATIONAL",
       "company_name": "Triboron International",
       "trend7d": 0.88,
@@ -211,16 +231,6 @@
       "market_cap": 75910163.0,
       "owner_count": 320,
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 0.88,
-      "discord_members": 830,
-      "facebook_members": 2821,
-      "market_cap": 94876873.0,
-      "owner_count": 1853,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -331,16 +341,6 @@
       "market_cap": 24708706.0,
       "owner_count": 328,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
-    },
-    {
-      "ticker": "UPSALES-TECHNOLOGY",
-      "company_name": "Upsales Technology",
-      "trend7d": 0.63,
-      "discord_members": 39,
-      "facebook_members": null,
-      "market_cap": 461371475.0,
-      "owner_count": 312,
-      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 49,
+    "total_posts_fetched": 53,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
