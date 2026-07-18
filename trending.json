@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:06:17.688083+00:00",
+  "generated_at": "2026-07-18T13:21:55.362345+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 8.42,
-      "discord_members": 291,
+      "trend7d": 8.7,
+      "discord_members": 293,
       "facebook_members": null,
       "market_cap": 23352575950.0,
       "owner_count": 3960,
@@ -113,16 +113,6 @@
       "detail_url": "https://allaaktier.se/bolag/circhem"
     },
     {
-      "ticker": "36-GROUP",
-      "company_name": "36 Group",
-      "trend7d": 1.51,
-      "discord_members": 281,
-      "facebook_members": null,
-      "market_cap": 14555870.0,
-      "owner_count": 490,
-      "detail_url": "https://allaaktier.se/bolag/36-group"
-    },
-    {
       "ticker": "HANZA",
       "company_name": "HANZA",
       "trend7d": 1.43,
@@ -131,6 +121,16 @@
       "market_cap": 8562469968.0,
       "owner_count": 1433,
       "detail_url": "https://allaaktier.se/bolag/hanza"
+    },
+    {
+      "ticker": "36-GROUP",
+      "company_name": "36 Group",
+      "trend7d": 1.39,
+      "discord_members": 280,
+      "facebook_members": null,
+      "market_cap": 14555870.0,
+      "owner_count": 490,
+      "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
       "ticker": "LOHILO-FOODS",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 49,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
