@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:53:59.844286+00:00",
+  "generated_at": "2026-07-18T22:53:35.650923+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,12 +105,22 @@
     {
       "ticker": "CIRCHEM",
       "company_name": "CirChem",
-      "trend7d": 1.64,
-      "discord_members": 343,
+      "trend7d": 1.74,
+      "discord_members": 344,
       "facebook_members": 118,
       "market_cap": 44795323.0,
       "owner_count": 430,
       "detail_url": "https://allaaktier.se/bolag/circhem"
+    },
+    {
+      "ticker": "SKANSKA",
+      "company_name": "Skanska",
+      "trend7d": 1.67,
+      "discord_members": 27,
+      "facebook_members": null,
+      "market_cap": 107117273667.0,
+      "owner_count": 9931,
+      "detail_url": "https://allaaktier.se/bolag/skanska"
     },
     {
       "ticker": "UPSALES-TECHNOLOGY",
@@ -155,8 +165,8 @@
     {
       "ticker": "PLEJD",
       "company_name": "Plejd",
-      "trend7d": 1.35,
-      "discord_members": 506,
+      "trend7d": 1.29,
+      "discord_members": 505,
       "facebook_members": 2766,
       "market_cap": 10186842296.0,
       "owner_count": 4653,
@@ -203,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 1.08,
+      "discord_members": 147,
+      "facebook_members": null,
+      "market_cap": 93370226.0,
+      "owner_count": 261,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
       "ticker": "ODINWELL",
       "company_name": "Odinwell",
       "trend7d": 1.02,
@@ -241,16 +261,6 @@
       "market_cap": 75910163.0,
       "owner_count": 320,
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
-    },
-    {
-      "ticker": "BIBBINSTRUMENTS",
-      "company_name": "BiBBInstruments",
-      "trend7d": 0.85,
-      "discord_members": 146,
-      "facebook_members": null,
-      "market_cap": 93370226.0,
-      "owner_count": 261,
-      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "ADVERTY",
@@ -473,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
+      "ticker": "CANDLES-SCANDINAVIA",
+      "company_name": "Candles Scandinavia",
+      "trend7d": 0.39,
+      "discord_members": 45,
+      "facebook_members": 166,
+      "market_cap": 371317335.0,
+      "owner_count": 329,
+      "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
+    },
+    {
       "ticker": "ACCONEER",
       "company_name": "Acconeer",
       "trend7d": 0.39,
@@ -483,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/acconeer"
     },
     {
-      "ticker": "SKANSKA",
-      "company_name": "Skanska",
-      "trend7d": 0.38,
-      "discord_members": 26,
-      "facebook_members": null,
-      "market_cap": 107117273667.0,
-      "owner_count": 9931,
-      "detail_url": "https://allaaktier.se/bolag/skanska"
-    },
-    {
       "ticker": "XVIVO-PERFUSION",
       "company_name": "Xvivo Perfusion",
       "trend7d": 0.38,
@@ -501,25 +511,50 @@
       "market_cap": 7515773542.0,
       "owner_count": 1999,
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 0.37,
-      "discord_members": 177,
-      "facebook_members": null,
-      "market_cap": 54573557.0,
-      "owner_count": 515,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "BAHN-B",
+      "company_name": "Bahnhof",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 5.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95456667",
+        "https://www.flashback.org/sp95456983",
+        "https://www.flashback.org/sp95457018"
+      ]
+    },
+    {
+      "ticker": "COLO-B",
+      "company_name": "Coloplast B",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.7,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.1,
+      "sample_posts": [
+        "https://www.flashback.org/sp95455607",
+        "https://www.flashback.org/sp95458523",
+        "https://www.flashback.org/sp95458749"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 66,
-    "tickers_with_any_mentions": 0,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
