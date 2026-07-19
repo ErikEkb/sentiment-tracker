@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T14:58:46.347466+00:00",
+  "generated_at": "2026-07-19T16:03:10.314571+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 8.62,
-      "discord_members": 294,
+      "trend7d": 8.76,
+      "discord_members": 295,
       "facebook_members": null,
       "market_cap": 23352575950.0,
       "owner_count": 3960,
@@ -53,16 +53,6 @@
       "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
-      "ticker": "HANZA",
-      "company_name": "HANZA",
-      "trend7d": 2.03,
-      "discord_members": 112,
-      "facebook_members": 152,
-      "market_cap": 8562469968.0,
-      "owner_count": 1433,
-      "detail_url": "https://allaaktier.se/bolag/hanza"
-    },
-    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 1.92,
@@ -91,6 +81,16 @@
       "market_cap": 530000000.0,
       "owner_count": 600,
       "detail_url": "https://allaaktier.se/bolag/envar"
+    },
+    {
+      "ticker": "HANZA",
+      "company_name": "HANZA",
+      "trend7d": 1.73,
+      "discord_members": 111,
+      "facebook_members": 152,
+      "market_cap": 8562469968.0,
+      "owner_count": 1433,
+      "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
       "ticker": "SKANSKA",
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 58,
+    "total_posts_fetched": 59,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
