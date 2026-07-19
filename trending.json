@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T19:19:16.362516+00:00",
+  "generated_at": "2026-07-19T20:53:46.394026+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 8.76,
-      "discord_members": 295,
+      "trend7d": 9.05,
+      "discord_members": 297,
       "facebook_members": null,
       "market_cap": 23352575950.0,
       "owner_count": 3960,
@@ -45,8 +45,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 2.28,
-      "discord_members": 625,
+      "trend7d": 2.34,
+      "discord_members": 626,
       "facebook_members": null,
       "market_cap": 374048327.0,
       "owner_count": 1662,
@@ -333,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
     },
     {
-      "ticker": "XVIVO-PERFUSION",
-      "company_name": "Xvivo Perfusion",
-      "trend7d": 0.54,
-      "discord_members": 171,
-      "facebook_members": null,
-      "market_cap": 7515773542.0,
-      "owner_count": 1999,
-      "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
-    },
-    {
       "ticker": "SAAB",
       "company_name": "SAAB",
       "trend7d": 0.52,
@@ -473,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/note"
     },
     {
+      "ticker": "XVIVO-PERFUSION",
+      "company_name": "Xvivo Perfusion",
+      "trend7d": 0.34,
+      "discord_members": 170,
+      "facebook_members": null,
+      "market_cap": 7515773542.0,
+      "owner_count": 1999,
+      "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
+    },
+    {
       "ticker": "MILDEF-GROUP",
       "company_name": "Mildef Group",
       "trend7d": 0.34,
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 60,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
