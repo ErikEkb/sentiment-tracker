@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T21:55:56.306450+00:00",
+  "generated_at": "2026-07-19T22:56:34.408000+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -333,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
     },
     {
-      "ticker": "SAAB",
-      "company_name": "SAAB",
-      "trend7d": 0.52,
-      "discord_members": 704,
-      "facebook_members": null,
-      "market_cap": 308098380996.0,
-      "owner_count": 57344,
-      "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
       "ticker": "MINESTO",
       "company_name": "Minesto",
       "trend7d": 0.51,
@@ -361,6 +351,16 @@
       "market_cap": 191540954.0,
       "owner_count": 426,
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
+      "ticker": "SAAB",
+      "company_name": "SAAB",
+      "trend7d": 0.47,
+      "discord_members": 703,
+      "facebook_members": null,
+      "market_cap": 308098380996.0,
+      "owner_count": 57344,
+      "detail_url": "https://allaaktier.se/bolag/saab"
     },
     {
       "ticker": "BIOFRIGAS",
@@ -522,12 +522,12 @@
       "company_name": "Bahnhof",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 1.0,
+      "mentions": 7,
+      "velocity_mentions_per_day": 2.33,
+      "avg_sentiment": 0.743,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 5.0,
+      "trending_score": 5.2,
       "sample_posts": [
         "https://www.flashback.org/sp95456667",
         "https://www.flashback.org/sp95456983",
@@ -550,11 +550,43 @@
         "https://www.flashback.org/sp95458523",
         "https://www.flashback.org/sp95458749"
       ]
+    },
+    {
+      "ticker": "AXFO",
+      "company_name": "Axfood",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95451817",
+        "https://www.flashback.org/sp95459220"
+      ]
+    },
+    {
+      "ticker": "SAAB-B",
+      "company_name": "Saab B",
+      "sector": "Industrials",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.1,
+      "avg_upvote_ratio": 0.5,
+      "label": "neutral",
+      "trending_score": 0.2,
+      "sample_posts": [
+        "https://www.flashback.org/sp95456298",
+        "https://www.flashback.org/sp95463908"
+      ]
     }
   ],
   "stats": {
     "total_posts_fetched": 61,
-    "tickers_with_any_mentions": 4,
+    "tickers_with_any_mentions": 6,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
