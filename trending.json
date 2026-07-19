@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T09:06:05.877709+00:00",
+  "generated_at": "2026-07-19T11:10:12.866628+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -165,8 +165,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 1.01,
-      "discord_members": 831,
+      "trend7d": 1.05,
+      "discord_members": 832,
       "facebook_members": 2821,
       "market_cap": 94876873.0,
       "owner_count": 1853,
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/qliro"
     },
     {
-      "ticker": "BONESUPPORT",
-      "company_name": "Bonesupport",
-      "trend7d": 0.69,
-      "discord_members": 455,
-      "facebook_members": null,
-      "market_cap": 13346193565.0,
-      "owner_count": 3489,
-      "detail_url": "https://allaaktier.se/bolag/bonesupport"
-    },
-    {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
       "trend7d": 0.69,
@@ -311,6 +301,16 @@
       "market_cap": 54573557.0,
       "owner_count": 515,
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
+      "ticker": "BONESUPPORT",
+      "company_name": "Bonesupport",
+      "trend7d": 0.62,
+      "discord_members": 454,
+      "facebook_members": null,
+      "market_cap": 13346193565.0,
+      "owner_count": 3489,
+      "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
       "ticker": "FASTIGHETS-AB-BALDER",
@@ -353,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
-      "ticker": "SAAB",
-      "company_name": "SAAB",
-      "trend7d": 0.47,
-      "discord_members": 703,
-      "facebook_members": null,
-      "market_cap": 308098380996.0,
-      "owner_count": 57344,
-      "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
       "ticker": "BIOFRIGAS",
       "company_name": "Biofrigas",
       "trend7d": 0.45,
@@ -381,6 +371,16 @@
       "market_cap": 9774320625.0,
       "owner_count": 7157,
       "detail_url": "https://allaaktier.se/bolag/intrum"
+    },
+    {
+      "ticker": "SAAB",
+      "company_name": "SAAB",
+      "trend7d": 0.43,
+      "discord_members": 702,
+      "facebook_members": null,
+      "market_cap": 308098380996.0,
+      "owner_count": 57344,
+      "detail_url": "https://allaaktier.se/bolag/saab"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -493,16 +493,6 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 0.33,
-      "discord_members": 480,
-      "facebook_members": null,
-      "market_cap": 1209047898658.0,
-      "owner_count": 16810,
-      "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
       "ticker": "LEADING-EDGE-MATERIALS",
       "company_name": "Leading Edge Materials",
       "trend7d": 0.32,
@@ -511,6 +501,16 @@
       "market_cap": 486507244.0,
       "owner_count": 557,
       "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
+    },
+    {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.31,
+      "discord_members": 1312,
+      "facebook_members": 295,
+      "market_cap": 724520499.0,
+      "owner_count": 1634,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
     }
   ],
   "twitter_mentions": 0,
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 50,
+    "total_posts_fetched": 54,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
