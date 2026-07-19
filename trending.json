@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T17:59:21.013285+00:00",
+  "generated_at": "2026-07-19T19:19:16.362516+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -165,8 +165,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 1.05,
-      "discord_members": 832,
+      "trend7d": 1.09,
+      "discord_members": 833,
       "facebook_members": 2821,
       "market_cap": 94876873.0,
       "owner_count": 1853,
@@ -191,16 +191,6 @@
       "market_cap": 75910163.0,
       "owner_count": 320,
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
-    },
-    {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.88,
-      "discord_members": 252,
-      "facebook_members": 223,
-      "market_cap": 29440711.0,
-      "owner_count": 831,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "36-GROUP",
@@ -231,6 +221,16 @@
       "market_cap": 13418449.0,
       "owner_count": 239,
       "detail_url": "https://allaaktier.se/bolag/odinwell"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.75,
+      "discord_members": 251,
+      "facebook_members": 223,
+      "market_cap": 29440711.0,
+      "owner_count": 831,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "SEAFIRE",
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 60,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
