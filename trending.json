@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T16:03:10.314571+00:00",
+  "generated_at": "2026-07-19T17:59:21.013285+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -233,16 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 0.77,
-      "discord_members": 504,
-      "facebook_members": 2766,
-      "market_cap": 10186842296.0,
-      "owner_count": 4653,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
       "ticker": "SEAFIRE",
       "company_name": "Seafire",
       "trend7d": 0.74,
@@ -271,6 +261,16 @@
       "market_cap": 654061794.0,
       "owner_count": 951,
       "detail_url": "https://allaaktier.se/bolag/qliro"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.7,
+      "discord_members": 503,
+      "facebook_members": 2766,
+      "market_cap": 10186842296.0,
+      "owner_count": 4653,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "ZENERGY",
@@ -343,16 +343,6 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
-      "ticker": "MINESTO",
-      "company_name": "Minesto",
-      "trend7d": 0.54,
-      "discord_members": 1418,
-      "facebook_members": 5066,
-      "market_cap": 564442198.0,
-      "owner_count": 2953,
-      "detail_url": "https://allaaktier.se/bolag/minesto"
-    },
-    {
       "ticker": "SAAB",
       "company_name": "SAAB",
       "trend7d": 0.52,
@@ -361,6 +351,16 @@
       "market_cap": 308098380996.0,
       "owner_count": 57344,
       "detail_url": "https://allaaktier.se/bolag/saab"
+    },
+    {
+      "ticker": "MINESTO",
+      "company_name": "Minesto",
+      "trend7d": 0.51,
+      "discord_members": 1417,
+      "facebook_members": 5066,
+      "market_cap": 564442198.0,
+      "owner_count": 2953,
+      "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -463,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/pixelfox"
     },
     {
-      "ticker": "NANOECHO",
-      "company_name": "NanoEcho",
-      "trend7d": 0.35,
-      "discord_members": 70,
-      "facebook_members": null,
-      "market_cap": 17585479.0,
-      "owner_count": 676,
-      "detail_url": "https://allaaktier.se/bolag/nanoecho"
-    },
-    {
       "ticker": "NOTE",
       "company_name": "NOTE",
       "trend7d": 0.34,
@@ -493,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
-      "ticker": "LEADING-EDGE-MATERIALS",
-      "company_name": "Leading Edge Materials",
-      "trend7d": 0.32,
-      "discord_members": 684,
-      "facebook_members": null,
-      "market_cap": 486507244.0,
-      "owner_count": 557,
-      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
-    },
-    {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
       "trend7d": 0.31,
@@ -511,6 +491,26 @@
       "market_cap": 724520499.0,
       "owner_count": 1634,
       "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
+      "ticker": "BIOARCTIC",
+      "company_name": "BioArctic",
+      "trend7d": 0.31,
+      "discord_members": 735,
+      "facebook_members": 592,
+      "market_cap": 26635090397.0,
+      "owner_count": 3791,
+      "detail_url": "https://allaaktier.se/bolag/bioarctic"
+    },
+    {
+      "ticker": "CANDLES-SCANDINAVIA",
+      "company_name": "Candles Scandinavia",
+      "trend7d": 0.29,
+      "discord_members": 45,
+      "facebook_members": 166,
+      "market_cap": 371317335.0,
+      "owner_count": 329,
+      "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
     }
   ],
   "twitter_mentions": 0,
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 59,
+    "total_posts_fetched": 60,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
