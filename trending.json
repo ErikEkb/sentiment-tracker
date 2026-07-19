@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:23:03.312134+00:00",
+  "generated_at": "2026-07-19T14:58:46.347466+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 1.75,
+      "discord_members": 70,
+      "facebook_members": null,
+      "market_cap": 530000000.0,
+      "owner_count": 600,
+      "detail_url": "https://allaaktier.se/bolag/envar"
+    },
+    {
       "ticker": "SKANSKA",
       "company_name": "Skanska",
       "trend7d": 1.67,
@@ -131,16 +141,6 @@
       "market_cap": 312897513.0,
       "owner_count": 1017,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
-      "ticker": "ENVAR",
-      "company_name": "Envar",
-      "trend7d": 1.25,
-      "discord_members": 69,
-      "facebook_members": null,
-      "market_cap": 530000000.0,
-      "owner_count": 600,
-      "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
       "ticker": "M-O-B-A-NETWORK",
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
