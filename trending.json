@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T06:32:26.845506+00:00",
+  "generated_at": "2026-07-19T09:06:05.877709+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -95,8 +95,8 @@
     {
       "ticker": "CIRCHEM",
       "company_name": "CirChem",
-      "trend7d": 1.64,
-      "discord_members": 344,
+      "trend7d": 1.54,
+      "discord_members": 343,
       "facebook_members": 118,
       "market_cap": 44795323.0,
       "owner_count": 430,
@@ -223,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/ortelius-international"
     },
     {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 0.83,
-      "discord_members": 505,
-      "facebook_members": 2766,
-      "market_cap": 10186842296.0,
-      "owner_count": 4653,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
       "ticker": "ODINWELL",
       "company_name": "Odinwell",
       "trend7d": 0.81,
@@ -241,6 +231,16 @@
       "market_cap": 13418449.0,
       "owner_count": 239,
       "detail_url": "https://allaaktier.se/bolag/odinwell"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.77,
+      "discord_members": 504,
+      "facebook_members": 2766,
+      "market_cap": 10186842296.0,
+      "owner_count": 4653,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "SEAFIRE",
@@ -343,16 +343,6 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
-      "ticker": "ABERA-BIOSCIENCE",
-      "company_name": "Abera Bioscience",
-      "trend7d": 0.54,
-      "discord_members": 239,
-      "facebook_members": 49,
-      "market_cap": 182440646.0,
-      "owner_count": 207,
-      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
-    },
-    {
       "ticker": "MINESTO",
       "company_name": "Minesto",
       "trend7d": 0.54,
@@ -393,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
-      "ticker": "MILDEF-GROUP",
-      "company_name": "Mildef Group",
-      "trend7d": 0.42,
-      "discord_members": 460,
-      "facebook_members": null,
-      "market_cap": 8907070900.0,
-      "owner_count": 7466,
-      "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
       "trend7d": 0.42,
@@ -433,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
+      "ticker": "ABERA-BIOSCIENCE",
+      "company_name": "Abera Bioscience",
+      "trend7d": 0.4,
+      "discord_members": 238,
+      "facebook_members": 49,
+      "market_cap": 182440646.0,
+      "owner_count": 207,
+      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
+    },
+    {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
       "trend7d": 0.38,
@@ -441,16 +431,6 @@
       "market_cap": 323262688.0,
       "owner_count": 280,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
-      "ticker": "LEADING-EDGE-MATERIALS",
-      "company_name": "Leading Edge Materials",
-      "trend7d": 0.37,
-      "discord_members": 685,
-      "facebook_members": null,
-      "market_cap": 486507244.0,
-      "owner_count": 557,
-      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
     },
     {
       "ticker": "GOSOL-ENERGY",
@@ -471,16 +451,6 @@
       "market_cap": 33002233.0,
       "owner_count": 162,
       "detail_url": "https://allaaktier.se/bolag/safe-at-sea"
-    },
-    {
-      "ticker": "SENZIME",
-      "company_name": "Senzime",
-      "trend7d": 0.36,
-      "discord_members": 374,
-      "facebook_members": null,
-      "market_cap": 600561476.0,
-      "owner_count": 509,
-      "detail_url": "https://allaaktier.se/bolag/senzime"
     },
     {
       "ticker": "PIXELFOX",
@@ -511,6 +481,36 @@
       "market_cap": 4099578960.0,
       "owner_count": 2574,
       "detail_url": "https://allaaktier.se/bolag/note"
+    },
+    {
+      "ticker": "MILDEF-GROUP",
+      "company_name": "Mildef Group",
+      "trend7d": 0.34,
+      "discord_members": 459,
+      "facebook_members": null,
+      "market_cap": 8907070900.0,
+      "owner_count": 7466,
+      "detail_url": "https://allaaktier.se/bolag/mildef-group"
+    },
+    {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 0.33,
+      "discord_members": 480,
+      "facebook_members": null,
+      "market_cap": 1209047898658.0,
+      "owner_count": 16810,
+      "detail_url": "https://allaaktier.se/bolag/investor"
+    },
+    {
+      "ticker": "LEADING-EDGE-MATERIALS",
+      "company_name": "Leading Edge Materials",
+      "trend7d": 0.32,
+      "discord_members": 684,
+      "facebook_members": null,
+      "market_cap": 486507244.0,
+      "owner_count": 557,
+      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
     }
   ],
   "twitter_mentions": 0,
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 67,
+    "total_posts_fetched": 50,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
