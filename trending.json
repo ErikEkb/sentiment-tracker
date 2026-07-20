@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T18:53:59.202552+00:00",
+  "generated_at": "2026-07-20T20:23:17.547571+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 14.68,
-      "discord_members": 337,
+      "trend7d": 14.96,
+      "discord_members": 339,
       "facebook_members": null,
       "market_cap": 23265817154.0,
       "owner_count": 3984,
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/attana"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 0.63,
+      "discord_members": 840,
+      "facebook_members": 2821,
+      "market_cap": 97248795.0,
+      "owner_count": 1848,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.61,
@@ -221,16 +231,6 @@
       "market_cap": 928963215402.0,
       "owner_count": 16093,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 0.58,
-      "discord_members": 839,
-      "facebook_members": 2821,
-      "market_cap": 97248795.0,
-      "owner_count": 1848,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "MEDIVIR",
