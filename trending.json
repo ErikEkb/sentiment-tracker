@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T02:11:15.927917+00:00",
+  "generated_at": "2026-07-20T04:37:14.460909+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/senzime"
     },
     {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.38,
+      "discord_members": 1313,
+      "facebook_members": 295,
+      "market_cap": 724520499.0,
+      "owner_count": 1634,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
       "ticker": "FASTIGHETS-AB-BALDER",
       "company_name": "Fastighets AB Balder",
       "trend7d": 0.37,
@@ -391,16 +401,6 @@
       "market_cap": 16379145218.0,
       "owner_count": 5387,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
-    },
-    {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.36,
-      "discord_members": 1312,
-      "facebook_members": 295,
-      "market_cap": 724520499.0,
-      "owner_count": 1634,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "GOSOL-ENERGY",
@@ -552,22 +552,6 @@
       ]
     },
     {
-      "ticker": "AXFO",
-      "company_name": "Axfood",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95451817",
-        "https://www.flashback.org/sp95459220"
-      ]
-    },
-    {
       "ticker": "SAAB-B",
       "company_name": "Saab B",
       "sector": "Industrials",
@@ -586,7 +570,7 @@
   ],
   "stats": {
     "total_posts_fetched": 57,
-    "tickers_with_any_mentions": 6,
+    "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
