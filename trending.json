@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T04:37:14.460909+00:00",
+  "generated_at": "2026-07-20T08:07:26.876519+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 8.99,
-      "discord_members": 298,
+      "trend7d": 9.41,
+      "discord_members": 301,
       "facebook_members": null,
       "market_cap": 23352575950.0,
       "owner_count": 3960,
@@ -25,8 +25,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 2.34,
-      "discord_members": 626,
+      "trend7d": 2.4,
+      "discord_members": 627,
       "facebook_members": null,
       "market_cap": 374048327.0,
       "owner_count": 1662,
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
+      "ticker": "ORTELIUS-INTERNATIONAL",
+      "company_name": "Ortelius International",
+      "trend7d": 0.95,
+      "discord_members": 198,
+      "facebook_members": 78,
+      "market_cap": 12505701.0,
+      "owner_count": 658,
+      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
+    },
+    {
       "ticker": "TRIBORON-INTERNATIONAL",
       "company_name": "Triboron International",
       "trend7d": 0.93,
@@ -141,16 +151,6 @@
       "market_cap": 75910163.0,
       "owner_count": 320,
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
-    },
-    {
-      "ticker": "ORTELIUS-INTERNATIONAL",
-      "company_name": "Ortelius International",
-      "trend7d": 0.9,
-      "discord_members": 198,
-      "facebook_members": 78,
-      "market_cap": 12505701.0,
-      "owner_count": 657,
-      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
     },
     {
       "ticker": "ODINWELL",
@@ -169,7 +169,7 @@
       "discord_members": 64,
       "facebook_members": 3,
       "market_cap": 508180047.0,
-      "owner_count": 348,
+      "owner_count": 346,
       "detail_url": "https://allaaktier.se/bolag/seafire"
     },
     {
@@ -213,16 +213,6 @@
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.65,
-      "discord_members": 251,
-      "facebook_members": 223,
-      "market_cap": 29440711.0,
-      "owner_count": 831,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
       "ticker": "BONESUPPORT",
       "company_name": "Bonesupport",
       "trend7d": 0.64,
@@ -231,6 +221,16 @@
       "market_cap": 13346193565.0,
       "owner_count": 3489,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
+    },
+    {
+      "ticker": "MEDIVIR",
+      "company_name": "Medivir",
+      "trend7d": 0.56,
+      "discord_members": 500,
+      "facebook_members": null,
+      "market_cap": 1028606084.0,
+      "owner_count": 1292,
+      "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
     },
     {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.49,
+      "discord_members": 251,
+      "facebook_members": 223,
+      "market_cap": 29440711.0,
+      "owner_count": 827,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
       "trend7d": 0.49,
@@ -303,14 +313,14 @@
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
-      "ticker": "MEDIVIR",
-      "company_name": "Medivir",
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
       "trend7d": 0.42,
-      "discord_members": 498,
-      "facebook_members": null,
-      "market_cap": 1028606084.0,
-      "owner_count": 1292,
-      "detail_url": "https://allaaktier.se/bolag/medivir"
+      "discord_members": 1313,
+      "facebook_members": 295,
+      "market_cap": 724520499.0,
+      "owner_count": 1636,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "BIOFRIGAS",
@@ -329,8 +339,18 @@
       "discord_members": 503,
       "facebook_members": 2766,
       "market_cap": 10186842296.0,
-      "owner_count": 4653,
+      "owner_count": 4663,
       "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
+      "ticker": "MINESTO",
+      "company_name": "Minesto",
+      "trend7d": 0.39,
+      "discord_members": 1417,
+      "facebook_members": 5066,
+      "market_cap": 564442198.0,
+      "owner_count": 2956,
+      "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
       "ticker": "ONLINE-BRANDS-NORDIC",
@@ -351,16 +371,6 @@
       "market_cap": 600561476.0,
       "owner_count": 509,
       "detail_url": "https://allaaktier.se/bolag/senzime"
-    },
-    {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.38,
-      "discord_members": 1313,
-      "facebook_members": 295,
-      "market_cap": 724520499.0,
-      "owner_count": 1634,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "FASTIGHETS-AB-BALDER",
@@ -413,14 +423,14 @@
       "detail_url": "https://allaaktier.se/bolag/gosol-energy"
     },
     {
-      "ticker": "MINESTO",
-      "company_name": "Minesto",
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
       "trend7d": 0.35,
-      "discord_members": 1417,
-      "facebook_members": 5066,
-      "market_cap": 564442198.0,
-      "owner_count": 2953,
-      "detail_url": "https://allaaktier.se/bolag/minesto"
+      "discord_members": 1183,
+      "facebook_members": 297,
+      "market_cap": 633035784.0,
+      "owner_count": 2387,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "OODA-AI",
@@ -431,26 +441,6 @@
       "market_cap": 125781259.0,
       "owner_count": 271,
       "detail_url": "https://allaaktier.se/bolag/ooda-ai"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.32,
-      "discord_members": 1182,
-      "facebook_members": 297,
-      "market_cap": 633035784.0,
-      "owner_count": 2389,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.31,
-      "discord_members": 1418,
-      "facebook_members": 1546,
-      "market_cap": 10226541906.0,
-      "owner_count": 5658,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
     },
     {
       "ticker": "SAAB",
@@ -493,14 +483,24 @@
       "detail_url": "https://allaaktier.se/bolag/zelluna"
     },
     {
-      "ticker": "ACCONEER",
-      "company_name": "Acconeer",
-      "trend7d": 0.26,
-      "discord_members": 1102,
-      "facebook_members": 1461,
-      "market_cap": 1134508827.0,
-      "owner_count": 1305,
-      "detail_url": "https://allaaktier.se/bolag/acconeer"
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.27,
+      "discord_members": 1418,
+      "facebook_members": 1546,
+      "market_cap": 10226541906.0,
+      "owner_count": 5652,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+    },
+    {
+      "ticker": "CLEAN-MOTION",
+      "company_name": "Clean Motion",
+      "trend7d": 0.25,
+      "discord_members": 270,
+      "facebook_members": 250,
+      "market_cap": 39386101.0,
+      "owner_count": 583,
+      "detail_url": "https://allaaktier.se/bolag/clean-motion"
     },
     {
       "ticker": "OREXO",
@@ -509,7 +509,7 @@
       "discord_members": 313,
       "facebook_members": 503,
       "market_cap": 575184772.0,
-      "owner_count": 794,
+      "owner_count": 793,
       "detail_url": "https://allaaktier.se/bolag/orexo"
     }
   ],
@@ -569,7 +569,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 57,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
