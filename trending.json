@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T14:11:37.856663+00:00",
+  "generated_at": "2026-07-20T16:25:31.558268+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 12.85,
-      "discord_members": 324,
+      "trend7d": 13.97,
+      "discord_members": 332,
       "facebook_members": null,
       "market_cap": 23265817154.0,
       "owner_count": 3984,
@@ -35,8 +35,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 2.32,
-      "discord_members": 627,
+      "trend7d": 2.38,
+      "discord_members": 628,
       "facebook_members": null,
       "market_cap": 386100285.0,
       "owner_count": 1658,
@@ -203,16 +203,6 @@
       "detail_url": "https://allaaktier.se/bolag/attana"
     },
     {
-      "ticker": "HEMPLY-BALANCE",
-      "company_name": "Hemply Balance",
-      "trend7d": 0.69,
-      "discord_members": 69,
-      "facebook_members": null,
-      "market_cap": 5019494.0,
-      "owner_count": 144,
-      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
-    },
-    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 0.69,
@@ -231,6 +221,16 @@
       "market_cap": 674697478.0,
       "owner_count": 178,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.63,
+      "discord_members": 252,
+      "facebook_members": 223,
+      "market_cap": 38909081.0,
+      "owner_count": 827,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "ATLAS-COPCO",
@@ -283,16 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "BIOFRIGAS",
-      "company_name": "Biofrigas",
-      "trend7d": 0.52,
-      "discord_members": 558,
-      "facebook_members": 429,
-      "market_cap": 24800360.0,
-      "owner_count": 336,
-      "detail_url": "https://allaaktier.se/bolag/biofrigas"
-    },
-    {
       "ticker": "CANDLES-SCANDINAVIA",
       "company_name": "Candles Scandinavia",
       "trend7d": 0.49,
@@ -303,16 +293,6 @@
       "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
     },
     {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.49,
-      "discord_members": 251,
-      "facebook_members": 223,
-      "market_cap": 38909081.0,
-      "owner_count": 827,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
       "ticker": "KILIARO",
       "company_name": "Kiliaro",
       "trend7d": 0.47,
@@ -321,6 +301,16 @@
       "market_cap": 3163994.0,
       "owner_count": 362,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
+    },
+    {
+      "ticker": "BIOFRIGAS",
+      "company_name": "Biofrigas",
+      "trend7d": 0.46,
+      "discord_members": 557,
+      "facebook_members": 429,
+      "market_cap": 24800360.0,
+      "owner_count": 336,
+      "detail_url": "https://allaaktier.se/bolag/biofrigas"
     },
     {
       "ticker": "PLEJD",
@@ -371,16 +361,6 @@
       "market_cap": 528026572.0,
       "owner_count": 2956,
       "detail_url": "https://allaaktier.se/bolag/minesto"
-    },
-    {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 0.38,
-      "discord_members": 92,
-      "facebook_members": null,
-      "market_cap": 316047003.0,
-      "owner_count": 280,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "SENZIME",
@@ -511,6 +491,26 @@
       "market_cap": 39147397.0,
       "owner_count": 583,
       "detail_url": "https://allaaktier.se/bolag/clean-motion"
+    },
+    {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 0.24,
+      "discord_members": 479,
+      "facebook_members": null,
+      "market_cap": 1211579659418.0,
+      "owner_count": 16821,
+      "detail_url": "https://allaaktier.se/bolag/investor"
+    },
+    {
+      "ticker": "ZELLUNA",
+      "company_name": "Zelluna",
+      "trend7d": 0.23,
+      "discord_members": 143,
+      "facebook_members": null,
+      "market_cap": 656910716.24,
+      "owner_count": 3314,
+      "detail_url": "https://allaaktier.se/bolag/zelluna"
     }
   ],
   "twitter_mentions": 0,
