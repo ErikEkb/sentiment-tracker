@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:02:14.596858+00:00",
+  "generated_at": "2026-07-20T23:58:06.280018+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 14.96,
-      "discord_members": 339,
+      "trend7d": 15.52,
+      "discord_members": 343,
       "facebook_members": null,
       "market_cap": 23453794546.0,
       "owner_count": 3984,
@@ -25,8 +25,8 @@
     {
       "ticker": "ENVAR",
       "company_name": "Envar",
-      "trend7d": 2.8,
-      "discord_members": 72,
+      "trend7d": 3.3,
+      "discord_members": 73,
       "facebook_members": null,
       "market_cap": 598750000.0,
       "owner_count": 600,
@@ -313,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.43,
+      "discord_members": 1187,
+      "facebook_members": 297,
+      "market_cap": 630260833.0,
+      "owner_count": 2387,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "CLOETTA",
       "company_name": "Cloetta",
       "trend7d": 0.4,
@@ -321,16 +331,6 @@
       "market_cap": 16061663989.0,
       "owner_count": 5394,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.4,
-      "discord_members": 1186,
-      "facebook_members": 297,
-      "market_cap": 630260833.0,
-      "owner_count": 2387,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "MINESTO",
@@ -493,16 +493,6 @@
       "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.24,
-      "discord_members": 823,
-      "facebook_members": null,
-      "market_cap": 9761593645.0,
-      "owner_count": 7178,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
       "ticker": "ZELLUNA",
       "company_name": "Zelluna",
       "trend7d": 0.23,
@@ -511,6 +501,16 @@
       "market_cap": 656910716.24,
       "owner_count": 3314,
       "detail_url": "https://allaaktier.se/bolag/zelluna"
+    },
+    {
+      "ticker": "VOLVO-CAR",
+      "company_name": "Volvo Car",
+      "trend7d": 0.21,
+      "discord_members": 241,
+      "facebook_members": null,
+      "market_cap": 57057888028.0,
+      "owner_count": 28904,
+      "detail_url": "https://allaaktier.se/bolag/volvo-car"
     }
   ],
   "twitter_mentions": 0,
