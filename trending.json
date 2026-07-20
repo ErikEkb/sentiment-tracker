@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T11:47:34.480992+00:00",
+  "generated_at": "2026-07-20T14:11:37.856663+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 10.32,
-      "discord_members": 306,
+      "trend7d": 12.85,
+      "discord_members": 324,
       "facebook_members": null,
       "market_cap": 23265817154.0,
       "owner_count": 3984,
@@ -43,6 +43,16 @@
       "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 2.3,
+      "discord_members": 71,
+      "facebook_members": null,
+      "market_cap": 606250000.0,
+      "owner_count": 600,
+      "detail_url": "https://allaaktier.se/bolag/envar"
+    },
+    {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
       "trend7d": 2.22,
@@ -55,22 +65,12 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.97,
-      "discord_members": 521,
+      "trend7d": 2.04,
+      "discord_members": 522,
       "facebook_members": 363,
       "market_cap": 188566716.0,
       "owner_count": 445,
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
-      "ticker": "ENVAR",
-      "company_name": "Envar",
-      "trend7d": 1.8,
-      "discord_members": 70,
-      "facebook_members": null,
-      "market_cap": 606250000.0,
-      "owner_count": 600,
-      "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
       "ticker": "MIPS",
@@ -255,8 +255,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 0.54,
-      "discord_members": 838,
+      "trend7d": 0.58,
+      "discord_members": 839,
       "facebook_members": 2821,
       "market_cap": 97248795.0,
       "owner_count": 1848,
@@ -271,6 +271,16 @@
       "market_cap": 1054662451.0,
       "owner_count": 1291,
       "detail_url": "https://allaaktier.se/bolag/medivir"
+    },
+    {
+      "ticker": "FREJA-EID",
+      "company_name": "Freja eID",
+      "trend7d": 0.52,
+      "discord_members": 228,
+      "facebook_members": 105,
+      "market_cap": 634053623.0,
+      "owner_count": 706,
+      "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
       "ticker": "BIOFRIGAS",
@@ -325,8 +335,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 0.42,
-      "discord_members": 1313,
+      "trend7d": 0.45,
+      "discord_members": 1314,
       "facebook_members": 295,
       "market_cap": 740409107.0,
       "owner_count": 1636,
@@ -341,6 +351,16 @@
       "market_cap": 16263697499.0,
       "owner_count": 5395,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.4,
+      "discord_members": 1186,
+      "facebook_members": 297,
+      "market_cap": 659050954.0,
+      "owner_count": 2387,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "MINESTO",
@@ -383,26 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
-      "ticker": "FREJA-EID",
-      "company_name": "Freja eID",
-      "trend7d": 0.37,
-      "discord_members": 227,
-      "facebook_members": 105,
-      "market_cap": 634053623.0,
-      "owner_count": 706,
-      "detail_url": "https://allaaktier.se/bolag/freja-eid"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.37,
-      "discord_members": 1185,
-      "facebook_members": 297,
-      "market_cap": 659050954.0,
-      "owner_count": 2387,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
       "ticker": "FASTIGHETS-AB-BALDER",
       "company_name": "Fastighets AB Balder",
       "trend7d": 0.36,
@@ -411,16 +411,6 @@
       "market_cap": 60142600000.0,
       "owner_count": 3894,
       "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
-    },
-    {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 0.33,
-      "discord_members": 45,
-      "facebook_members": null,
-      "market_cap": 34631955142.0,
-      "owner_count": 3609,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "OODA-AI",
@@ -511,6 +501,16 @@
       "market_cap": 4096724100.0,
       "owner_count": 2584,
       "detail_url": "https://allaaktier.se/bolag/note"
+    },
+    {
+      "ticker": "CLEAN-MOTION",
+      "company_name": "Clean Motion",
+      "trend7d": 0.25,
+      "discord_members": 270,
+      "facebook_members": 250,
+      "market_cap": 39147397.0,
+      "owner_count": 583,
+      "detail_url": "https://allaaktier.se/bolag/clean-motion"
     }
   ],
   "twitter_mentions": 0,
