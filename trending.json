@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:25:31.558268+00:00",
+  "generated_at": "2026-07-20T18:53:59.202552+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,12 +15,22 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 13.97,
-      "discord_members": 332,
+      "trend7d": 14.68,
+      "discord_members": 337,
       "facebook_members": null,
       "market_cap": 23265817154.0,
       "owner_count": 3984,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 2.8,
+      "discord_members": 72,
+      "facebook_members": null,
+      "market_cap": 606250000.0,
+      "owner_count": 600,
+      "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
       "ticker": "HANZA",
@@ -41,16 +51,6 @@
       "market_cap": 386100285.0,
       "owner_count": 1658,
       "detail_url": "https://allaaktier.se/bolag/obducat"
-    },
-    {
-      "ticker": "ENVAR",
-      "company_name": "Envar",
-      "trend7d": 2.3,
-      "discord_members": 71,
-      "facebook_members": null,
-      "market_cap": 606250000.0,
-      "owner_count": 600,
-      "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
       "ticker": "RAYSEARCH-LABORATORIES",
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
     },
     {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 0.86,
+      "discord_members": 181,
+      "facebook_members": null,
+      "market_cap": 674697478.0,
+      "owner_count": 178,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
       "trend7d": 0.83,
@@ -203,36 +213,6 @@
       "detail_url": "https://allaaktier.se/bolag/attana"
     },
     {
-      "ticker": "QLIRO",
-      "company_name": "Qliro",
-      "trend7d": 0.69,
-      "discord_members": 46,
-      "facebook_members": null,
-      "market_cap": 657486202.0,
-      "owner_count": 950,
-      "detail_url": "https://allaaktier.se/bolag/qliro"
-    },
-    {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 0.68,
-      "discord_members": 180,
-      "facebook_members": null,
-      "market_cap": 674697478.0,
-      "owner_count": 178,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.63,
-      "discord_members": 252,
-      "facebook_members": 223,
-      "market_cap": 38909081.0,
-      "owner_count": 827,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.61,
@@ -241,16 +221,6 @@
       "market_cap": 928963215402.0,
       "owner_count": 16093,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
-    },
-    {
-      "ticker": "SEAFIRE",
-      "company_name": "Seafire",
-      "trend7d": 0.59,
-      "discord_members": 64,
-      "facebook_members": 3,
-      "market_cap": 519567835.0,
-      "owner_count": 346,
-      "detail_url": "https://allaaktier.se/bolag/seafire"
     },
     {
       "ticker": "SUBGEN-AI",
@@ -283,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.5,
+      "discord_members": 1316,
+      "facebook_members": 295,
+      "market_cap": 740409107.0,
+      "owner_count": 1636,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
       "ticker": "CANDLES-SCANDINAVIA",
       "company_name": "Candles Scandinavia",
       "trend7d": 0.49,
@@ -291,6 +271,16 @@
       "market_cap": 365360373.0,
       "owner_count": 329,
       "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.49,
+      "discord_members": 251,
+      "facebook_members": 223,
+      "market_cap": 38909081.0,
+      "owner_count": 827,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "KILIARO",
@@ -321,16 +311,6 @@
       "market_cap": 10356811856.0,
       "owner_count": 4663,
       "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.45,
-      "discord_members": 1314,
-      "facebook_members": 295,
-      "market_cap": 740409107.0,
-      "owner_count": 1636,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "CLOETTA",
@@ -381,6 +361,16 @@
       "market_cap": 314515948.0,
       "owner_count": 1013,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 0.37,
+      "discord_members": 111,
+      "facebook_members": null,
+      "market_cap": 150044500.0,
+      "owner_count": 358,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
       "ticker": "FASTIGHETS-AB-BALDER",
@@ -441,6 +431,16 @@
       "market_cap": 344944629.0,
       "owner_count": 652,
       "detail_url": "https://allaaktier.se/bolag/nexam-chemical"
+    },
+    {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.27,
+      "discord_members": 413,
+      "facebook_members": null,
+      "market_cap": 19074897739.13,
+      "owner_count": 1071,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "SAAB",
