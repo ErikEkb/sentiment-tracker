@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T17:23:57.311420+00:00",
+  "generated_at": "2026-07-21T19:27:46.790817+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 20.33,
-      "discord_members": 390,
+      "trend7d": 20.47,
+      "discord_members": 391,
       "facebook_members": null,
       "market_cap": 21964435213.0,
       "owner_count": 4036,
@@ -55,8 +55,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 2.67,
-      "discord_members": 631,
+      "trend7d": 2.73,
+      "discord_members": 632,
       "facebook_members": null,
       "market_cap": 374473762.0,
       "owner_count": 1658,
@@ -303,16 +303,6 @@
       "detail_url": "https://allaaktier.se/bolag/clean-motion"
     },
     {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.49,
-      "discord_members": 1318,
-      "facebook_members": 295,
-      "market_cap": 782778727.0,
-      "owner_count": 1634,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
-    },
-    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 0.47,
@@ -331,6 +321,16 @@
       "market_cap": 371317335.0,
       "owner_count": 329,
       "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
+    },
+    {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.46,
+      "discord_members": 1317,
+      "facebook_members": 295,
+      "market_cap": 782778727.0,
+      "owner_count": 1634,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "CLOETTA",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 69,
+    "total_posts_fetched": 67,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
