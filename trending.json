@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:27:46.790817+00:00",
+  "generated_at": "2026-07-21T21:13:19.079944+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "HANZA",
       "company_name": "HANZA",
-      "trend7d": 3.05,
-      "discord_members": 111,
+      "trend7d": 2.75,
+      "discord_members": 110,
       "facebook_members": 152,
       "market_cap": 8222489543.0,
       "owner_count": 1458,
@@ -78,7 +78,7 @@
       "trend7d": 2.27,
       "discord_members": 523,
       "facebook_members": 363,
-      "market_cap": 186484749.0,
+      "market_cap": 200463670.0,
       "owner_count": 446,
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
@@ -113,12 +113,22 @@
       "detail_url": "https://allaaktier.se/bolag/skanska"
     },
     {
+      "ticker": "ORTELIUS-INTERNATIONAL",
+      "company_name": "Ortelius International",
+      "trend7d": 1.38,
+      "discord_members": 199,
+      "facebook_members": 78,
+      "market_cap": 11367682.0,
+      "owner_count": 666,
+      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
+    },
+    {
       "ticker": "LOHILO-FOODS",
       "company_name": "Lohilo Foods",
       "trend7d": 1.33,
       "discord_members": 31,
       "facebook_members": 222,
-      "market_cap": 80610526.0,
+      "market_cap": 79480472.0,
       "owner_count": 737,
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
@@ -131,16 +141,6 @@
       "market_cap": 27045541.0,
       "owner_count": 320,
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
-    },
-    {
-      "ticker": "ORTELIUS-INTERNATIONAL",
-      "company_name": "Ortelius International",
-      "trend7d": 1.21,
-      "discord_members": 198,
-      "facebook_members": 78,
-      "market_cap": 12605747.0,
-      "owner_count": 666,
-      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
     },
     {
       "ticker": "REFINE-GROUP",
@@ -158,7 +158,7 @@
       "trend7d": 0.84,
       "discord_members": 158,
       "facebook_members": 142,
-      "market_cap": 12741888.0,
+      "market_cap": 12366021.0,
       "owner_count": 239,
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
@@ -178,7 +178,7 @@
       "trend7d": 0.81,
       "discord_members": 233,
       "facebook_members": 105,
-      "market_cap": 569791431.0,
+      "market_cap": 565507285.0,
       "owner_count": 702,
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
@@ -188,7 +188,7 @@
       "trend7d": 0.81,
       "discord_members": 250,
       "facebook_members": 223,
-      "market_cap": 64108751.0,
+      "market_cap": 50300712.0,
       "owner_count": 840,
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
@@ -288,7 +288,7 @@
       "trend7d": 0.51,
       "discord_members": 158,
       "facebook_members": 13,
-      "market_cap": 170781501.0,
+      "market_cap": 161793001.0,
       "owner_count": 259,
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     },
@@ -298,7 +298,7 @@
       "trend7d": 0.51,
       "discord_members": 271,
       "facebook_members": 250,
-      "market_cap": 39624804.0,
+      "market_cap": 38988261.0,
       "owner_count": 584,
       "detail_url": "https://allaaktier.se/bolag/clean-motion"
     },
@@ -328,7 +328,7 @@
       "trend7d": 0.46,
       "discord_members": 1317,
       "facebook_members": 295,
-      "market_cap": 782778727.0,
+      "market_cap": 810318979.0,
       "owner_count": 1634,
       "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
@@ -438,7 +438,7 @@
       "trend7d": 0.35,
       "discord_members": 558,
       "facebook_members": 429,
-      "market_cap": 24800360.0,
+      "market_cap": 24727417.0,
       "owner_count": 335,
       "detail_url": "https://allaaktier.se/bolag/biofrigas"
     },
@@ -456,9 +456,9 @@
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
       "trend7d": 0.33,
-      "discord_members": 415,
+      "discord_members": 414,
       "facebook_members": null,
-      "market_cap": 17145956234.27,
+      "market_cap": 17648506278.47,
       "owner_count": 1076,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 67,
+    "total_posts_fetched": 70,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
