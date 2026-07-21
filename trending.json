@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T15:48:22.008247+00:00",
+  "generated_at": "2026-07-21T17:23:57.311420+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 19.93,
-      "discord_members": 387,
+      "trend7d": 20.33,
+      "discord_members": 390,
       "facebook_members": null,
       "market_cap": 21964435213.0,
       "owner_count": 4036,
@@ -55,8 +55,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 2.5,
-      "discord_members": 628,
+      "trend7d": 2.67,
+      "discord_members": 631,
       "facebook_members": null,
       "market_cap": 374473762.0,
       "owner_count": 1658,
@@ -143,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/ortelius-international"
     },
     {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.95,
-      "discord_members": 251,
-      "facebook_members": 223,
-      "market_cap": 64108751.0,
-      "owner_count": 840,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 0.87,
@@ -183,6 +173,26 @@
       "detail_url": "https://allaaktier.se/bolag/triboron-international"
     },
     {
+      "ticker": "FREJA-EID",
+      "company_name": "Freja eID",
+      "trend7d": 0.81,
+      "discord_members": 233,
+      "facebook_members": 105,
+      "market_cap": 569791431.0,
+      "owner_count": 702,
+      "detail_url": "https://allaaktier.se/bolag/freja-eid"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.81,
+      "discord_members": 250,
+      "facebook_members": 223,
+      "market_cap": 64108751.0,
+      "owner_count": 840,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
       "trend7d": 0.77,
@@ -211,16 +221,6 @@
       "market_cap": 13219341300.0,
       "owner_count": 3498,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
-    },
-    {
-      "ticker": "FREJA-EID",
-      "company_name": "Freja eID",
-      "trend7d": 0.67,
-      "discord_members": 232,
-      "facebook_members": 105,
-      "market_cap": 569791431.0,
-      "owner_count": 702,
-      "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
       "ticker": "MEDIVIR",
@@ -443,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/biofrigas"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 0.34,
+      "discord_members": 840,
+      "facebook_members": 2821,
+      "market_cap": 101992639.0,
+      "owner_count": 1851,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
       "trend7d": 0.33,
@@ -453,14 +463,14 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 0.3,
-      "discord_members": 839,
-      "facebook_members": 2821,
-      "market_cap": 101992639.0,
-      "owner_count": 1851,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+      "ticker": "OREXO",
+      "company_name": "Orexo",
+      "trend7d": 0.29,
+      "discord_members": 314,
+      "facebook_members": 503,
+      "market_cap": 607139481.0,
+      "owner_count": 793,
+      "detail_url": "https://allaaktier.se/bolag/orexo"
     },
     {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
@@ -501,16 +511,6 @@
       "market_cap": 33091732370.0,
       "owner_count": 3641,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "SODER-SPORTFISKE",
-      "company_name": "Söder Sportfiske",
-      "trend7d": 0.24,
-      "discord_members": 76,
-      "facebook_members": null,
-      "market_cap": 141447213.0,
-      "owner_count": 262,
-      "detail_url": "https://allaaktier.se/bolag/soder-sportfiske"
     }
   ],
   "twitter_mentions": 0,
