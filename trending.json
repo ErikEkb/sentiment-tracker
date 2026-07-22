@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T15:06:28.056404+00:00",
+  "generated_at": "2026-07-22T17:23:20.311781+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "INTRUM",
       "company_name": "Intrum",
-      "trend7d": 2138.7,
-      "discord_members": 823,
+      "trend7d": 2138.74,
+      "discord_members": 824,
       "facebook_members": null,
       "market_cap": 9761593645.0,
       "owner_count": 7215,
@@ -45,8 +45,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 17.02,
-      "discord_members": 392,
+      "trend7d": 17.26,
+      "discord_members": 393,
       "facebook_members": null,
       "market_cap": 20388317084.0,
       "owner_count": 4036,
@@ -63,24 +63,24 @@
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
-      "ticker": "HANZA",
-      "company_name": "HANZA",
-      "trend7d": 2.94,
-      "discord_members": 110,
-      "facebook_members": 152,
-      "market_cap": 9066144672.0,
-      "owner_count": 1468,
-      "detail_url": "https://allaaktier.se/bolag/hanza"
-    },
-    {
       "ticker": "ORTELIUS-INTERNATIONAL",
       "company_name": "Ortelius International",
-      "trend7d": 2.82,
-      "discord_members": 211,
+      "trend7d": 3.33,
+      "discord_members": 214,
       "facebook_members": 78,
       "market_cap": 11767865.0,
       "owner_count": 662,
       "detail_url": "https://allaaktier.se/bolag/ortelius-international"
+    },
+    {
+      "ticker": "HANZA",
+      "company_name": "HANZA",
+      "trend7d": 2.64,
+      "discord_members": 109,
+      "facebook_members": 152,
+      "market_cap": 9066144672.0,
+      "owner_count": 1468,
+      "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -155,8 +155,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 1.46,
-      "discord_members": 2237,
+      "trend7d": 1.47,
+      "discord_members": 2238,
       "facebook_members": 405,
       "market_cap": 449331097.0,
       "owner_count": 2137,
@@ -333,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
-      "ticker": "REFINE-GROUP",
-      "company_name": "Refine Group",
-      "trend7d": 0.5,
-      "discord_members": 78,
-      "facebook_members": null,
-      "market_cap": 283560042.0,
-      "owner_count": 443,
-      "detail_url": "https://allaaktier.se/bolag/refine-group"
-    },
-    {
       "ticker": "FASTIGHETS-AB-BALDER",
       "company_name": "Fastighets AB Balder",
       "trend7d": 0.49,
@@ -511,28 +501,22 @@
       "market_cap": 318748695401.0,
       "owner_count": 57403,
       "detail_url": "https://allaaktier.se/bolag/saab"
+    },
+    {
+      "ticker": "CLEAN-MOTION",
+      "company_name": "Clean Motion",
+      "trend7d": 0.31,
+      "discord_members": 272,
+      "facebook_members": 250,
+      "market_cap": 38510854.0,
+      "owner_count": 581,
+      "detail_url": "https://allaaktier.se/bolag/clean-motion"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "NOVO-B",
-      "company_name": "Novo Nordisk B",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95478244",
-        "https://www.flashback.org/sp95480937"
-      ]
-    },
     {
       "ticker": "SPCX",
       "company_name": "SpaceX",
@@ -552,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 74,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 82,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
