@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T17:23:20.311781+00:00",
+  "generated_at": "2026-07-22T19:25:15.577363+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -153,16 +153,6 @@
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
     },
     {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 1.47,
-      "discord_members": 2238,
-      "facebook_members": 405,
-      "market_cap": 449331097.0,
-      "owner_count": 2137,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
       "ticker": "SKANSKA",
       "company_name": "Skanska",
       "trend7d": 1.44,
@@ -183,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 1.43,
+      "discord_members": 2235,
+      "facebook_members": 405,
+      "market_cap": 449331097.0,
+      "owner_count": 2137,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
+    },
+    {
       "ticker": "LOHILO-FOODS",
       "company_name": "Lohilo Foods",
       "trend7d": 1.41,
@@ -201,16 +201,6 @@
       "market_cap": 69679677508.54,
       "owner_count": 5869,
       "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
-      "ticker": "ACUCORT",
-      "company_name": "AcuCort",
-      "trend7d": 0.76,
-      "discord_members": 113,
-      "facebook_members": null,
-      "market_cap": 148637833.0,
-      "owner_count": 356,
-      "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
       "ticker": "SEAFIRE",
@@ -363,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/ratos"
     },
     {
-      "ticker": "ADVERTY",
-      "company_name": "Adverty",
-      "trend7d": 0.48,
-      "discord_members": 1199,
-      "facebook_members": 367,
-      "market_cap": 85265941.0,
-      "owner_count": 452,
-      "detail_url": "https://allaaktier.se/bolag/adverty"
-    },
-    {
       "ticker": "FERROAMP",
       "company_name": "Ferroamp",
       "trend7d": 0.46,
@@ -381,6 +361,46 @@
       "market_cap": 316134383.0,
       "owner_count": 1013,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 0.45,
+      "discord_members": 112,
+      "facebook_members": null,
+      "market_cap": 148637833.0,
+      "owner_count": 356,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
+      "ticker": "ADVERTY",
+      "company_name": "Adverty",
+      "trend7d": 0.45,
+      "discord_members": 1198,
+      "facebook_members": 367,
+      "market_cap": 85265941.0,
+      "owner_count": 452,
+      "detail_url": "https://allaaktier.se/bolag/adverty"
+    },
+    {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.44,
+      "discord_members": 1322,
+      "facebook_members": 295,
+      "market_cap": 842096194.0,
+      "owner_count": 1638,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
+      "ticker": "BONESUPPORT",
+      "company_name": "Bonesupport",
+      "trend7d": 0.43,
+      "discord_members": 455,
+      "facebook_members": null,
+      "market_cap": 13593221660.0,
+      "owner_count": 3501,
+      "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
       "ticker": "PLEJD",
@@ -443,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.39,
-      "discord_members": 1320,
-      "facebook_members": 295,
-      "market_cap": 842096194.0,
-      "owner_count": 1638,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
-    },
-    {
       "ticker": "SODER-SPORTFISKE",
       "company_name": "Söder Sportfiske",
       "trend7d": 0.37,
@@ -471,16 +481,6 @@
       "market_cap": 17682745838.99,
       "owner_count": 1077,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
-    },
-    {
-      "ticker": "BONESUPPORT",
-      "company_name": "Bonesupport",
-      "trend7d": 0.35,
-      "discord_members": 454,
-      "facebook_members": null,
-      "market_cap": 13593221660.0,
-      "owner_count": 3501,
-      "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
       "ticker": "ANOTO",
@@ -516,28 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "SPCX",
-      "company_name": "SpaceX",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 8,
-      "velocity_mentions_per_day": 2.67,
-      "avg_sentiment": 0.125,
-      "avg_upvote_ratio": 0.5,
-      "label": "neutral",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95480035",
-        "https://www.flashback.org/sp95481060",
-        "https://www.flashback.org/sp95481158"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 82,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 80,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
