@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:26:37.258778+00:00",
+  "generated_at": "2026-07-22T15:06:28.056404+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -73,6 +73,16 @@
       "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
+      "ticker": "ORTELIUS-INTERNATIONAL",
+      "company_name": "Ortelius International",
+      "trend7d": 2.82,
+      "discord_members": 211,
+      "facebook_members": 78,
+      "market_cap": 11767865.0,
+      "owner_count": 662,
+      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
+    },
+    {
       "ticker": "INCOAX-NETWORKS",
       "company_name": "InCoax Networks",
       "trend7d": 2.23,
@@ -143,6 +153,16 @@
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
     },
     {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 1.46,
+      "discord_members": 2237,
+      "facebook_members": 405,
+      "market_cap": 449331097.0,
+      "owner_count": 2137,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
+    },
+    {
       "ticker": "SKANSKA",
       "company_name": "Skanska",
       "trend7d": 1.44,
@@ -163,16 +183,6 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 1.43,
-      "discord_members": 2235,
-      "facebook_members": 405,
-      "market_cap": 449331097.0,
-      "owner_count": 2137,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
       "ticker": "LOHILO-FOODS",
       "company_name": "Lohilo Foods",
       "trend7d": 1.41,
@@ -181,16 +191,6 @@
       "market_cap": 79480472.0,
       "owner_count": 738,
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
-    },
-    {
-      "ticker": "ORTELIUS-INTERNATIONAL",
-      "company_name": "Ortelius International",
-      "trend7d": 1.12,
-      "discord_members": 201,
-      "facebook_members": 78,
-      "market_cap": 11767865.0,
-      "owner_count": 662,
-      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
     },
     {
       "ticker": "KLARNA",
@@ -223,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/seafire"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.74,
+      "discord_members": 1197,
+      "facebook_members": 297,
+      "market_cap": 628526488.0,
+      "owner_count": 2386,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
       "trend7d": 0.73,
@@ -231,16 +241,6 @@
       "market_cap": 579787772.0,
       "owner_count": 705,
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.71,
-      "discord_members": 1196,
-      "facebook_members": 297,
-      "market_cap": 628526488.0,
-      "owner_count": 2386,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "ZENERGY",
@@ -463,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
-      "ticker": "ATLAS-COPCO",
-      "company_name": "Atlas Copco",
-      "trend7d": 0.38,
-      "discord_members": 97,
-      "facebook_members": null,
-      "market_cap": 942673124291.0,
-      "owner_count": 16126,
-      "detail_url": "https://allaaktier.se/bolag/atlas-copco"
-    },
-    {
       "ticker": "SODER-SPORTFISKE",
       "company_name": "Söder Sportfiske",
       "trend7d": 0.37,
@@ -511,6 +501,16 @@
       "market_cap": 142204795.0,
       "owner_count": 1383,
       "detail_url": "https://allaaktier.se/bolag/anoto"
+    },
+    {
+      "ticker": "SAAB",
+      "company_name": "SAAB",
+      "trend7d": 0.31,
+      "discord_members": 704,
+      "facebook_members": null,
+      "market_cap": 318748695401.0,
+      "owner_count": 57403,
+      "detail_url": "https://allaaktier.se/bolag/saab"
     }
   ],
   "twitter_mentions": 0,
