@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T04:19:04.038306+00:00",
+  "generated_at": "2026-07-22T07:36:05.575021+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "INTRUM",
       "company_name": "Intrum",
-      "trend7d": 2130.05,
-      "discord_members": 822,
+      "trend7d": 2130.09,
+      "discord_members": 823,
       "facebook_members": null,
       "market_cap": 9958861834.0,
       "owner_count": 7180,
@@ -35,8 +35,8 @@
     {
       "ticker": "PRECISE-BIOMETRICS",
       "company_name": "Precise Biometrics",
-      "trend7d": 43.93,
-      "discord_members": 141,
+      "trend7d": 44.16,
+      "discord_members": 142,
       "facebook_members": 540,
       "market_cap": 110320844.0,
       "owner_count": 4290,
@@ -55,8 +55,8 @@
     {
       "ticker": "ENVAR",
       "company_name": "Envar",
-      "trend7d": 5.75,
-      "discord_members": 79,
+      "trend7d": 6.24,
+      "discord_members": 80,
       "facebook_members": null,
       "market_cap": 617500000.0,
       "owner_count": 599,
@@ -85,8 +85,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 1.84,
-      "discord_members": 633,
+      "trend7d": 1.96,
+      "discord_members": 635,
       "facebook_members": null,
       "market_cap": 381779084.0,
       "owner_count": 1658,
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
+      "ticker": "MEDIVIR",
+      "company_name": "Medivir",
+      "trend7d": 0.65,
+      "discord_members": 501,
+      "facebook_members": null,
+      "market_cap": 1085681935.0,
+      "owner_count": 1293,
+      "detail_url": "https://allaaktier.se/bolag/medivir"
+    },
+    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
       "trend7d": 0.64,
@@ -193,6 +203,16 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.63,
+      "discord_members": 1193,
+      "facebook_members": 297,
+      "market_cap": 631995178.0,
+      "owner_count": 2387,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 0.61,
@@ -201,26 +221,6 @@
       "market_cap": 50300712.0,
       "owner_count": 840,
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.6,
-      "discord_members": 1192,
-      "facebook_members": 297,
-      "market_cap": 631995178.0,
-      "owner_count": 2387,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "MEDIVIR",
-      "company_name": "Medivir",
-      "trend7d": 0.59,
-      "discord_members": 500,
-      "facebook_members": null,
-      "market_cap": 1085681935.0,
-      "owner_count": 1293,
-      "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
       "ticker": "SAFE-AT-SEA",
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     },
     {
+      "ticker": "BIOFRIGAS",
+      "company_name": "Biofrigas",
+      "trend7d": 0.53,
+      "discord_members": 559,
+      "facebook_members": 429,
+      "market_cap": 24727417.0,
+      "owner_count": 335,
+      "detail_url": "https://allaaktier.se/bolag/biofrigas"
+    },
+    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 0.52,
@@ -251,6 +261,16 @@
       "market_cap": 6991543.0,
       "owner_count": 214,
       "detail_url": "https://allaaktier.se/bolag/eatgood"
+    },
+    {
+      "ticker": "CLEAN-MOTION",
+      "company_name": "Clean Motion",
+      "trend7d": 0.52,
+      "discord_members": 272,
+      "facebook_members": 250,
+      "market_cap": 38988261.0,
+      "owner_count": 584,
+      "detail_url": "https://allaaktier.se/bolag/clean-motion"
     },
     {
       "ticker": "REFINE-GROUP",
@@ -281,16 +301,6 @@
       "market_cap": 16234835569.0,
       "owner_count": 5404,
       "detail_url": "https://allaaktier.se/bolag/cloetta"
-    },
-    {
-      "ticker": "BIOFRIGAS",
-      "company_name": "Biofrigas",
-      "trend7d": 0.47,
-      "discord_members": 558,
-      "facebook_members": 429,
-      "market_cap": 24727417.0,
-      "owner_count": 335,
-      "detail_url": "https://allaaktier.se/bolag/biofrigas"
     },
     {
       "ticker": "RAYSEARCH-LABORATORIES",
@@ -331,16 +341,6 @@
       "market_cap": 682992939.0,
       "owner_count": 179,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
-      "ticker": "CLEAN-MOTION",
-      "company_name": "Clean Motion",
-      "trend7d": 0.39,
-      "discord_members": 271,
-      "facebook_members": 250,
-      "market_cap": 38988261.0,
-      "owner_count": 584,
-      "detail_url": "https://allaaktier.se/bolag/clean-motion"
     },
     {
       "ticker": "MIPS",
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.33,
+      "discord_members": 415,
+      "facebook_members": null,
+      "market_cap": 17648506278.47,
+      "owner_count": 1076,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+    },
+    {
       "ticker": "VOLVO-CAR",
       "company_name": "Volvo Car",
       "trend7d": 0.32,
@@ -501,16 +511,6 @@
       "market_cap": 312880154810.0,
       "owner_count": 57382,
       "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.25,
-      "discord_members": 414,
-      "facebook_members": null,
-      "market_cap": 17648506278.47,
-      "owner_count": 1076,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     }
   ],
   "twitter_mentions": 0,
@@ -568,7 +568,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 62,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
