@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T18:15:09.245613+00:00",
+  "generated_at": "2026-07-23T20:15:18.079550+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -66,7 +66,7 @@
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
       "trend7d": 2.31,
-      "discord_members": 671,
+      "discord_members": 680,
       "facebook_members": null,
       "market_cap": 426054686.0,
       "owner_count": 1656,
@@ -175,8 +175,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 0.8,
-      "discord_members": 1201,
+      "trend7d": 0.82,
+      "discord_members": 1202,
       "facebook_members": 297,
       "market_cap": 636851343.0,
       "owner_count": 2390,
@@ -253,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 0.57,
+      "discord_members": 840,
+      "facebook_members": 2821,
+      "market_cap": 89243559.0,
+      "owner_count": 1863,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "RATOS",
       "company_name": "Ratos",
       "trend7d": 0.53,
@@ -271,16 +281,6 @@
       "market_cap": 9825228545.0,
       "owner_count": 7227,
       "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 0.53,
-      "discord_members": 839,
-      "facebook_members": 2821,
-      "market_cap": 89243559.0,
-      "owner_count": 1863,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "FASTIGHETS-AB-BALDER",
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/soder-sportfiske"
     },
     {
+      "ticker": "ACARIX",
+      "company_name": "Acarix",
+      "trend7d": 0.34,
+      "discord_members": 617,
+      "facebook_members": 395,
+      "market_cap": 310127896.0,
+      "owner_count": 1326,
+      "detail_url": "https://allaaktier.se/bolag/acarix"
+    },
+    {
       "ticker": "CESSATECH",
       "company_name": "Cessatech",
       "trend7d": 0.33,
@@ -451,16 +461,6 @@
       "market_cap": 429282952.0,
       "owner_count": 961,
       "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
-    },
-    {
-      "ticker": "ACARIX",
-      "company_name": "Acarix",
-      "trend7d": 0.29,
-      "discord_members": 616,
-      "facebook_members": 395,
-      "market_cap": 310127896.0,
-      "owner_count": 1326,
-      "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
       "ticker": "VOLVO-CAR",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 70,
+    "total_posts_fetched": 74,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
