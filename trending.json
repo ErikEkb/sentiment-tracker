@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:51:56.764500+00:00",
+  "generated_at": "2026-07-23T14:07:44.925097+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "ORTELIUS-INTERNATIONAL",
       "company_name": "Ortelius International",
-      "trend7d": 3.8,
-      "discord_members": 218,
+      "trend7d": 3.97,
+      "discord_members": 219,
       "facebook_members": 78,
       "market_cap": 12373549.0,
       "owner_count": 660,
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.8,
+      "discord_members": 1201,
+      "facebook_members": 297,
+      "market_cap": 636851343.0,
+      "owner_count": 2390,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 0.78,
@@ -173,14 +183,14 @@
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.74,
-      "discord_members": 1199,
-      "facebook_members": 297,
-      "market_cap": 636851343.0,
-      "owner_count": 2390,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 0.71,
+      "discord_members": 641,
+      "facebook_members": null,
+      "market_cap": 426054686.0,
+      "owner_count": 1656,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "MIPS",
@@ -233,14 +243,14 @@
       "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
     },
     {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 0.57,
-      "discord_members": 840,
-      "facebook_members": 2821,
-      "market_cap": 89243559.0,
-      "owner_count": 1863,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.54,
+      "discord_members": 1325,
+      "facebook_members": 295,
+      "market_cap": 880228852.0,
+      "owner_count": 1639,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "RATOS",
@@ -263,14 +273,14 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.51,
-      "discord_members": 1324,
-      "facebook_members": 295,
-      "market_cap": 880228852.0,
-      "owner_count": 1639,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 0.53,
+      "discord_members": 839,
+      "facebook_members": 2821,
+      "market_cap": 89243559.0,
+      "owner_count": 1863,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "FASTIGHETS-AB-BALDER",
@@ -341,16 +351,6 @@
       "market_cap": 34106910.0,
       "owner_count": 162,
       "detail_url": "https://allaaktier.se/bolag/safe-at-sea"
-    },
-    {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 0.44,
-      "discord_members": 636,
-      "facebook_members": null,
-      "market_cap": 426054686.0,
-      "owner_count": 1656,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "ANOTO",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 71,
+    "total_posts_fetched": 69,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
