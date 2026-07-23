@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T03:13:01.048819+00:00",
+  "generated_at": "2026-07-23T06:32:00.363309+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -131,16 +131,6 @@
       "market_cap": 423588170.0,
       "owner_count": 2137,
       "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
-      "ticker": "SKANSKA",
-      "company_name": "Skanska",
-      "trend7d": 1.38,
-      "discord_members": 27,
-      "facebook_members": null,
-      "market_cap": 110728440086.0,
-      "owner_count": 9967,
-      "detail_url": "https://allaaktier.se/bolag/skanska"
     },
     {
       "ticker": "KLARNA",
@@ -383,16 +373,6 @@
       "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
-      "ticker": "ACUCORT",
-      "company_name": "AcuCort",
-      "trend7d": 0.34,
-      "discord_members": 112,
-      "facebook_members": null,
-      "market_cap": 148637833.0,
-      "owner_count": 356,
-      "detail_url": "https://allaaktier.se/bolag/acucort"
-    },
-    {
       "ticker": "GOSOL-ENERGY",
       "company_name": "Gosol Energy",
       "trend7d": 0.31,
@@ -441,6 +421,16 @@
       "market_cap": 56938707061.0,
       "owner_count": 28888,
       "detail_url": "https://allaaktier.se/bolag/volvo-car"
+    },
+    {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.28,
+      "discord_members": 862,
+      "facebook_members": 1046,
+      "market_cap": 291571285.0,
+      "owner_count": 1573,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "SOCIALLITE-US",
@@ -503,14 +493,24 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.24,
-      "discord_members": 861,
-      "facebook_members": 1046,
-      "market_cap": 291571285.0,
-      "owner_count": 1573,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
+      "ticker": "REFINE-GROUP",
+      "company_name": "Refine Group",
+      "trend7d": 0.21,
+      "discord_members": 77,
+      "facebook_members": null,
+      "market_cap": 278039918.0,
+      "owner_count": 443,
+      "detail_url": "https://allaaktier.se/bolag/refine-group"
+    },
+    {
+      "ticker": "THINC",
+      "company_name": "Thinc",
+      "trend7d": 0.21,
+      "discord_members": 203,
+      "facebook_members": null,
+      "market_cap": 34810570.0,
+      "owner_count": 112,
+      "detail_url": "https://allaaktier.se/bolag/thinc"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 75,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
