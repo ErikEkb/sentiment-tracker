@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T12:21:16.760573+00:00",
+  "generated_at": "2026-07-24T14:57:57.391936+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 4.97,
-      "discord_members": 702,
+      "trend7d": 5.39,
+      "discord_members": 710,
       "facebook_members": null,
       "market_cap": 586644155.0,
       "owner_count": 1683,
@@ -173,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/game-chest"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 0.97,
+      "discord_members": 850,
+      "facebook_members": 2821,
+      "market_cap": 85685676.0,
+      "owner_count": 1861,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 0.95,
@@ -253,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.69,
+      "discord_members": 1327,
+      "facebook_members": 295,
+      "market_cap": 843155435.0,
+      "owner_count": 1643,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
       "ticker": "SWEDENCARE",
       "company_name": "Swedencare",
       "trend7d": 0.67,
@@ -273,16 +293,6 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.66,
-      "discord_members": 1326,
-      "facebook_members": 295,
-      "market_cap": 843155435.0,
-      "owner_count": 1643,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
-    },
-    {
       "ticker": "GAMING-CORPS",
       "company_name": "Gaming Corps",
       "trend7d": 0.65,
@@ -291,16 +301,6 @@
       "market_cap": 88428451.0,
       "owner_count": 479,
       "detail_url": "https://allaaktier.se/bolag/gaming-corps"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 0.57,
-      "discord_members": 840,
-      "facebook_members": 2821,
-      "market_cap": 85685676.0,
-      "owner_count": 1861,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "PLEJD",
@@ -371,6 +371,16 @@
       "market_cap": 122339206.0,
       "owner_count": 618,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
+      "ticker": "CESSATECH",
+      "company_name": "Cessatech",
+      "trend7d": 0.43,
+      "discord_members": 1042,
+      "facebook_members": 164,
+      "market_cap": 331475455.76,
+      "owner_count": 3863,
+      "detail_url": "https://allaaktier.se/bolag/cessatech"
     },
     {
       "ticker": "ACARIX",
@@ -501,16 +511,6 @@
       "market_cap": 289653053.0,
       "owner_count": 1570,
       "detail_url": "https://allaaktier.se/bolag/kebni"
-    },
-    {
-      "ticker": "CESSATECH",
-      "company_name": "Cessatech",
-      "trend7d": 0.3,
-      "discord_members": 1038,
-      "facebook_members": 164,
-      "market_cap": 331475455.76,
-      "owner_count": 3863,
-      "detail_url": "https://allaaktier.se/bolag/cessatech"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 67,
+    "total_posts_fetched": 75,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
