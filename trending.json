@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T14:57:57.391936+00:00",
+  "generated_at": "2026-07-24T16:49:19.579907+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 5.39,
-      "discord_members": 710,
+      "trend7d": 5.45,
+      "discord_members": 711,
       "facebook_members": null,
       "market_cap": 586644155.0,
       "owner_count": 1683,
@@ -143,10 +143,30 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 1.33,
+      "discord_members": 859,
+      "facebook_members": 2821,
+      "market_cap": 85685676.0,
+      "owner_count": 1861,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 1.32,
+      "discord_members": 184,
+      "facebook_members": null,
+      "market_cap": 622159560.0,
+      "owner_count": 182,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.2,
-      "discord_members": 523,
+      "trend7d": 1.26,
+      "discord_members": 524,
       "facebook_members": 363,
       "market_cap": 193325497.0,
       "owner_count": 441,
@@ -171,26 +191,6 @@
       "market_cap": 7309750.0,
       "owner_count": 177,
       "detail_url": "https://allaaktier.se/bolag/game-chest"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 0.97,
-      "discord_members": 850,
-      "facebook_members": 2821,
-      "market_cap": 85685676.0,
-      "owner_count": 1861,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
-    },
-    {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 0.95,
-      "discord_members": 182,
-      "facebook_members": null,
-      "market_cap": 622159560.0,
-      "owner_count": 182,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "FREJA-EID",
@@ -281,6 +281,16 @@
       "market_cap": 3460556741.0,
       "owner_count": 1428,
       "detail_url": "https://allaaktier.se/bolag/swedencare"
+    },
+    {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 0.67,
+      "discord_members": 108,
+      "facebook_members": null,
+      "market_cap": 528665052.0,
+      "owner_count": 268,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
       "ticker": "INTRUM",
@@ -393,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
-      "ticker": "CLOETTA",
-      "company_name": "Cloetta",
-      "trend7d": 0.41,
-      "discord_members": 49,
-      "facebook_members": null,
-      "market_cap": 16523454868.0,
-      "owner_count": 5421,
-      "detail_url": "https://allaaktier.se/bolag/cloetta"
-    },
-    {
       "ticker": "SAFE-AT-SEA",
       "company_name": "Safe at Sea",
       "trend7d": 0.41,
@@ -431,16 +431,6 @@
       "market_cap": 583624143.0,
       "owner_count": 352,
       "detail_url": "https://allaaktier.se/bolag/seafire"
-    },
-    {
-      "ticker": "FLEXQUBE",
-      "company_name": "FlexQube",
-      "trend7d": 0.36,
-      "discord_members": 107,
-      "facebook_members": null,
-      "market_cap": 528665052.0,
-      "owner_count": 268,
-      "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
       "ticker": "SODER-SPORTFISKE",
@@ -511,6 +501,16 @@
       "market_cap": 289653053.0,
       "owner_count": 1570,
       "detail_url": "https://allaaktier.se/bolag/kebni"
+    },
+    {
+      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
+      "company_name": "Cibus Nordic Real Estate",
+      "trend7d": 0.29,
+      "discord_members": 664,
+      "facebook_members": 161,
+      "market_cap": 11676739901.0,
+      "owner_count": 13962,
+      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 75,
+    "total_posts_fetched": 76,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
