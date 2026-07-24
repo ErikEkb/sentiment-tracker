@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T22:07:20.433945+00:00",
+  "generated_at": "2026-07-24T00:03:49.754171+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 2.79,
-      "discord_members": 680,
+      "trend7d": 3.27,
+      "discord_members": 689,
       "facebook_members": null,
       "market_cap": 536734581.0,
       "owner_count": 1656,
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 1.67,
+      "discord_members": 65,
+      "facebook_members": null,
+      "market_cap": 65359024890.79,
+      "owner_count": 5876,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
       "trend7d": 1.36,
@@ -151,16 +161,6 @@
       "market_cap": 53686375.0,
       "owner_count": 836,
       "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 1.14,
-      "discord_members": 64,
-      "facebook_members": null,
-      "market_cap": 65359024890.79,
-      "owner_count": 5876,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "HANZA",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/star-vault"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 0.25,
-      "discord_members": 219,
-      "facebook_members": 63,
-      "market_cap": 80704639.0,
-      "owner_count": 563,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 0.26,
+      "discord_members": 162,
+      "facebook_members": null,
+      "market_cap": 391132565.0,
+      "owner_count": 424,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 68,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
