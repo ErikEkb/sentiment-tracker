@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T16:49:19.579907+00:00",
+  "generated_at": "2026-07-24T18:20:18.986410+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 1.37,
+      "discord_members": 860,
+      "facebook_members": 2821,
+      "market_cap": 85685676.0,
+      "owner_count": 1861,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 1.35,
@@ -141,16 +151,6 @@
       "market_cap": 484945200.0,
       "owner_count": 316,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 1.33,
-      "discord_members": 859,
-      "facebook_members": 2821,
-      "market_cap": 85685676.0,
-      "owner_count": 1861,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "APR-TECHNOLOGIES",
@@ -245,8 +245,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 0.77,
-      "discord_members": 1202,
+      "trend7d": 0.79,
+      "discord_members": 1203,
       "facebook_members": 297,
       "market_cap": 618467290.0,
       "owner_count": 2393,
@@ -363,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/ratos"
     },
     {
+      "ticker": "CESSATECH",
+      "company_name": "Cessatech",
+      "trend7d": 0.46,
+      "discord_members": 1043,
+      "facebook_members": 164,
+      "market_cap": 331475455.76,
+      "owner_count": 3863,
+      "detail_url": "https://allaaktier.se/bolag/cessatech"
+    },
+    {
       "ticker": "JONDETECH-SENSORS",
       "company_name": "JonDeTech Sensors",
       "trend7d": 0.44,
@@ -381,16 +391,6 @@
       "market_cap": 122339206.0,
       "owner_count": 618,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "CESSATECH",
-      "company_name": "Cessatech",
-      "trend7d": 0.43,
-      "discord_members": 1042,
-      "facebook_members": 164,
-      "market_cap": 331475455.76,
-      "owner_count": 3863,
-      "detail_url": "https://allaaktier.se/bolag/cessatech"
     },
     {
       "ticker": "ACARIX",
@@ -493,16 +493,6 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.31,
-      "discord_members": 865,
-      "facebook_members": 1046,
-      "market_cap": 289653053.0,
-      "owner_count": 1570,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
-    },
-    {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
       "company_name": "Cibus Nordic Real Estate",
       "trend7d": 0.29,
@@ -511,6 +501,16 @@
       "market_cap": 11676739901.0,
       "owner_count": 13962,
       "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
+    },
+    {
+      "ticker": "GRANGEX",
+      "company_name": "GRANGEX",
+      "trend7d": 0.29,
+      "discord_members": 1049,
+      "facebook_members": 305,
+      "market_cap": 544393003.0,
+      "owner_count": 1189,
+      "detail_url": "https://allaaktier.se/bolag/grangex"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 76,
+    "total_posts_fetched": 81,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
