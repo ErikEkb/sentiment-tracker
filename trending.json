@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T04:17:23.446560+00:00",
+  "generated_at": "2026-07-24T07:33:57.986405+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -43,24 +43,24 @@
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
-      "ticker": "ORTELIUS-INTERNATIONAL",
-      "company_name": "Ortelius International",
-      "trend7d": 3.65,
-      "discord_members": 219,
-      "facebook_members": 78,
-      "market_cap": 12404561.0,
-      "owner_count": 660,
-      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
-    },
-    {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 3.27,
-      "discord_members": 690,
+      "trend7d": 3.59,
+      "discord_members": 696,
       "facebook_members": null,
       "market_cap": 536734581.0,
       "owner_count": 1656,
       "detail_url": "https://allaaktier.se/bolag/obducat"
+    },
+    {
+      "ticker": "ORTELIUS-INTERNATIONAL",
+      "company_name": "Ortelius International",
+      "trend7d": 3.48,
+      "discord_members": 218,
+      "facebook_members": 78,
+      "market_cap": 12404561.0,
+      "owner_count": 660,
+      "detail_url": "https://allaaktier.se/bolag/ortelius-international"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -293,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
+      "ticker": "GAMING-CORPS",
+      "company_name": "Gaming Corps",
+      "trend7d": 0.47,
+      "discord_members": 140,
+      "facebook_members": null,
+      "market_cap": 94536996.0,
+      "owner_count": 478,
+      "detail_url": "https://allaaktier.se/bolag/gaming-corps"
+    },
+    {
       "ticker": "SAFE-AT-SEA",
       "company_name": "Safe at Sea",
       "trend7d": 0.46,
@@ -311,6 +321,16 @@
       "market_cap": 586471090.0,
       "owner_count": 352,
       "detail_url": "https://allaaktier.se/bolag/seafire"
+    },
+    {
+      "ticker": "ACARIX",
+      "company_name": "Acarix",
+      "trend7d": 0.43,
+      "discord_members": 618,
+      "facebook_members": 395,
+      "market_cap": 304545593.0,
+      "owner_count": 1326,
+      "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
       "ticker": "PLEJD",
@@ -351,16 +371,6 @@
       "market_cap": 151685115.0,
       "owner_count": 1382,
       "detail_url": "https://allaaktier.se/bolag/anoto"
-    },
-    {
-      "ticker": "ACARIX",
-      "company_name": "Acarix",
-      "trend7d": 0.38,
-      "discord_members": 617,
-      "facebook_members": 395,
-      "market_cap": 304545593.0,
-      "owner_count": 1326,
-      "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
       "ticker": "THINC",
@@ -443,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.31,
+      "discord_members": 863,
+      "facebook_members": 1046,
+      "market_cap": 289379020.0,
+      "owner_count": 1572,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
+    },
+    {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
       "company_name": "White Pearl Technology",
       "trend7d": 0.3,
@@ -491,26 +511,6 @@
       "market_cap": 143036488.0,
       "owner_count": 708,
       "detail_url": "https://allaaktier.se/bolag/biovica-international"
-    },
-    {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.27,
-      "discord_members": 862,
-      "facebook_members": 1046,
-      "market_cap": 289379020.0,
-      "owner_count": 1572,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
-    },
-    {
-      "ticker": "SAFE-LANE-GAMING",
-      "company_name": "Safe Lane Gaming",
-      "trend7d": 0.23,
-      "discord_members": 200,
-      "facebook_members": null,
-      "market_cap": 15691860.0,
-      "owner_count": 356,
-      "detail_url": "https://allaaktier.se/bolag/safe-lane-gaming"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
