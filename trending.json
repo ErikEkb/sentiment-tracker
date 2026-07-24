@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T18:20:18.986410+00:00",
+  "generated_at": "2026-07-24T20:22:00.285629+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 5.45,
-      "discord_members": 711,
+      "trend7d": 5.5,
+      "discord_members": 712,
       "facebook_members": null,
       "market_cap": 586644155.0,
       "owner_count": 1683,
@@ -205,8 +205,8 @@
     {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
-      "trend7d": 0.88,
-      "discord_members": 597,
+      "trend7d": 0.94,
+      "discord_members": 598,
       "facebook_members": null,
       "market_cap": 1869534399.0,
       "owner_count": 615,
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
-      "ticker": "SWEDENCARE",
-      "company_name": "Swedencare",
-      "trend7d": 0.67,
-      "discord_members": 310,
-      "facebook_members": null,
-      "market_cap": 3460556741.0,
-      "owner_count": 1428,
-      "detail_url": "https://allaaktier.se/bolag/swedencare"
-    },
-    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 0.67,
@@ -311,6 +301,16 @@
       "market_cap": 88428451.0,
       "owner_count": 479,
       "detail_url": "https://allaaktier.se/bolag/gaming-corps"
+    },
+    {
+      "ticker": "SWEDENCARE",
+      "company_name": "Swedencare",
+      "trend7d": 0.56,
+      "discord_members": 309,
+      "facebook_members": null,
+      "market_cap": 3460556741.0,
+      "owner_count": 1428,
+      "detail_url": "https://allaaktier.se/bolag/swedencare"
     },
     {
       "ticker": "PLEJD",
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.31,
+      "discord_members": 865,
+      "facebook_members": 1046,
+      "market_cap": 289653053.0,
+      "owner_count": 1570,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
+    },
+    {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
       "company_name": "Cibus Nordic Real Estate",
       "trend7d": 0.29,
@@ -501,16 +511,6 @@
       "market_cap": 11676739901.0,
       "owner_count": 13962,
       "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
-    },
-    {
-      "ticker": "GRANGEX",
-      "company_name": "GRANGEX",
-      "trend7d": 0.29,
-      "discord_members": 1049,
-      "facebook_members": 305,
-      "market_cap": 544393003.0,
-      "owner_count": 1189,
-      "detail_url": "https://allaaktier.se/bolag/grangex"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 81,
+    "total_posts_fetched": 74,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
