@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T00:06:15.405792+00:00",
+  "generated_at": "2026-07-25T04:13:12.494918+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,7 +25,7 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 15.25,
+      "trend7d": 14.34,
       "discord_members": 393,
       "facebook_members": null,
       "market_cap": 20316018087.0,
@@ -35,7 +35,7 @@
     {
       "ticker": "ENVAR",
       "company_name": "Envar",
-      "trend7d": 7.75,
+      "trend7d": 7.19,
       "discord_members": 81,
       "facebook_members": null,
       "market_cap": 667500000.0,
@@ -45,7 +45,7 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 5.55,
+      "trend7d": 5.49,
       "discord_members": 713,
       "facebook_members": null,
       "market_cap": 504620335.0,
@@ -123,16 +123,6 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 1.37,
-      "discord_members": 860,
-      "facebook_members": 2821,
-      "market_cap": 77383950.0,
-      "owner_count": 1861,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
-    },
-    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 1.35,
@@ -173,14 +163,14 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 1.1,
-      "discord_members": 2235,
-      "facebook_members": 405,
-      "market_cap": 359230851.0,
-      "owner_count": 2123,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 1.24,
+      "discord_members": 860,
+      "facebook_members": 2821,
+      "market_cap": 77383950.0,
+      "owner_count": 1861,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "GAME-CHEST",
@@ -191,6 +181,16 @@
       "market_cap": 7848718.0,
       "owner_count": 177,
       "detail_url": "https://allaaktier.se/bolag/game-chest"
+    },
+    {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 1.07,
+      "discord_members": 2235,
+      "facebook_members": 405,
+      "market_cap": 359230851.0,
+      "owner_count": 2123,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
       "ticker": "FREJA-EID",
@@ -243,14 +243,14 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.79,
-      "discord_members": 1203,
-      "facebook_members": 297,
-      "market_cap": 622976586.0,
-      "owner_count": 2393,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.71,
+      "discord_members": 1327,
+      "facebook_members": 295,
+      "market_cap": 863281004.0,
+      "owner_count": 1643,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "TENEO-AI",
@@ -263,24 +263,14 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.69,
-      "discord_members": 1327,
-      "facebook_members": 295,
-      "market_cap": 863281004.0,
-      "owner_count": 1643,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
-    },
-    {
-      "ticker": "FLEXQUBE",
-      "company_name": "FlexQube",
+      "ticker": "SWEDENCARE",
+      "company_name": "Swedencare",
       "trend7d": 0.67,
-      "discord_members": 108,
+      "discord_members": 309,
       "facebook_members": null,
-      "market_cap": 537275232.0,
-      "owner_count": 268,
-      "detail_url": "https://allaaktier.se/bolag/flexqube"
+      "market_cap": 3524493124.0,
+      "owner_count": 1428,
+      "detail_url": "https://allaaktier.se/bolag/swedencare"
     },
     {
       "ticker": "INTRUM",
@@ -303,19 +293,19 @@
       "detail_url": "https://allaaktier.se/bolag/gaming-corps"
     },
     {
-      "ticker": "SWEDENCARE",
-      "company_name": "Swedencare",
-      "trend7d": 0.56,
-      "discord_members": 309,
-      "facebook_members": null,
-      "market_cap": 3524493124.0,
-      "owner_count": 1428,
-      "detail_url": "https://allaaktier.se/bolag/swedencare"
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.65,
+      "discord_members": 1203,
+      "facebook_members": 297,
+      "market_cap": 622976586.0,
+      "owner_count": 2393,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "PLEJD",
       "company_name": "Plejd",
-      "trend7d": 0.52,
+      "trend7d": 0.65,
       "discord_members": 504,
       "facebook_members": 2766,
       "market_cap": 9801577960.0,
@@ -433,6 +423,26 @@
       "detail_url": "https://allaaktier.se/bolag/seafire"
     },
     {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 0.36,
+      "discord_members": 108,
+      "facebook_members": null,
+      "market_cap": 537275232.0,
+      "owner_count": 268,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
+    },
+    {
+      "ticker": "TOUCHTECH",
+      "company_name": "Touchtech",
+      "trend7d": 0.36,
+      "discord_members": 192,
+      "facebook_members": null,
+      "market_cap": 55426660.0,
+      "owner_count": 144,
+      "detail_url": "https://allaaktier.se/bolag/touchtech"
+    },
+    {
       "ticker": "SODER-SPORTFISKE",
       "company_name": "Söder Sportfiske",
       "trend7d": 0.33,
@@ -451,6 +461,16 @@
       "market_cap": 411718490.0,
       "owner_count": 425,
       "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
+      "ticker": "XVIVO-PERFUSION",
+      "company_name": "Xvivo Perfusion",
+      "trend7d": 0.32,
+      "discord_members": 173,
+      "facebook_members": null,
+      "market_cap": 7408675344.0,
+      "owner_count": 1988,
+      "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
       "ticker": "THINC",
@@ -491,26 +511,6 @@
       "market_cap": 50399550.0,
       "owner_count": 147,
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
-    },
-    {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.31,
-      "discord_members": 865,
-      "facebook_members": 1046,
-      "market_cap": 285268523.0,
-      "owner_count": 1570,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
-    },
-    {
-      "ticker": "ZINZINO",
-      "company_name": "Zinzino",
-      "trend7d": 0.29,
-      "discord_members": 77,
-      "facebook_members": null,
-      "market_cap": 5060246942.0,
-      "owner_count": 2868,
-      "detail_url": "https://allaaktier.se/bolag/zinzino"
     }
   ],
   "twitter_mentions": 0,
