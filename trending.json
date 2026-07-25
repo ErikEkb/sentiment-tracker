@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:40:31.723622+00:00",
+  "generated_at": "2026-07-25T15:05:26.817648+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -333,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 0.51,
+      "discord_members": 163,
+      "facebook_members": null,
+      "market_cap": 411718490.0,
+      "owner_count": 425,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
       "ticker": "BIOVICA-INTERNATIONAL",
       "company_name": "Biovica International",
       "trend7d": 0.5,
@@ -501,16 +511,6 @@
       "market_cap": 11820390480.0,
       "owner_count": 13962,
       "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
-    },
-    {
-      "ticker": "THINC",
-      "company_name": "Thinc",
-      "trend7d": 0.32,
-      "discord_members": 203,
-      "facebook_members": null,
-      "market_cap": 34128010.0,
-      "owner_count": 113,
-      "detail_url": "https://allaaktier.se/bolag/thinc"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 77,
+    "total_posts_fetched": 67,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
