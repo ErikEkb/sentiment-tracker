@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:11:20.682555+00:00",
+  "generated_at": "2026-07-25T20:55:59.733710+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 14.62,
-      "discord_members": 394,
+      "trend7d": 14.73,
+      "discord_members": 395,
       "facebook_members": null,
       "market_cap": 20316018087.0,
       "owner_count": 4208,
@@ -103,6 +103,16 @@
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 1.92,
+      "discord_members": 876,
+      "facebook_members": 2821,
+      "market_cap": 77383950.0,
+      "owner_count": 1861,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
       "trend7d": 1.88,
@@ -111,16 +121,6 @@
       "market_cap": 865995333.0,
       "owner_count": 1042,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 1.88,
-      "discord_members": 875,
-      "facebook_members": 2821,
-      "market_cap": 77383950.0,
-      "owner_count": 1861,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "KLARNA",
@@ -185,8 +185,8 @@
     {
       "ticker": "SMOLTEK",
       "company_name": "Smoltek",
-      "trend7d": 1.1,
-      "discord_members": 2236,
+      "trend7d": 1.12,
+      "discord_members": 2237,
       "facebook_members": 405,
       "market_cap": 359230851.0,
       "owner_count": 2123,
@@ -241,6 +241,16 @@
       "market_cap": 7848718.0,
       "owner_count": 177,
       "detail_url": "https://allaaktier.se/bolag/game-chest"
+    },
+    {
+      "ticker": "ZINZINO",
+      "company_name": "Zinzino",
+      "trend7d": 0.84,
+      "discord_members": 78,
+      "facebook_members": null,
+      "market_cap": 5060246942.0,
+      "owner_count": 2868,
+      "detail_url": "https://allaaktier.se/bolag/zinzino"
     },
     {
       "ticker": "INTRUM",
@@ -423,16 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
-      "ticker": "ZINZINO",
-      "company_name": "Zinzino",
-      "trend7d": 0.4,
-      "discord_members": 77,
-      "facebook_members": null,
-      "market_cap": 5060246942.0,
-      "owner_count": 2868,
-      "detail_url": "https://allaaktier.se/bolag/zinzino"
-    },
-    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 0.4,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 57,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
