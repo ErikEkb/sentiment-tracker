@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T17:04:34.617534+00:00",
+  "generated_at": "2026-07-26T19:15:27.339138+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 2.19,
-      "discord_members": 887,
+      "trend7d": 2.15,
+      "discord_members": 886,
       "facebook_members": 2821,
       "market_cap": 77383950.0,
       "owner_count": 1861,
@@ -213,14 +213,14 @@
       "detail_url": "https://allaaktier.se/bolag/seafire"
     },
     {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.95,
-      "discord_members": 597,
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 0.93,
+      "discord_members": 164,
       "facebook_members": null,
-      "market_cap": 1838523164.0,
-      "owner_count": 615,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+      "market_cap": 411718490.0,
+      "owner_count": 425,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "GAME-CHEST",
@@ -231,6 +231,16 @@
       "market_cap": 7848718.0,
       "owner_count": 177,
       "detail_url": "https://allaaktier.se/bolag/game-chest"
+    },
+    {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.89,
+      "discord_members": 596,
+      "facebook_members": null,
+      "market_cap": 1838523164.0,
+      "owner_count": 615,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
       "ticker": "ZINZINO",
@@ -281,16 +291,6 @@
       "market_cap": 6659981990.0,
       "owner_count": 1372,
       "detail_url": "https://allaaktier.se/bolag/acast"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 0.72,
-      "discord_members": 163,
-      "facebook_members": null,
-      "market_cap": 411718490.0,
-      "owner_count": 425,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
+    "total_posts_fetched": 65,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
