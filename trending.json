@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:15:27.339138+00:00",
+  "generated_at": "2026-07-26T21:02:09.660346+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 2.15,
-      "discord_members": 886,
+      "trend7d": 2.23,
+      "discord_members": 888,
       "facebook_members": 2821,
       "market_cap": 77383950.0,
       "owner_count": 1861,
@@ -163,16 +163,6 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 1.18,
-      "discord_members": 2237,
-      "facebook_members": 405,
-      "market_cap": 359230851.0,
-      "owner_count": 2123,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 1.16,
@@ -181,6 +171,16 @@
       "market_cap": 9784898143673.83,
       "owner_count": 44263,
       "detail_url": "https://allaaktier.se/bolag/tesla"
+    },
+    {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 1.16,
+      "discord_members": 2236,
+      "facebook_members": 405,
+      "market_cap": 359230851.0,
+      "owner_count": 2123,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
       "ticker": "UPSALES-TECHNOLOGY",
