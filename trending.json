@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T13:35:14.985235+00:00",
+  "generated_at": "2026-07-26T15:07:57.910942+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 2.07,
-      "discord_members": 884,
+      "trend7d": 2.15,
+      "discord_members": 886,
       "facebook_members": 2821,
       "market_cap": 77383950.0,
       "owner_count": 1861,
@@ -433,6 +433,16 @@
       "detail_url": "https://allaaktier.se/bolag/ratos"
     },
     {
+      "ticker": "ACARIX",
+      "company_name": "Acarix",
+      "trend7d": 0.45,
+      "discord_members": 619,
+      "facebook_members": 395,
+      "market_cap": 305786105.0,
+      "owner_count": 1325,
+      "detail_url": "https://allaaktier.se/bolag/acarix"
+    },
+    {
       "ticker": "PREBONA",
       "company_name": "Prebona",
       "trend7d": 0.44,
@@ -481,16 +491,6 @@
       "market_cap": 13606574530.0,
       "owner_count": 3504,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
-    },
-    {
-      "ticker": "ACARIX",
-      "company_name": "Acarix",
-      "trend7d": 0.39,
-      "discord_members": 618,
-      "facebook_members": 395,
-      "market_cap": 305786105.0,
-      "owner_count": 1325,
-      "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
       "ticker": "KEBNI",
@@ -552,8 +552,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 66,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
