@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T21:02:09.660346+00:00",
+  "generated_at": "2026-07-26T23:02:10.876614+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 2.23,
-      "discord_members": 888,
+      "trend7d": 2.35,
+      "discord_members": 891,
       "facebook_members": 2821,
       "market_cap": 77383950.0,
       "owner_count": 1861,
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/seafire"
     },
     {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.95,
+      "discord_members": 597,
+      "facebook_members": null,
+      "market_cap": 1838523164.0,
+      "owner_count": 615,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
       "trend7d": 0.93,
@@ -231,16 +241,6 @@
       "market_cap": 7848718.0,
       "owner_count": 177,
       "detail_url": "https://allaaktier.se/bolag/game-chest"
-    },
-    {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.89,
-      "discord_members": 596,
-      "facebook_members": null,
-      "market_cap": 1838523164.0,
-      "owner_count": 615,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
       "ticker": "ZINZINO",
@@ -518,6 +518,23 @@
   "min_mentions": 2,
   "trending": [
     {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.667,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95515433",
+        "https://www.flashback.org/sp95516582",
+        "https://www.flashback.org/sp95517115"
+      ]
+    },
+    {
       "ticker": "TSLA",
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
@@ -552,8 +569,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 70,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
