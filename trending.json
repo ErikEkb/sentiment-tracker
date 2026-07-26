@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T06:38:53.881720+00:00",
+  "generated_at": "2026-07-26T09:15:41.429014+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -95,8 +95,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 2.41,
-      "discord_members": 1071,
+      "trend7d": 2.45,
+      "discord_members": 1072,
       "facebook_members": 2135,
       "market_cap": 4011506211.0,
       "owner_count": 3421,
@@ -383,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
+      "ticker": "GOLD-TOWN-GAMES",
+      "company_name": "Gold Town Games",
+      "trend7d": 0.54,
+      "discord_members": 83,
+      "facebook_members": null,
+      "market_cap": 16925038.0,
+      "owner_count": 249,
+      "detail_url": "https://allaaktier.se/bolag/gold-town-games"
+    },
+    {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
       "trend7d": 0.52,
@@ -431,6 +441,16 @@
       "market_cap": 21211892.0,
       "owner_count": 153,
       "detail_url": "https://allaaktier.se/bolag/prebona"
+    },
+    {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 0.42,
+      "discord_members": 452,
+      "facebook_members": null,
+      "market_cap": 51993890.0,
+      "owner_count": 701,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
       "ticker": "XVIVO-PERFUSION",
@@ -491,26 +511,6 @@
       "market_cap": 285268523.0,
       "owner_count": 1570,
       "detail_url": "https://allaaktier.se/bolag/kebni"
-    },
-    {
-      "ticker": "JONDETECH-SENSORS",
-      "company_name": "JonDeTech Sensors",
-      "trend7d": 0.34,
-      "discord_members": 451,
-      "facebook_members": null,
-      "market_cap": 51993890.0,
-      "owner_count": 701,
-      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
-    },
-    {
-      "ticker": "BONESUPPORT",
-      "company_name": "Bonesupport",
-      "trend7d": 0.31,
-      "discord_members": 458,
-      "facebook_members": null,
-      "market_cap": 13606574530.0,
-      "owner_count": 3504,
-      "detail_url": "https://allaaktier.se/bolag/bonesupport"
     }
   ],
   "twitter_mentions": 0,
