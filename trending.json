@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T15:07:57.910942+00:00",
+  "generated_at": "2026-07-26T17:04:34.617534+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 2.15,
-      "discord_members": 886,
+      "trend7d": 2.19,
+      "discord_members": 887,
       "facebook_members": 2821,
       "market_cap": 77383950.0,
       "owner_count": 1861,
@@ -153,16 +153,6 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 1.19,
-      "discord_members": 2238,
-      "facebook_members": 405,
-      "market_cap": 359230851.0,
-      "owner_count": 2123,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 1.18,
@@ -171,6 +161,16 @@
       "market_cap": 33128623933.0,
       "owner_count": 3670,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 1.18,
+      "discord_members": 2237,
+      "facebook_members": 405,
+      "market_cap": 359230851.0,
+      "owner_count": 2123,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
       "ticker": "TESLA",
@@ -231,16 +231,6 @@
       "market_cap": 7848718.0,
       "owner_count": 177,
       "detail_url": "https://allaaktier.se/bolag/game-chest"
-    },
-    {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.85,
-      "discord_members": 250,
-      "facebook_members": 223,
-      "market_cap": 41867946.0,
-      "owner_count": 844,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "ZINZINO",
@@ -311,6 +301,16 @@
       "market_cap": 123868446.0,
       "owner_count": 618,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.71,
+      "discord_members": 249,
+      "facebook_members": 223,
+      "market_cap": 41867946.0,
+      "owner_count": 844,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "HANZA",
@@ -522,9 +522,9 @@
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 9,
-      "velocity_mentions_per_day": 3.0,
-      "avg_sentiment": 0.222,
+      "mentions": 7,
+      "velocity_mentions_per_day": 2.33,
+      "avg_sentiment": 0.286,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 2.0,
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 64,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
