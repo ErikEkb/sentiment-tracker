@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T11:21:33.672292+00:00",
+  "generated_at": "2026-07-26T13:35:14.985235+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 5.76,
-      "discord_members": 713,
+      "trend7d": 5.81,
+      "discord_members": 714,
       "facebook_members": null,
       "market_cap": 504620335.0,
       "owner_count": 1683,
@@ -95,12 +95,22 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 2.45,
-      "discord_members": 1072,
+      "trend7d": 2.48,
+      "discord_members": 1073,
       "facebook_members": 2135,
       "market_cap": 4011506211.0,
       "owner_count": 3421,
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 2.07,
+      "discord_members": 884,
+      "facebook_members": 2821,
+      "market_cap": 77383950.0,
+      "owner_count": 1861,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "ALZECURE-PHARMA",
@@ -111,16 +121,6 @@
       "market_cap": 865995333.0,
       "owner_count": 1042,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 1.99,
-      "discord_members": 882,
-      "facebook_members": 2821,
-      "market_cap": 77383950.0,
-      "owner_count": 1861,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "ANNEXIN-PHARMACEUTICALS",
@@ -153,6 +153,16 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 1.19,
+      "discord_members": 2238,
+      "facebook_members": 405,
+      "market_cap": 359230851.0,
+      "owner_count": 2123,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
+    },
+    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 1.18,
@@ -161,16 +171,6 @@
       "market_cap": 33128623933.0,
       "owner_count": 3670,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 1.18,
-      "discord_members": 2237,
-      "facebook_members": 405,
-      "market_cap": 359230851.0,
-      "owner_count": 2123,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
       "ticker": "TESLA",
@@ -473,6 +473,16 @@
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
+      "ticker": "BONESUPPORT",
+      "company_name": "Bonesupport",
+      "trend7d": 0.39,
+      "discord_members": 459,
+      "facebook_members": null,
+      "market_cap": 13606574530.0,
+      "owner_count": 3504,
+      "detail_url": "https://allaaktier.se/bolag/bonesupport"
+    },
+    {
       "ticker": "ACARIX",
       "company_name": "Acarix",
       "trend7d": 0.39,
@@ -501,16 +511,6 @@
       "market_cap": 33554571.0,
       "owner_count": 162,
       "detail_url": "https://allaaktier.se/bolag/safe-at-sea"
-    },
-    {
-      "ticker": "TOUCHTECH",
-      "company_name": "Touchtech",
-      "trend7d": 0.36,
-      "discord_members": 192,
-      "facebook_members": null,
-      "market_cap": 55426660.0,
-      "owner_count": 144,
-      "detail_url": "https://allaaktier.se/bolag/touchtech"
     }
   ],
   "twitter_mentions": 0,
