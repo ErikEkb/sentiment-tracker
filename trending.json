@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T11:26:58.391012+00:00",
+  "generated_at": "2026-07-27T14:41:25.142191+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 5.95,
-      "discord_members": 715,
+      "trend7d": 6.0,
+      "discord_members": 716,
       "facebook_members": null,
       "market_cap": 514362790.0,
       "owner_count": 1703,
@@ -45,8 +45,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 4.02,
-      "discord_members": 1074,
+      "trend7d": 4.08,
+      "discord_members": 1076,
       "facebook_members": 2135,
       "market_cap": 3789662387.0,
       "owner_count": 3575,
@@ -105,8 +105,8 @@
     {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
-      "trend7d": 2.02,
-      "discord_members": 279,
+      "trend7d": 1.9,
+      "discord_members": 278,
       "facebook_members": 12,
       "market_cap": 879785067.0,
       "owner_count": 1040,
@@ -121,6 +121,16 @@
       "market_cap": 107233639.0,
       "owner_count": 293,
       "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
+    },
+    {
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 1.39,
+      "discord_members": 45,
+      "facebook_members": null,
+      "market_cap": 33294635968.0,
+      "owner_count": 3676,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "TESLA",
@@ -273,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.68,
+      "discord_members": 252,
+      "facebook_members": 223,
+      "market_cap": 59769082.0,
+      "owner_count": 845,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 0.66,
@@ -283,14 +303,24 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 0.63,
-      "discord_members": 44,
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.62,
+      "discord_members": 873,
+      "facebook_members": 1046,
+      "market_cap": 291023219.0,
+      "owner_count": 1569,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
+    },
+    {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 0.59,
+      "discord_members": 453,
       "facebook_members": null,
-      "market_cap": 33294635968.0,
-      "owner_count": 3676,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
+      "market_cap": 52567352.0,
+      "owner_count": 701,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
       "ticker": "MIDSUMMER",
@@ -301,6 +331,16 @@
       "market_cap": 909887586.0,
       "owner_count": 1645,
       "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
+      "ticker": "ATLAS-COPCO",
+      "company_name": "Atlas Copco",
+      "trend7d": 0.56,
+      "discord_members": 98,
+      "facebook_members": null,
+      "market_cap": 977856344992.0,
+      "owner_count": 16167,
+      "detail_url": "https://allaaktier.se/bolag/atlas-copco"
     },
     {
       "ticker": "THINC",
@@ -323,16 +363,6 @@
       "detail_url": "https://allaaktier.se/bolag/biovica-international"
     },
     {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.54,
-      "discord_members": 251,
-      "facebook_members": 223,
-      "market_cap": 59769082.0,
-      "owner_count": 845,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 0.52,
@@ -353,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
-      "ticker": "JONDETECH-SENSORS",
-      "company_name": "JonDeTech Sensors",
-      "trend7d": 0.51,
-      "discord_members": 452,
-      "facebook_members": null,
-      "market_cap": 52567352.0,
-      "owner_count": 701,
-      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
-    },
-    {
       "ticker": "ACARIX",
       "company_name": "Acarix",
       "trend7d": 0.5,
@@ -373,20 +393,10 @@
       "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.5,
-      "discord_members": 870,
-      "facebook_members": 1046,
-      "market_cap": 291023219.0,
-      "owner_count": 1569,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
-    },
-    {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 0.42,
-      "discord_members": 1207,
+      "trend7d": 0.45,
+      "discord_members": 1208,
       "facebook_members": 297,
       "market_cap": 624710930.0,
       "owner_count": 2388,
@@ -501,39 +511,12 @@
       "market_cap": 131386989.0,
       "owner_count": 348,
       "detail_url": "https://allaaktier.se/bolag/physitrack"
-    },
-    {
-      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
-      "company_name": "Cibus Nordic Real Estate",
-      "trend7d": 0.29,
-      "discord_members": 664,
-      "facebook_members": 161,
-      "market_cap": 11779347458.0,
-      "owner_count": 13975,
-      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "TSLA",
-      "company_name": "Tesla Inc.",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 7,
-      "velocity_mentions_per_day": 2.33,
-      "avg_sentiment": 0.286,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95505969",
-        "https://www.flashback.org/sp95506111",
-        "https://www.flashback.org/sp95506233"
-      ]
-    },
     {
       "ticker": "SPCX",
       "company_name": "SpaceX",
@@ -550,10 +533,27 @@
         "https://www.flashback.org/sp95516582",
         "https://www.flashback.org/sp95517115"
       ]
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.25,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95508844",
+        "https://www.flashback.org/sp95509763",
+        "https://www.flashback.org/sp95510005"
+      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 68,
+    "total_posts_fetched": 60,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
