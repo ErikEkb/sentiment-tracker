@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T17:00:10.558371+00:00",
+  "generated_at": "2026-07-27T18:42:17.939924+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 4.37,
+      "discord_members": 1085,
+      "facebook_members": 2135,
+      "market_cap": 3789662387.0,
+      "owner_count": 3575,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
       "ticker": "SERVANA",
       "company_name": "Servana",
       "trend7d": 4.24,
@@ -41,16 +51,6 @@
       "market_cap": 53686375.0,
       "owner_count": 851,
       "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 4.24,
-      "discord_members": 1081,
-      "facebook_members": 2135,
-      "market_cap": 3789662387.0,
-      "owner_count": 3575,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
       "ticker": "ENVAR",
@@ -243,16 +243,6 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
-      "trend7d": 0.78,
-      "discord_members": 140,
-      "facebook_members": null,
-      "market_cap": 354545100.0,
-      "owner_count": 773,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
-    },
-    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 0.74,
@@ -271,6 +261,16 @@
       "market_cap": 8650613041.0,
       "owner_count": 1476,
       "detail_url": "https://allaaktier.se/bolag/hanza"
+    },
+    {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.7,
+      "discord_members": 875,
+      "facebook_members": 1046,
+      "market_cap": 291023219.0,
+      "owner_count": 1569,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "APR-TECHNOLOGIES",
@@ -301,16 +301,6 @@
       "market_cap": 12038721.0,
       "owner_count": 309,
       "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.62,
-      "discord_members": 873,
-      "facebook_members": 1046,
-      "market_cap": 291023219.0,
-      "owner_count": 1569,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "JONDETECH-SENSORS",
@@ -351,6 +341,16 @@
       "market_cap": 32421610.0,
       "owner_count": 114,
       "detail_url": "https://allaaktier.se/bolag/thinc"
+    },
+    {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 0.54,
+      "discord_members": 139,
+      "facebook_members": null,
+      "market_cap": 354545100.0,
+      "owner_count": 773,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "FLEXQUBE",
@@ -401,6 +401,16 @@
       "market_cap": 624710930.0,
       "owner_count": 2388,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
+      "trend7d": 0.46,
+      "discord_members": 230,
+      "facebook_members": null,
+      "market_cap": 39311989.0,
+      "owner_count": 520,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
       "ticker": "BONESUPPORT",
@@ -473,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.32,
-      "discord_members": 229,
-      "facebook_members": null,
-      "market_cap": 39311989.0,
-      "owner_count": 520,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
-    },
-    {
       "ticker": "HYDROGENPRO",
       "company_name": "HydrogenPro",
       "trend7d": 0.3,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 49,
+    "total_posts_fetched": 54,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
