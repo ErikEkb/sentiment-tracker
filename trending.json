@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T18:42:17.939924+00:00",
+  "generated_at": "2026-07-27T20:24:17.197194+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 1.06,
+      "discord_members": 453,
+      "facebook_members": null,
+      "market_cap": 52567352.0,
+      "owner_count": 711,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
       "ticker": "GAME-CHEST",
       "company_name": "Game Chest",
       "trend7d": 1.03,
@@ -243,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 0.78,
+      "discord_members": 140,
+      "facebook_members": null,
+      "market_cap": 354545100.0,
+      "owner_count": 773,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
+    },
+    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 0.74,
@@ -253,6 +273,16 @@
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.74,
+      "discord_members": 876,
+      "facebook_members": 1046,
+      "market_cap": 291023219.0,
+      "owner_count": 1569,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
+    },
+    {
       "ticker": "HANZA",
       "company_name": "HANZA",
       "trend7d": 0.72,
@@ -261,16 +291,6 @@
       "market_cap": 8650613041.0,
       "owner_count": 1476,
       "detail_url": "https://allaaktier.se/bolag/hanza"
-    },
-    {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.7,
-      "discord_members": 875,
-      "facebook_members": 1046,
-      "market_cap": 291023219.0,
-      "owner_count": 1569,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "APR-TECHNOLOGIES",
@@ -303,16 +323,6 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
-      "ticker": "JONDETECH-SENSORS",
-      "company_name": "JonDeTech Sensors",
-      "trend7d": 0.59,
-      "discord_members": 453,
-      "facebook_members": null,
-      "market_cap": 52567352.0,
-      "owner_count": 701,
-      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
-    },
-    {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
       "trend7d": 0.59,
@@ -343,14 +353,14 @@
       "detail_url": "https://allaaktier.se/bolag/thinc"
     },
     {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
-      "trend7d": 0.54,
-      "discord_members": 139,
-      "facebook_members": null,
-      "market_cap": 354545100.0,
-      "owner_count": 773,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.53,
+      "discord_members": 1211,
+      "facebook_members": 297,
+      "market_cap": 624710930.0,
+      "owner_count": 2388,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "FLEXQUBE",
@@ -391,16 +401,6 @@
       "market_cap": 155296758.0,
       "owner_count": 708,
       "detail_url": "https://allaaktier.se/bolag/biovica-international"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.48,
-      "discord_members": 1209,
-      "facebook_members": 297,
-      "market_cap": 624710930.0,
-      "owner_count": 2388,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "AIK-FOTBOLL",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 54,
+    "total_posts_fetched": 67,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
