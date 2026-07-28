@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T04:12:49.517532+00:00",
+  "generated_at": "2026-07-28T07:40:44.674228+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 2.48,
-      "discord_members": 414,
+      "trend7d": 3.5,
+      "discord_members": 426,
       "facebook_members": null,
       "market_cap": 20648593472.0,
       "owner_count": 4228,
@@ -233,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/thinc"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.48,
+      "discord_members": 1214,
+      "facebook_members": 297,
+      "market_cap": 650726100.0,
+      "owner_count": 2388,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 0.47,
@@ -281,16 +291,6 @@
       "market_cap": 122848952.0,
       "owner_count": 619,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.45,
-      "discord_members": 1213,
-      "facebook_members": 297,
-      "market_cap": 650726100.0,
-      "owner_count": 2388,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "ENAD-GLOBAL-7",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 63,
+    "total_posts_fetched": 65,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
