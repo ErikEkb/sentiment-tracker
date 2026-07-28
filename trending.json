@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T22:10:27.751011+00:00",
+  "generated_at": "2026-07-28T00:04:24.869800+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 4.48,
+      "discord_members": 411,
+      "facebook_members": null,
+      "market_cap": 20648593472.0,
+      "owner_count": 4228,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
       "trend7d": 4.43,
@@ -61,16 +71,6 @@
       "market_cap": 670000000.0,
       "owner_count": 601,
       "detail_url": "https://allaaktier.se/bolag/envar"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 3.2,
-      "discord_members": 396,
-      "facebook_members": null,
-      "market_cap": 20648593472.0,
-      "owner_count": 4228,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "ORTELIUS-INTERNATIONAL",
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 1.29,
+      "discord_members": 165,
+      "facebook_members": null,
+      "market_cap": 418736418.0,
+      "owner_count": 425,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
       "ticker": "SEAFIRE",
       "company_name": "Seafire",
       "trend7d": 1.24,
@@ -171,16 +181,6 @@
       "market_cap": 483261362.0,
       "owner_count": 320,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 1.08,
-      "discord_members": 164,
-      "facebook_members": null,
-      "market_cap": 418736418.0,
-      "owner_count": 425,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "JONDETECH-SENSORS",
@@ -293,16 +293,6 @@
       "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 0.69,
-      "discord_members": 184,
-      "facebook_members": null,
-      "market_cap": 718939936.0,
-      "owner_count": 181,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 0.68,
@@ -321,16 +311,6 @@
       "market_cap": 13095779.0,
       "owner_count": 309,
       "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.59,
-      "discord_members": 1327,
-      "facebook_members": 295,
-      "market_cap": 896117460.0,
-      "owner_count": 1645,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "DICOT-PHARMA",
@@ -413,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 0.42,
+      "discord_members": 184,
+      "facebook_members": null,
+      "market_cap": 718939936.0,
+      "owner_count": 181,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
       "ticker": "BONESUPPORT",
       "company_name": "Bonesupport",
       "trend7d": 0.41,
@@ -421,16 +411,6 @@
       "market_cap": 13700044620.0,
       "owner_count": 3501,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
-    },
-    {
-      "ticker": "ABERA-BIOSCIENCE",
-      "company_name": "Abera Bioscience",
-      "trend7d": 0.39,
-      "discord_members": 237,
-      "facebook_members": 49,
-      "market_cap": 181527354.0,
-      "owner_count": 208,
-      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
     },
     {
       "ticker": "GAMING-CORPS",
@@ -483,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.31,
+      "discord_members": 1327,
+      "facebook_members": 295,
+      "market_cap": 896117460.0,
+      "owner_count": 1645,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
       "ticker": "HYDROGENPRO",
       "company_name": "HydrogenPro",
       "trend7d": 0.3,
@@ -511,6 +501,16 @@
       "market_cap": 135289573.0,
       "owner_count": 348,
       "detail_url": "https://allaaktier.se/bolag/physitrack"
+    },
+    {
+      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
+      "company_name": "Cibus Nordic Real Estate",
+      "trend7d": 0.29,
+      "discord_members": 664,
+      "facebook_members": 161,
+      "market_cap": 11845016294.0,
+      "owner_count": 13975,
+      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
     }
   ],
   "twitter_mentions": 0,
