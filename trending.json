@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T12:55:47.483478+00:00",
+  "generated_at": "2026-07-28T15:23:21.935796+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 2.55,
-      "discord_members": 891,
+      "trend7d": 2.63,
+      "discord_members": 893,
       "facebook_members": 2821,
       "market_cap": 82424284.0,
       "owner_count": 1879,
@@ -293,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/biovica-international"
     },
     {
+      "ticker": "ZENERGY",
+      "company_name": "Zenergy",
+      "trend7d": 0.58,
+      "discord_members": 55,
+      "facebook_members": null,
+      "market_cap": 50957532.0,
+      "owner_count": 413,
+      "detail_url": "https://allaaktier.se/bolag/zenergy"
+    },
+    {
       "ticker": "KLARNA",
       "company_name": "Klarna",
       "trend7d": 0.56,
@@ -413,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
+      "ticker": "ALZINOVA",
+      "company_name": "Alzinova",
+      "trend7d": 0.4,
+      "discord_members": 652,
+      "facebook_members": null,
+      "market_cap": 211962023.0,
+      "owner_count": 965,
+      "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
       "ticker": "INTRUM",
       "company_name": "Intrum",
       "trend7d": 0.36,
@@ -463,14 +483,14 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "ALZINOVA",
-      "company_name": "Alzinova",
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
       "trend7d": 0.34,
-      "discord_members": 651,
-      "facebook_members": null,
-      "market_cap": 211962023.0,
-      "owner_count": 965,
-      "detail_url": "https://allaaktier.se/bolag/alzinova"
+      "discord_members": 879,
+      "facebook_members": 1046,
+      "market_cap": 289653053.0,
+      "owner_count": 1562,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "FREJA-EID",
@@ -491,26 +511,6 @@
       "market_cap": 412470870.0,
       "owner_count": 616,
       "detail_url": "https://allaaktier.se/bolag/fractal-gaming-group"
-    },
-    {
-      "ticker": "SPRINT-BIOSCIENCE",
-      "company_name": "Sprint Bioscience",
-      "trend7d": 0.32,
-      "discord_members": 705,
-      "facebook_members": 396,
-      "market_cap": 395683268.0,
-      "owner_count": 750,
-      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
-    },
-    {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.3,
-      "discord_members": 878,
-      "facebook_members": 1046,
-      "market_cap": 289653053.0,
-      "owner_count": 1562,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 74,
+    "total_posts_fetched": 50,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
