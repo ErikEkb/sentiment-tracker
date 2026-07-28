@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T19:36:39.935087+00:00",
+  "generated_at": "2026-07-28T21:10:50.246574+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -11,15 +11,516 @@
   "placera_companies": [],
   "flashback_forum": "https://www.flashback.org/f487-aktier-60504",
   "allaaktier_source": "https://allaaktier.se/",
-  "allaaktier_hot": [],
+  "allaaktier_hot": [
+    {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 6.27,
+      "discord_members": 719,
+      "facebook_members": null,
+      "market_cap": 484868004.0,
+      "owner_count": 1708,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
+    },
+    {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 5.49,
+      "discord_members": 1090,
+      "facebook_members": 2135,
+      "market_cap": 3771345007.0,
+      "owner_count": 3622,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 4.44,
+      "discord_members": 432,
+      "facebook_members": null,
+      "market_cap": 20851030663.0,
+      "owner_count": 4237,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
+      "ticker": "SERVANA",
+      "company_name": "Servana",
+      "trend7d": 4.23,
+      "discord_members": 182,
+      "facebook_members": null,
+      "market_cap": 52235392.0,
+      "owner_count": 855,
+      "detail_url": "https://allaaktier.se/bolag/servana"
+    },
+    {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 2.86,
+      "discord_members": 899,
+      "facebook_members": 2821,
+      "market_cap": 82424284.0,
+      "owner_count": 1879,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 1.95,
+      "discord_members": 109,
+      "facebook_members": null,
+      "market_cap": 547607448.0,
+      "owner_count": 269,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
+    },
+    {
+      "ticker": "UPSALES-TECHNOLOGY",
+      "company_name": "Upsales Technology",
+      "trend7d": 1.64,
+      "discord_members": 40,
+      "facebook_members": null,
+      "market_cap": 484945200.0,
+      "owner_count": 322,
+      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
+      "ticker": "TESLA",
+      "company_name": "Tesla",
+      "trend7d": 1.54,
+      "discord_members": 48,
+      "facebook_members": null,
+      "market_cap": 9665802651460.65,
+      "owner_count": 44629,
+      "detail_url": "https://allaaktier.se/bolag/tesla"
+    },
+    {
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 1.46,
+      "discord_members": 45,
+      "facebook_members": null,
+      "market_cap": 31569955380.0,
+      "owner_count": 3697,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 1.42,
+      "discord_members": 1214,
+      "facebook_members": 297,
+      "market_cap": 633035784.0,
+      "owner_count": 2451,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 1.26,
+      "discord_members": 82,
+      "facebook_members": null,
+      "market_cap": 672500000.0,
+      "owner_count": 601,
+      "detail_url": "https://allaaktier.se/bolag/envar"
+    },
+    {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 1.26,
+      "discord_members": 140,
+      "facebook_members": null,
+      "market_cap": 362936700.0,
+      "owner_count": 775,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
+    },
+    {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 1.22,
+      "discord_members": 453,
+      "facebook_members": null,
+      "market_cap": 47788502.0,
+      "owner_count": 714,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 1.21,
+      "discord_members": 165,
+      "facebook_members": null,
+      "market_cap": 417800695.0,
+      "owner_count": 424,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
+      "ticker": "ATLAS-COPCO",
+      "company_name": "Atlas Copco",
+      "trend7d": 1.11,
+      "discord_members": 98,
+      "facebook_members": null,
+      "market_cap": 933155691171.0,
+      "owner_count": 16217,
+      "detail_url": "https://allaaktier.se/bolag/atlas-copco"
+    },
+    {
+      "ticker": "ZINZINO",
+      "company_name": "Zinzino",
+      "trend7d": 1.06,
+      "discord_members": 78,
+      "facebook_members": null,
+      "market_cap": 5111162739.0,
+      "owner_count": 2872,
+      "detail_url": "https://allaaktier.se/bolag/zinzino"
+    },
+    {
+      "ticker": "REFINE-GROUP",
+      "company_name": "Refine Group",
+      "trend7d": 1.03,
+      "discord_members": 77,
+      "facebook_members": null,
+      "market_cap": 290532830.0,
+      "owner_count": 444,
+      "detail_url": "https://allaaktier.se/bolag/refine-group"
+    },
+    {
+      "ticker": "LOHILO-FOODS",
+      "company_name": "Lohilo Foods",
+      "trend7d": 0.97,
+      "discord_members": 32,
+      "facebook_members": 222,
+      "market_cap": 78727102.0,
+      "owner_count": 738,
+      "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
+    },
+    {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 0.92,
+      "discord_members": 184,
+      "facebook_members": null,
+      "market_cap": 713409629.0,
+      "owner_count": 181,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
+      "ticker": "OXE-MARINE",
+      "company_name": "OXE Marine",
+      "trend7d": 0.9,
+      "discord_members": 172,
+      "facebook_members": null,
+      "market_cap": 216899313.0,
+      "owner_count": 457,
+      "detail_url": "https://allaaktier.se/bolag/oxe-marine"
+    },
+    {
+      "ticker": "INCOAX-NETWORKS",
+      "company_name": "InCoax Networks",
+      "trend7d": 0.84,
+      "discord_members": 158,
+      "facebook_members": 13,
+      "market_cap": 145014467.0,
+      "owner_count": 268,
+      "detail_url": "https://allaaktier.se/bolag/incoax-networks"
+    },
+    {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 0.82,
+      "discord_members": 115,
+      "facebook_members": null,
+      "market_cap": 150982279.0,
+      "owner_count": 355,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 0.77,
+      "discord_members": 478,
+      "facebook_members": null,
+      "market_cap": 1235213304851.0,
+      "owner_count": 16972,
+      "detail_url": "https://allaaktier.se/bolag/investor"
+    },
+    {
+      "ticker": "ODINWELL",
+      "company_name": "Odinwell",
+      "trend7d": 0.7,
+      "discord_members": 160,
+      "facebook_members": 142,
+      "market_cap": 15296938.0,
+      "owner_count": 240,
+      "detail_url": "https://allaaktier.se/bolag/odinwell"
+    },
+    {
+      "ticker": "HANZA",
+      "company_name": "HANZA",
+      "trend7d": 0.7,
+      "discord_members": 109,
+      "facebook_members": 152,
+      "market_cap": 8549878100.0,
+      "owner_count": 1481,
+      "detail_url": "https://allaaktier.se/bolag/hanza"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.68,
+      "discord_members": 218,
+      "facebook_members": null,
+      "market_cap": 74408294.0,
+      "owner_count": 127,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
+      "ticker": "EDYOUTEC",
+      "company_name": "edyoutec",
+      "trend7d": 0.62,
+      "discord_members": 248,
+      "facebook_members": 176,
+      "market_cap": 28141486.0,
+      "owner_count": 333,
+      "detail_url": "https://allaaktier.se/bolag/edyoutec"
+    },
+    {
+      "ticker": "BIOVICA-INTERNATIONAL",
+      "company_name": "Biovica International",
+      "trend7d": 0.6,
+      "discord_members": 548,
+      "facebook_members": 371,
+      "market_cap": 145955600.0,
+      "owner_count": 709,
+      "detail_url": "https://allaaktier.se/bolag/biovica-international"
+    },
+    {
+      "ticker": "ZENERGY",
+      "company_name": "Zenergy",
+      "trend7d": 0.58,
+      "discord_members": 55,
+      "facebook_members": null,
+      "market_cap": 50957532.0,
+      "owner_count": 413,
+      "detail_url": "https://allaaktier.se/bolag/zenergy"
+    },
+    {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.56,
+      "discord_members": 65,
+      "facebook_members": null,
+      "market_cap": 67834004986.42,
+      "owner_count": 5877,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.55,
+      "discord_members": 252,
+      "facebook_members": 223,
+      "market_cap": 44382982.0,
+      "owner_count": 857,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.49,
+      "discord_members": 596,
+      "facebook_members": null,
+      "market_cap": 1829662812.0,
+      "owner_count": 613,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
+      "ticker": "GOLD-TOWN-GAMES",
+      "company_name": "Gold Town Games",
+      "trend7d": 0.47,
+      "discord_members": 83,
+      "facebook_members": null,
+      "market_cap": 14396009.0,
+      "owner_count": 250,
+      "detail_url": "https://allaaktier.se/bolag/gold-town-games"
+    },
+    {
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
+      "trend7d": 0.46,
+      "discord_members": 230,
+      "facebook_members": null,
+      "market_cap": 40294789.0,
+      "owner_count": 520,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.46,
+      "discord_members": 1328,
+      "facebook_members": 295,
+      "market_cap": 880228852.0,
+      "owner_count": 1651,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.45,
+      "discord_members": 220,
+      "facebook_members": 63,
+      "market_cap": 86564382.0,
+      "owner_count": 562,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
+      "ticker": "GAME-CHEST",
+      "company_name": "Game Chest",
+      "trend7d": 0.45,
+      "discord_members": 257,
+      "facebook_members": 188,
+      "market_cap": 7949774.0,
+      "owner_count": 174,
+      "detail_url": "https://allaaktier.se/bolag/game-chest"
+    },
+    {
+      "ticker": "XVIVO-PERFUSION",
+      "company_name": "Xvivo Perfusion",
+      "trend7d": 0.44,
+      "discord_members": 173,
+      "facebook_members": null,
+      "market_cap": 7666970998.0,
+      "owner_count": 1992,
+      "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
+    },
+    {
+      "ticker": "ACARIX",
+      "company_name": "Acarix",
+      "trend7d": 0.44,
+      "discord_members": 620,
+      "facebook_members": 395,
+      "market_cap": 311988663.0,
+      "owner_count": 1323,
+      "detail_url": "https://allaaktier.se/bolag/acarix"
+    },
+    {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 0.43,
+      "discord_members": 156,
+      "facebook_members": null,
+      "market_cap": 13917936.0,
+      "owner_count": 304,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
+    },
+    {
+      "ticker": "CLOETTA",
+      "company_name": "Cloetta",
+      "trend7d": 0.41,
+      "discord_members": 49,
+      "facebook_members": null,
+      "market_cap": 16509023903.0,
+      "owner_count": 5428,
+      "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
+      "ticker": "ALZINOVA",
+      "company_name": "Alzinova",
+      "trend7d": 0.4,
+      "discord_members": 652,
+      "facebook_members": null,
+      "market_cap": 211962023.0,
+      "owner_count": 965,
+      "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
+      "ticker": "PRECISE-BIOMETRICS",
+      "company_name": "Precise Biometrics",
+      "trend7d": 0.4,
+      "discord_members": 144,
+      "facebook_members": 540,
+      "market_cap": 275619890.0,
+      "owner_count": 4289,
+      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
+    },
+    {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.37,
+      "discord_members": 880,
+      "facebook_members": 1046,
+      "market_cap": 289653053.0,
+      "owner_count": 1562,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
+    },
+    {
+      "ticker": "TOUCHTECH",
+      "company_name": "Touchtech",
+      "trend7d": 0.36,
+      "discord_members": 193,
+      "facebook_members": null,
+      "market_cap": 53653007.0,
+      "owner_count": 144,
+      "detail_url": "https://allaaktier.se/bolag/touchtech"
+    },
+    {
+      "ticker": "PREBONA",
+      "company_name": "Prebona",
+      "trend7d": 0.35,
+      "discord_members": 39,
+      "facebook_members": null,
+      "market_cap": 22424000.0,
+      "owner_count": 153,
+      "detail_url": "https://allaaktier.se/bolag/prebona"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 0.35,
+      "discord_members": 341,
+      "facebook_members": null,
+      "market_cap": 124013855.0,
+      "owner_count": 613,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.35,
+      "discord_members": 503,
+      "facebook_members": 2766,
+      "market_cap": 9807243612.0,
+      "owner_count": 4716,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
+      "ticker": "FREJA-EID",
+      "company_name": "Freja eID",
+      "trend7d": 0.33,
+      "discord_members": 233,
+      "facebook_members": 105,
+      "market_cap": 602636551.0,
+      "owner_count": 709,
+      "detail_url": "https://allaaktier.se/bolag/freja-eid"
+    },
+    {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 0.32,
+      "discord_members": 822,
+      "facebook_members": null,
+      "market_cap": 10187947474.0,
+      "owner_count": 7279,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
+    }
+  ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 0,
-    "allaaktier_hot_count": 0,
+    "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
 }
