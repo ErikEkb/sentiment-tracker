@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T02:51:20.069128+00:00",
+  "generated_at": "2026-07-29T05:54:59.551845+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -223,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 0.8,
+      "discord_members": 479,
+      "facebook_members": null,
+      "market_cap": 1240362936054.0,
+      "owner_count": 16972,
+      "detail_url": "https://allaaktier.se/bolag/investor"
+    },
+    {
       "ticker": "JONDETECH-SENSORS",
       "company_name": "JonDeTech Sensors",
       "trend7d": 0.74,
@@ -231,16 +241,6 @@
       "market_cap": 47788502.0,
       "owner_count": 714,
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
-    },
-    {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 0.73,
-      "discord_members": 478,
-      "facebook_members": null,
-      "market_cap": 1240362936054.0,
-      "owner_count": 16972,
-      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "ZENERGY",
@@ -363,6 +363,26 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.41,
+      "discord_members": 881,
+      "facebook_members": 1046,
+      "market_cap": 287460788.0,
+      "owner_count": 1562,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
+    },
+    {
+      "ticker": "PRECISE-BIOMETRICS",
+      "company_name": "Precise Biometrics",
+      "trend7d": 0.4,
+      "discord_members": 145,
+      "facebook_members": 540,
+      "market_cap": 260151427.0,
+      "owner_count": 4289,
+      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
+    },
+    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 0.37,
@@ -371,16 +391,6 @@
       "market_cap": 123490590.0,
       "owner_count": 613,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.37,
-      "discord_members": 880,
-      "facebook_members": 1046,
-      "market_cap": 287460788.0,
-      "owner_count": 1562,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "MILDEF-GROUP",
@@ -501,16 +511,6 @@
       "market_cap": 320305727.0,
       "owner_count": 655,
       "detail_url": "https://allaaktier.se/bolag/nexam-chemical"
-    },
-    {
-      "ticker": "REDSENSE-MEDICAL",
-      "company_name": "Redsense Medical",
-      "trend7d": 0.28,
-      "discord_members": 115,
-      "facebook_members": 300,
-      "market_cap": 66930706.0,
-      "owner_count": 236,
-      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     }
   ],
   "twitter_mentions": 0,
