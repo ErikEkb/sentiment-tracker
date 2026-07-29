@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:27:58.988613+00:00",
+  "generated_at": "2026-07-29T14:16:38.053576+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 2.97,
-      "discord_members": 903,
+      "trend7d": 3.01,
+      "discord_members": 904,
       "facebook_members": 2821,
       "market_cap": 79755872.0,
       "owner_count": 1882,
@@ -75,8 +75,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 2.03,
-      "discord_members": 1215,
+      "trend7d": 2.06,
+      "discord_members": 1216,
       "facebook_members": 297,
       "market_cap": 655582264.0,
       "owner_count": 2505,
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/zinzino"
     },
     {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 1.15,
+      "discord_members": 252,
+      "facebook_members": 223,
+      "market_cap": 39155653.0,
+      "owner_count": 857,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 1.08,
@@ -203,16 +213,6 @@
       "detail_url": "https://allaaktier.se/bolag/oxe-marine"
     },
     {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 1.02,
-      "discord_members": 251,
-      "facebook_members": 223,
-      "market_cap": 39155653.0,
-      "owner_count": 857,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 0.99,
@@ -221,6 +221,16 @@
       "market_cap": 503467412.0,
       "owner_count": 321,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 0.98,
+      "discord_members": 167,
+      "facebook_members": null,
+      "market_cap": 413589937.0,
+      "owner_count": 424,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "OBSERVIT",
@@ -311,16 +321,6 @@
       "market_cap": 7988265592.0,
       "owner_count": 1998,
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 0.57,
-      "discord_members": 165,
-      "facebook_members": null,
-      "market_cap": 413589937.0,
-      "owner_count": 424,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -463,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
+      "ticker": "SSAB",
+      "company_name": "SSAB",
+      "trend7d": 0.34,
+      "discord_members": 426,
+      "facebook_members": null,
+      "market_cap": 100693416934.0,
+      "owner_count": 3354,
+      "detail_url": "https://allaaktier.se/bolag/ssab"
+    },
+    {
       "ticker": "KEBNI",
       "company_name": "KebNi",
       "trend7d": 0.33,
@@ -501,16 +511,6 @@
       "market_cap": 8150053735.0,
       "owner_count": 4048,
       "detail_url": "https://allaaktier.se/bolag/storytel"
-    },
-    {
-      "ticker": "TOUCHTECH",
-      "company_name": "Touchtech",
-      "trend7d": 0.28,
-      "discord_members": 193,
-      "facebook_members": null,
-      "market_cap": 54096420.0,
-      "owner_count": 144,
-      "detail_url": "https://allaaktier.se/bolag/touchtech"
     }
   ],
   "twitter_mentions": 0,
