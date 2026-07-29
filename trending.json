@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:16:38.053576+00:00",
+  "generated_at": "2026-07-29T16:23:36.725468+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 5.84,
-      "discord_members": 1090,
+      "trend7d": 5.87,
+      "discord_members": 1091,
       "facebook_members": 2135,
       "market_cap": 3854790849.0,
       "owner_count": 3632,
@@ -81,6 +81,16 @@
       "market_cap": 655582264.0,
       "owner_count": 2505,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 2.02,
+      "discord_members": 96,
+      "facebook_members": null,
+      "market_cap": 6009770107.0,
+      "owner_count": 2759,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "ARGO-DEFENCE",
@@ -153,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 1.18,
+      "discord_members": 168,
+      "facebook_members": null,
+      "market_cap": 413589937.0,
+      "owner_count": 424,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
       "ticker": "ZINZINO",
       "company_name": "Zinzino",
       "trend7d": 1.15,
@@ -221,16 +241,6 @@
       "market_cap": 503467412.0,
       "owner_count": 321,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 0.98,
-      "discord_members": 167,
-      "facebook_members": null,
-      "market_cap": 413589937.0,
-      "owner_count": 424,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "OBSERVIT",
@@ -373,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 0.47,
+      "discord_members": 530,
+      "facebook_members": 363,
+      "market_cap": 190351259.0,
+      "owner_count": 444,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "BIOVICA-INTERNATIONAL",
       "company_name": "Biovica International",
       "trend7d": 0.46,
@@ -423,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/fractal-gaming-group"
     },
     {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.38,
+      "discord_members": 503,
+      "facebook_members": 2766,
+      "market_cap": 9801577960.0,
+      "owner_count": 4736,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
       "ticker": "GOLD-TOWN-GAMES",
       "company_name": "Gold Town Games",
       "trend7d": 0.37,
@@ -453,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.35,
-      "discord_members": 528,
-      "facebook_members": 363,
-      "market_cap": 190351259.0,
-      "owner_count": 444,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
       "ticker": "SSAB",
       "company_name": "SSAB",
       "trend7d": 0.34,
@@ -491,26 +511,6 @@
       "market_cap": 663603081.96,
       "owner_count": 3349,
       "detail_url": "https://allaaktier.se/bolag/zelluna"
-    },
-    {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 0.31,
-      "discord_members": 502,
-      "facebook_members": 2766,
-      "market_cap": 9801577960.0,
-      "owner_count": 4736,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
-      "ticker": "STORYTEL",
-      "company_name": "Storytel",
-      "trend7d": 0.29,
-      "discord_members": 385,
-      "facebook_members": 779,
-      "market_cap": 8150053735.0,
-      "owner_count": 4048,
-      "detail_url": "https://allaaktier.se/bolag/storytel"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 78,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
