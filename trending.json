@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T16:23:36.725468+00:00",
+  "generated_at": "2026-07-29T18:09:01.638764+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 4.37,
-      "discord_members": 433,
+      "trend7d": 4.45,
+      "discord_members": 434,
       "facebook_members": null,
       "market_cap": 21400503038.0,
       "owner_count": 4234,
@@ -55,12 +55,22 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 3.01,
-      "discord_members": 904,
+      "trend7d": 3.05,
+      "discord_members": 905,
       "facebook_members": 2821,
       "market_cap": 79755872.0,
       "owner_count": 1882,
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 2.77,
+      "discord_members": 98,
+      "facebook_members": null,
+      "market_cap": 6009770107.0,
+      "owner_count": 2759,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "FLEXQUBE",
@@ -81,26 +91,6 @@
       "market_cap": 655582264.0,
       "owner_count": 2505,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 2.02,
-      "discord_members": 96,
-      "facebook_members": null,
-      "market_cap": 6009770107.0,
-      "owner_count": 2759,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
-    },
-    {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
-      "trend7d": 1.76,
-      "discord_members": 140,
-      "facebook_members": null,
-      "market_cap": 359580060.0,
-      "owner_count": 777,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -131,6 +121,16 @@
       "market_cap": 9600837042814.75,
       "owner_count": 44701,
       "detail_url": "https://allaaktier.se/bolag/tesla"
+    },
+    {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 1.52,
+      "discord_members": 139,
+      "facebook_members": null,
+      "market_cap": 359580060.0,
+      "owner_count": 777,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "APR-TECHNOLOGIES",
@@ -283,16 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
-      "ticker": "HANZA",
-      "company_name": "HANZA",
-      "trend7d": 0.66,
-      "discord_members": 109,
-      "facebook_members": 152,
-      "market_cap": 8423959424.0,
-      "owner_count": 1474,
-      "detail_url": "https://allaaktier.se/bolag/hanza"
-    },
-    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 0.65,
@@ -371,16 +361,6 @@
       "market_cap": 10082587530.0,
       "owner_count": 7326,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.47,
-      "discord_members": 218,
-      "facebook_members": null,
-      "market_cap": 74126445.0,
-      "owner_count": 127,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -463,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/gold-town-games"
     },
     {
+      "ticker": "HANZA",
+      "company_name": "HANZA",
+      "trend7d": 0.36,
+      "discord_members": 108,
+      "facebook_members": 152,
+      "market_cap": 8423959424.0,
+      "owner_count": 1474,
+      "detail_url": "https://allaaktier.se/bolag/hanza"
+    },
+    {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
       "trend7d": 0.36,
@@ -511,6 +501,16 @@
       "market_cap": 663603081.96,
       "owner_count": 3349,
       "detail_url": "https://allaaktier.se/bolag/zelluna"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.31,
+      "discord_members": 217,
+      "facebook_members": null,
+      "market_cap": 74126445.0,
+      "owner_count": 127,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 74,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
