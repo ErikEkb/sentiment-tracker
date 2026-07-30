@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:03:00.667990+00:00",
+  "generated_at": "2026-07-30T00:02:34.256400+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 5.9,
-      "discord_members": 1092,
+      "trend7d": 5.93,
+      "discord_members": 1093,
       "facebook_members": 2135,
       "market_cap": 3696040223.0,
       "owner_count": 3632,
@@ -25,7 +25,7 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 4.45,
+      "trend7d": 4.36,
       "discord_members": 434,
       "facebook_members": null,
       "market_cap": 21371583439.0,
@@ -55,8 +55,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 3.05,
-      "discord_members": 905,
+      "trend7d": 3.09,
+      "discord_members": 906,
       "facebook_members": 2821,
       "market_cap": 74122557.0,
       "owner_count": 1882,
@@ -283,16 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
-      "ticker": "ECOMB",
-      "company_name": "ECOMB",
-      "trend7d": 0.65,
-      "discord_members": 156,
-      "facebook_members": null,
-      "market_cap": 13271956.0,
-      "owner_count": 304,
-      "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
       "ticker": "JONDETECH-SENSORS",
       "company_name": "JonDeTech Sensors",
       "trend7d": 0.64,
@@ -511,6 +501,16 @@
       "market_cap": 74408294.0,
       "owner_count": 127,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
+      "ticker": "STORYTEL",
+      "company_name": "Storytel",
+      "trend7d": 0.29,
+      "discord_members": 385,
+      "facebook_members": 779,
+      "market_cap": 8351098704.0,
+      "owner_count": 4048,
+      "detail_url": "https://allaaktier.se/bolag/storytel"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 71,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
