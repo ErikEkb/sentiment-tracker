@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T17:38:02.303906+00:00",
+  "generated_at": "2026-07-30T19:36:33.950509+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 4.53,
-      "discord_members": 434,
+      "trend7d": 4.62,
+      "discord_members": 435,
       "facebook_members": null,
       "market_cap": 21718618624.0,
       "owner_count": 4235,
@@ -55,8 +55,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 2.33,
-      "discord_members": 1216,
+      "trend7d": 2.3,
+      "discord_members": 1215,
       "facebook_members": 297,
       "market_cap": 647604279.0,
       "owner_count": 2531,
@@ -65,8 +65,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 2.3,
-      "discord_members": 906,
+      "trend7d": 2.26,
+      "discord_members": 905,
       "facebook_members": 2821,
       "market_cap": 75308518.0,
       "owner_count": 1882,
@@ -233,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
+      "ticker": "SERVANA",
+      "company_name": "Servana",
+      "trend7d": 0.82,
+      "discord_members": 183,
+      "facebook_members": null,
+      "market_cap": 59490308.0,
+      "owner_count": 863,
+      "detail_url": "https://allaaktier.se/bolag/servana"
+    },
+    {
       "ticker": "JONDETECH-SENSORS",
       "company_name": "JonDeTech Sensors",
       "trend7d": 0.78,
@@ -311,16 +321,6 @@
       "market_cap": 665000000.0,
       "owner_count": 601,
       "detail_url": "https://allaaktier.se/bolag/envar"
-    },
-    {
-      "ticker": "SERVANA",
-      "company_name": "Servana",
-      "trend7d": 0.64,
-      "discord_members": 182,
-      "facebook_members": null,
-      "market_cap": 59490308.0,
-      "owner_count": 863,
-      "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
       "ticker": "AIK-FOTBOLL",
@@ -516,27 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "ELUX-A",
-      "company_name": "Electrolux A",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95530904",
-        "https://www.flashback.org/sp95531155"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
     "total_posts_fetched": 65,
-    "tickers_with_any_mentions": 1,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
