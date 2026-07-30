@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T12:46:36.499497+00:00",
+  "generated_at": "2026-07-30T15:12:21.538429+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/adverty"
     },
     {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 5.1,
+      "discord_members": 104,
+      "facebook_members": null,
+      "market_cap": 6146901199.0,
+      "owner_count": 2762,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
+    },
+    {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
       "trend7d": 4.53,
@@ -41,16 +51,6 @@
       "market_cap": 21718618624.0,
       "owner_count": 4235,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 4.35,
-      "discord_members": 102,
-      "facebook_members": null,
-      "market_cap": 6146901199.0,
-      "owner_count": 2762,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "DICOT-PHARMA",
@@ -65,8 +65,8 @@
     {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
-      "trend7d": 2.26,
-      "discord_members": 905,
+      "trend7d": 2.3,
+      "discord_members": 906,
       "facebook_members": 2821,
       "market_cap": 75308518.0,
       "owner_count": 1882,
@@ -195,8 +195,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 1.08,
-      "discord_members": 719,
+      "trend7d": 1.04,
+      "discord_members": 718,
       "facebook_members": null,
       "market_cap": 452881389.0,
       "owner_count": 1706,
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.48,
+      "discord_members": 1285,
+      "facebook_members": 195,
+      "market_cap": 771787601.0,
+      "owner_count": 1483,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
       "ticker": "STORYTEL",
       "company_name": "Storytel",
       "trend7d": 0.48,
@@ -361,16 +371,6 @@
       "market_cap": 8327901208.0,
       "owner_count": 4049,
       "detail_url": "https://allaaktier.se/bolag/storytel"
-    },
-    {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.46,
-      "discord_members": 1284,
-      "facebook_members": 195,
-      "market_cap": 771787601.0,
-      "owner_count": 1483,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "USWE-SPORTS",
@@ -413,16 +413,6 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.41,
-      "discord_members": 885,
-      "facebook_members": 1046,
-      "market_cap": 282254158.0,
-      "owner_count": 1559,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
-    },
-    {
       "ticker": "HUNTER-CAPITAL",
       "company_name": "Hunter Capital",
       "trend7d": 0.39,
@@ -461,6 +451,16 @@
       "market_cap": 196561340.0,
       "owner_count": 957,
       "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.37,
+      "discord_members": 884,
+      "facebook_members": 1046,
+      "market_cap": 282254158.0,
+      "owner_count": 1559,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "PROSTATYPE-GENOMICS",
@@ -522,21 +522,20 @@
       "company_name": "Electrolux A",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
       "avg_sentiment": 1.0,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 3.0,
+      "trending_score": 2.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95528267",
         "https://www.flashback.org/sp95530904",
         "https://www.flashback.org/sp95531155"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
+    "total_posts_fetched": 65,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
