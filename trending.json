@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T15:12:21.538429+00:00",
+  "generated_at": "2026-07-30T17:38:02.303906+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -195,8 +195,8 @@
     {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
-      "trend7d": 1.04,
-      "discord_members": 718,
+      "trend7d": 1.08,
+      "discord_members": 719,
       "facebook_members": null,
       "market_cap": 452881389.0,
       "owner_count": 1706,
@@ -231,6 +231,16 @@
       "market_cap": 498415900.0,
       "owner_count": 322,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 0.78,
+      "discord_members": 453,
+      "facebook_members": null,
+      "market_cap": 44825614.0,
+      "owner_count": 714,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
       "ticker": "CATENA-MEDIA",
@@ -271,16 +281,6 @@
       "market_cap": 691288400.0,
       "owner_count": 181,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
-      "ticker": "JONDETECH-SENSORS",
-      "company_name": "JonDeTech Sensors",
-      "trend7d": 0.7,
-      "discord_members": 452,
-      "facebook_members": null,
-      "market_cap": 44825614.0,
-      "owner_count": 714,
-      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
       "ticker": "NOTE",
