@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T04:07:41.953339+00:00",
+  "generated_at": "2026-07-30T07:35:23.197790+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 1.09,
+      "discord_members": 719,
+      "facebook_members": null,
+      "market_cap": 466355516.0,
+      "owner_count": 1704,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
+    },
+    {
       "ticker": "LOHILO-FOODS",
       "company_name": "Lohilo Foods",
       "trend7d": 1.07,
@@ -171,16 +181,6 @@
       "market_cap": 181063774.0,
       "owner_count": 457,
       "detail_url": "https://allaaktier.se/bolag/oxe-marine"
-    },
-    {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 1.04,
-      "discord_members": 718,
-      "facebook_members": null,
-      "market_cap": 466355516.0,
-      "owner_count": 1704,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "ACUCORT",
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
-      "ticker": "ZINZINO",
-      "company_name": "Zinzino",
-      "trend7d": 0.73,
-      "discord_members": 78,
-      "facebook_members": null,
-      "market_cap": 5021080944.0,
-      "owner_count": 2873,
-      "detail_url": "https://allaaktier.se/bolag/zinzino"
-    },
-    {
       "ticker": "ODINWELL",
       "company_name": "Odinwell",
       "trend7d": 0.73,
@@ -293,14 +283,14 @@
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
-      "ticker": "JONDETECH-SENSORS",
-      "company_name": "JonDeTech Sensors",
-      "trend7d": 0.7,
-      "discord_members": 453,
-      "facebook_members": null,
-      "market_cap": 43009651.0,
-      "owner_count": 713,
-      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 0.71,
+      "discord_members": 532,
+      "facebook_members": 363,
+      "market_cap": 196299736.0,
+      "owner_count": 444,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
       "ticker": "AIK-FOTBOLL",
@@ -313,14 +303,14 @@
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.58,
-      "discord_members": 530,
-      "facebook_members": 363,
-      "market_cap": 196299736.0,
-      "owner_count": 444,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 0.63,
+      "discord_members": 452,
+      "facebook_members": null,
+      "market_cap": 43009651.0,
+      "owner_count": 713,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
       "ticker": "FRACTAL-GAMING-GROUP",
@@ -361,6 +351,16 @@
       "market_cap": 491292537.0,
       "owner_count": 869,
       "detail_url": "https://allaaktier.se/bolag/botnia-gold"
+    },
+    {
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.37,
+      "discord_members": 883,
+      "facebook_members": 1046,
+      "market_cap": 287186755.0,
+      "owner_count": 1560,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "GOLD-TOWN-GAMES",
@@ -423,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/catena-media"
     },
     {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.33,
-      "discord_members": 882,
-      "facebook_members": 1046,
-      "market_cap": 287186755.0,
-      "owner_count": 1560,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
-    },
-    {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
       "trend7d": 0.32,
@@ -451,6 +441,16 @@
       "market_cap": 591212162.0,
       "owner_count": 711,
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
+    },
+    {
+      "ticker": "ZINZINO",
+      "company_name": "Zinzino",
+      "trend7d": 0.3,
+      "discord_members": 77,
+      "facebook_members": null,
+      "market_cap": 5021080944.0,
+      "owner_count": 2873,
+      "detail_url": "https://allaaktier.se/bolag/zinzino"
     },
     {
       "ticker": "ALZINOVA",
@@ -516,10 +516,28 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "ELUX-A",
+      "company_name": "Electrolux A",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 3.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95528267",
+        "https://www.flashback.org/sp95530904",
+        "https://www.flashback.org/sp95531155"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 72,
-    "tickers_with_any_mentions": 0,
+    "total_posts_fetched": 77,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
