@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T17:41:28.295273+00:00",
+  "generated_at": "2026-07-31T19:37:42.048931+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 4.43,
-      "discord_members": 435,
+      "trend7d": 4.35,
+      "discord_members": 434,
       "facebook_members": null,
       "market_cap": 21646319627.0,
       "owner_count": 4246,
@@ -133,16 +133,6 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 1.38,
-      "discord_members": 187,
-      "facebook_members": null,
-      "market_cap": 743826318.0,
-      "owner_count": 183,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 1.26,
@@ -161,6 +151,16 @@
       "market_cap": 963070108806.0,
       "owner_count": 16375,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
+    },
+    {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 1.2,
+      "discord_members": 186,
+      "facebook_members": null,
+      "market_cap": 743826318.0,
+      "owner_count": 183,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "FLEXQUBE",
@@ -425,12 +425,22 @@
     {
       "ticker": "CESSATECH",
       "company_name": "Cessatech",
-      "trend7d": 0.35,
-      "discord_members": 1060,
+      "trend7d": 0.38,
+      "discord_members": 1061,
       "facebook_members": 164,
       "market_cap": 266707688.68,
       "owner_count": 3890,
       "detail_url": "https://allaaktier.se/bolag/cessatech"
+    },
+    {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.36,
+      "discord_members": 850,
+      "facebook_members": null,
+      "market_cap": 200470564.0,
+      "owner_count": 835,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "SSAB",
@@ -451,16 +461,6 @@
       "market_cap": 4030787487.61,
       "owner_count": 12304,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
-    },
-    {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.32,
-      "discord_members": 850,
-      "facebook_members": null,
-      "market_cap": 200470564.0,
-      "owner_count": 835,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "ALZINOVA",
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 54,
+    "total_posts_fetched": 56,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
