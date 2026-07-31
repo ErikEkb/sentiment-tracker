@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:37:42.048931+00:00",
+  "generated_at": "2026-07-31T21:08:05.978752+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -93,16 +93,6 @@
       "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 1.46,
-      "discord_members": 479,
-      "facebook_members": null,
-      "market_cap": 1260055479650.0,
-      "owner_count": 17111,
-      "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 1.45,
@@ -121,6 +111,16 @@
       "market_cap": 284431641.0,
       "owner_count": 444,
       "detail_url": "https://allaaktier.se/bolag/refine-group"
+    },
+    {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 1.39,
+      "discord_members": 478,
+      "facebook_members": null,
+      "market_cap": 1260055479650.0,
+      "owner_count": 17111,
+      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "SERVANA",
@@ -188,7 +188,7 @@
       "trend7d": 1.09,
       "discord_members": 173,
       "facebook_members": null,
-      "market_cap": 183892896.0,
+      "market_cap": 185778977.0,
       "owner_count": 456,
       "detail_url": "https://allaaktier.se/bolag/oxe-marine"
     },
@@ -231,16 +231,6 @@
       "market_cap": 54594439.0,
       "owner_count": 130,
       "detail_url": "https://allaaktier.se/bolag/uswe-sports"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 0.85,
-      "discord_members": 170,
-      "facebook_members": null,
-      "market_cap": 364464436.0,
-      "owner_count": 420,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "TESLA",
@@ -298,7 +288,7 @@
       "trend7d": 0.76,
       "discord_members": 160,
       "facebook_members": 142,
-      "market_cap": 12760658.0,
+      "market_cap": 14028798.0,
       "owner_count": 240,
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
@@ -323,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/goodbye-kansas"
     },
     {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 0.64,
+      "discord_members": 169,
+      "facebook_members": null,
+      "market_cap": 364464436.0,
+      "owner_count": 420,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
       "ticker": "GOLD-TOWN-GAMES",
       "company_name": "Gold Town Games",
       "trend7d": 0.54,
@@ -338,7 +338,7 @@
       "trend7d": 0.54,
       "discord_members": 1287,
       "facebook_members": 195,
-      "market_cap": 811905274.0,
+      "market_cap": 818591552.0,
       "owner_count": 1482,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
@@ -348,7 +348,7 @@
       "trend7d": 0.51,
       "discord_members": 503,
       "facebook_members": 2766,
-      "market_cap": 9812909264.0,
+      "market_cap": 9739255788.0,
       "owner_count": 4758,
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
@@ -488,7 +488,7 @@
       "trend7d": 0.32,
       "discord_members": 222,
       "facebook_members": 63,
-      "market_cap": 82569103.0,
+      "market_cap": 85232622.0,
       "owner_count": 557,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
