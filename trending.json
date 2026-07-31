@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T03:17:21.964445+00:00",
+  "generated_at": "2026-07-31T06:46:29.723573+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -293,16 +293,6 @@
       "detail_url": "https://allaaktier.se/bolag/note"
     },
     {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 0.64,
-      "discord_members": 716,
-      "facebook_members": null,
-      "market_cap": 454236703.0,
-      "owner_count": 1706,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
-    },
-    {
       "ticker": "USWE-SPORTS",
       "company_name": "USWE Sports",
       "trend7d": 0.6,
@@ -321,6 +311,16 @@
       "market_cap": 682992939.0,
       "owner_count": 181,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 0.54,
+      "discord_members": 714,
+      "facebook_members": null,
+      "market_cap": 454236703.0,
+      "owner_count": 1706,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -518,23 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "SOFI",
-      "company_name": "SoFi Technologies Inc.",
-      "sector": "Financials",
-      "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.778,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.333,
-      "sample_posts": [
-        "https://www.flashback.org/sp95544018",
-        "https://www.flashback.org/sp95544515",
-        "https://www.flashback.org/sp95545890"
-      ]
-    },
-    {
       "ticker": "ELIC",
       "company_name": "Elicera Therapeutics AB",
       "sector": "Unknown",
@@ -553,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 71,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 61,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
