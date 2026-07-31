@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:21:13.876497+00:00",
+  "generated_at": "2026-07-31T17:41:28.295273+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -75,8 +75,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.57,
-      "discord_members": 533,
+      "trend7d": 1.64,
+      "discord_members": 534,
       "facebook_members": 363,
       "market_cap": 198679126.0,
       "owner_count": 452,
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
+      "ticker": "SERVANA",
+      "company_name": "Servana",
+      "trend7d": 1.39,
+      "discord_members": 184,
+      "facebook_members": null,
+      "market_cap": 71098173.0,
+      "owner_count": 865,
+      "detail_url": "https://allaaktier.se/bolag/servana"
+    },
+    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 1.38,
@@ -151,26 +161,6 @@
       "market_cap": 963070108806.0,
       "owner_count": 16375,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
-    },
-    {
-      "ticker": "SERVANA",
-      "company_name": "Servana",
-      "trend7d": 1.2,
-      "discord_members": 183,
-      "facebook_members": null,
-      "market_cap": 71098173.0,
-      "owner_count": 865,
-      "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 1.16,
-      "discord_members": 252,
-      "facebook_members": 223,
-      "market_cap": 30525628.0,
-      "owner_count": 852,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "FLEXQUBE",
@@ -211,6 +201,16 @@
       "market_cap": 79103787.0,
       "owner_count": 738,
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 1.03,
+      "discord_members": 251,
+      "facebook_members": 223,
+      "market_cap": 30525628.0,
+      "owner_count": 852,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "UPSALES-TECHNOLOGY",
@@ -335,8 +335,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 0.51,
-      "discord_members": 1286,
+      "trend7d": 0.54,
+      "discord_members": 1287,
       "facebook_members": 195,
       "market_cap": 811905274.0,
       "owner_count": 1482,
@@ -453,20 +453,10 @@
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
     {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.33,
-      "discord_members": 885,
-      "facebook_members": 1046,
-      "market_cap": 286090622.0,
-      "owner_count": 1557,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
-    },
-    {
       "ticker": "KLARIA-PHARMA",
       "company_name": "Klaria Pharma",
       "trend7d": 0.32,
-      "discord_members": 849,
+      "discord_members": 850,
       "facebook_members": null,
       "market_cap": 200470564.0,
       "owner_count": 835,
@@ -511,6 +501,16 @@
       "market_cap": 860479439.0,
       "owner_count": 1038,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+    },
+    {
+      "ticker": "XVIVO-PERFUSION",
+      "company_name": "Xvivo Perfusion",
+      "trend7d": 0.29,
+      "discord_members": 173,
+      "facebook_members": null,
+      "market_cap": 8378859020.0,
+      "owner_count": 2005,
+      "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     }
   ],
   "twitter_mentions": 0,
@@ -522,14 +522,13 @@
       "company_name": "Elicera Therapeutics AB",
       "sector": "Unknown",
       "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95536537",
         "https://www.flashback.org/sp95541988",
         "https://www.flashback.org/sp95545716"
       ]
