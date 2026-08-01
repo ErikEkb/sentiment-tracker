@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:00:27.597545+00:00",
+  "generated_at": "2026-08-01T23:03:50.771878+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 6.51,
-      "discord_members": 108,
+      "trend7d": 6.89,
+      "discord_members": 109,
       "facebook_members": null,
       "market_cap": 6143472922.0,
       "owner_count": 2761,
@@ -45,8 +45,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 3.64,
-      "discord_members": 1096,
+      "trend7d": 3.73,
+      "discord_members": 1099,
       "facebook_members": 2135,
       "market_cap": 3500654837.0,
       "owner_count": 3652,
@@ -103,6 +103,16 @@
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 1.55,
+      "discord_members": 479,
+      "facebook_members": null,
+      "market_cap": 1252508405688.0,
+      "owner_count": 17111,
+      "detail_url": "https://allaaktier.se/bolag/investor"
+    },
+    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
       "trend7d": 1.53,
@@ -111,16 +121,6 @@
       "market_cap": 196002312.0,
       "owner_count": 452,
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 1.48,
-      "discord_members": 478,
-      "facebook_members": null,
-      "market_cap": 1252508405688.0,
-      "owner_count": 17111,
-      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "APR-TECHNOLOGIES",
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 1.16,
+      "discord_members": 910,
+      "facebook_members": 2821,
+      "market_cap": 66710302.0,
+      "owner_count": 1881,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "USWE-SPORTS",
       "company_name": "USWE Sports",
       "trend7d": 1.1,
@@ -171,16 +181,6 @@
       "market_cap": 54594439.0,
       "owner_count": 130,
       "detail_url": "https://allaaktier.se/bolag/uswe-sports"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 1.09,
-      "discord_members": 908,
-      "facebook_members": 2821,
-      "market_cap": 66710302.0,
-      "owner_count": 1881,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "TENEO-AI",
@@ -256,7 +256,7 @@
       "ticker": "CATENA-MEDIA",
       "company_name": "Catena Media",
       "trend7d": 0.87,
-      "discord_members": 704,
+      "discord_members": 705,
       "facebook_members": 996,
       "market_cap": 295400332.0,
       "owner_count": 902,
