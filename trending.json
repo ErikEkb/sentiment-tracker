@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:12:21.767797+00:00",
+  "generated_at": "2026-08-01T20:56:31.881637+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 1.6,
+      "discord_members": 111,
+      "facebook_members": null,
+      "market_cap": 590658348.0,
+      "owner_count": 270,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
+    },
+    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 1.56,
@@ -131,16 +141,6 @@
       "market_cap": 283560042.0,
       "owner_count": 444,
       "detail_url": "https://allaaktier.se/bolag/refine-group"
-    },
-    {
-      "ticker": "FLEXQUBE",
-      "company_name": "FlexQube",
-      "trend7d": 1.29,
-      "discord_members": 110,
-      "facebook_members": null,
-      "market_cap": 590658348.0,
-      "owner_count": 270,
-      "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
       "ticker": "ATLAS-COPCO",
@@ -550,22 +550,6 @@
       ]
     },
     {
-      "ticker": "ELIC",
-      "company_name": "Elicera Therapeutics AB",
-      "sector": "Unknown",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95545716",
-        "https://www.flashback.org/sp95551527"
-      ]
-    },
-    {
       "ticker": "HIMS",
       "company_name": "Hims & Hers Health A",
       "sector": "Discovered",
@@ -584,7 +568,7 @@
   ],
   "stats": {
     "total_posts_fetched": 62,
-    "tickers_with_any_mentions": 4,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
