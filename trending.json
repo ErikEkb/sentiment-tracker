@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:03:44.586497+00:00",
+  "generated_at": "2026-08-01T03:16:57.322134+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,7 +45,7 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 3.67,
+      "trend7d": 3.6,
       "discord_members": 1094,
       "facebook_members": 2135,
       "market_cap": 3500654837.0,
@@ -75,22 +75,12 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.64,
+      "trend7d": 1.57,
       "discord_members": 534,
       "facebook_members": 363,
       "market_cap": 196002312.0,
       "owner_count": 452,
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 1.64,
-      "discord_members": 908,
-      "facebook_members": 2821,
-      "market_cap": 66710302.0,
-      "owner_count": 1881,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "ARGO-DEFENCE",
@@ -133,16 +123,6 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
-      "ticker": "ACUCORT",
-      "company_name": "AcuCort",
-      "trend7d": 1.26,
-      "discord_members": 116,
-      "facebook_members": null,
-      "market_cap": 151920057.0,
-      "owner_count": 352,
-      "detail_url": "https://allaaktier.se/bolag/acucort"
-    },
-    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 1.23,
@@ -161,6 +141,16 @@
       "market_cap": 741061165.0,
       "owner_count": 183,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 1.16,
+      "discord_members": 251,
+      "facebook_members": 223,
+      "market_cap": 30081799.0,
+      "owner_count": 852,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "FLEXQUBE",
@@ -183,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 1.1,
+      "discord_members": 908,
+      "facebook_members": 2821,
+      "market_cap": 66710302.0,
+      "owner_count": 1881,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "OXE-MARINE",
       "company_name": "OXE Marine",
       "trend7d": 1.09,
@@ -203,16 +203,6 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 1.03,
-      "discord_members": 251,
-      "facebook_members": 223,
-      "market_cap": 30081799.0,
-      "owner_count": 852,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 0.98,
@@ -221,6 +211,16 @@
       "market_cap": 496732062.0,
       "owner_count": 324,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 0.95,
+      "discord_members": 116,
+      "facebook_members": null,
+      "market_cap": 151920057.0,
+      "owner_count": 352,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
       "ticker": "USWE-SPORTS",
@@ -241,16 +241,6 @@
       "market_cap": 9560768264155.54,
       "owner_count": 44837,
       "detail_url": "https://allaaktier.se/bolag/tesla"
-    },
-    {
-      "ticker": "JONDETECH-SENSORS",
-      "company_name": "JonDeTech Sensors",
-      "trend7d": 0.83,
-      "discord_members": 453,
-      "facebook_members": null,
-      "market_cap": 41098111.0,
-      "owner_count": 714,
-      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
       "ticker": "CATENA-MEDIA",
@@ -293,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 0.76,
+      "discord_members": 453,
+      "facebook_members": null,
+      "market_cap": 41098111.0,
+      "owner_count": 714,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
       "trend7d": 0.75,
@@ -313,19 +313,19 @@
       "detail_url": "https://allaaktier.se/bolag/goodbye-kansas"
     },
     {
-      "ticker": "GOLD-TOWN-GAMES",
-      "company_name": "Gold Town Games",
-      "trend7d": 0.54,
-      "discord_members": 83,
-      "facebook_members": null,
-      "market_cap": 11939933.0,
-      "owner_count": 250,
-      "detail_url": "https://allaaktier.se/bolag/gold-town-games"
+      "ticker": "STORYTEL",
+      "company_name": "Storytel",
+      "trend7d": 0.61,
+      "discord_members": 385,
+      "facebook_members": 779,
+      "market_cap": 8150053735.0,
+      "owner_count": 4047,
+      "detail_url": "https://allaaktier.se/bolag/storytel"
     },
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 0.54,
+      "trend7d": 0.57,
       "discord_members": 1287,
       "facebook_members": 195,
       "market_cap": 818591552.0,
@@ -363,16 +363,6 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
-      "ticker": "OBDUCAT",
-      "company_name": "Obducat",
-      "trend7d": 0.46,
-      "discord_members": 715,
-      "facebook_members": null,
-      "market_cap": 452073062.0,
-      "owner_count": 1703,
-      "detail_url": "https://allaaktier.se/bolag/obducat"
-    },
-    {
       "ticker": "SPRINT-BIOSCIENCE",
       "company_name": "Sprint Bioscience",
       "trend7d": 0.46,
@@ -381,16 +371,6 @@
       "market_cap": 379855937.0,
       "owner_count": 758,
       "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 0.44,
-      "discord_members": 168,
-      "facebook_members": null,
-      "market_cap": 357914369.0,
-      "owner_count": 420,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "FREJA-EID",
@@ -403,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "STORYTEL",
-      "company_name": "Storytel",
-      "trend7d": 0.44,
-      "discord_members": 385,
-      "facebook_members": 779,
-      "market_cap": 8150053735.0,
-      "owner_count": 4047,
-      "detail_url": "https://allaaktier.se/bolag/storytel"
-    },
-    {
       "ticker": "MILDEF-GROUP",
       "company_name": "Mildef Group",
       "trend7d": 0.43,
@@ -421,6 +391,16 @@
       "market_cap": 10205086257.0,
       "owner_count": 7321,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
+    },
+    {
+      "ticker": "OBDUCAT",
+      "company_name": "Obducat",
+      "trend7d": 0.41,
+      "discord_members": 715,
+      "facebook_members": null,
+      "market_cap": 452073062.0,
+      "owner_count": 1703,
+      "detail_url": "https://allaaktier.se/bolag/obducat"
     },
     {
       "ticker": "KLARIA-PHARMA",
@@ -443,14 +423,14 @@
       "detail_url": "https://allaaktier.se/bolag/botnia-gold"
     },
     {
-      "ticker": "CESSATECH",
-      "company_name": "Cessatech",
-      "trend7d": 0.38,
-      "discord_members": 1061,
-      "facebook_members": 164,
-      "market_cap": 275196966.6,
-      "owner_count": 3890,
-      "detail_url": "https://allaaktier.se/bolag/cessatech"
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.37,
+      "discord_members": 417,
+      "facebook_members": null,
+      "market_cap": 16654190930.54,
+      "owner_count": 1073,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "SSAB",
@@ -511,6 +491,26 @@
       "market_cap": 838415864.0,
       "owner_count": 1038,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+    },
+    {
+      "ticker": "XVIVO-PERFUSION",
+      "company_name": "Xvivo Perfusion",
+      "trend7d": 0.29,
+      "discord_members": 173,
+      "facebook_members": null,
+      "market_cap": 8309560186.0,
+      "owner_count": 2005,
+      "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
+    },
+    {
+      "ticker": "ZELLUNA",
+      "company_name": "Zelluna",
+      "trend7d": 0.28,
+      "discord_members": 143,
+      "facebook_members": null,
+      "market_cap": 683218088.05,
+      "owner_count": 3354,
+      "detail_url": "https://allaaktier.se/bolag/zelluna"
     }
   ],
   "twitter_mentions": 0,
