@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T06:31:44.790849+00:00",
+  "generated_at": "2026-08-01T09:07:37.619580+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,7 +25,7 @@
     {
       "ticker": "ADVERTY",
       "company_name": "Adverty",
-      "trend7d": 4.85,
+      "trend7d": 4.78,
       "discord_members": 1201,
       "facebook_members": 367,
       "market_cap": 104519540.0,
@@ -143,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 1.16,
-      "discord_members": 251,
-      "facebook_members": 223,
-      "market_cap": 30081799.0,
-      "owner_count": 852,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 1.15,
@@ -191,6 +181,16 @@
       "market_cap": 185778977.0,
       "owner_count": 456,
       "detail_url": "https://allaaktier.se/bolag/oxe-marine"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 1.08,
+      "discord_members": 251,
+      "facebook_members": 223,
+      "market_cap": 30081799.0,
+      "owner_count": 852,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "LOHILO-FOODS",
@@ -413,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.38,
+      "discord_members": 417,
+      "facebook_members": null,
+      "market_cap": 16622435595.81,
+      "owner_count": 1073,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+    },
+    {
       "ticker": "BOTNIA-GOLD",
       "company_name": "Botnia Gold",
       "trend7d": 0.38,
@@ -421,16 +431,6 @@
       "market_cap": 493740839.0,
       "owner_count": 868,
       "detail_url": "https://allaaktier.se/bolag/botnia-gold"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.37,
-      "discord_members": 417,
-      "facebook_members": null,
-      "market_cap": 16654190930.54,
-      "owner_count": 1073,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "SSAB",
@@ -483,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
-      "ticker": "ALZECURE-PHARMA",
-      "company_name": "AlzeCure Pharma",
-      "trend7d": 0.3,
-      "discord_members": 281,
-      "facebook_members": 12,
-      "market_cap": 838415864.0,
-      "owner_count": 1038,
-      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
       "ticker": "XVIVO-PERFUSION",
       "company_name": "Xvivo Perfusion",
       "trend7d": 0.29,
@@ -511,6 +501,16 @@
       "market_cap": 683218088.05,
       "owner_count": 3354,
       "detail_url": "https://allaaktier.se/bolag/zelluna"
+    },
+    {
+      "ticker": "FRAGBITE",
+      "company_name": "Fragbite",
+      "trend7d": 0.26,
+      "discord_members": 154,
+      "facebook_members": 20,
+      "market_cap": 41192924.0,
+      "owner_count": 356,
+      "detail_url": "https://allaaktier.se/bolag/fragbite"
     }
   ],
   "twitter_mentions": 0,
