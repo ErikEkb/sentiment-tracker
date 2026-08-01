@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T17:02:54.566566+00:00",
+  "generated_at": "2026-08-01T19:12:21.767797+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "ADVERTY",
       "company_name": "Adverty",
-      "trend7d": 4.78,
-      "discord_members": 1201,
+      "trend7d": 4.75,
+      "discord_members": 1200,
       "facebook_members": 367,
       "market_cap": 104519540.0,
       "owner_count": 471,
@@ -313,16 +313,6 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "GOODBYE-KANSAS",
-      "company_name": "Goodbye Kansas",
-      "trend7d": 0.65,
-      "discord_members": 342,
-      "facebook_members": 1413,
-      "market_cap": 64854634.0,
-      "owner_count": 699,
-      "detail_url": "https://allaaktier.se/bolag/goodbye-kansas"
-    },
-    {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
       "trend7d": 0.62,
@@ -331,6 +321,16 @@
       "market_cap": 41062865.0,
       "owner_count": 413,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
+    },
+    {
+      "ticker": "GOODBYE-KANSAS",
+      "company_name": "Goodbye Kansas",
+      "trend7d": 0.55,
+      "discord_members": 341,
+      "facebook_members": 1413,
+      "market_cap": 64854634.0,
+      "owner_count": 699,
+      "detail_url": "https://allaaktier.se/bolag/goodbye-kansas"
     },
     {
       "ticker": "STORYTEL",
@@ -473,14 +473,14 @@
       "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
-      "ticker": "ZAPTEC",
-      "company_name": "Zaptec",
-      "trend7d": 0.32,
-      "discord_members": 188,
-      "facebook_members": 558,
-      "market_cap": 3975838084.73,
-      "owner_count": 12304,
-      "detail_url": "https://allaaktier.se/bolag/zaptec"
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.31,
+      "discord_members": 795,
+      "facebook_members": 435,
+      "market_cap": 2944971630.0,
+      "owner_count": 1201,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "FRACTAL-GAMING-GROUP",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.27,
-      "discord_members": 794,
-      "facebook_members": 435,
-      "market_cap": 2944971630.0,
-      "owner_count": 1201,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+      "ticker": "FRAGBITE",
+      "company_name": "Fragbite",
+      "trend7d": 0.26,
+      "discord_members": 154,
+      "facebook_members": 20,
+      "market_cap": 41192924.0,
+      "owner_count": 356,
+      "detail_url": "https://allaaktier.se/bolag/fragbite"
     }
   ],
   "twitter_mentions": 0,
