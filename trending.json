@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:56:31.881637+00:00",
+  "generated_at": "2026-08-01T22:00:27.597545+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -418,7 +418,7 @@
       "trend7d": 0.38,
       "discord_members": 417,
       "facebook_members": null,
-      "market_cap": 16622435595.81,
+      "market_cap": 16622438272.02,
       "owner_count": 1073,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
@@ -522,15 +522,16 @@
       "company_name": "SpaceX",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
+      "mentions": 11,
+      "velocity_mentions_per_day": 3.67,
+      "avg_sentiment": 0.558,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 6.143,
       "sample_posts": [
         "https://www.flashback.org/sp95551592",
-        "https://www.flashback.org/sp95555402"
+        "https://www.flashback.org/sp95555402",
+        "https://www.flashback.org/sp95557714"
       ]
     },
     {
@@ -538,15 +539,16 @@
       "company_name": "Transfer Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
       "avg_sentiment": 1.0,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 3.0,
       "sample_posts": [
         "https://www.flashback.org/sp95547933",
-        "https://www.flashback.org/sp95549367"
+        "https://www.flashback.org/sp95549367",
+        "https://www.flashback.org/sp95558625"
       ]
     },
     {
@@ -568,7 +570,7 @@
   ],
   "stats": {
     "total_posts_fetched": 62,
-    "tickers_with_any_mentions": 3,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
