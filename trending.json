@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:18:45.135224+00:00",
+  "generated_at": "2026-08-01T13:26:47.562788+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -393,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
+      "ticker": "SPRINT-BIOSCIENCE",
+      "company_name": "Sprint Bioscience",
+      "trend7d": 0.45,
+      "discord_members": 705,
+      "facebook_members": 396,
+      "market_cap": 379855937.0,
+      "owner_count": 758,
+      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
+    },
+    {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
       "trend7d": 0.43,
@@ -401,16 +411,6 @@
       "market_cap": 452073062.0,
       "owner_count": 1703,
       "detail_url": "https://allaaktier.se/bolag/obducat"
-    },
-    {
-      "ticker": "SPRINT-BIOSCIENCE",
-      "company_name": "Sprint Bioscience",
-      "trend7d": 0.41,
-      "discord_members": 704,
-      "facebook_members": 396,
-      "market_cap": 379855937.0,
-      "owner_count": 758,
-      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
-      "ticker": "FRAGBITE",
-      "company_name": "Fragbite",
-      "trend7d": 0.26,
-      "discord_members": 154,
-      "facebook_members": 20,
-      "market_cap": 41192924.0,
-      "owner_count": 356,
-      "detail_url": "https://allaaktier.se/bolag/fragbite"
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.27,
+      "discord_members": 794,
+      "facebook_members": 435,
+      "market_cap": 2944971630.0,
+      "owner_count": 1201,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     }
   ],
   "twitter_mentions": 0,
@@ -554,14 +554,13 @@
       "company_name": "Elicera Therapeutics AB",
       "sector": "Unknown",
       "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 2.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95541988",
         "https://www.flashback.org/sp95545716",
         "https://www.flashback.org/sp95551527"
       ]
