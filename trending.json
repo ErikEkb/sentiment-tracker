@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T06:35:20.136868+00:00",
+  "generated_at": "2026-08-02T09:10:30.233685+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -53,6 +53,16 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 1.88,
+      "discord_members": 1103,
+      "facebook_members": 2135,
+      "market_cap": 3500654837.0,
+      "owner_count": 3652,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 1.85,
@@ -61,16 +71,6 @@
       "market_cap": 590658348.0,
       "owner_count": 270,
       "detail_url": "https://allaaktier.se/bolag/flexqube"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 1.76,
-      "discord_members": 1099,
-      "facebook_members": 2135,
-      "market_cap": 3500654837.0,
-      "owner_count": 3652,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
       "ticker": "APR-TECHNOLOGIES",
@@ -373,6 +373,16 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.46,
+      "discord_members": 852,
+      "facebook_members": null,
+      "market_cap": 211539491.0,
+      "owner_count": 835,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+    },
+    {
       "ticker": "INCOAX-NETWORKS",
       "company_name": "InCoax Networks",
       "trend7d": 0.46,
@@ -391,16 +401,6 @@
       "market_cap": 10205086257.0,
       "owner_count": 7321,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.42,
-      "discord_members": 851,
-      "facebook_members": null,
-      "market_cap": 211539491.0,
-      "owner_count": 835,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "BOTNIA-GOLD",
@@ -463,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.32,
+      "discord_members": 796,
+      "facebook_members": 435,
+      "market_cap": 2944971630.0,
+      "owner_count": 1201,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 0.28,
@@ -481,16 +491,6 @@
       "market_cap": 838415864.0,
       "owner_count": 1038,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.28,
-      "discord_members": 795,
-      "facebook_members": 435,
-      "market_cap": 2944971630.0,
-      "owner_count": 1201,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "YUBICO",
@@ -517,23 +517,6 @@
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "SPCX",
-      "company_name": "SpaceX",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 11,
-      "velocity_mentions_per_day": 3.67,
-      "avg_sentiment": 0.558,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 6.143,
-      "sample_posts": [
-        "https://www.flashback.org/sp95551592",
-        "https://www.flashback.org/sp95555402",
-        "https://www.flashback.org/sp95557714"
-      ]
-    },
     {
       "ticker": "TRNSF",
       "company_name": "Transfer Group",
@@ -568,8 +551,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 63,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 53,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
