@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:14:23.067131+00:00",
+  "generated_at": "2026-08-02T20:58:25.652806+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 2.97,
-      "discord_members": 436,
+      "trend7d": 3.05,
+      "discord_members": 437,
       "facebook_members": null,
       "market_cap": 21241445245.0,
       "owner_count": 4246,
@@ -93,16 +93,6 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 1.37,
-      "discord_members": 479,
-      "facebook_members": null,
-      "market_cap": 1252508405688.0,
-      "owner_count": 17111,
-      "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
       "ticker": "SERVANA",
       "company_name": "Servana",
       "trend7d": 1.36,
@@ -111,6 +101,16 @@
       "market_cap": 72549156.0,
       "owner_count": 865,
       "detail_url": "https://allaaktier.se/bolag/servana"
+    },
+    {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 1.3,
+      "discord_members": 478,
+      "facebook_members": null,
+      "market_cap": 1252508405688.0,
+      "owner_count": 17111,
+      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "REFINE-GROUP",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 58,
+    "total_posts_fetched": 60,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
