@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T17:02:44.929987+00:00",
+  "generated_at": "2026-08-02T19:14:23.067131+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "ADVERTY",
       "company_name": "Adverty",
-      "trend7d": 4.73,
-      "discord_members": 1201,
+      "trend7d": 4.7,
+      "discord_members": 1200,
       "facebook_members": 367,
       "market_cap": 104519540.0,
       "owner_count": 471,
@@ -55,7 +55,7 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 1.94,
+      "trend7d": 2.03,
       "discord_members": 1108,
       "facebook_members": 2135,
       "market_cap": 3500654837.0,
@@ -143,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 1.01,
-      "discord_members": 910,
-      "facebook_members": 2821,
-      "market_cap": 66710302.0,
-      "owner_count": 1881,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
-    },
-    {
       "ticker": "CATENA-MEDIA",
       "company_name": "Catena Media",
       "trend7d": 0.99,
@@ -161,6 +151,16 @@
       "market_cap": 295400332.0,
       "owner_count": 902,
       "detail_url": "https://allaaktier.se/bolag/catena-media"
+    },
+    {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 0.98,
+      "discord_members": 909,
+      "facebook_members": 2821,
+      "market_cap": 66710302.0,
+      "owner_count": 1881,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "OXE-MARINE",
@@ -313,16 +313,6 @@
       "detail_url": "https://allaaktier.se/bolag/goodbye-kansas"
     },
     {
-      "ticker": "SPRINT-BIOSCIENCE",
-      "company_name": "Sprint Bioscience",
-      "trend7d": 0.54,
-      "discord_members": 705,
-      "facebook_members": 396,
-      "market_cap": 379855937.0,
-      "owner_count": 758,
-      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
-    },
-    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 0.53,
@@ -375,12 +365,22 @@
     {
       "ticker": "KLARIA-PHARMA",
       "company_name": "Klaria Pharma",
-      "trend7d": 0.46,
-      "discord_members": 852,
+      "trend7d": 0.5,
+      "discord_members": 853,
       "facebook_members": null,
       "market_cap": 211539491.0,
       "owner_count": 835,
       "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+    },
+    {
+      "ticker": "SPRINT-BIOSCIENCE",
+      "company_name": "Sprint Bioscience",
+      "trend7d": 0.5,
+      "discord_members": 704,
+      "facebook_members": 396,
+      "market_cap": 379855937.0,
+      "owner_count": 758,
+      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -473,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
     },
     {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.32,
-      "discord_members": 796,
-      "facebook_members": 435,
-      "market_cap": 2944971630.0,
-      "owner_count": 1201,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 0.28,
@@ -511,6 +501,16 @@
       "market_cap": 58244704.0,
       "owner_count": 1330,
       "detail_url": "https://allaaktier.se/bolag/pila-pharma"
+    },
+    {
+      "ticker": "XVIVO-PERFUSION",
+      "company_name": "Xvivo Perfusion",
+      "trend7d": 0.23,
+      "discord_members": 173,
+      "facebook_members": null,
+      "market_cap": 8309560186.0,
+      "owner_count": 2005,
+      "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     }
   ],
   "twitter_mentions": 0,
