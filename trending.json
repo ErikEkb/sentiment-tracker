@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T09:10:30.233685+00:00",
+  "generated_at": "2026-08-02T11:18:06.918468+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 1.88,
-      "discord_members": 1103,
+      "trend7d": 1.91,
+      "discord_members": 1104,
       "facebook_members": 2135,
       "market_cap": 3500654837.0,
       "owner_count": 3652,
@@ -418,7 +418,7 @@
       "trend7d": 0.39,
       "discord_members": 143,
       "facebook_members": null,
-      "market_cap": 685831677.02,
+      "market_cap": 685968156.86,
       "owner_count": 3354,
       "detail_url": "https://allaaktier.se/bolag/zelluna"
     },
@@ -518,22 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "TRNSF",
-      "company_name": "Transfer Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95549367",
-        "https://www.flashback.org/sp95558625"
-      ]
-    },
-    {
       "ticker": "HIMS",
       "company_name": "Hims & Hers Health A",
       "sector": "Discovered",
@@ -552,7 +536,7 @@
   ],
   "stats": {
     "total_posts_fetched": 53,
-    "tickers_with_any_mentions": 3,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
