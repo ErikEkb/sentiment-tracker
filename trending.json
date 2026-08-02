@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T13:26:56.912376+00:00",
+  "generated_at": "2026-08-02T15:04:38.687839+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,7 +35,7 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 2.89,
+      "trend7d": 2.97,
       "discord_members": 436,
       "facebook_members": null,
       "market_cap": 21241445245.0,
@@ -55,8 +55,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 1.91,
-      "discord_members": 1104,
+      "trend7d": 1.94,
+      "discord_members": 1105,
       "facebook_members": 2135,
       "market_cap": 3500654837.0,
       "owner_count": 3652,
@@ -516,27 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "HIMS",
-      "company_name": "Hims & Hers Health A",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.667,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.333,
-      "sample_posts": [
-        "https://www.flashback.org/sp95551002",
-        "https://www.flashback.org/sp95555374"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
     "total_posts_fetched": 58,
-    "tickers_with_any_mentions": 2,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
