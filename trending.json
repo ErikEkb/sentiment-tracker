@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T11:27:40.453691+00:00",
+  "generated_at": "2026-08-03T14:44:57.853993+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 7.46,
-      "discord_members": 111,
+      "trend7d": 7.83,
+      "discord_members": 112,
       "facebook_members": null,
       "market_cap": 6047481157.0,
       "owner_count": 2760,
@@ -35,8 +35,8 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 2.47,
-      "discord_members": 286,
+      "trend7d": 3.1,
+      "discord_members": 291,
       "facebook_members": null,
       "market_cap": 223826765.0,
       "owner_count": 377,
@@ -85,8 +85,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 1.46,
-      "discord_members": 1216,
+      "trend7d": 1.51,
+      "discord_members": 1218,
       "facebook_members": 297,
       "market_cap": 631301440.0,
       "owner_count": 2554,
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.66,
+      "discord_members": 1294,
+      "facebook_members": 195,
+      "market_cap": 793756803.0,
+      "owner_count": 1483,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
       "ticker": "REFINE-GROUP",
       "company_name": "Refine Group",
       "trend7d": 0.61,
@@ -223,16 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.53,
-      "discord_members": 1289,
-      "facebook_members": 195,
-      "market_cap": 793756803.0,
-      "owner_count": 1483,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
       "ticker": "SUBGEN-AI",
       "company_name": "Subgen AI",
       "trend7d": 0.52,
@@ -251,16 +251,6 @@
       "market_cap": 633709248.0,
       "owner_count": 271,
       "detail_url": "https://allaaktier.se/bolag/flexqube"
-    },
-    {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 0.48,
-      "discord_members": 503,
-      "facebook_members": 2766,
-      "market_cap": 9597614488.0,
-      "owner_count": 4762,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "FREJA-EID",
@@ -321,6 +311,16 @@
       "market_cap": 838415864.0,
       "owner_count": 1041,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.41,
+      "discord_members": 502,
+      "facebook_members": 2766,
+      "market_cap": 9597614488.0,
+      "owner_count": 4762,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "UPSALES-TECHNOLOGY",
@@ -463,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 0.21,
-      "discord_members": 2242,
-      "facebook_members": 405,
-      "market_cap": 349064136.0,
-      "owner_count": 2117,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
-    },
-    {
       "ticker": "CRETURNER-GROUP",
       "company_name": "Creturner Group",
       "trend7d": 0.21,
@@ -491,6 +481,16 @@
       "market_cap": 68030460739.77,
       "owner_count": 5895,
       "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 0.19,
+      "discord_members": 2241,
+      "facebook_members": 405,
+      "market_cap": 349064136.0,
+      "owner_count": 2117,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
       "ticker": "SSAB",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 51,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
