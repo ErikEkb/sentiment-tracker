@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T03:47:28.098313+00:00",
+  "generated_at": "2026-08-03T07:31:06.902615+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 1.21,
+      "discord_members": 1115,
+      "facebook_members": 2135,
+      "market_cap": 3500654837.0,
+      "owner_count": 3652,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
       "ticker": "SERVANA",
       "company_name": "Servana",
       "trend7d": 1.17,
@@ -71,16 +81,6 @@
       "market_cap": 72549156.0,
       "owner_count": 865,
       "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 1.09,
-      "discord_members": 1111,
-      "facebook_members": 2135,
-      "market_cap": 3500654837.0,
-      "owner_count": 3652,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
       "ticker": "SOTKAMO-SILVER",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
