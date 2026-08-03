@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:02:47.969124+00:00",
+  "generated_at": "2026-08-03T00:00:27.462224+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
+      "ticker": "SUBGEN-AI",
+      "company_name": "Subgen AI",
+      "trend7d": 1.01,
+      "discord_members": 910,
+      "facebook_members": 2821,
+      "market_cap": 66710302.0,
+      "owner_count": 1881,
+      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
+    },
+    {
       "ticker": "CATENA-MEDIA",
       "company_name": "Catena Media",
       "trend7d": 0.99,
@@ -151,16 +161,6 @@
       "market_cap": 295400332.0,
       "owner_count": 902,
       "detail_url": "https://allaaktier.se/bolag/catena-media"
-    },
-    {
-      "ticker": "SUBGEN-AI",
-      "company_name": "Subgen AI",
-      "trend7d": 0.98,
-      "discord_members": 909,
-      "facebook_members": 2821,
-      "market_cap": 66710302.0,
-      "owner_count": 1881,
-      "detail_url": "https://allaaktier.se/bolag/subgen-ai"
     },
     {
       "ticker": "OXE-MARINE",
@@ -433,16 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/zelluna"
     },
     {
-      "ticker": "ALZINOVA",
-      "company_name": "Alzinova",
-      "trend7d": 0.39,
-      "discord_members": 652,
-      "facebook_members": null,
-      "market_cap": 235063046.0,
-      "owner_count": 955,
-      "detail_url": "https://allaaktier.se/bolag/alzinova"
-    },
-    {
       "ticker": "AVSALT",
       "company_name": "Avsalt",
       "trend7d": 0.37,
@@ -461,6 +451,16 @@
       "market_cap": 99726395900.0,
       "owner_count": 3353,
       "detail_url": "https://allaaktier.se/bolag/ssab"
+    },
+    {
+      "ticker": "ALZINOVA",
+      "company_name": "Alzinova",
+      "trend7d": 0.33,
+      "discord_members": 651,
+      "facebook_members": null,
+      "market_cap": 235063046.0,
+      "owner_count": 955,
+      "detail_url": "https://allaaktier.se/bolag/alzinova"
     },
     {
       "ticker": "EDYOUTEC",
