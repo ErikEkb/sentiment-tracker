@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:44:57.853993+00:00",
+  "generated_at": "2026-08-03T17:10:59.012276+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 7.83,
-      "discord_members": 112,
+      "trend7d": 8.94,
+      "discord_members": 115,
       "facebook_members": null,
       "market_cap": 6047481157.0,
       "owner_count": 2760,
@@ -35,8 +35,8 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 3.1,
-      "discord_members": 291,
+      "trend7d": 3.48,
+      "discord_members": 294,
       "facebook_members": null,
       "market_cap": 223826765.0,
       "owner_count": 377,
@@ -55,8 +55,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 1.73,
-      "discord_members": 1132,
+      "trend7d": 1.76,
+      "discord_members": 1133,
       "facebook_members": 2135,
       "market_cap": 3415173730.0,
       "owner_count": 3652,
@@ -101,16 +101,6 @@
       "market_cap": 302883808.0,
       "owner_count": 903,
       "detail_url": "https://allaaktier.se/bolag/catena-media"
-    },
-    {
-      "ticker": "NOTE",
-      "company_name": "NOTE",
-      "trend7d": 1.0,
-      "discord_members": 44,
-      "facebook_members": null,
-      "market_cap": 4099578960.0,
-      "owner_count": 2618,
-      "detail_url": "https://allaaktier.se/bolag/note"
     },
     {
       "ticker": "INVESTOR",
@@ -183,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/observit"
     },
     {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.68,
+      "discord_members": 1295,
+      "facebook_members": 195,
+      "market_cap": 793756803.0,
+      "owner_count": 1483,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 0.67,
@@ -191,16 +191,6 @@
       "market_cap": 376363260.0,
       "owner_count": 781,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
-    },
-    {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.66,
-      "discord_members": 1294,
-      "facebook_members": 195,
-      "market_cap": 793756803.0,
-      "owner_count": 1483,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "REFINE-GROUP",
@@ -393,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/botnia-gold"
     },
     {
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.27,
+      "discord_members": 1418,
+      "facebook_members": 1546,
+      "market_cap": 8566418253.0,
+      "owner_count": 5670,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+    },
+    {
       "ticker": "PILA-PHARMA",
       "company_name": "PILA PHARMA",
       "trend7d": 0.26,
@@ -433,14 +433,14 @@
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.25,
-      "discord_members": 1417,
-      "facebook_members": 1546,
-      "market_cap": 8566418253.0,
-      "owner_count": 5670,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+      "ticker": "NOTE",
+      "company_name": "NOTE",
+      "trend7d": 0.24,
+      "discord_members": 43,
+      "facebook_members": null,
+      "market_cap": 4099578960.0,
+      "owner_count": 2618,
+      "detail_url": "https://allaaktier.se/bolag/note"
     },
     {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
@@ -518,8 +518,8 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 51,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 61,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
