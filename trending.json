@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:54:05.133707+00:00",
+  "generated_at": "2026-08-04T18:39:48.899053+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -53,6 +53,16 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 1.6,
+      "discord_members": 538,
+      "facebook_members": 363,
+      "market_cap": 193325497.0,
+      "owner_count": 456,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
       "trend7d": 1.55,
@@ -61,16 +71,6 @@
       "market_cap": 3421279524.0,
       "owner_count": 3656,
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
-    },
-    {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.54,
-      "discord_members": 537,
-      "facebook_members": 363,
-      "market_cap": 193325497.0,
-      "owner_count": 456,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
       "ticker": "SOTKAMO-SILVER",
@@ -95,8 +95,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 1.14,
-      "discord_members": 1233,
+      "trend7d": 1.11,
+      "discord_members": 1232,
       "facebook_members": 297,
       "market_cap": 731893428.0,
       "owner_count": 2560,
@@ -213,16 +213,6 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 0.52,
-      "discord_members": 477,
-      "facebook_members": null,
-      "market_cap": 1276559301298.0,
-      "owner_count": 17221,
-      "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
       "trend7d": 0.52,
@@ -261,6 +251,16 @@
       "market_cap": 17004188548.23,
       "owner_count": 1077,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+    },
+    {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 0.45,
+      "discord_members": 476,
+      "facebook_members": null,
+      "market_cap": 1276559301298.0,
+      "owner_count": 17221,
+      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "UPSALES-TECHNOLOGY",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 67,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
