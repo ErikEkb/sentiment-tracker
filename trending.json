@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T18:39:48.899053+00:00",
+  "generated_at": "2026-08-04T20:26:54.143595+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 6.86,
-      "discord_members": 297,
+      "trend7d": 6.73,
+      "discord_members": 296,
       "facebook_members": null,
       "market_cap": 227342369.0,
       "owner_count": 393,
@@ -65,8 +65,8 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 1.55,
-      "discord_members": 1137,
+      "trend7d": 1.52,
+      "discord_members": 1136,
       "facebook_members": 2135,
       "market_cap": 3421279524.0,
       "owner_count": 3656,
@@ -183,16 +183,6 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "EDYOUTEC",
-      "company_name": "edyoutec",
-      "trend7d": 0.6,
-      "discord_members": 247,
-      "facebook_members": 176,
-      "market_cap": 28141486.0,
-      "owner_count": 340,
-      "detail_url": "https://allaaktier.se/bolag/edyoutec"
-    },
-    {
       "ticker": "PIXELFOX",
       "company_name": "PixelFox",
       "trend7d": 0.58,
@@ -253,6 +243,26 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
+      "ticker": "EDYOUTEC",
+      "company_name": "edyoutec",
+      "trend7d": 0.47,
+      "discord_members": 246,
+      "facebook_members": 176,
+      "market_cap": 28141486.0,
+      "owner_count": 340,
+      "detail_url": "https://allaaktier.se/bolag/edyoutec"
+    },
+    {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.45,
+      "discord_members": 854,
+      "facebook_members": null,
+      "market_cap": 215229133.0,
+      "owner_count": 834,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+    },
+    {
       "ticker": "INVESTOR",
       "company_name": "Investor",
       "trend7d": 0.45,
@@ -301,16 +311,6 @@
       "market_cap": 977740125747.0,
       "owner_count": 16422,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
-    },
-    {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.41,
-      "discord_members": 853,
-      "facebook_members": null,
-      "market_cap": 215229133.0,
-      "owner_count": 834,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "KEO-CAPITAL",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 67,
+    "total_posts_fetched": 72,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
