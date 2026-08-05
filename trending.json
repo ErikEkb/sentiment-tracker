@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:38:15.913871+00:00",
+  "generated_at": "2026-08-05T12:55:27.770527+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,12 +25,22 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 6.57,
-      "discord_members": 126,
+      "trend7d": 6.89,
+      "discord_members": 127,
       "facebook_members": null,
       "market_cap": 6044052880.0,
       "owner_count": 2759,
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
+    },
+    {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 2.97,
+      "discord_members": 139,
+      "facebook_members": null,
+      "market_cap": 382237380.0,
+      "owner_count": 813,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "GUARD-THERAPEUTICS",
@@ -63,34 +73,24 @@
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
-      "ticker": "SOTKAMO-SILVER",
-      "company_name": "Sotkamo Silver",
-      "trend7d": 1.39,
-      "discord_members": 151,
-      "facebook_members": null,
-      "market_cap": 1424877282.0,
-      "owner_count": 2373,
-      "detail_url": "https://allaaktier.se/bolag/sotkamo-silver"
-    },
-    {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
-      "trend7d": 1.3,
-      "discord_members": 139,
-      "facebook_members": null,
-      "market_cap": 382237380.0,
-      "owner_count": 813,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
-    },
-    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
-      "trend7d": 1.29,
+      "trend7d": 1.2,
       "discord_members": 186,
       "facebook_members": null,
       "market_cap": 757652086.0,
       "owner_count": 183,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
+      "ticker": "SOTKAMO-SILVER",
+      "company_name": "Sotkamo Silver",
+      "trend7d": 1.19,
+      "discord_members": 151,
+      "facebook_members": null,
+      "market_cap": 1424877282.0,
+      "owner_count": 2373,
+      "detail_url": "https://allaaktier.se/bolag/sotkamo-silver"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -105,8 +105,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 1.12,
-      "discord_members": 1236,
+      "trend7d": 1.14,
+      "discord_members": 1237,
       "facebook_members": 297,
       "market_cap": 720099884.0,
       "owner_count": 2573,
@@ -145,7 +145,7 @@
     {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
-      "trend7d": 0.8,
+      "trend7d": 0.68,
       "discord_members": 56,
       "facebook_members": null,
       "market_cap": 38712882.0,
@@ -173,14 +173,14 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.54,
-      "discord_members": 217,
+      "ticker": "TESLA",
+      "company_name": "Tesla",
+      "trend7d": 0.5,
+      "discord_members": 48,
       "facebook_members": null,
-      "market_cap": 78072339.0,
-      "owner_count": 126,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+      "market_cap": 10027875282936.6,
+      "owner_count": 45090,
+      "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
       "ticker": "PILA-PHARMA",
@@ -213,14 +213,14 @@
       "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
-      "ticker": "TESLA",
-      "company_name": "Tesla",
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
       "trend7d": 0.38,
-      "discord_members": 48,
+      "discord_members": 217,
       "facebook_members": null,
-      "market_cap": 10027875282936.6,
-      "owner_count": 45090,
-      "detail_url": "https://allaaktier.se/bolag/tesla"
+      "market_cap": 78072339.0,
+      "owner_count": 126,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
+      "ticker": "W5-SOLUTIONS",
+      "company_name": "W5 Solutions",
+      "trend7d": 0.3,
+      "discord_members": 178,
+      "facebook_members": null,
+      "market_cap": 782370840.0,
+      "owner_count": 3236,
+      "detail_url": "https://allaaktier.se/bolag/w5-solutions"
+    },
+    {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
       "trend7d": 0.29,
@@ -323,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
     },
     {
+      "ticker": "SMOLTEK",
+      "company_name": "Smoltek",
+      "trend7d": 0.23,
+      "discord_members": 2242,
+      "facebook_members": 405,
+      "market_cap": 340724720.0,
+      "owner_count": 2108,
+      "detail_url": "https://allaaktier.se/bolag/smoltek"
+    },
+    {
       "ticker": "OXE-MARINE",
       "company_name": "OXE Marine",
       "trend7d": 0.22,
@@ -343,16 +363,6 @@
       "detail_url": "https://allaaktier.se/bolag/refine-group"
     },
     {
-      "ticker": "ENVAR",
-      "company_name": "Envar",
-      "trend7d": 0.21,
-      "discord_members": 83,
-      "facebook_members": null,
-      "market_cap": 647500000.0,
-      "owner_count": 599,
-      "detail_url": "https://allaaktier.se/bolag/envar"
-    },
-    {
       "ticker": "EDYOUTEC",
       "company_name": "edyoutec",
       "trend7d": 0.21,
@@ -361,16 +371,6 @@
       "market_cap": 28682668.0,
       "owner_count": 341,
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
-    },
-    {
-      "ticker": "SMOLTEK",
-      "company_name": "Smoltek",
-      "trend7d": 0.21,
-      "discord_members": 2241,
-      "facebook_members": 405,
-      "market_cap": 340724720.0,
-      "owner_count": 2108,
-      "detail_url": "https://allaaktier.se/bolag/smoltek"
     },
     {
       "ticker": "PIXELFOX",
@@ -413,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/thinc"
     },
     {
+      "ticker": "YUBICO",
+      "company_name": "Yubico",
+      "trend7d": 0.19,
+      "discord_members": 215,
+      "facebook_members": null,
+      "market_cap": 5545117625.0,
+      "owner_count": 2595,
+      "detail_url": "https://allaaktier.se/bolag/yubico"
+    },
+    {
       "ticker": "SPRINT-BIOSCIENCE",
       "company_name": "Sprint Bioscience",
       "trend7d": 0.19,
@@ -443,26 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/kontigo-care"
     },
     {
-      "ticker": "YUBICO",
-      "company_name": "Yubico",
-      "trend7d": 0.18,
-      "discord_members": 215,
-      "facebook_members": null,
-      "market_cap": 5545117625.0,
-      "owner_count": 2595,
-      "detail_url": "https://allaaktier.se/bolag/yubico"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.18,
-      "discord_members": 435,
-      "facebook_members": null,
-      "market_cap": 21588480430.0,
-      "owner_count": 4267,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
       "trend7d": 0.17,
@@ -481,6 +471,16 @@
       "market_cap": 12839684.0,
       "owner_count": 251,
       "detail_url": "https://allaaktier.se/bolag/gold-town-games"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.17,
+      "discord_members": 435,
+      "facebook_members": null,
+      "market_cap": 21588480430.0,
+      "owner_count": 4267,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "ENORAMA-PHARMA",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 71,
+    "total_posts_fetched": 79,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
