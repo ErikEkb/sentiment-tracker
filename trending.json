@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T11:25:17.245160+00:00",
+  "generated_at": "2026-08-06T14:18:29.038218+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 8.46,
-      "discord_members": 297,
+      "trend7d": 8.71,
+      "discord_members": 299,
       "facebook_members": null,
       "market_cap": 235545444.0,
       "owner_count": 394,
@@ -25,8 +25,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 7.9,
-      "discord_members": 135,
+      "trend7d": 8.21,
+      "discord_members": 136,
       "facebook_members": null,
       "market_cap": 5948061116.0,
       "owner_count": 2756,
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 1.17,
+      "discord_members": 2549,
+      "facebook_members": 2874,
+      "market_cap": 12243203810.0,
+      "owner_count": 5427,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
       "trend7d": 1.16,
@@ -93,20 +103,10 @@
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 1.16,
-      "discord_members": 2548,
-      "facebook_members": 2874,
-      "market_cap": 12243203810.0,
-      "owner_count": 5427,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 1.1,
-      "discord_members": 798,
+      "trend7d": 1.14,
+      "discord_members": 799,
       "facebook_members": 435,
       "market_cap": 3342542800.0,
       "owner_count": 1222,
@@ -233,16 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "ADVERTY",
-      "company_name": "Adverty",
-      "trend7d": 0.52,
-      "discord_members": 1201,
-      "facebook_members": 367,
-      "market_cap": 107270055.0,
-      "owner_count": 481,
-      "detail_url": "https://allaaktier.se/bolag/adverty"
-    },
-    {
       "ticker": "NEXAR",
       "company_name": "Nexar",
       "trend7d": 0.5,
@@ -251,6 +241,16 @@
       "market_cap": 26327493.0,
       "owner_count": 471,
       "detail_url": "https://allaaktier.se/bolag/nexar"
+    },
+    {
+      "ticker": "ADVERTY",
+      "company_name": "Adverty",
+      "trend7d": 0.5,
+      "discord_members": 1200,
+      "facebook_members": 367,
+      "market_cap": 107270055.0,
+      "owner_count": 481,
+      "detail_url": "https://allaaktier.se/bolag/adverty"
     },
     {
       "ticker": "TRANSFER-GROUP",
@@ -281,6 +281,16 @@
       "market_cap": 1294587831341.0,
       "owner_count": 17254,
       "detail_url": "https://allaaktier.se/bolag/investor"
+    },
+    {
+      "ticker": "SOUND-DIMENSION",
+      "company_name": "Sound Dimension",
+      "trend7d": 0.39,
+      "discord_members": 778,
+      "facebook_members": null,
+      "market_cap": 101406589.0,
+      "owner_count": 507,
+      "detail_url": "https://allaaktier.se/bolag/sound-dimension"
     },
     {
       "ticker": "TESLA",
@@ -323,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
-      "ticker": "SOUND-DIMENSION",
-      "company_name": "Sound Dimension",
-      "trend7d": 0.35,
-      "discord_members": 777,
-      "facebook_members": null,
-      "market_cap": 101406589.0,
-      "owner_count": 507,
-      "detail_url": "https://allaaktier.se/bolag/sound-dimension"
-    },
-    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.31,
@@ -365,8 +365,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 0.27,
-      "discord_members": 1387,
+      "trend7d": 0.29,
+      "discord_members": 1388,
       "facebook_members": null,
       "market_cap": 786072524.0,
       "owner_count": 756,
@@ -443,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/transtema"
     },
     {
+      "ticker": "ALZECURE-PHARMA",
+      "company_name": "AlzeCure Pharma",
+      "trend7d": 0.2,
+      "discord_members": 285,
+      "facebook_members": 12,
+      "market_cap": 969721799.0,
+      "owner_count": 1042,
+      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+    },
+    {
       "ticker": "BIO-WORKS-TECHNOLOGIES",
       "company_name": "Bio-Works Technologies",
       "trend7d": 0.2,
@@ -501,16 +511,6 @@
       "market_cap": 7183303215.0,
       "owner_count": 3693,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "FLEXION-MOBILE",
-      "company_name": "Flexion Mobile",
-      "trend7d": 0.15,
-      "discord_members": 131,
-      "facebook_members": 82,
-      "market_cap": 195635776.0,
-      "owner_count": 158,
-      "detail_url": "https://allaaktier.se/bolag/flexion-mobile"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 63,
+    "total_posts_fetched": 69,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
