@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T15:58:46.588861+00:00",
+  "generated_at": "2026-08-07T17:01:18.799409+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 0.45,
+      "discord_members": 542,
+      "facebook_members": 363,
+      "market_cap": 197489431.0,
+      "owner_count": 452,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "CATENA-MEDIA",
       "company_name": "Catena Media",
       "trend7d": 0.41,
@@ -501,16 +511,6 @@
       "market_cap": 9316591237.0,
       "owner_count": 3714,
       "detail_url": "https://allaaktier.se/bolag/africa-oil"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.2,
-      "discord_members": 418,
-      "facebook_members": null,
-      "market_cap": 19032061530.42,
-      "owner_count": 1079,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
