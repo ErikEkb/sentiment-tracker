@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T05:42:05.665293+00:00",
+  "generated_at": "2026-08-07T07:19:49.281651+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 9.72,
-      "discord_members": 142,
+      "trend7d": 10.64,
+      "discord_members": 145,
       "facebook_members": null,
       "market_cap": 6050909434.0,
       "owner_count": 2755,
@@ -25,8 +25,8 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 8.56,
-      "discord_members": 298,
+      "trend7d": 8.69,
+      "discord_members": 299,
       "facebook_members": null,
       "market_cap": 249607858.0,
       "owner_count": 394,
@@ -363,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.26,
+      "discord_members": 1171,
+      "facebook_members": 3706,
+      "market_cap": 7114085090.0,
+      "owner_count": 3693,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
       "trend7d": 0.25,
@@ -391,16 +401,6 @@
       "market_cap": 28682668.0,
       "owner_count": 342,
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.24,
-      "discord_members": 1170,
-      "facebook_members": 3706,
-      "market_cap": 7114085090.0,
-      "owner_count": 3693,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "INVESTOR",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 51,
+    "total_posts_fetched": 52,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
