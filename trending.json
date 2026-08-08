@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:53:40.895507+00:00",
+  "generated_at": "2026-08-08T13:48:00.085663+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -393,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/hexatronic"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.29,
+      "discord_members": 1389,
+      "facebook_members": null,
+      "market_cap": 813841390.0,
+      "owner_count": 757,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "AFRICA-OIL",
       "company_name": "Africa Oil",
       "trend7d": 0.29,
@@ -411,16 +421,6 @@
       "market_cap": 33096024.0,
       "owner_count": 1833,
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.27,
-      "discord_members": 1388,
-      "facebook_members": null,
-      "market_cap": 813841390.0,
-      "owner_count": 757,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "M-O-B-A-NETWORK",
