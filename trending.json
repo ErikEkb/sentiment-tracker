@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:33:15.851908+00:00",
+  "generated_at": "2026-08-08T18:40:45.310325+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -133,16 +133,6 @@
       "detail_url": "https://allaaktier.se/bolag/nexar"
     },
     {
-      "ticker": "THINC",
-      "company_name": "Thinc",
-      "trend7d": 1.11,
-      "discord_members": 203,
-      "facebook_members": null,
-      "market_cap": 34042690.0,
-      "owner_count": 113,
-      "detail_url": "https://allaaktier.se/bolag/thinc"
-    },
-    {
       "ticker": "TRANSFER-GROUP",
       "company_name": "Transfer Group",
       "trend7d": 1.11,
@@ -181,6 +171,16 @@
       "market_cap": 14345285207.0,
       "owner_count": 5424,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
+      "ticker": "THINC",
+      "company_name": "Thinc",
+      "trend7d": 0.94,
+      "discord_members": 202,
+      "facebook_members": null,
+      "market_cap": 34042690.0,
+      "owner_count": 113,
+      "detail_url": "https://allaaktier.se/bolag/thinc"
     },
     {
       "ticker": "KILIARO",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 68,
+    "total_posts_fetched": 70,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
