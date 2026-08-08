@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:45:02.071909+00:00",
+  "generated_at": "2026-08-08T09:39:58.877574+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,7 +35,7 @@
     {
       "ticker": "GUARD-THERAPEUTICS",
       "company_name": "Guard Therapeutics",
-      "trend7d": 3.2,
+      "trend7d": 3.21,
       "discord_members": 546,
       "facebook_members": 631,
       "market_cap": 61799058.0,
@@ -73,6 +73,16 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
+      "ticker": "HEMPLY-BALANCE",
+      "company_name": "Hemply Balance",
+      "trend7d": 1.87,
+      "discord_members": 69,
+      "facebook_members": null,
+      "market_cap": 9568411.0,
+      "owner_count": 137,
+      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
+    },
+    {
       "ticker": "PARADOX-INTERACTIVE",
       "company_name": "Paradox Interactive",
       "trend7d": 1.56,
@@ -85,7 +95,7 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 1.41,
+      "trend7d": 1.42,
       "discord_members": 801,
       "facebook_members": 435,
       "market_cap": 3475066523.0,
@@ -113,9 +123,19 @@
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
+      "ticker": "TRANSFER-GROUP",
+      "company_name": "Transfer Group",
+      "trend7d": 1.11,
+      "discord_members": 135,
+      "facebook_members": 738,
+      "market_cap": 57315075.0,
+      "owner_count": 1158,
+      "detail_url": "https://allaaktier.se/bolag/transfer-group"
+    },
+    {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 1.09,
+      "trend7d": 1.1,
       "discord_members": 1239,
       "facebook_members": 297,
       "market_cap": 691656632.0,
@@ -143,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 0.96,
+      "discord_members": 2548,
+      "facebook_members": 2874,
+      "market_cap": 14345285207.0,
+      "owner_count": 5424,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 0.91,
@@ -163,16 +193,6 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 0.83,
-      "discord_members": 2548,
-      "facebook_members": 2874,
-      "market_cap": 14345285207.0,
-      "owner_count": 5424,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
       "ticker": "ZINZINO",
       "company_name": "Zinzino",
       "trend7d": 0.81,
@@ -181,16 +201,6 @@
       "market_cap": 5283452299.0,
       "owner_count": 2873,
       "detail_url": "https://allaaktier.se/bolag/zinzino"
-    },
-    {
-      "ticker": "TRANSFER-GROUP",
-      "company_name": "Transfer Group",
-      "trend7d": 0.79,
-      "discord_members": 135,
-      "facebook_members": 738,
-      "market_cap": 57315075.0,
-      "owner_count": 1158,
-      "detail_url": "https://allaaktier.se/bolag/transfer-group"
     },
     {
       "ticker": "W5-SOLUTIONS",
@@ -215,12 +225,22 @@
     {
       "ticker": "FREJA-EID",
       "company_name": "Freja eID",
-      "trend7d": 0.71,
+      "trend7d": 0.68,
       "discord_members": 238,
       "facebook_members": 105,
       "market_cap": 631197525.0,
       "owner_count": 714,
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
+    },
+    {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 0.62,
+      "discord_members": 253,
+      "facebook_members": 223,
+      "market_cap": 38366622.0,
+      "owner_count": 855,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "TRANSTEMA",
@@ -243,29 +263,9 @@
       "detail_url": "https://allaaktier.se/bolag/klimator"
     },
     {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 0.61,
-      "discord_members": 253,
-      "facebook_members": 223,
-      "market_cap": 38366622.0,
-      "owner_count": 855,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
-      "ticker": "FLEXQUBE",
-      "company_name": "FlexQube",
-      "trend7d": 0.6,
-      "discord_members": 110,
-      "facebook_members": null,
-      "market_cap": 697424580.0,
-      "owner_count": 271,
-      "detail_url": "https://allaaktier.se/bolag/flexqube"
-    },
-    {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 0.55,
+      "trend7d": 0.6,
       "discord_members": 1304,
       "facebook_members": 195,
       "market_cap": 794711986.0,
@@ -275,7 +275,7 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.48,
+      "trend7d": 0.58,
       "discord_members": 544,
       "facebook_members": 363,
       "market_cap": 225447272.0,
@@ -285,7 +285,7 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.48,
+      "trend7d": 0.53,
       "discord_members": 1172,
       "facebook_members": 3706,
       "market_cap": 7267903146.0,
@@ -295,12 +295,22 @@
     {
       "ticker": "INVESTOR",
       "company_name": "Investor",
-      "trend7d": 0.42,
+      "trend7d": 0.48,
       "discord_members": 475,
       "facebook_members": null,
       "market_cap": 1290732839186.0,
       "owner_count": 17277,
       "detail_url": "https://allaaktier.se/bolag/investor"
+    },
+    {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 0.41,
+      "discord_members": 110,
+      "facebook_members": null,
+      "market_cap": 697424580.0,
+      "owner_count": 271,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
       "ticker": "CATENA-MEDIA",
@@ -315,7 +325,7 @@
     {
       "ticker": "ADVERTY",
       "company_name": "Adverty",
-      "trend7d": 0.39,
+      "trend7d": 0.4,
       "discord_members": 1200,
       "facebook_members": 367,
       "market_cap": 108920363.0,
@@ -353,14 +363,14 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
-      "ticker": "BPC-INSTRUMENTS",
-      "company_name": "BPC Instruments",
-      "trend7d": 0.31,
-      "discord_members": 107,
-      "facebook_members": null,
-      "market_cap": 196546110.0,
-      "owner_count": 162,
-      "detail_url": "https://allaaktier.se/bolag/bpc-instruments"
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.32,
+      "discord_members": 1415,
+      "facebook_members": 1546,
+      "market_cap": 9098018229.0,
+      "owner_count": 5694,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
     },
     {
       "ticker": "CLOETTA",
@@ -373,34 +383,14 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
-      "ticker": "VIBROSENSE-DYNAMICS",
-      "company_name": "VibroSense Dynamics",
-      "trend7d": 0.31,
-      "discord_members": 230,
-      "facebook_members": 578,
-      "market_cap": 24439041.0,
-      "owner_count": 220,
-      "detail_url": "https://allaaktier.se/bolag/vibrosense-dynamics"
-    },
-    {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.31,
-      "discord_members": 1415,
-      "facebook_members": 1546,
-      "market_cap": 9098018229.0,
-      "owner_count": 5694,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
+      "ticker": "AFRICA-OIL",
+      "company_name": "Africa Oil",
       "trend7d": 0.29,
-      "discord_members": 1388,
-      "facebook_members": null,
-      "market_cap": 813841390.0,
-      "owner_count": 757,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
+      "discord_members": 1269,
+      "facebook_members": 1945,
+      "market_cap": 9249079706.0,
+      "owner_count": 3714,
+      "detail_url": "https://allaaktier.se/bolag/africa-oil"
     },
     {
       "ticker": "ATLAS-COPCO",
@@ -423,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.27,
+      "discord_members": 1388,
+      "facebook_members": null,
+      "market_cap": 813841390.0,
+      "owner_count": 757,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "PEPTONIC-MEDICAL",
       "company_name": "Peptonic Medical",
       "trend7d": 0.27,
@@ -433,14 +433,14 @@
       "detail_url": "https://allaaktier.se/bolag/peptonic-medical"
     },
     {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 0.27,
-      "discord_members": 1132,
-      "facebook_members": 2135,
-      "market_cap": 4143798400.0,
-      "owner_count": 3635,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+      "ticker": "ELICERA-THERAPEUTICS",
+      "company_name": "Elicera Therapeutics",
+      "trend7d": 0.26,
+      "discord_members": 1009,
+      "facebook_members": 129,
+      "market_cap": 168843034.0,
+      "owner_count": 1159,
+      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
       "ticker": "SOUND-DIMENSION",
@@ -453,24 +453,44 @@
       "detail_url": "https://allaaktier.se/bolag/sound-dimension"
     },
     {
-      "ticker": "PRECISE-BIOMETRICS",
-      "company_name": "Precise Biometrics",
-      "trend7d": 0.24,
-      "discord_members": 145,
-      "facebook_members": 540,
-      "market_cap": 239620558.0,
-      "owner_count": 4246,
-      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
+      "ticker": "VIBROSENSE-DYNAMICS",
+      "company_name": "VibroSense Dynamics",
+      "trend7d": 0.25,
+      "discord_members": 230,
+      "facebook_members": 578,
+      "market_cap": 24439041.0,
+      "owner_count": 220,
+      "detail_url": "https://allaaktier.se/bolag/vibrosense-dynamics"
     },
     {
-      "ticker": "AFRICA-OIL",
-      "company_name": "Africa Oil",
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.25,
+      "discord_members": 1132,
+      "facebook_members": 2135,
+      "market_cap": 4143798400.0,
+      "owner_count": 3635,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
+      "ticker": "BPC-INSTRUMENTS",
+      "company_name": "BPC Instruments",
       "trend7d": 0.24,
-      "discord_members": 1269,
-      "facebook_members": 1945,
-      "market_cap": 9249079706.0,
-      "owner_count": 3714,
-      "detail_url": "https://allaaktier.se/bolag/africa-oil"
+      "discord_members": 107,
+      "facebook_members": null,
+      "market_cap": 196546110.0,
+      "owner_count": 162,
+      "detail_url": "https://allaaktier.se/bolag/bpc-instruments"
+    },
+    {
+      "ticker": "INTERNATIONAL-PETROLEUM",
+      "company_name": "International Petroleum",
+      "trend7d": 0.23,
+      "discord_members": 313,
+      "facebook_members": 89,
+      "market_cap": 23625921869.0,
+      "owner_count": 2613,
+      "detail_url": "https://allaaktier.se/bolag/international-petroleum"
     },
     {
       "ticker": "SENZIME",
@@ -483,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/senzime"
     },
     {
-      "ticker": "EDYOUTEC",
-      "company_name": "edyoutec",
-      "trend7d": 0.22,
-      "discord_members": 246,
-      "facebook_members": 176,
-      "market_cap": 29043457.0,
-      "owner_count": 342,
-      "detail_url": "https://allaaktier.se/bolag/edyoutec"
-    },
-    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 0.21,
@@ -501,16 +511,6 @@
       "market_cap": 33183961278.0,
       "owner_count": 3744,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "ELICERA-THERAPEUTICS",
-      "company_name": "Elicera Therapeutics",
-      "trend7d": 0.21,
-      "discord_members": 1009,
-      "facebook_members": 129,
-      "market_cap": 168843034.0,
-      "owner_count": 1159,
-      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 62,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
