@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T14:34:09.661684+00:00",
+  "generated_at": "2026-08-08T15:32:34.568175+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
+      "ticker": "W5-SOLUTIONS",
+      "company_name": "W5 Solutions",
+      "trend7d": 0.99,
+      "discord_members": 179,
+      "facebook_members": null,
+      "market_cap": 753031934.0,
+      "owner_count": 3240,
+      "detail_url": "https://allaaktier.se/bolag/w5-solutions"
+    },
+    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 0.96,
@@ -201,16 +211,6 @@
       "market_cap": 5283452299.0,
       "owner_count": 2873,
       "detail_url": "https://allaaktier.se/bolag/zinzino"
-    },
-    {
-      "ticker": "W5-SOLUTIONS",
-      "company_name": "W5 Solutions",
-      "trend7d": 0.8,
-      "discord_members": 178,
-      "facebook_members": null,
-      "market_cap": 753031934.0,
-      "owner_count": 3240,
-      "detail_url": "https://allaaktier.se/bolag/w5-solutions"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
