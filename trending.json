@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:50:10.335428+00:00",
+  "generated_at": "2026-08-08T06:57:46.623900+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
-      "trend7d": 2.58,
-      "discord_members": 196,
+      "trend7d": 2.76,
+      "discord_members": 197,
       "facebook_members": null,
       "market_cap": 757652086.0,
       "owner_count": 185,
@@ -316,7 +316,7 @@
       "ticker": "ZINZINO",
       "company_name": "Zinzino",
       "trend7d": 0.37,
-      "discord_members": 77,
+      "discord_members": 78,
       "facebook_members": null,
       "market_cap": 5283452299.0,
       "owner_count": 2873,
@@ -393,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/hexatronic"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.29,
+      "discord_members": 1388,
+      "facebook_members": null,
+      "market_cap": 813841390.0,
+      "owner_count": 757,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.28,
@@ -411,16 +421,6 @@
       "market_cap": 1106282293.0,
       "owner_count": 587,
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.27,
-      "discord_members": 1387,
-      "facebook_members": null,
-      "market_cap": 813841390.0,
-      "owner_count": 757,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "PEPTONIC-MEDICAL",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
-      "ticker": "M-O-B-A-NETWORK",
-      "company_name": "M.O.B.A. Network",
-      "trend7d": 0.18,
-      "discord_members": 30,
-      "facebook_members": null,
-      "market_cap": 23249890.0,
-      "owner_count": 103,
-      "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
+      "ticker": "ORRON-ENERGY",
+      "company_name": "Orrön Energy",
+      "trend7d": 0.19,
+      "discord_members": 422,
+      "facebook_members": 2334,
+      "market_cap": 1975604842.0,
+      "owner_count": 6664,
+      "detail_url": "https://allaaktier.se/bolag/orron-energy"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 60,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
