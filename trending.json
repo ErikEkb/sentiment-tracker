@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T11:31:10.728586+00:00",
+  "generated_at": "2026-08-08T12:53:40.895507+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/klimator"
     },
     {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.63,
+      "discord_members": 1305,
+      "facebook_members": 195,
+      "market_cap": 794711986.0,
+      "owner_count": 1483,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 0.62,
@@ -251,16 +261,6 @@
       "market_cap": 38366622.0,
       "owner_count": 855,
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.6,
-      "discord_members": 1304,
-      "facebook_members": 195,
-      "market_cap": 794711986.0,
-      "owner_count": 1483,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -463,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/sound-dimension"
     },
     {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 0.25,
+      "discord_members": 455,
+      "facebook_members": null,
+      "market_cap": 50286387.0,
+      "owner_count": 711,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
       "ticker": "VIBROSENSE-DYNAMICS",
       "company_name": "VibroSense Dynamics",
       "trend7d": 0.25,
@@ -501,16 +511,6 @@
       "market_cap": 1106282293.0,
       "owner_count": 587,
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
-    },
-    {
-      "ticker": "INTERNATIONAL-PETROLEUM",
-      "company_name": "International Petroleum",
-      "trend7d": 0.23,
-      "discord_members": 313,
-      "facebook_members": 89,
-      "market_cap": 23625921869.0,
-      "owner_count": 2613,
-      "detail_url": "https://allaaktier.se/bolag/international-petroleum"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
