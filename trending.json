@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:35:47.606158+00:00",
+  "generated_at": "2026-08-08T01:48:31.847002+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,12 +25,22 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 9.98,
+      "trend7d": 9.84,
       "discord_members": 303,
       "facebook_members": null,
       "market_cap": 248435991.0,
       "owner_count": 398,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
+      "ticker": "GUARD-THERAPEUTICS",
+      "company_name": "Guard Therapeutics",
+      "trend7d": 3.2,
+      "discord_members": 546,
+      "facebook_members": 631,
+      "market_cap": 61799058.0,
+      "owner_count": 669,
+      "detail_url": "https://allaaktier.se/bolag/guard-therapeutics"
     },
     {
       "ticker": "ARGO-DEFENCE",
@@ -41,16 +51,6 @@
       "market_cap": 369230400.0,
       "owner_count": 816,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
-    },
-    {
-      "ticker": "GUARD-THERAPEUTICS",
-      "company_name": "Guard Therapeutics",
-      "trend7d": 3.08,
-      "discord_members": 546,
-      "facebook_members": 631,
-      "market_cap": 61799058.0,
-      "owner_count": 669,
-      "detail_url": "https://allaaktier.se/bolag/guard-therapeutics"
     },
     {
       "ticker": "APR-TECHNOLOGIES",
@@ -75,7 +75,7 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 1.33,
+      "trend7d": 1.41,
       "discord_members": 801,
       "facebook_members": 435,
       "market_cap": 3475066523.0,
@@ -143,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 0.86,
-      "discord_members": 2548,
-      "facebook_members": 2874,
-      "market_cap": 14345285207.0,
-      "owner_count": 5424,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
       "ticker": "KILIARO",
       "company_name": "Kiliaro",
       "trend7d": 0.85,
@@ -161,6 +151,16 @@
       "market_cap": 2327996.0,
       "owner_count": 360,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
+    },
+    {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 0.83,
+      "discord_members": 2548,
+      "facebook_members": 2874,
+      "market_cap": 14345285207.0,
+      "owner_count": 5424,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
       "ticker": "TRANSFER-GROUP",
@@ -255,7 +255,7 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 0.58,
+      "trend7d": 0.55,
       "discord_members": 1303,
       "facebook_members": 195,
       "market_cap": 794711986.0,
@@ -263,19 +263,9 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 0.55,
-      "discord_members": 1132,
-      "facebook_members": 2135,
-      "market_cap": 4143798400.0,
-      "owner_count": 3635,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
-    },
-    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.54,
+      "trend7d": 0.48,
       "discord_members": 1172,
       "facebook_members": 3706,
       "market_cap": 7267903146.0,
@@ -283,19 +273,19 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
-      "ticker": "ALZECURE-PHARMA",
-      "company_name": "AlzeCure Pharma",
-      "trend7d": 0.5,
-      "discord_members": 286,
-      "facebook_members": 12,
-      "market_cap": 1025894708.0,
-      "owner_count": 1049,
-      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 0.42,
+      "discord_members": 475,
+      "facebook_members": null,
+      "market_cap": 1290732839186.0,
+      "owner_count": 17277,
+      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.48,
+      "trend7d": 0.41,
       "discord_members": 543,
       "facebook_members": 363,
       "market_cap": 225447272.0,
@@ -343,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
+      "ticker": "ALZECURE-PHARMA",
+      "company_name": "AlzeCure Pharma",
+      "trend7d": 0.37,
+      "discord_members": 286,
+      "facebook_members": 12,
+      "market_cap": 1025894708.0,
+      "owner_count": 1049,
+      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+    },
+    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.36,
@@ -351,26 +351,6 @@
       "market_cap": 10046414330219.2,
       "owner_count": 45137,
       "detail_url": "https://allaaktier.se/bolag/tesla"
-    },
-    {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 0.35,
-      "discord_members": 475,
-      "facebook_members": null,
-      "market_cap": 1290732839186.0,
-      "owner_count": 17277,
-      "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.33,
-      "discord_members": 1415,
-      "facebook_members": 1546,
-      "market_cap": 9098018229.0,
-      "owner_count": 5694,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
     },
     {
       "ticker": "BPC-INSTRUMENTS",
@@ -403,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/vibrosense-dynamics"
     },
     {
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.31,
+      "discord_members": 1415,
+      "facebook_members": 1546,
+      "market_cap": 9098018229.0,
+      "owner_count": 5694,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+    },
+    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.28,
@@ -433,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.27,
+      "discord_members": 1132,
+      "facebook_members": 2135,
+      "market_cap": 4143798400.0,
+      "owner_count": 3635,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
       "trend7d": 0.25,
@@ -441,6 +441,16 @@
       "market_cap": 105822191.0,
       "owner_count": 506,
       "detail_url": "https://allaaktier.se/bolag/sound-dimension"
+    },
+    {
+      "ticker": "AFRICA-OIL",
+      "company_name": "Africa Oil",
+      "trend7d": 0.24,
+      "discord_members": 1269,
+      "facebook_members": 1945,
+      "market_cap": 9249079706.0,
+      "owner_count": 3714,
+      "detail_url": "https://allaaktier.se/bolag/africa-oil"
     },
     {
       "ticker": "SENZIME",
@@ -473,34 +483,14 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
+      "ticker": "ELICERA-THERAPEUTICS",
+      "company_name": "Elicera Therapeutics",
       "trend7d": 0.21,
-      "discord_members": 225,
-      "facebook_members": 63,
-      "market_cap": 79639231.0,
-      "owner_count": 556,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
-      "ticker": "AFRICA-OIL",
-      "company_name": "Africa Oil",
-      "trend7d": 0.21,
-      "discord_members": 1269,
-      "facebook_members": 1945,
-      "market_cap": 9249079706.0,
-      "owner_count": 3714,
-      "detail_url": "https://allaaktier.se/bolag/africa-oil"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.2,
-      "discord_members": 418,
-      "facebook_members": null,
-      "market_cap": 20197877320.02,
-      "owner_count": 1079,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
+      "discord_members": 1009,
+      "facebook_members": 129,
+      "market_cap": 168843034.0,
+      "owner_count": 1159,
+      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
       "ticker": "M-O-B-A-NETWORK",
@@ -511,6 +501,16 @@
       "market_cap": 23249890.0,
       "owner_count": 103,
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
+    },
+    {
+      "ticker": "INTERNATIONAL-PETROLEUM",
+      "company_name": "International Petroleum",
+      "trend7d": 0.18,
+      "discord_members": 313,
+      "facebook_members": 89,
+      "market_cap": 23625921869.0,
+      "owner_count": 2613,
+      "detail_url": "https://allaaktier.se/bolag/international-petroleum"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 69,
+    "total_posts_fetched": 59,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
