@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:36:17.335649+00:00",
+  "generated_at": "2026-08-08T11:31:10.728586+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,12 +25,22 @@
     {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
-      "trend7d": 10.33,
-      "discord_members": 303,
+      "trend7d": 10.46,
+      "discord_members": 304,
       "facebook_members": null,
       "market_cap": 248435991.0,
       "owner_count": 398,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 3.28,
+      "discord_members": 139,
+      "facebook_members": null,
+      "market_cap": 369230400.0,
+      "owner_count": 816,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "GUARD-THERAPEUTICS",
@@ -43,19 +53,9 @@
       "detail_url": "https://allaaktier.se/bolag/guard-therapeutics"
     },
     {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
-      "trend7d": 3.13,
-      "discord_members": 139,
-      "facebook_members": null,
-      "market_cap": 369230400.0,
-      "owner_count": 816,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
-    },
-    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
-      "trend7d": 2.76,
+      "trend7d": 2.82,
       "discord_members": 197,
       "facebook_members": null,
       "market_cap": 757652086.0,
@@ -105,12 +105,22 @@
     {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
-      "trend7d": 1.19,
+      "trend7d": 1.29,
       "discord_members": 57,
       "facebook_members": null,
       "market_cap": 42547065.0,
       "owner_count": 413,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
+    },
+    {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 1.19,
+      "discord_members": 85,
+      "facebook_members": null,
+      "market_cap": 687500000.0,
+      "owner_count": 598,
+      "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
       "ticker": "NEXAR",
@@ -153,16 +163,6 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
-      "ticker": "ENVAR",
-      "company_name": "Envar",
-      "trend7d": 1.0,
-      "discord_members": 85,
-      "facebook_members": null,
-      "market_cap": 687500000.0,
-      "owner_count": 598,
-      "detail_url": "https://allaaktier.se/bolag/envar"
-    },
-    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 0.96,
@@ -185,7 +185,7 @@
     {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
-      "trend7d": 0.91,
+      "trend7d": 0.84,
       "discord_members": 41,
       "facebook_members": null,
       "market_cap": 501783575.0,
@@ -205,7 +205,7 @@
     {
       "ticker": "W5-SOLUTIONS",
       "company_name": "W5 Solutions",
-      "trend7d": 0.78,
+      "trend7d": 0.8,
       "discord_members": 178,
       "facebook_members": null,
       "market_cap": 753031934.0,
@@ -323,24 +323,34 @@
       "detail_url": "https://allaaktier.se/bolag/catena-media"
     },
     {
+      "ticker": "NYAB",
+      "company_name": "NYAB",
+      "trend7d": 0.4,
+      "discord_members": 206,
+      "facebook_members": null,
+      "market_cap": 4413426720.0,
+      "owner_count": 1731,
+      "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
       "ticker": "ADVERTY",
       "company_name": "Adverty",
-      "trend7d": 0.4,
-      "discord_members": 1200,
+      "trend7d": 0.38,
+      "discord_members": 1199,
       "facebook_members": 367,
       "market_cap": 108920363.0,
       "owner_count": 478,
       "detail_url": "https://allaaktier.se/bolag/adverty"
     },
     {
-      "ticker": "NYAB",
-      "company_name": "NYAB",
+      "ticker": "TESLA",
+      "company_name": "Tesla",
       "trend7d": 0.37,
-      "discord_members": 206,
+      "discord_members": 48,
       "facebook_members": null,
-      "market_cap": 4413426720.0,
-      "owner_count": 1731,
-      "detail_url": "https://allaaktier.se/bolag/nyab"
+      "market_cap": 10017846778187.7,
+      "owner_count": 45137,
+      "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
       "ticker": "ALZECURE-PHARMA",
@@ -351,16 +361,6 @@
       "market_cap": 1025894708.0,
       "owner_count": 1049,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "TESLA",
-      "company_name": "Tesla",
-      "trend7d": 0.36,
-      "discord_members": 48,
-      "facebook_members": null,
-      "market_cap": 10017846778187.7,
-      "owner_count": 45137,
-      "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
       "ticker": "CLOETTA",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 64,
+    "total_posts_fetched": 65,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
