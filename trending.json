@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:33:19.325835+00:00",
+  "generated_at": "2026-08-08T22:32:06.602130+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -516,10 +516,93 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "BEAMMW-B",
+      "company_name": "Beammwave B",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.667,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95618152",
+        "https://www.flashback.org/sp95618263",
+        "https://www.flashback.org/sp95621510"
+      ]
+    },
+    {
+      "ticker": "TOKMAN",
+      "company_name": "Tokmanni Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95616564",
+        "https://www.flashback.org/sp95619407"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft Corporation",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95616597",
+        "https://www.flashback.org/sp95617295"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir Technologies Inc.",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.625,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.25,
+      "sample_posts": [
+        "https://www.flashback.org/sp95607497",
+        "https://www.flashback.org/sp95619444"
+      ]
+    },
+    {
+      "ticker": "VALUNO",
+      "company_name": "Valuno Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.083,
+      "avg_upvote_ratio": 0.5,
+      "label": "neutral",
+      "trending_score": 0.333,
+      "sample_posts": [
+        "https://www.flashback.org/sp95615771",
+        "https://www.flashback.org/sp95616607",
+        "https://www.flashback.org/sp95617123"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 60,
-    "tickers_with_any_mentions": 0,
+    "total_posts_fetched": 61,
+    "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
