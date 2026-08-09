@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:35:32.801324+00:00",
+  "generated_at": "2026-08-09T20:35:29.486838+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/zinzino"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.8,
+      "discord_members": 1182,
+      "facebook_members": 3706,
+      "market_cap": 7267903146.0,
+      "owner_count": 3704,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 0.78,
@@ -191,16 +201,6 @@
       "market_cap": 38366622.0,
       "owner_count": 855,
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.77,
-      "discord_members": 1181,
-      "facebook_members": 3706,
-      "market_cap": 7267903146.0,
-      "owner_count": 3704,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -585,7 +585,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
