@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T17:33:45.655589+00:00",
+  "generated_at": "2026-08-09T18:44:30.558385+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -353,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "CATENA-MEDIA",
-      "company_name": "Catena Media",
-      "trend7d": 0.37,
-      "discord_members": 702,
-      "facebook_members": 996,
-      "market_cap": 334787044.0,
-      "owner_count": 905,
-      "detail_url": "https://allaaktier.se/bolag/catena-media"
-    },
-    {
       "ticker": "AFRICA-OIL",
       "company_name": "Africa Oil",
       "trend7d": 0.37,
@@ -431,6 +421,16 @@
       "market_cap": 161134982.0,
       "owner_count": 713,
       "detail_url": "https://allaaktier.se/bolag/biovica-international"
+    },
+    {
+      "ticker": "CATENA-MEDIA",
+      "company_name": "Catena Media",
+      "trend7d": 0.32,
+      "discord_members": 701,
+      "facebook_members": 996,
+      "market_cap": 334787044.0,
+      "owner_count": 905,
+      "detail_url": "https://allaaktier.se/bolag/catena-media"
     },
     {
       "ticker": "DEVYSER-DIAGNOSTICS",
@@ -585,7 +585,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
+    "total_posts_fetched": 65,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
