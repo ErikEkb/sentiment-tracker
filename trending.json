@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T08:54:04.281111+00:00",
+  "generated_at": "2026-08-09T09:42:04.849678+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -273,6 +273,16 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.54,
+      "discord_members": 1173,
+      "facebook_members": 3706,
+      "market_cap": 7267903146.0,
+      "owner_count": 3704,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
       "trend7d": 0.51,
@@ -281,16 +291,6 @@
       "market_cap": 1025894708.0,
       "owner_count": 1049,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.51,
-      "discord_members": 1172,
-      "facebook_members": 3706,
-      "market_cap": 7267903146.0,
-      "owner_count": 3704,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "INVESTOR",
@@ -567,22 +567,6 @@
       ]
     },
     {
-      "ticker": "PLTR",
-      "company_name": "Palantir Technologies Inc.",
-      "sector": "Information Technology",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.625,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.25,
-      "sample_posts": [
-        "https://www.flashback.org/sp95607497",
-        "https://www.flashback.org/sp95619444"
-      ]
-    },
-    {
       "ticker": "VALUNO",
       "company_name": "Valuno Group",
       "sector": "Discovered",
@@ -601,8 +585,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 62,
-    "tickers_with_any_mentions": 5,
+    "total_posts_fetched": 63,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
