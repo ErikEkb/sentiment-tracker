@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T10:37:26.915413+00:00",
+  "generated_at": "2026-08-09T11:31:41.734448+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -413,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/international-petroleum"
     },
     {
+      "ticker": "BIOVICA-INTERNATIONAL",
+      "company_name": "Biovica International",
+      "trend7d": 0.32,
+      "discord_members": 546,
+      "facebook_members": 371,
+      "market_cap": 161134982.0,
+      "owner_count": 713,
+      "detail_url": "https://allaaktier.se/bolag/biovica-international"
+    },
+    {
       "ticker": "DEVYSER-DIAGNOSTICS",
       "company_name": "Devyser Diagnostics",
       "trend7d": 0.29,
@@ -463,14 +473,14 @@
       "detail_url": "https://allaaktier.se/bolag/senzime"
     },
     {
-      "ticker": "BIOVICA-INTERNATIONAL",
-      "company_name": "Biovica International",
-      "trend7d": 0.26,
-      "discord_members": 545,
-      "facebook_members": 371,
-      "market_cap": 161134982.0,
-      "owner_count": 713,
-      "detail_url": "https://allaaktier.se/bolag/biovica-international"
+      "ticker": "LUNDIN-MINING",
+      "company_name": "Lundin Mining",
+      "trend7d": 0.25,
+      "discord_members": 997,
+      "facebook_members": null,
+      "market_cap": 217079610705.0,
+      "owner_count": 8064,
+      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "VIBROSENSE-DYNAMICS",
@@ -501,16 +511,6 @@
       "market_cap": 1513500326.0,
       "owner_count": 1545,
       "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
-    },
-    {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.24,
-      "discord_members": 1415,
-      "facebook_members": 1546,
-      "market_cap": 9098018229.0,
-      "owner_count": 5694,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
     }
   ],
   "twitter_mentions": 0,
