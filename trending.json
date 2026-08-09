@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T16:38:19.137252+00:00",
+  "generated_at": "2026-08-09T17:33:45.655589+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -518,6 +518,22 @@
   "min_mentions": 2,
   "trending": [
     {
+      "ticker": "TOKMAN",
+      "company_name": "Tokmanni Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95616564",
+        "https://www.flashback.org/sp95619407"
+      ]
+    },
+    {
       "ticker": "BEAMMW-B",
       "company_name": "Beammwave B",
       "sector": "Discovered",
@@ -532,22 +548,6 @@
         "https://www.flashback.org/sp95618152",
         "https://www.flashback.org/sp95618263",
         "https://www.flashback.org/sp95621510"
-      ]
-    },
-    {
-      "ticker": "TOKMAN",
-      "company_name": "Tokmanni Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95616564",
-        "https://www.flashback.org/sp95619407"
       ]
     },
     {
@@ -585,7 +585,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 63,
+    "total_posts_fetched": 64,
     "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
