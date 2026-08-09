@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:44:30.558385+00:00",
+  "generated_at": "2026-08-09T19:35:32.801324+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
     {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 3.38,
+      "discord_members": 198,
+      "facebook_members": null,
+      "market_cap": 757652086.0,
+      "owner_count": 185,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 3.32,
@@ -51,16 +61,6 @@
       "market_cap": 61799058.0,
       "owner_count": 669,
       "detail_url": "https://allaaktier.se/bolag/guard-therapeutics"
-    },
-    {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 3.2,
-      "discord_members": 197,
-      "facebook_members": null,
-      "market_cap": 757652086.0,
-      "owner_count": 185,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "HEMPLY-BALANCE",
@@ -453,16 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.27,
-      "discord_members": 1388,
-      "facebook_members": null,
-      "market_cap": 813841390.0,
-      "owner_count": 757,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
-    },
-    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.27,
@@ -481,6 +471,16 @@
       "market_cap": 602919701.0,
       "owner_count": 510,
       "detail_url": "https://allaaktier.se/bolag/senzime"
+    },
+    {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.25,
+      "discord_members": 1387,
+      "facebook_members": null,
+      "market_cap": 813841390.0,
+      "owner_count": 757,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "LUNDIN-MINING",
