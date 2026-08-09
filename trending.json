@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:35:03.925172+00:00",
+  "generated_at": "2026-08-09T22:34:18.615474+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 1.87,
-      "discord_members": 69,
+      "trend7d": 2.36,
+      "discord_members": 70,
       "facebook_members": null,
       "market_cap": 9568411.0,
       "owner_count": 137,
@@ -173,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.86,
+      "discord_members": 1184,
+      "facebook_members": 3706,
+      "market_cap": 7267903146.0,
+      "owner_count": 3704,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "ZINZINO",
       "company_name": "Zinzino",
       "trend7d": 0.81,
@@ -181,16 +191,6 @@
       "market_cap": 5283452299.0,
       "owner_count": 2873,
       "detail_url": "https://allaaktier.se/bolag/zinzino"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.8,
-      "discord_members": 1182,
-      "facebook_members": 3706,
-      "market_cap": 7267903146.0,
-      "owner_count": 3704,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "TENEO-AI",
@@ -303,6 +303,16 @@
       "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
+      "ticker": "SOUND-DIMENSION",
+      "company_name": "Sound Dimension",
+      "trend7d": 0.43,
+      "discord_members": 779,
+      "facebook_members": null,
+      "market_cap": 105822191.0,
+      "owner_count": 506,
+      "detail_url": "https://allaaktier.se/bolag/sound-dimension"
+    },
+    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
       "trend7d": 0.39,
@@ -311,16 +321,6 @@
       "market_cap": 225447272.0,
       "owner_count": 452,
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
-      "ticker": "SOUND-DIMENSION",
-      "company_name": "Sound Dimension",
-      "trend7d": 0.38,
-      "discord_members": 778,
-      "facebook_members": null,
-      "market_cap": 105822191.0,
-      "owner_count": 506,
-      "detail_url": "https://allaaktier.se/bolag/sound-dimension"
     },
     {
       "ticker": "NYAB",
@@ -567,13 +567,30 @@
       ]
     },
     {
+      "ticker": "PLTR",
+      "company_name": "Palantir Technologies Inc.",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.306,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 0.917,
+      "sample_posts": [
+        "https://www.flashback.org/sp95619444",
+        "https://www.flashback.org/sp95624442",
+        "https://www.flashback.org/sp95625468"
+      ]
+    },
+    {
       "ticker": "VALUNO",
       "company_name": "Valuno Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.083,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.067,
       "avg_upvote_ratio": 0.5,
       "label": "neutral",
       "trending_score": 0.333,
@@ -585,8 +602,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 66,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 67,
+    "tickers_with_any_mentions": 6,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
