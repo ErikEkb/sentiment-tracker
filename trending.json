@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:34:12.919007+00:00",
+  "generated_at": "2026-08-09T16:38:19.137252+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.77,
+      "discord_members": 1181,
+      "facebook_members": 3706,
+      "market_cap": 7267903146.0,
+      "owner_count": 3704,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "BIBBINSTRUMENTS",
       "company_name": "BiBBInstruments",
       "trend7d": 0.72,
@@ -211,16 +221,6 @@
       "market_cap": 65294240.0,
       "owner_count": 887,
       "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.69,
-      "discord_members": 1178,
-      "facebook_members": 3706,
-      "market_cap": 7267903146.0,
-      "owner_count": 3704,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "KLIMATOR",
@@ -331,6 +331,16 @@
       "market_cap": 4413426720.0,
       "owner_count": 1731,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.37,
+      "discord_members": 218,
+      "facebook_members": null,
+      "market_cap": 87091526.0,
+      "owner_count": 125,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "NANEXA",
@@ -501,16 +511,6 @@
       "market_cap": 196546110.0,
       "owner_count": 162,
       "detail_url": "https://allaaktier.se/bolag/bpc-instruments"
-    },
-    {
-      "ticker": "BIOINVENT-INTERNATIONAL",
-      "company_name": "BioInvent International",
-      "trend7d": 0.24,
-      "discord_members": 693,
-      "facebook_members": 19,
-      "market_cap": 1513500326.0,
-      "owner_count": 1545,
-      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     }
   ],
   "twitter_mentions": 0,
