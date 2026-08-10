@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:00:31.895502+00:00",
+  "generated_at": "2026-08-10T20:44:51.185497+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -75,8 +75,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 2.38,
-      "discord_members": 575,
+      "trend7d": 2.51,
+      "discord_members": 577,
       "facebook_members": 363,
       "market_cap": 222770458.0,
       "owner_count": 457,
@@ -103,6 +103,16 @@
       "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 1.14,
+      "discord_members": 1196,
+      "facebook_members": 3706,
+      "market_cap": 7490939327.0,
+      "owner_count": 3703,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 1.12,
@@ -121,16 +131,6 @@
       "market_cap": 36492674.0,
       "owner_count": 860,
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.06,
-      "discord_members": 1193,
-      "facebook_members": 3706,
-      "market_cap": 7490939327.0,
-      "owner_count": 3703,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "W5-SOLUTIONS",
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.35,
+      "discord_members": 1425,
+      "facebook_members": 1546,
+      "market_cap": 9068735179.0,
+      "owner_count": 5695,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+    },
+    {
       "ticker": "INTERNATIONAL-PETROLEUM",
       "company_name": "International Petroleum",
       "trend7d": 0.32,
@@ -483,16 +493,6 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.3,
-      "discord_members": 1423,
-      "facebook_members": 1546,
-      "market_cap": 9068735179.0,
-      "owner_count": 5695,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
-    },
-    {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
       "trend7d": 0.29,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 49,
+    "total_posts_fetched": 50,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
