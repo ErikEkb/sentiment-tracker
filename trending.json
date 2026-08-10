@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:18:53.554628+00:00",
+  "generated_at": "2026-08-10T11:49:31.356787+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,7 +25,7 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 6.96,
+      "trend7d": 7.49,
       "discord_members": 152,
       "facebook_members": null,
       "market_cap": 6181183972.0,
@@ -113,6 +113,16 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 1.08,
+      "discord_members": 554,
+      "facebook_members": 363,
+      "market_cap": 222770458.0,
+      "owner_count": 457,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "W5-SOLUTIONS",
       "company_name": "W5 Solutions",
       "trend7d": 1.05,
@@ -121,16 +131,6 @@
       "market_cap": 761833605.0,
       "owner_count": 3240,
       "detail_url": "https://allaaktier.se/bolag/w5-solutions"
-    },
-    {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.96,
-      "discord_members": 552,
-      "facebook_members": 363,
-      "market_cap": 222770458.0,
-      "owner_count": 457,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
       "ticker": "ENVAR",
@@ -383,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.36,
+      "discord_members": 220,
+      "facebook_members": null,
+      "market_cap": 91037421.0,
+      "owner_count": 126,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
       "ticker": "INTERNATIONAL-PETROLEUM",
       "company_name": "International Petroleum",
       "trend7d": 0.32,
@@ -501,39 +511,12 @@
       "market_cap": 1204745960.0,
       "owner_count": 1300,
       "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
-    },
-    {
-      "ticker": "ORRON-ENERGY",
-      "company_name": "Orrön Energy",
-      "trend7d": 0.25,
-      "discord_members": 422,
-      "facebook_members": 2334,
-      "market_cap": 1958450531.0,
-      "owner_count": 6664,
-      "detail_url": "https://allaaktier.se/bolag/orron-energy"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "BEAMMW-B",
-      "company_name": "Beammwave B",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95618152",
-        "https://www.flashback.org/sp95618263",
-        "https://www.flashback.org/sp95621510"
-      ]
-    },
     {
       "ticker": "PLTR",
       "company_name": "Palantir Technologies Inc.",
@@ -556,22 +539,21 @@
       "company_name": "Valuno Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.222,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.167,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 0.667,
+      "trending_score": 0.333,
       "sample_posts": [
-        "https://www.flashback.org/sp95617123",
         "https://www.flashback.org/sp95618530",
         "https://www.flashback.org/sp95623230"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 59,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 55,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
