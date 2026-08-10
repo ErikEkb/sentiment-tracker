@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:43:52.673605+00:00",
+  "generated_at": "2026-08-10T22:40:00.663172+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -53,12 +53,22 @@
       "detail_url": "https://allaaktier.se/bolag/guard-therapeutics"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 2.69,
+      "discord_members": 580,
+      "facebook_members": 363,
+      "market_cap": 224555001.0,
+      "owner_count": 457,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 2.56,
       "discord_members": 139,
       "facebook_members": null,
-      "market_cap": 367132500.0,
+      "market_cap": 369230400.0,
       "owner_count": 819,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
@@ -71,16 +81,6 @@
       "market_cap": 746591472.0,
       "owner_count": 184,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 2.51,
-      "discord_members": 580,
-      "facebook_members": 363,
-      "market_cap": 224555001.0,
-      "owner_count": 457,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
       "ticker": "TRANSFER-GROUP",
@@ -398,7 +398,7 @@
       "trend7d": 0.38,
       "discord_members": 206,
       "facebook_members": null,
-      "market_cap": 4413426720.0,
+      "market_cap": 4406296789.0,
       "owner_count": 1732,
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
@@ -425,8 +425,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 0.36,
-      "discord_members": 1307,
+      "trend7d": 0.33,
+      "discord_members": 1306,
       "facebook_members": 195,
       "market_cap": 851067763.0,
       "owner_count": 1483,
@@ -536,7 +536,7 @@
   ],
   "stats": {
     "total_posts_fetched": 51,
-    "tickers_with_any_mentions": 1,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
