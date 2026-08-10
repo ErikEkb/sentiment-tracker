@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:14:17.211470+00:00",
+  "generated_at": "2026-08-10T15:00:57.116254+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 11.85,
-      "discord_members": 72,
+      "trend7d": 12.83,
+      "discord_members": 74,
       "facebook_members": null,
       "market_cap": 9411552.0,
       "owner_count": 171,
@@ -73,6 +73,16 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 1.45,
+      "discord_members": 560,
+      "facebook_members": 363,
+      "market_cap": 222770458.0,
+      "owner_count": 457,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "TRANSFER-GROUP",
       "company_name": "Transfer Group",
       "trend7d": 1.35,
@@ -113,14 +123,14 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.08,
-      "discord_members": 554,
-      "facebook_members": 363,
-      "market_cap": 222770458.0,
-      "owner_count": 457,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 1.09,
+      "discord_members": 1194,
+      "facebook_members": 3706,
+      "market_cap": 7490939327.0,
+      "owner_count": 3703,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "W5-SOLUTIONS",
@@ -131,16 +141,6 @@
       "market_cap": 761833605.0,
       "owner_count": 3240,
       "detail_url": "https://allaaktier.se/bolag/w5-solutions"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.03,
-      "discord_members": 1192,
-      "facebook_members": 3706,
-      "market_cap": 7490939327.0,
-      "owner_count": 3703,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "ENVAR",
@@ -273,6 +273,16 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.51,
+      "discord_members": 221,
+      "facebook_members": null,
+      "market_cap": 91037421.0,
+      "owner_count": 126,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
       "ticker": "SERVANA",
       "company_name": "Servana",
       "trend7d": 0.46,
@@ -291,6 +301,16 @@
       "market_cap": 1516790544.0,
       "owner_count": 1555,
       "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
+    },
+    {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.44,
+      "discord_members": 66,
+      "facebook_members": null,
+      "market_cap": 71207630735.47,
+      "owner_count": 5884,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "TRIBORON-INTERNATIONAL",
@@ -383,14 +403,14 @@
       "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.36,
-      "discord_members": 220,
-      "facebook_members": null,
-      "market_cap": 91037421.0,
-      "owner_count": 126,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.37,
+      "discord_members": 928,
+      "facebook_members": 289,
+      "market_cap": 3186869713.0,
+      "owner_count": 2094,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "INTERNATIONAL-PETROLEUM",
@@ -491,26 +511,6 @@
       "market_cap": 43165482.0,
       "owner_count": 412,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.26,
-      "discord_members": 925,
-      "facebook_members": 289,
-      "market_cap": 3186869713.0,
-      "owner_count": 2094,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
-    },
-    {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 0.25,
-      "discord_members": 1369,
-      "facebook_members": 128,
-      "market_cap": 1204745960.0,
-      "owner_count": 1300,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     }
   ],
   "twitter_mentions": 0,
@@ -533,27 +533,11 @@
         "https://www.flashback.org/sp95624442",
         "https://www.flashback.org/sp95625468"
       ]
-    },
-    {
-      "ticker": "VALUNO",
-      "company_name": "Valuno Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.167,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 0.333,
-      "sample_posts": [
-        "https://www.flashback.org/sp95618530",
-        "https://www.flashback.org/sp95623230"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 55,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 58,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
