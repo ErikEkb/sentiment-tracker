@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T17:53:20.664308+00:00",
+  "generated_at": "2026-08-10T19:00:31.895502+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 8.3,
-      "discord_members": 155,
+      "trend7d": 8.57,
+      "discord_members": 156,
       "facebook_members": null,
       "market_cap": 6181183972.0,
       "owner_count": 2760,
@@ -105,8 +105,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.13,
-      "discord_members": 2548,
+      "trend7d": 1.12,
+      "discord_members": 2547,
       "facebook_members": 2874,
       "market_cap": 16560992625.0,
       "owner_count": 5478,
@@ -125,8 +125,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.09,
-      "discord_members": 1194,
+      "trend7d": 1.06,
+      "discord_members": 1193,
       "facebook_members": 3706,
       "market_cap": 7490939327.0,
       "owner_count": 3703,
@@ -263,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/thinc"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.55,
+      "discord_members": 801,
+      "facebook_members": 435,
+      "market_cap": 3386717374.0,
+      "owner_count": 1230,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 0.53,
@@ -281,16 +291,6 @@
       "market_cap": 91037421.0,
       "owner_count": 126,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.5,
-      "discord_members": 800,
-      "facebook_members": 435,
-      "market_cap": 3386717374.0,
-      "owner_count": 1230,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "SERVANA",
@@ -403,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/tourn-international"
     },
     {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 0.37,
-      "discord_members": 475,
-      "facebook_members": null,
-      "market_cap": 1283981698922.0,
-      "owner_count": 17307,
-      "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
       "trend7d": 0.37,
@@ -441,6 +431,16 @@
       "market_cap": 23806444672.0,
       "owner_count": 2620,
       "detail_url": "https://allaaktier.se/bolag/international-petroleum"
+    },
+    {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 0.3,
+      "discord_members": 474,
+      "facebook_members": null,
+      "market_cap": 1283981698922.0,
+      "owner_count": 17307,
+      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "INTRUM",
@@ -535,8 +535,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 58,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 49,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
