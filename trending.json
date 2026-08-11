@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:51:26.507133+00:00",
+  "generated_at": "2026-08-11T23:42:24.046817+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -413,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/camurus"
     },
     {
+      "ticker": "DLABORATORY-SWEDEN",
+      "company_name": "Dlaboratory Sweden",
+      "trend7d": 0.41,
+      "discord_members": 140,
+      "facebook_members": null,
+      "market_cap": 49818229.0,
+      "owner_count": 193,
+      "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
+    },
+    {
       "ticker": "HEXATRONIC",
       "company_name": "Hexatronic",
       "trend7d": 0.41,
@@ -501,16 +511,6 @@
       "market_cap": 47221200.0,
       "owner_count": 146,
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
-    },
-    {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.3,
-      "discord_members": 859,
-      "facebook_members": null,
-      "market_cap": 230725631.0,
-      "owner_count": 828,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     }
   ],
   "twitter_mentions": 0,
