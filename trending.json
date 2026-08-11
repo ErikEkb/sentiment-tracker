@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:59:01.431307+00:00",
+  "generated_at": "2026-08-11T18:00:59.528405+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -283,16 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
     },
     {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.63,
-      "discord_members": 801,
-      "facebook_members": 435,
-      "market_cap": 3435800235.0,
-      "owner_count": 1235,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
       "ticker": "JONDETECH-SENSORS",
       "company_name": "JonDeTech Sensors",
       "trend7d": 0.61,
@@ -303,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.59,
+      "discord_members": 800,
+      "facebook_members": 435,
+      "market_cap": 3435800235.0,
+      "owner_count": 1235,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "KLIMATOR",
       "company_name": "Klimator",
       "trend7d": 0.57,
@@ -311,6 +311,16 @@
       "market_cap": 126569668.0,
       "owner_count": 144,
       "detail_url": "https://allaaktier.se/bolag/klimator"
+    },
+    {
+      "ticker": "LUNDIN-MINING",
+      "company_name": "Lundin Mining",
+      "trend7d": 0.54,
+      "discord_members": 1002,
+      "facebook_members": null,
+      "market_cap": 218441678851.0,
+      "owner_count": 8075,
+      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "BIOINVENT-INTERNATIONAL",
@@ -341,16 +351,6 @@
       "market_cap": 5232233149.0,
       "owner_count": 2871,
       "detail_url": "https://allaaktier.se/bolag/zinzino"
-    },
-    {
-      "ticker": "LUNDIN-MINING",
-      "company_name": "Lundin Mining",
-      "trend7d": 0.51,
-      "discord_members": 1001,
-      "facebook_members": null,
-      "market_cap": 218441678851.0,
-      "owner_count": 8075,
-      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "TRIBORON-INTERNATIONAL",
