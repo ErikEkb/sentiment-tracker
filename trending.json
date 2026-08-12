@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:15:01.665574+00:00",
+  "generated_at": "2026-08-12T14:59:31.644724+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 4.74,
-      "discord_members": 598,
+      "trend7d": 4.8,
+      "discord_members": 599,
       "facebook_members": 363,
       "market_cap": 236451954.0,
       "owner_count": 457,
@@ -453,16 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.36,
-      "discord_members": 859,
-      "facebook_members": null,
-      "market_cap": 229003798.0,
-      "owner_count": 830,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
-    },
-    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.35,
@@ -471,6 +461,16 @@
       "market_cap": 4420556650.0,
       "owner_count": 1738,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.32,
+      "discord_members": 858,
+      "facebook_members": null,
+      "market_cap": 229003798.0,
+      "owner_count": 830,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "XVIVO-PERFUSION",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 70,
+    "total_posts_fetched": 59,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
