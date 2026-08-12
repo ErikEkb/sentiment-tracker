@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:49:19.300054+00:00",
+  "generated_at": "2026-08-12T06:16:39.719835+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 4.4,
-      "discord_members": 159,
+      "trend7d": 4.63,
+      "discord_members": 160,
       "facebook_members": null,
       "market_cap": 6565151030.0,
       "owner_count": 2767,
@@ -233,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
+      "ticker": "LUNDIN-MINING",
+      "company_name": "Lundin Mining",
+      "trend7d": 0.56,
+      "discord_members": 1003,
+      "facebook_members": null,
+      "market_cap": 214866249968.0,
+      "owner_count": 8075,
+      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
+    },
+    {
       "ticker": "JONDETECH-SENSORS",
       "company_name": "JonDeTech Sensors",
       "trend7d": 0.54,
@@ -241,16 +251,6 @@
       "market_cap": 54966506.0,
       "owner_count": 714,
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
-    },
-    {
-      "ticker": "LUNDIN-MINING",
-      "company_name": "Lundin Mining",
-      "trend7d": 0.53,
-      "discord_members": 1002,
-      "facebook_members": null,
-      "market_cap": 214866249968.0,
-      "owner_count": 8075,
-      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "BIOINVENT-INTERNATIONAL",
@@ -343,16 +343,6 @@
       "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.39,
-      "discord_members": 1433,
-      "facebook_members": 1546,
-      "market_cap": 8965118235.0,
-      "owner_count": 5684,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
-    },
-    {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
       "company_name": "Trophy Games Development",
       "trend7d": 0.38,
@@ -383,6 +373,16 @@
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.37,
+      "discord_members": 1432,
+      "facebook_members": 1546,
+      "market_cap": 8965118235.0,
+      "owner_count": 5684,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+    },
+    {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
       "trend7d": 0.36,
@@ -391,16 +391,6 @@
       "market_cap": 349239154.0,
       "owner_count": 283,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.34,
-      "discord_members": 799,
-      "facebook_members": 435,
-      "market_cap": 3406350519.0,
-      "owner_count": 1235,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "INVESTOR",
@@ -441,6 +431,16 @@
       "market_cap": 47221200.0,
       "owner_count": 146,
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
+    },
+    {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.3,
+      "discord_members": 798,
+      "facebook_members": 435,
+      "market_cap": 3406350519.0,
+      "owner_count": 1235,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "PHYSITRACK",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
