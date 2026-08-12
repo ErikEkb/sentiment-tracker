@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:59:31.644724+00:00",
+  "generated_at": "2026-08-12T16:05:10.100359+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "CYCLEZYME",
       "company_name": "Cyclezyme",
-      "trend7d": 6.99,
-      "discord_members": 222,
+      "trend7d": 7.15,
+      "discord_members": 223,
       "facebook_members": null,
       "market_cap": 101465856.0,
       "owner_count": 134,
@@ -223,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
     },
     {
+      "ticker": "LUNDIN-MINING",
+      "company_name": "Lundin Mining",
+      "trend7d": 0.67,
+      "discord_members": 1004,
+      "facebook_members": null,
+      "market_cap": 216994481446.0,
+      "owner_count": 8079,
+      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
+    },
+    {
       "ticker": "BONESUPPORT",
       "company_name": "Bonesupport",
       "trend7d": 0.65,
@@ -231,16 +241,6 @@
       "market_cap": 15102095970.0,
       "owner_count": 3519,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
-    },
-    {
-      "ticker": "LUNDIN-MINING",
-      "company_name": "Lundin Mining",
-      "trend7d": 0.63,
-      "discord_members": 1003,
-      "facebook_members": null,
-      "market_cap": 216994481446.0,
-      "owner_count": 8079,
-      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "KLIMATOR",
@@ -343,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
+      "ticker": "ACAST",
+      "company_name": "Acast",
+      "trend7d": 0.44,
+      "discord_members": 57,
+      "facebook_members": null,
+      "market_cap": 6586995886.0,
+      "owner_count": 1338,
+      "detail_url": "https://allaaktier.se/bolag/acast"
+    },
+    {
       "ticker": "USWE-SPORTS",
       "company_name": "USWE Sports",
       "trend7d": 0.43,
@@ -433,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/physitrack"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.39,
+      "discord_members": 935,
+      "facebook_members": 289,
+      "market_cap": 3203761248.0,
+      "owner_count": 2093,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "ADVERTY",
       "company_name": "Adverty",
       "trend7d": 0.39,
@@ -491,26 +511,6 @@
       "market_cap": 327492073.0,
       "owner_count": 655,
       "detail_url": "https://allaaktier.se/bolag/nexam-chemical"
-    },
-    {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 0.32,
-      "discord_members": 92,
-      "facebook_members": null,
-      "market_cap": 353568565.0,
-      "owner_count": 283,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.32,
-      "discord_members": 933,
-      "facebook_members": 289,
-      "market_cap": 3203761248.0,
-      "owner_count": 2093,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 59,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
