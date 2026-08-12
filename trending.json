@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:43:53.986667+00:00",
+  "generated_at": "2026-08-12T23:44:11.484998+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -263,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/zinzino"
     },
     {
+      "ticker": "SERVANA",
+      "company_name": "Servana",
+      "trend7d": 0.56,
+      "discord_members": 188,
+      "facebook_members": null,
+      "market_cap": 66338341.0,
+      "owner_count": 877,
+      "detail_url": "https://allaaktier.se/bolag/servana"
+    },
+    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 0.55,
@@ -331,6 +341,16 @@
       "market_cap": 3662289154.0,
       "owner_count": 623,
       "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
+    },
+    {
+      "ticker": "DUSTIN",
+      "company_name": "Dustin",
+      "trend7d": 0.48,
+      "discord_members": 64,
+      "facebook_members": null,
+      "market_cap": 2434372053.0,
+      "owner_count": 1703,
+      "detail_url": "https://allaaktier.se/bolag/dustin"
     },
     {
       "ticker": "EGETIS-THERAPEUTICS",
@@ -443,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
-      "ticker": "SERVANA",
-      "company_name": "Servana",
-      "trend7d": 0.38,
-      "discord_members": 187,
-      "facebook_members": null,
-      "market_cap": 66338341.0,
-      "owner_count": 877,
-      "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
       "ticker": "ADVERTY",
       "company_name": "Adverty",
       "trend7d": 0.36,
@@ -501,16 +511,6 @@
       "market_cap": 357897976.0,
       "owner_count": 283,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.31,
-      "discord_members": 1432,
-      "facebook_members": 1546,
-      "market_cap": 9183614835.0,
-      "owner_count": 5677,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
     }
   ],
   "twitter_mentions": 0,
