@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:13:28.684328+00:00",
+  "generated_at": "2026-08-12T20:49:48.840613+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -43,24 +43,24 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 4.92,
-      "discord_members": 160,
-      "facebook_members": null,
-      "market_cap": 6558294475.0,
-      "owner_count": 2783,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
-    },
-    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 4.86,
-      "discord_members": 600,
+      "trend7d": 4.92,
+      "discord_members": 601,
       "facebook_members": 363,
       "market_cap": 236451954.0,
       "owner_count": 457,
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 4.69,
+      "discord_members": 159,
+      "facebook_members": null,
+      "market_cap": 6558294475.0,
+      "owner_count": 2783,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "DLABORATORY-SWEDEN",
@@ -195,18 +195,18 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 0.99,
+      "trend7d": 0.96,
       "discord_members": 1309,
       "facebook_members": 195,
       "market_cap": 882588792.0,
-      "owner_count": 1493,
+      "owner_count": 1492,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
-      "trend7d": 0.68,
-      "discord_members": 289,
+      "trend7d": 0.79,
+      "discord_members": 290,
       "facebook_members": 12,
       "market_cap": 999286488.0,
       "owner_count": 1054,
@@ -229,17 +229,17 @@
       "discord_members": 1004,
       "facebook_members": null,
       "market_cap": 216994481446.0,
-      "owner_count": 8079,
+      "owner_count": 8080,
       "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "BONESUPPORT",
       "company_name": "Bonesupport",
-      "trend7d": 0.65,
+      "trend7d": 0.64,
       "discord_members": 460,
       "facebook_members": null,
       "market_cap": 15102095970.0,
-      "owner_count": 3519,
+      "owner_count": 3518,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
@@ -283,16 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
-      "ticker": "BIOINVENT-INTERNATIONAL",
-      "company_name": "BioInvent International",
-      "trend7d": 0.54,
-      "discord_members": 693,
-      "facebook_members": 19,
-      "market_cap": 1510210108.0,
-      "owner_count": 1554,
-      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
-    },
-    {
       "ticker": "CATENA-MEDIA",
       "company_name": "Catena Media",
       "trend7d": 0.54,
@@ -311,6 +301,16 @@
       "market_cap": 10164179688.0,
       "owner_count": 4799,
       "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
+      "ticker": "BIOINVENT-INTERNATIONAL",
+      "company_name": "BioInvent International",
+      "trend7d": 0.52,
+      "discord_members": 693,
+      "facebook_members": 19,
+      "market_cap": 1510210108.0,
+      "owner_count": 1553,
+      "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
       "ticker": "MINESTO",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 58,
+    "total_posts_fetched": 64,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
