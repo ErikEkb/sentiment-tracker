@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T11:48:49.569570+00:00",
+  "generated_at": "2026-08-12T13:15:01.665574+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 4.68,
-      "discord_members": 597,
+      "trend7d": 4.74,
+      "discord_members": 598,
       "facebook_members": 363,
       "market_cap": 236451954.0,
       "owner_count": 457,
@@ -135,12 +135,22 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.84,
-      "discord_members": 1209,
+      "trend7d": 1.81,
+      "discord_members": 1208,
       "facebook_members": 3706,
       "market_cap": 7621684675.0,
       "owner_count": 3716,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 1.62,
+      "discord_members": 111,
+      "facebook_members": null,
+      "market_cap": 666427932.0,
+      "owner_count": 281,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
       "ticker": "KLARNA",
@@ -161,16 +171,6 @@
       "market_cap": 328111560.0,
       "owner_count": 826,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
-    },
-    {
-      "ticker": "FLEXQUBE",
-      "company_name": "FlexQube",
-      "trend7d": 1.32,
-      "discord_members": 110,
-      "facebook_members": null,
-      "market_cap": 666427932.0,
-      "owner_count": 281,
-      "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
       "ticker": "JONDETECH-SENSORS",
@@ -443,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/adverty"
     },
     {
+      "ticker": "SERVANA",
+      "company_name": "Servana",
+      "trend7d": 0.38,
+      "discord_members": 187,
+      "facebook_members": null,
+      "market_cap": 64637358.0,
+      "owner_count": 877,
+      "detail_url": "https://allaaktier.se/bolag/servana"
+    },
+    {
       "ticker": "KLARIA-PHARMA",
       "company_name": "Klaria Pharma",
       "trend7d": 0.36,
@@ -493,24 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
-      "ticker": "HUNTER-CAPITAL",
-      "company_name": "Hunter Capital",
-      "trend7d": 0.3,
-      "discord_members": 90,
-      "facebook_members": null,
-      "market_cap": 47221200.0,
-      "owner_count": 146,
-      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
-    },
-    {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.29,
-      "discord_members": 1431,
-      "facebook_members": 1546,
-      "market_cap": 9154331785.0,
-      "owner_count": 5678,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.32,
+      "discord_members": 933,
+      "facebook_members": 289,
+      "market_cap": 3203761248.0,
+      "owner_count": 2093,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 76,
+    "total_posts_fetched": 70,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
