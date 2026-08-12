@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:49:37.051464+00:00",
+  "generated_at": "2026-08-12T22:43:53.986667+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 4.92,
-      "discord_members": 601,
+      "trend7d": 4.99,
+      "discord_members": 602,
       "facebook_members": 363,
       "market_cap": 234072564.0,
       "owner_count": 457,
@@ -81,6 +81,16 @@
       "market_cap": 234373576.0,
       "owner_count": 403,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 2.4,
+      "discord_members": 88,
+      "facebook_members": null,
+      "market_cap": 642500000.0,
+      "owner_count": 602,
+      "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
       "ticker": "ELICERA-THERAPEUTICS",
@@ -121,16 +131,6 @@
       "market_cap": 15098057599.0,
       "owner_count": 5618,
       "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
-    },
-    {
-      "ticker": "ENVAR",
-      "company_name": "Envar",
-      "trend7d": 2.01,
-      "discord_members": 87,
-      "facebook_members": null,
-      "market_cap": 642500000.0,
-      "owner_count": 602,
-      "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 57,
+    "total_posts_fetched": 59,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
