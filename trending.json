@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T04:52:54.283534+00:00",
+  "generated_at": "2026-08-13T06:18:39.585706+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 12.8,
-      "discord_members": 76,
+      "trend7d": 13.77,
+      "discord_members": 78,
       "facebook_members": null,
       "market_cap": 10038989.0,
       "owner_count": 166,
@@ -403,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
+      "ticker": "SCANDINAVIAN-ASTOR",
+      "company_name": "Scandinavian Astor",
+      "trend7d": 0.32,
+      "discord_members": 1475,
+      "facebook_members": null,
+      "market_cap": 1385325922.0,
+      "owner_count": 5878,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
+    },
+    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 0.32,
@@ -431,16 +441,6 @@
       "market_cap": 1273308407503.0,
       "owner_count": 17383,
       "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
-      "ticker": "SCANDINAVIAN-ASTOR",
-      "company_name": "Scandinavian Astor",
-      "trend7d": 0.3,
-      "discord_members": 1474,
-      "facebook_members": null,
-      "market_cap": 1385325922.0,
-      "owner_count": 5878,
-      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
     },
     {
       "ticker": "IMPLANTICA-SDB",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 59,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
