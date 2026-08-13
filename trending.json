@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:59:49.334503+00:00",
+  "generated_at": "2026-08-13T16:05:11.543275+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -503,40 +503,23 @@
       "detail_url": "https://allaaktier.se/bolag/bioinvent-international"
     },
     {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.31,
-      "discord_members": 857,
+      "ticker": "HUNTER-CAPITAL",
+      "company_name": "Hunter Capital",
+      "trend7d": 0.3,
+      "discord_members": 90,
       "facebook_members": null,
-      "market_cap": 226298060.0,
-      "owner_count": 831,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+      "market_cap": 49037400.0,
+      "owner_count": 146,
+      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "SBB-B-SBB-D",
-      "company_name": "Samhällsbyggnadsbolaget i Norden",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95642958",
-        "https://www.flashback.org/sp95652272"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 73,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 72,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
