@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:55:56.871110+00:00",
+  "generated_at": "2026-08-14T17:54:58.751736+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 1.68,
+      "discord_members": 1216,
+      "facebook_members": 3706,
+      "market_cap": 7844720856.0,
+      "owner_count": 3712,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 1.63,
@@ -151,16 +161,6 @@
       "market_cap": 149915849.0,
       "owner_count": 870,
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.63,
-      "discord_members": 1214,
-      "facebook_members": 3706,
-      "market_cap": 7844720856.0,
-      "owner_count": 3712,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "YUBICO",
@@ -293,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 0.74,
+      "discord_members": 347,
+      "facebook_members": null,
+      "market_cap": 129246507.0,
+      "owner_count": 611,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
       "ticker": "DELLIA",
       "company_name": "Dellia",
       "trend7d": 0.73,
@@ -331,16 +341,6 @@
       "market_cap": 23222437756.0,
       "owner_count": 4296,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 0.64,
-      "discord_members": 346,
-      "facebook_members": null,
-      "market_cap": 129246507.0,
-      "owner_count": 611,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "STORSKOGEN",
@@ -455,8 +455,8 @@
     {
       "ticker": "KEBNI",
       "company_name": "KebNi",
-      "trend7d": 0.44,
-      "discord_members": 882,
+      "trend7d": 0.4,
+      "discord_members": 881,
       "facebook_members": 1046,
       "market_cap": 289104987.0,
       "owner_count": 1552,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 87,
+    "total_posts_fetched": 88,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
