@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T04:49:48.725645+00:00",
+  "generated_at": "2026-08-14T06:15:44.681683+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
+      "ticker": "JONDETECH-SENSORS",
+      "company_name": "JonDeTech Sensors",
+      "trend7d": 1.29,
+      "discord_members": 460,
+      "facebook_members": null,
+      "market_cap": 54568198.0,
+      "owner_count": 726,
+      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 1.29,
@@ -201,16 +211,6 @@
       "market_cap": 897871714.0,
       "owner_count": 1502,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
-      "ticker": "JONDETECH-SENSORS",
-      "company_name": "JonDeTech Sensors",
-      "trend7d": 1.22,
-      "discord_members": 459,
-      "facebook_members": null,
-      "market_cap": 54568198.0,
-      "owner_count": 726,
-      "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
       "ticker": "XVIVO-PERFUSION",
@@ -533,27 +533,11 @@
         "https://www.flashback.org/sp95660247",
         "https://www.flashback.org/sp95660515"
       ]
-    },
-    {
-      "ticker": "LUMI-SDB",
-      "company_name": "Lundin Mining",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.1,
-      "avg_upvote_ratio": 0.5,
-      "label": "neutral",
-      "trending_score": 0.2,
-      "sample_posts": [
-        "https://www.flashback.org/sp95664169",
-        "https://www.flashback.org/sp95664391"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 77,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 82,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
