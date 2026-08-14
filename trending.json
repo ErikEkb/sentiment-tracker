@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:54:30.564494+00:00",
+  "generated_at": "2026-08-14T16:55:56.871110+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.78,
-      "discord_members": 2544,
+      "trend7d": 2.77,
+      "discord_members": 2543,
       "facebook_members": 2874,
       "market_cap": 14700366524.0,
       "owner_count": 5687,
@@ -303,6 +303,16 @@
       "detail_url": "https://allaaktier.se/bolag/dellia"
     },
     {
+      "ticker": "ENORAMA-PHARMA",
+      "company_name": "Enorama Pharma",
+      "trend7d": 0.7,
+      "discord_members": 38,
+      "facebook_members": 707,
+      "market_cap": 127919590.0,
+      "owner_count": 166,
+      "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
+    },
+    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.69,
@@ -463,6 +473,16 @@
       "detail_url": "https://allaaktier.se/bolag/camurus"
     },
     {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 0.37,
+      "discord_members": 158,
+      "facebook_members": null,
+      "market_cap": 11422104.0,
+      "owner_count": 304,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
+    },
+    {
       "ticker": "INVESTOR",
       "company_name": "Investor",
       "trend7d": 0.35,
@@ -491,26 +511,6 @@
       "market_cap": 2445350056.0,
       "owner_count": 1699,
       "detail_url": "https://allaaktier.se/bolag/dustin"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.31,
-      "discord_members": 799,
-      "facebook_members": 435,
-      "market_cap": 3533965956.0,
-      "owner_count": 1232,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
-      "ticker": "HUNTER-CAPITAL",
-      "company_name": "Hunter Capital",
-      "trend7d": 0.3,
-      "discord_members": 90,
-      "facebook_members": null,
-      "market_cap": 49037400.0,
-      "owner_count": 146,
-      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     }
   ],
   "twitter_mentions": 0,
