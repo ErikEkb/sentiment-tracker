@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:45:49.659752+00:00",
+  "generated_at": "2026-08-14T13:12:11.104607+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 6.1,
-      "discord_members": 615,
+      "trend7d": 6.16,
+      "discord_members": 616,
       "facebook_members": 363,
       "market_cap": 242400431.0,
       "owner_count": 463,
@@ -216,7 +216,7 @@
       "ticker": "NANEXA",
       "company_name": "Nanexa",
       "trend7d": 1.3,
-      "discord_members": 1308,
+      "discord_members": 1309,
       "facebook_members": 195,
       "market_cap": 886409522.0,
       "owner_count": 1507,
@@ -293,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/dellia"
     },
     {
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 0.71,
+      "discord_members": 233,
+      "facebook_members": null,
+      "market_cap": 284656987.0,
+      "owner_count": 560,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+    },
+    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.69,
@@ -341,16 +351,6 @@
       "market_cap": 202607636658.0,
       "owner_count": 8121,
       "detail_url": "https://allaaktier.se/bolag/lundin-mining"
-    },
-    {
-      "ticker": "AVTECH-SWEDEN",
-      "company_name": "Avtech Sweden",
-      "trend7d": 0.57,
-      "discord_members": 233,
-      "facebook_members": null,
-      "market_cap": 284656987.0,
-      "owner_count": 560,
-      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
       "ticker": "AFRICA-OIL",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 86,
+    "total_posts_fetched": 87,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
