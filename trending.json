@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:27:24.772403+00:00",
+  "generated_at": "2026-08-14T22:25:57.750412+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -18,7 +18,7 @@
       "trend7d": 12.6,
       "discord_members": 225,
       "facebook_members": null,
-      "market_cap": 106539149.0,
+      "market_cap": 103720653.0,
       "owner_count": 143,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
@@ -118,7 +118,7 @@
       "trend7d": 2.02,
       "discord_members": 88,
       "facebook_members": null,
-      "market_cap": 640000000.0,
+      "market_cap": 632500000.0,
       "owner_count": 602,
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
@@ -128,7 +128,7 @@
       "trend7d": 1.87,
       "discord_members": 139,
       "facebook_members": null,
-      "market_cap": 296223480.0,
+      "market_cap": 293706000.0,
       "owner_count": 845,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
@@ -148,7 +148,7 @@
       "trend7d": 1.63,
       "discord_members": 200,
       "facebook_members": null,
-      "market_cap": 707879322.0,
+      "market_cap": 691288400.0,
       "owner_count": 190,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
@@ -168,7 +168,7 @@
       "trend7d": 1.58,
       "discord_members": 219,
       "facebook_members": null,
-      "market_cap": 8224518461.0,
+      "market_cap": 8472939731.0,
       "owner_count": 2631,
       "detail_url": "https://allaaktier.se/bolag/yubico"
     },
@@ -188,7 +188,7 @@
       "trend7d": 1.47,
       "discord_members": 44,
       "facebook_members": null,
-      "market_cap": 6248830.0,
+      "market_cap": 6983987.0,
       "owner_count": 372,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
@@ -198,7 +198,7 @@
       "trend7d": 1.35,
       "discord_members": 309,
       "facebook_members": null,
-      "market_cap": 207420615.0,
+      "market_cap": 210936218.0,
       "owner_count": 402,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
@@ -268,7 +268,7 @@
       "trend7d": 0.9,
       "discord_members": 92,
       "facebook_members": null,
-      "market_cap": 424282278.0,
+      "market_cap": 431497963.0,
       "owner_count": 283,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 0.84,
+      "discord_members": 348,
+      "facebook_members": null,
+      "market_cap": 129769772.0,
+      "owner_count": 611,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
       "trend7d": 0.76,
@@ -293,22 +303,12 @@
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 0.74,
-      "discord_members": 347,
-      "facebook_members": null,
-      "market_cap": 129246507.0,
-      "owner_count": 611,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
       "ticker": "DELLIA",
       "company_name": "Dellia",
       "trend7d": 0.73,
       "discord_members": 46,
       "facebook_members": null,
-      "market_cap": 872195242.46,
+      "market_cap": 887127084.48,
       "owner_count": 1629,
       "detail_url": "https://allaaktier.se/bolag/dellia"
     },
@@ -328,7 +328,7 @@
       "trend7d": 0.69,
       "discord_members": 206,
       "facebook_members": null,
-      "market_cap": 4627324622.0,
+      "market_cap": 4648714412.0,
       "owner_count": 1757,
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
@@ -338,7 +338,7 @@
       "trend7d": 0.65,
       "discord_members": 437,
       "facebook_members": null,
-      "market_cap": 23222437756.0,
+      "market_cap": 23786369931.0,
       "owner_count": 4296,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -393,16 +393,6 @@
       "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
-      "ticker": "SCANDINAVIAN-ASTOR",
-      "company_name": "Scandinavian Astor",
-      "trend7d": 0.49,
-      "discord_members": 1479,
-      "facebook_members": null,
-      "market_cap": 1359750675.0,
-      "owner_count": 5849,
-      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
-    },
-    {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
       "trend7d": 0.49,
@@ -443,12 +433,22 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
+      "ticker": "SCANDINAVIAN-ASTOR",
+      "company_name": "Scandinavian Astor",
+      "trend7d": 0.46,
+      "discord_members": 1478,
+      "facebook_members": null,
+      "market_cap": 1343410933.0,
+      "owner_count": 5849,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
+    },
+    {
       "ticker": "TOUCHTECH",
       "company_name": "Touchtech",
       "trend7d": 0.45,
       "discord_members": 194,
       "facebook_members": null,
-      "market_cap": 54761540.0,
+      "market_cap": 52322767.0,
       "owner_count": 145,
       "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
@@ -498,7 +498,7 @@
       "trend7d": 0.35,
       "discord_members": 58,
       "facebook_members": null,
-      "market_cap": 43165482.0,
+      "market_cap": 42176015.0,
       "owner_count": 411,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
@@ -518,16 +518,49 @@
   "min_mentions": 2,
   "trending": [
     {
+      "ticker": "EVO",
+      "company_name": "Evolution",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95665538",
+        "https://www.flashback.org/sp95666053"
+      ]
+    },
+    {
+      "ticker": "TRNSF",
+      "company_name": "Transfer Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 7,
+      "velocity_mentions_per_day": 2.33,
+      "avg_sentiment": 0.286,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95656060",
+        "https://www.flashback.org/sp95663909",
+        "https://www.flashback.org/sp95666145"
+      ]
+    },
+    {
       "ticker": "VALUNO",
       "company_name": "Valuno Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.167,
+      "mentions": 6,
+      "velocity_mentions_per_day": 2.0,
+      "avg_sentiment": 0.25,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 0.5,
+      "trending_score": 1.5,
       "sample_posts": [
         "https://www.flashback.org/sp95659968",
         "https://www.flashback.org/sp95660247",
@@ -536,8 +569,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 88,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 90,
+    "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
