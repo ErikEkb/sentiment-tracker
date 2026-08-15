@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:24:37.097442+00:00",
+  "generated_at": "2026-08-15T23:22:37.186848+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 7.15,
-      "discord_members": 45,
+      "trend7d": 7.89,
+      "discord_members": 46,
       "facebook_members": 63,
       "market_cap": 54888967.0,
       "owner_count": 614,
@@ -95,8 +95,8 @@
     {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
-      "trend7d": 2.89,
-      "discord_members": 1036,
+      "trend7d": 2.85,
+      "discord_members": 1035,
       "facebook_members": 129,
       "market_cap": 191533402.0,
       "owner_count": 1191,
@@ -393,16 +393,6 @@
       "detail_url": "https://allaaktier.se/bolag/catena-media"
     },
     {
-      "ticker": "SCANDINAVIAN-ASTOR",
-      "company_name": "Scandinavian Astor",
-      "trend7d": 0.47,
-      "discord_members": 1479,
-      "facebook_members": null,
-      "market_cap": 1343410933.0,
-      "owner_count": 5849,
-      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
-    },
-    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 0.47,
@@ -411,6 +401,16 @@
       "market_cap": 10175510992.0,
       "owner_count": 4817,
       "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
+      "ticker": "SCANDINAVIAN-ASTOR",
+      "company_name": "Scandinavian Astor",
+      "trend7d": 0.45,
+      "discord_members": 1478,
+      "facebook_members": null,
+      "market_cap": 1343410933.0,
+      "owner_count": 5849,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
     },
     {
       "ticker": "2020-BULKERS",
@@ -535,6 +535,23 @@
       ]
     },
     {
+      "ticker": "TRNSF",
+      "company_name": "Transfer Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.4,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95666145",
+        "https://www.flashback.org/sp95666336",
+        "https://www.flashback.org/sp95666611"
+      ]
+    },
+    {
       "ticker": "VALUNO",
       "company_name": "Valuno Group",
       "sector": "Discovered",
@@ -549,23 +566,6 @@
         "https://www.flashback.org/sp95666380",
         "https://www.flashback.org/sp95666494",
         "https://www.flashback.org/sp95670838"
-      ]
-    },
-    {
-      "ticker": "TRNSF",
-      "company_name": "Transfer Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 6,
-      "velocity_mentions_per_day": 2.0,
-      "avg_sentiment": 0.167,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95663909",
-        "https://www.flashback.org/sp95666145",
-        "https://www.flashback.org/sp95666336"
       ]
     }
   ],
