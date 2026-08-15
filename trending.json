@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:24:03.633416+00:00",
+  "generated_at": "2026-08-15T01:22:06.376453+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,7 +15,7 @@
     {
       "ticker": "CYCLEZYME",
       "company_name": "Cyclezyme",
-      "trend7d": 12.6,
+      "trend7d": 12.44,
       "discord_members": 225,
       "facebook_members": null,
       "market_cap": 103720653.0,
@@ -25,7 +25,7 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 12.07,
+      "trend7d": 11.54,
       "discord_members": 76,
       "facebook_members": null,
       "market_cap": 8313538.0,
@@ -63,16 +63,6 @@
       "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 3.82,
-      "discord_members": 162,
-      "facebook_members": null,
-      "market_cap": 6657714517.0,
-      "owner_count": 2787,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
-    },
-    {
       "ticker": "DLABORATORY-SWEDEN",
       "company_name": "Dlaboratory Sweden",
       "trend7d": 3.78,
@@ -81,6 +71,16 @@
       "market_cap": 49140430.0,
       "owner_count": 201,
       "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 3.58,
+      "discord_members": 162,
+      "facebook_members": null,
+      "market_cap": 6657714517.0,
+      "owner_count": 2787,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "TRANSFER-GROUP",
@@ -95,8 +95,8 @@
     {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
-      "trend7d": 2.89,
-      "discord_members": 1036,
+      "trend7d": 2.93,
+      "discord_members": 1037,
       "facebook_members": 129,
       "market_cap": 191533402.0,
       "owner_count": 1191,
@@ -131,16 +131,6 @@
       "market_cap": 293706000.0,
       "owner_count": 845,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.68,
-      "discord_members": 1216,
-      "facebook_members": 3706,
-      "market_cap": 8229265996.0,
-      "owner_count": 3712,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "APR-TECHNOLOGIES",
@@ -231,6 +221,16 @@
       "market_cap": 54767352.0,
       "owner_count": 725,
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 1.33,
+      "discord_members": 1217,
+      "facebook_members": 3706,
+      "market_cap": 8229265996.0,
+      "owner_count": 3712,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "BONESUPPORT",
@@ -333,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.65,
-      "discord_members": 437,
-      "facebook_members": null,
-      "market_cap": 23786369931.0,
-      "owner_count": 4296,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
       "ticker": "STORSKOGEN",
       "company_name": "Storskogen",
       "trend7d": 0.63,
@@ -356,16 +346,26 @@
       "ticker": "CATENA-MEDIA",
       "company_name": "Catena Media",
       "trend7d": 0.63,
-      "discord_members": 702,
+      "discord_members": 701,
       "facebook_members": 996,
       "market_cap": 214263708.0,
       "owner_count": 916,
       "detail_url": "https://allaaktier.se/bolag/catena-media"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.57,
+      "discord_members": 437,
+      "facebook_members": null,
+      "market_cap": 23786369931.0,
+      "owner_count": 4296,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "LUNDIN-MINING",
       "company_name": "Lundin Mining",
-      "trend7d": 0.62,
+      "trend7d": 0.56,
       "discord_members": 1003,
       "facebook_members": null,
       "market_cap": 205331772949.0,
@@ -391,16 +391,6 @@
       "market_cap": 474443580.0,
       "owner_count": 2992,
       "detail_url": "https://allaaktier.se/bolag/minesto"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.49,
-      "discord_members": 938,
-      "facebook_members": 289,
-      "market_cap": 3153086642.0,
-      "owner_count": 2094,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "ADVERTY",
@@ -433,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "SCANDINAVIAN-ASTOR",
-      "company_name": "Scandinavian Astor",
-      "trend7d": 0.46,
-      "discord_members": 1478,
-      "facebook_members": null,
-      "market_cap": 1343410933.0,
-      "owner_count": 5849,
-      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
-    },
-    {
       "ticker": "TOUCHTECH",
       "company_name": "Touchtech",
       "trend7d": 0.45,
@@ -453,14 +433,14 @@
       "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
     {
-      "ticker": "KEBNI",
-      "company_name": "KebNi",
-      "trend7d": 0.4,
-      "discord_members": 881,
-      "facebook_members": 1046,
-      "market_cap": 291023219.0,
-      "owner_count": 1552,
-      "detail_url": "https://allaaktier.se/bolag/kebni"
+      "ticker": "SCANDINAVIAN-ASTOR",
+      "company_name": "Scandinavian Astor",
+      "trend7d": 0.44,
+      "discord_members": 1478,
+      "facebook_members": null,
+      "market_cap": 1343410933.0,
+      "owner_count": 5849,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
     },
     {
       "ticker": "CAMURUS",
@@ -473,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/camurus"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.38,
+      "discord_members": 938,
+      "facebook_members": 289,
+      "market_cap": 3153086642.0,
+      "owner_count": 2094,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 0.37,
@@ -483,14 +473,14 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 0.35,
-      "discord_members": 472,
-      "facebook_members": null,
-      "market_cap": 1258880862431.0,
-      "owner_count": 17457,
-      "detail_url": "https://allaaktier.se/bolag/investor"
+      "ticker": "KEBNI",
+      "company_name": "KebNi",
+      "trend7d": 0.36,
+      "discord_members": 880,
+      "facebook_members": 1046,
+      "market_cap": 291023219.0,
+      "owner_count": 1552,
+      "detail_url": "https://allaaktier.se/bolag/kebni"
     },
     {
       "ticker": "ZENERGY",
@@ -511,6 +501,16 @@
       "market_cap": 2442605555.0,
       "owner_count": 1699,
       "detail_url": "https://allaaktier.se/bolag/dustin"
+    },
+    {
+      "ticker": "HUNTER-CAPITAL",
+      "company_name": "Hunter Capital",
+      "trend7d": 0.3,
+      "discord_members": 90,
+      "facebook_members": null,
+      "market_cap": 46767150.0,
+      "owner_count": 146,
+      "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     }
   ],
   "twitter_mentions": 0,
@@ -534,23 +534,6 @@
       ]
     },
     {
-      "ticker": "TRNSF",
-      "company_name": "Transfer Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 7,
-      "velocity_mentions_per_day": 2.33,
-      "avg_sentiment": 0.286,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95656060",
-        "https://www.flashback.org/sp95663909",
-        "https://www.flashback.org/sp95666145"
-      ]
-    },
-    {
       "ticker": "VALUNO",
       "company_name": "Valuno Group",
       "sector": "Discovered",
@@ -565,6 +548,23 @@
         "https://www.flashback.org/sp95659968",
         "https://www.flashback.org/sp95660247",
         "https://www.flashback.org/sp95660515"
+      ]
+    },
+    {
+      "ticker": "TRNSF",
+      "company_name": "Transfer Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 6,
+      "velocity_mentions_per_day": 2.0,
+      "avg_sentiment": 0.167,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95663909",
+        "https://www.flashback.org/sp95666145",
+        "https://www.flashback.org/sp95666336"
       ]
     }
   ],
