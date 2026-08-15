@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:23:47.861803+00:00",
+  "generated_at": "2026-08-15T22:24:37.097442+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -233,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 1.21,
+      "discord_members": 350,
+      "facebook_members": null,
+      "market_cap": 129769772.0,
+      "owner_count": 611,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
       "ticker": "KILIARO",
       "company_name": "Kiliaro",
       "trend7d": 1.18,
@@ -261,16 +271,6 @@
       "market_cap": 210936218.0,
       "owner_count": 402,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
-    },
-    {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.11,
-      "discord_members": 349,
-      "facebook_members": null,
-      "market_cap": 129769772.0,
-      "owner_count": 611,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "AVTECH-SWEDEN",
@@ -522,15 +522,16 @@
       "company_name": "Evolution",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.833,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 2.5,
       "sample_posts": [
         "https://www.flashback.org/sp95665538",
-        "https://www.flashback.org/sp95666053"
+        "https://www.flashback.org/sp95666053",
+        "https://www.flashback.org/sp95679232"
       ]
     },
     {
@@ -570,7 +571,7 @@
   ],
   "stats": {
     "total_posts_fetched": 80,
-    "tickers_with_any_mentions": 5,
+    "tickers_with_any_mentions": 6,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
