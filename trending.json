@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:22:17.058218+00:00",
+  "generated_at": "2026-08-15T12:41:39.989918+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -313,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.76,
+      "discord_members": 438,
+      "facebook_members": null,
+      "market_cap": 23786369931.0,
+      "owner_count": 4296,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
       "trend7d": 0.76,
@@ -321,16 +331,6 @@
       "market_cap": 996330019.0,
       "owner_count": 1060,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.68,
-      "discord_members": 437,
-      "facebook_members": null,
-      "market_cap": 23786369931.0,
-      "owner_count": 4296,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "STORSKOGEN",
@@ -371,6 +371,16 @@
       "market_cap": 205331772949.0,
       "owner_count": 8121,
       "detail_url": "https://allaaktier.se/bolag/lundin-mining"
+    },
+    {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 0.52,
+      "discord_members": 159,
+      "facebook_members": null,
+      "market_cap": 11422104.0,
+      "owner_count": 304,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
       "ticker": "CATENA-MEDIA",
@@ -423,6 +433,16 @@
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.42,
+      "discord_members": 939,
+      "facebook_members": 289,
+      "market_cap": 3153086642.0,
+      "owner_count": 2094,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "TOUCHTECH",
       "company_name": "Touchtech",
       "trend7d": 0.4,
@@ -453,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/camurus"
     },
     {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.39,
-      "discord_members": 938,
-      "facebook_members": 289,
-      "market_cap": 3153086642.0,
-      "owner_count": 2094,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
-    },
-    {
       "ticker": "INVESTOR",
       "company_name": "Investor",
       "trend7d": 0.33,
@@ -481,16 +491,6 @@
       "market_cap": 42176015.0,
       "owner_count": 411,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
-    },
-    {
-      "ticker": "ECOMB",
-      "company_name": "ECOMB",
-      "trend7d": 0.31,
-      "discord_members": 158,
-      "facebook_members": null,
-      "market_cap": 11422104.0,
-      "owner_count": 304,
-      "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -569,7 +569,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 87,
+    "total_posts_fetched": 88,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
