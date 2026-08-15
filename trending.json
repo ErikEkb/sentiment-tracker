@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:22:30.069318+00:00",
+  "generated_at": "2026-08-15T20:24:55.140784+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 6.37,
-      "discord_members": 616,
+      "trend7d": 6.3,
+      "discord_members": 615,
       "facebook_members": 363,
       "market_cap": 245077246.0,
       "owner_count": 463,
@@ -345,8 +345,8 @@
     {
       "ticker": "AFRICA-OIL",
       "company_name": "Africa Oil",
-      "trend7d": 0.57,
-      "discord_members": 1266,
+      "trend7d": 0.55,
+      "discord_members": 1265,
       "facebook_members": 1945,
       "market_cap": 10329264197.0,
       "owner_count": 3738,
@@ -413,16 +413,6 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "ADVERTY",
-      "company_name": "Adverty",
-      "trend7d": 0.43,
-      "discord_members": 1199,
-      "facebook_members": 367,
-      "market_cap": 104519540.0,
-      "owner_count": 485,
-      "detail_url": "https://allaaktier.se/bolag/adverty"
-    },
-    {
       "ticker": "2020-BULKERS",
       "company_name": "2020 Bulkers",
       "trend7d": 0.43,
@@ -451,6 +441,16 @@
       "market_cap": 52322767.0,
       "owner_count": 145,
       "detail_url": "https://allaaktier.se/bolag/touchtech"
+    },
+    {
+      "ticker": "ADVERTY",
+      "company_name": "Adverty",
+      "trend7d": 0.4,
+      "discord_members": 1198,
+      "facebook_members": 367,
+      "market_cap": 104519540.0,
+      "owner_count": 485,
+      "detail_url": "https://allaaktier.se/bolag/adverty"
     },
     {
       "ticker": "EGETIS-THERAPEUTICS",
