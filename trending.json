@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:23:25.873237+00:00",
+  "generated_at": "2026-08-15T16:27:47.273600+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -123,16 +123,6 @@
       "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
     },
     {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 1.96,
-      "discord_members": 92,
-      "facebook_members": null,
-      "market_cap": 431497963.0,
-      "owner_count": 283,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 1.89,
@@ -161,6 +151,16 @@
       "market_cap": 632500000.0,
       "owner_count": 602,
       "detail_url": "https://allaaktier.se/bolag/envar"
+    },
+    {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 1.6,
+      "discord_members": 91,
+      "facebook_members": null,
+      "market_cap": 431497963.0,
+      "owner_count": 283,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "KLARNA",
@@ -538,16 +538,16 @@
       "company_name": "Valuno Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.3,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 1.5,
+      "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95660247",
-        "https://www.flashback.org/sp95660515",
-        "https://www.flashback.org/sp95666380"
+        "https://www.flashback.org/sp95666380",
+        "https://www.flashback.org/sp95666494",
+        "https://www.flashback.org/sp95670838"
       ]
     },
     {
