@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:22:43.162769+00:00",
+  "generated_at": "2026-08-16T22:23:28.441543+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -383,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
+      "ticker": "AFRICA-OIL",
+      "company_name": "Africa Oil",
+      "trend7d": 0.48,
+      "discord_members": 1264,
+      "facebook_members": 1945,
+      "market_cap": 10329264197.0,
+      "owner_count": 3738,
+      "detail_url": "https://allaaktier.se/bolag/africa-oil"
+    },
+    {
       "ticker": "CORLINE-BIOMEDICAL",
       "company_name": "Corline Biomedical",
       "trend7d": 0.45,
@@ -391,16 +401,6 @@
       "market_cap": 473009418.0,
       "owner_count": 196,
       "detail_url": "https://allaaktier.se/bolag/corline-biomedical"
-    },
-    {
-      "ticker": "AFRICA-OIL",
-      "company_name": "Africa Oil",
-      "trend7d": 0.45,
-      "discord_members": 1263,
-      "facebook_members": 1945,
-      "market_cap": 10329264197.0,
-      "owner_count": 3738,
-      "detail_url": "https://allaaktier.se/bolag/africa-oil"
     },
     {
       "ticker": "GAPWAVES",
@@ -516,10 +516,27 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "INDU-A",
+      "company_name": "Industrivärden A",
+      "sector": "Financials",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.417,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 0.833,
+      "sample_posts": [
+        "https://www.flashback.org/sp95684292",
+        "https://www.flashback.org/sp95684343"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 68,
-    "tickers_with_any_mentions": 2,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
