@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:25:39.897148+00:00",
+  "generated_at": "2026-08-16T15:24:05.778696+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -263,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/uswe-sports"
     },
     {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 0.95,
+      "discord_members": 161,
+      "facebook_members": null,
+      "market_cap": 11422104.0,
+      "owner_count": 304,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
+    },
+    {
       "ticker": "AVTECH-SWEDEN",
       "company_name": "Avtech Sweden",
       "trend7d": 0.91,
@@ -311,16 +321,6 @@
       "market_cap": 4648714412.0,
       "owner_count": 1757,
       "detail_url": "https://allaaktier.se/bolag/nyab"
-    },
-    {
-      "ticker": "ECOMB",
-      "company_name": "ECOMB",
-      "trend7d": 0.74,
-      "discord_members": 160,
-      "facebook_members": null,
-      "market_cap": 11422104.0,
-      "owner_count": 304,
-      "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
       "ticker": "HACKSAW",
