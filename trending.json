@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:29:48.885372+00:00",
+  "generated_at": "2026-08-16T10:25:12.426016+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -522,32 +522,16 @@
       "company_name": "Transfer Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.4,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 2.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95666145",
         "https://www.flashback.org/sp95666336",
-        "https://www.flashback.org/sp95666611"
-      ]
-    },
-    {
-      "ticker": "EVO",
-      "company_name": "Evolution",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.75,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.5,
-      "sample_posts": [
-        "https://www.flashback.org/sp95666053",
-        "https://www.flashback.org/sp95679232"
+        "https://www.flashback.org/sp95666611",
+        "https://www.flashback.org/sp95666875"
       ]
     },
     {
@@ -570,7 +554,7 @@
   ],
   "stats": {
     "total_posts_fetched": 80,
-    "tickers_with_any_mentions": 6,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
