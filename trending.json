@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:32:41.084313+00:00",
+  "generated_at": "2026-08-16T19:22:17.922984+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -95,8 +95,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 2.32,
-      "discord_members": 2541,
+      "trend7d": 2.3,
+      "discord_members": 2540,
       "facebook_members": 2874,
       "market_cap": 14664858392.0,
       "owner_count": 5687,
@@ -203,14 +203,14 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 1.24,
-      "discord_members": 91,
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 1.26,
+      "discord_members": 351,
       "facebook_members": null,
-      "market_cap": 431497963.0,
-      "owner_count": 283,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+      "market_cap": 129769772.0,
+      "owner_count": 611,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "KILIARO",
@@ -231,16 +231,6 @@
       "market_cap": 54767352.0,
       "owner_count": 725,
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
-    },
-    {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.16,
-      "discord_members": 350,
-      "facebook_members": null,
-      "market_cap": 129769772.0,
-      "owner_count": 611,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "BONESUPPORT",
@@ -291,6 +281,16 @@
       "market_cap": 210936218.0,
       "owner_count": 402,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 0.88,
+      "discord_members": 90,
+      "facebook_members": null,
+      "market_cap": 431497963.0,
+      "owner_count": 283,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "ACAST",
@@ -443,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "SCANDINAVIAN-ASTOR",
-      "company_name": "Scandinavian Astor",
-      "trend7d": 0.37,
-      "discord_members": 1477,
-      "facebook_members": null,
-      "market_cap": 1343410933.0,
-      "owner_count": 5849,
-      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
-    },
-    {
       "ticker": "CATENA-MEDIA",
       "company_name": "Catena Media",
       "trend7d": 0.37,
@@ -473,14 +463,14 @@
       "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.33,
-      "discord_members": 797,
-      "facebook_members": 435,
-      "market_cap": 3514332812.0,
-      "owner_count": 1232,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+      "ticker": "SCANDINAVIAN-ASTOR",
+      "company_name": "Scandinavian Astor",
+      "trend7d": 0.35,
+      "discord_members": 1476,
+      "facebook_members": null,
+      "market_cap": 1343410933.0,
+      "owner_count": 5849,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -491,6 +481,16 @@
       "market_cap": 99809552.0,
       "owner_count": 264,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.29,
+      "discord_members": 796,
+      "facebook_members": 435,
+      "market_cap": 3514332812.0,
+      "owner_count": 1232,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "VICORE-PHARMA",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 68,
+    "total_posts_fetched": 65,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
