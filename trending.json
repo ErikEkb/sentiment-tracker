@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T08:32:15.953386+00:00",
+  "generated_at": "2026-08-16T09:29:48.885372+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -313,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 0.74,
+      "discord_members": 160,
+      "facebook_members": null,
+      "market_cap": 11422104.0,
+      "owner_count": 304,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
+    },
+    {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
       "trend7d": 0.74,
@@ -343,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/storskogen"
     },
     {
-      "ticker": "ECOMB",
-      "company_name": "ECOMB",
-      "trend7d": 0.52,
-      "discord_members": 159,
-      "facebook_members": null,
-      "market_cap": 11422104.0,
-      "owner_count": 304,
-      "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
       "ticker": "MINESTO",
       "company_name": "Minesto",
       "trend7d": 0.52,
@@ -368,9 +368,19 @@
       "trend7d": 0.51,
       "discord_members": 37,
       "facebook_members": 722,
-      "market_cap": 96789466.22,
+      "market_cap": 96779862.76,
       "owner_count": 5426,
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
+    },
+    {
+      "ticker": "LUNDIN-MINING",
+      "company_name": "Lundin Mining",
+      "trend7d": 0.5,
+      "discord_members": 1004,
+      "facebook_members": null,
+      "market_cap": 205331772949.0,
+      "owner_count": 8121,
+      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "AFRICA-OIL",
@@ -383,16 +393,6 @@
       "detail_url": "https://allaaktier.se/bolag/africa-oil"
     },
     {
-      "ticker": "LUNDIN-MINING",
-      "company_name": "Lundin Mining",
-      "trend7d": 0.46,
-      "discord_members": 1003,
-      "facebook_members": null,
-      "market_cap": 205331772949.0,
-      "owner_count": 8121,
-      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
-    },
-    {
       "ticker": "CORLINE-BIOMEDICAL",
       "company_name": "Corline Biomedical",
       "trend7d": 0.45,
@@ -401,16 +401,6 @@
       "market_cap": 473009418.0,
       "owner_count": 196,
       "detail_url": "https://allaaktier.se/bolag/corline-biomedical"
-    },
-    {
-      "ticker": "SCANDINAVIAN-ASTOR",
-      "company_name": "Scandinavian Astor",
-      "trend7d": 0.4,
-      "discord_members": 1478,
-      "facebook_members": null,
-      "market_cap": 1343410933.0,
-      "owner_count": 5849,
-      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
     },
     {
       "ticker": "TOUCHTECH",
@@ -441,6 +431,16 @@
       "market_cap": 10175510992.0,
       "owner_count": 4817,
       "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
+      "ticker": "SCANDINAVIAN-ASTOR",
+      "company_name": "Scandinavian Astor",
+      "trend7d": 0.37,
+      "discord_members": 1477,
+      "facebook_members": null,
+      "market_cap": 1343410933.0,
+      "owner_count": 5849,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
     },
     {
       "ticker": "CATENA-MEDIA",
@@ -518,23 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "EVO",
-      "company_name": "Evolution",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.833,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.5,
-      "sample_posts": [
-        "https://www.flashback.org/sp95665538",
-        "https://www.flashback.org/sp95666053",
-        "https://www.flashback.org/sp95679232"
-      ]
-    },
-    {
       "ticker": "TRNSF",
       "company_name": "Transfer Group",
       "sector": "Discovered",
@@ -549,6 +532,22 @@
         "https://www.flashback.org/sp95666145",
         "https://www.flashback.org/sp95666336",
         "https://www.flashback.org/sp95666611"
+      ]
+    },
+    {
+      "ticker": "EVO",
+      "company_name": "Evolution",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.75,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.5,
+      "sample_posts": [
+        "https://www.flashback.org/sp95666053",
+        "https://www.flashback.org/sp95679232"
       ]
     },
     {
