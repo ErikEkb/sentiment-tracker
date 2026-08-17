@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:28:10.599541+00:00",
+  "generated_at": "2026-08-17T22:27:25.576129+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -18,7 +18,7 @@
       "trend7d": 7.83,
       "discord_members": 224,
       "facebook_members": null,
-      "market_cap": 101747706.0,
+      "market_cap": 110766893.0,
       "owner_count": 145,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
@@ -108,7 +108,7 @@
       "trend7d": 2.07,
       "discord_members": 142,
       "facebook_members": null,
-      "market_cap": 289090620.0,
+      "market_cap": 288671040.0,
       "owner_count": 848,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
@@ -128,7 +128,7 @@
       "trend7d": 1.55,
       "discord_members": 90,
       "facebook_members": null,
-      "market_cap": 435827374.0,
+      "market_cap": 431497963.0,
       "owner_count": 289,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
@@ -141,6 +141,16 @@
       "market_cap": 8882850540.0,
       "owner_count": 2032,
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
+    },
+    {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 1.28,
+      "discord_members": 162,
+      "facebook_members": null,
+      "market_cap": 11715731.0,
+      "owner_count": 305,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
@@ -178,7 +188,7 @@
       "trend7d": 1.11,
       "discord_members": 351,
       "facebook_members": null,
-      "market_cap": 127153446.0,
+      "market_cap": 129246507.0,
       "owner_count": 609,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
@@ -188,7 +198,7 @@
       "trend7d": 1.11,
       "discord_members": 200,
       "facebook_members": null,
-      "market_cap": 716174782.0,
+      "market_cap": 705114168.0,
       "owner_count": 191,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
@@ -211,16 +221,6 @@
       "market_cap": 52775812.0,
       "owner_count": 724,
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
-    },
-    {
-      "ticker": "ECOMB",
-      "company_name": "ECOMB",
-      "trend7d": 1.06,
-      "discord_members": 161,
-      "facebook_members": null,
-      "market_cap": 11715731.0,
-      "owner_count": 305,
-      "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
       "ticker": "ACAST",
@@ -288,7 +288,7 @@
       "trend7d": 0.83,
       "discord_members": 439,
       "facebook_members": null,
-      "market_cap": 24523819698.0,
+      "market_cap": 24625038293.0,
       "owner_count": 4300,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -298,7 +298,7 @@
       "trend7d": 0.79,
       "discord_members": 88,
       "facebook_members": null,
-      "market_cap": 613750000.0,
+      "market_cap": 607500000.0,
       "owner_count": 602,
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
@@ -338,7 +338,7 @@
       "trend7d": 0.54,
       "discord_members": 219,
       "facebook_members": null,
-      "market_cap": 8597150366.0,
+      "market_cap": 8535045048.0,
       "owner_count": 2648,
       "detail_url": "https://allaaktier.se/bolag/yubico"
     },
@@ -348,7 +348,7 @@
       "trend7d": 0.53,
       "discord_members": 58,
       "facebook_members": null,
-      "market_cap": 41557599.0,
+      "market_cap": 42052332.0,
       "owner_count": 411,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
@@ -378,7 +378,7 @@
       "trend7d": 0.46,
       "discord_members": 1483,
       "facebook_members": null,
-      "market_cap": 1399534394.0,
+      "market_cap": 1409480323.0,
       "owner_count": 5835,
       "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
     },
@@ -388,7 +388,7 @@
       "trend7d": 0.44,
       "discord_members": 146,
       "facebook_members": null,
-      "market_cap": 104317081.0,
+      "market_cap": 100453485.0,
       "owner_count": 265,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
@@ -458,7 +458,7 @@
       "trend7d": 0.28,
       "discord_members": 465,
       "facebook_members": null,
-      "market_cap": 10483064138.0,
+      "market_cap": 10426526264.0,
       "owner_count": 7339,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
@@ -536,7 +536,7 @@
   ],
   "stats": {
     "total_posts_fetched": 54,
-    "tickers_with_any_mentions": 1,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
