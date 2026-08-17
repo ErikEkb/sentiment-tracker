@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:44:26.345751+00:00",
+  "generated_at": "2026-08-17T10:34:47.506327+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -75,8 +75,8 @@
     {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
-      "trend7d": 2.33,
-      "discord_members": 259,
+      "trend7d": 2.2,
+      "discord_members": 258,
       "facebook_members": 223,
       "market_cap": 143011830.0,
       "owner_count": 878,
@@ -103,6 +103,16 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 1.59,
+      "discord_members": 140,
+      "facebook_members": null,
+      "market_cap": 289090620.0,
+      "owner_count": 848,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
+    },
+    {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
       "trend7d": 1.55,
@@ -121,16 +131,6 @@
       "market_cap": 8882850540.0,
       "owner_count": 2032,
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
-    },
-    {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
-      "trend7d": 1.35,
-      "discord_members": 139,
-      "facebook_members": null,
-      "market_cap": 293706000.0,
-      "owner_count": 848,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
@@ -178,7 +178,7 @@
       "trend7d": 1.11,
       "discord_members": 200,
       "facebook_members": null,
-      "market_cap": 691288400.0,
+      "market_cap": 716174782.0,
       "owner_count": 191,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
@@ -278,7 +278,7 @@
       "trend7d": 0.75,
       "discord_members": 438,
       "facebook_members": null,
-      "market_cap": 23786369931.0,
+      "market_cap": 24523819698.0,
       "owner_count": 4300,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -288,7 +288,7 @@
       "trend7d": 0.69,
       "discord_members": 69,
       "facebook_members": null,
-      "market_cap": 74351085422.32,
+      "market_cap": 74675463509.87,
       "owner_count": 5929,
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
@@ -423,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "XER-TECH",
-      "company_name": "Xer Tech",
-      "trend7d": 0.34,
-      "discord_members": 310,
-      "facebook_members": null,
-      "market_cap": 202733143.0,
-      "owner_count": 401,
-      "detail_url": "https://allaaktier.se/bolag/xer-tech"
-    },
-    {
       "ticker": "KEBNI",
       "company_name": "KebNi",
       "trend7d": 0.33,
@@ -503,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
+      "ticker": "XER-TECH",
+      "company_name": "Xer Tech",
+      "trend7d": 0.23,
+      "discord_members": 309,
+      "facebook_members": null,
+      "market_cap": 202733143.0,
+      "owner_count": 401,
+      "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
       "ticker": "RANLOS",
       "company_name": "RanLOS",
       "trend7d": 0.23,
@@ -535,8 +535,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 66,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 56,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
