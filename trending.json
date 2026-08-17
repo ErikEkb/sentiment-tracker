@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:42:31.112366+00:00",
+  "generated_at": "2026-08-17T19:30:03.492151+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
     },
     {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 2.71,
+      "discord_members": 48,
+      "facebook_members": 63,
+      "market_cap": 56009150.0,
+      "owner_count": 615,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
       "ticker": "TRANSFER-GROUP",
       "company_name": "Transfer Group",
       "trend7d": 2.46,
@@ -93,14 +103,14 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 1.97,
-      "discord_members": 47,
-      "facebook_members": 63,
-      "market_cap": 56009150.0,
-      "owner_count": 615,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 2.07,
+      "discord_members": 142,
+      "facebook_members": null,
+      "market_cap": 289090620.0,
+      "owner_count": 848,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "KILIARO",
@@ -111,16 +121,6 @@
       "market_cap": 6248830.0,
       "owner_count": 372,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
-    },
-    {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
-      "trend7d": 1.83,
-      "discord_members": 142,
-      "facebook_members": null,
-      "market_cap": 289090620.0,
-      "owner_count": 848,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "ONLINE-BRANDS-NORDIC",
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 59,
+    "total_posts_fetched": 52,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
