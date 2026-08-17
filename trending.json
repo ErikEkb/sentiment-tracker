@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:28:42.018701+00:00",
+  "generated_at": "2026-08-17T18:42:31.112366+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 3.34,
-      "discord_members": 619,
+      "trend7d": 3.45,
+      "discord_members": 621,
       "facebook_members": 363,
       "market_cap": 244482398.0,
       "owner_count": 467,
@@ -116,7 +116,7 @@
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 1.83,
-      "discord_members": 141,
+      "discord_members": 142,
       "facebook_members": null,
       "market_cap": 289090620.0,
       "owner_count": 848,
@@ -191,6 +191,16 @@
       "market_cap": 716174782.0,
       "owner_count": 191,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
+      "ticker": "HEMPLY-BALANCE",
+      "company_name": "Hemply Balance",
+      "trend7d": 1.1,
+      "discord_members": 78,
+      "facebook_members": null,
+      "market_cap": 9411552.0,
+      "owner_count": 165,
+      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
       "ticker": "JONDETECH-SENSORS",
@@ -273,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.83,
+      "discord_members": 439,
+      "facebook_members": null,
+      "market_cap": 24523819698.0,
+      "owner_count": 4300,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "ENVAR",
       "company_name": "Envar",
       "trend7d": 0.79,
@@ -281,26 +301,6 @@
       "market_cap": 613750000.0,
       "owner_count": 602,
       "detail_url": "https://allaaktier.se/bolag/envar"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.75,
-      "discord_members": 439,
-      "facebook_members": null,
-      "market_cap": 24523819698.0,
-      "owner_count": 4300,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
-      "ticker": "HEMPLY-BALANCE",
-      "company_name": "Hemply Balance",
-      "trend7d": 0.66,
-      "discord_members": 77,
-      "facebook_members": null,
-      "market_cap": 9411552.0,
-      "owner_count": 165,
-      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
       "ticker": "NYAB",
@@ -323,16 +323,6 @@
       "detail_url": "https://allaaktier.se/bolag/africa-oil"
     },
     {
-      "ticker": "GAPWAVES",
-      "company_name": "Gapwaves",
-      "trend7d": 0.55,
-      "discord_members": 908,
-      "facebook_members": 1447,
-      "market_cap": 453490103.0,
-      "owner_count": 1044,
-      "detail_url": "https://allaaktier.se/bolag/gapwaves"
-    },
-    {
       "ticker": "YUBICO",
       "company_name": "Yubico",
       "trend7d": 0.54,
@@ -351,6 +341,16 @@
       "market_cap": 41557599.0,
       "owner_count": 411,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
+    },
+    {
+      "ticker": "GAPWAVES",
+      "company_name": "Gapwaves",
+      "trend7d": 0.51,
+      "discord_members": 907,
+      "facebook_members": 1447,
+      "market_cap": 453490103.0,
+      "owner_count": 1044,
+      "detail_url": "https://allaaktier.se/bolag/gapwaves"
     },
     {
       "ticker": "ALZECURE-PHARMA",
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 59,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
