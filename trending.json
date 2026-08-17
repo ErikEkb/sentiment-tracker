@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:49:07.487486+00:00",
+  "generated_at": "2026-08-17T13:41:06.524920+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 1.97,
+      "discord_members": 47,
+      "facebook_members": 63,
+      "market_cap": 56009150.0,
+      "owner_count": 615,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
       "ticker": "KILIARO",
       "company_name": "Kiliaro",
       "trend7d": 1.92,
@@ -153,16 +163,6 @@
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 1.23,
-      "discord_members": 46,
-      "facebook_members": 63,
-      "market_cap": 56009150.0,
-      "owner_count": 615,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 1.11,
@@ -181,16 +181,6 @@
       "market_cap": 716174782.0,
       "owner_count": 191,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
-      "ticker": "HEMPLY-BALANCE",
-      "company_name": "Hemply Balance",
-      "trend7d": 1.1,
-      "discord_members": 78,
-      "facebook_members": null,
-      "market_cap": 9411552.0,
-      "owner_count": 165,
-      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
       "ticker": "JONDETECH-SENSORS",
@@ -233,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 0.88,
+      "discord_members": 236,
+      "facebook_members": null,
+      "market_cap": 274773064.0,
+      "owner_count": 562,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+    },
+    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 0.88,
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
-      "ticker": "AVTECH-SWEDEN",
-      "company_name": "Avtech Sweden",
-      "trend7d": 0.74,
-      "discord_members": 235,
-      "facebook_members": null,
-      "market_cap": 274773064.0,
-      "owner_count": 562,
-      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
-    },
-    {
       "ticker": "KLARNA",
       "company_name": "Klarna",
       "trend7d": 0.69,
@@ -291,6 +281,16 @@
       "market_cap": 74675463509.87,
       "owner_count": 5929,
       "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
+      "ticker": "HEMPLY-BALANCE",
+      "company_name": "Hemply Balance",
+      "trend7d": 0.66,
+      "discord_members": 77,
+      "facebook_members": null,
+      "market_cap": 9411552.0,
+      "owner_count": 165,
+      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
       "ticker": "NYAB",
