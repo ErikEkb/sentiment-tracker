@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:28:45.442938+00:00",
+  "generated_at": "2026-08-17T12:49:07.487486+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 0.23,
+      "discord_members": 823,
+      "facebook_members": null,
+      "market_cap": 12046086551.0,
+      "owner_count": 7318,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
+    },
+    {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
       "trend7d": 0.23,
@@ -501,16 +511,6 @@
       "market_cap": 202733143.0,
       "owner_count": 401,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
-    },
-    {
-      "ticker": "RANLOS",
-      "company_name": "RanLOS",
-      "trend7d": 0.23,
-      "discord_members": 341,
-      "facebook_members": null,
-      "market_cap": 36792379.0,
-      "owner_count": 252,
-      "detail_url": "https://allaaktier.se/bolag/ranlos"
     }
   ],
   "twitter_mentions": 0,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
