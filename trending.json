@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:34:47.506327+00:00",
+  "generated_at": "2026-08-17T11:28:45.442938+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -135,8 +135,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 1.28,
-      "discord_members": 2540,
+      "trend7d": 1.3,
+      "discord_members": 2541,
       "facebook_members": 2874,
       "market_cap": 14537029118.0,
       "owner_count": 5687,
@@ -253,16 +253,6 @@
       "detail_url": "https://allaaktier.se/bolag/uswe-sports"
     },
     {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 0.84,
-      "discord_members": 162,
-      "facebook_members": null,
-      "market_cap": 6613146912.0,
-      "owner_count": 2782,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
-    },
-    {
       "ticker": "ENVAR",
       "company_name": "Envar",
       "trend7d": 0.79,
@@ -281,6 +271,16 @@
       "market_cap": 24523819698.0,
       "owner_count": 4300,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 0.74,
+      "discord_members": 235,
+      "facebook_members": null,
+      "market_cap": 274773064.0,
+      "owner_count": 562,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
       "ticker": "KLARNA",
@@ -303,14 +303,14 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
-      "ticker": "AVTECH-SWEDEN",
-      "company_name": "Avtech Sweden",
-      "trend7d": 0.59,
-      "discord_members": 234,
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 0.63,
+      "discord_members": 161,
       "facebook_members": null,
-      "market_cap": 274773064.0,
-      "owner_count": 562,
-      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+      "market_cap": 6613146912.0,
+      "owner_count": 2782,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "AFRICA-OIL",
