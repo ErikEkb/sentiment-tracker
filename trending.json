@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:37:56.456568+00:00",
+  "generated_at": "2026-08-18T05:31:58.834803+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -333,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/storskogen"
     },
     {
+      "ticker": "BYHMGARD",
+      "company_name": "Byhmgard",
+      "trend7d": 0.36,
+      "discord_members": 68,
+      "facebook_members": 614,
+      "market_cap": 159751877.0,
+      "owner_count": 393,
+      "detail_url": "https://allaaktier.se/bolag/byhmgard"
+    },
+    {
       "ticker": "GAPWAVES",
       "company_name": "Gapwaves",
       "trend7d": 0.36,
@@ -501,16 +511,6 @@
       "market_cap": 11283359.0,
       "owner_count": 248,
       "detail_url": "https://allaaktier.se/bolag/gold-town-games"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.19,
-      "discord_members": 941,
-      "facebook_members": 289,
-      "market_cap": 3226283296.0,
-      "owner_count": 2097,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     }
   ],
   "twitter_mentions": 0,
