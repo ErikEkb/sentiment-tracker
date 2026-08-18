@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:41:00.069562+00:00",
+  "generated_at": "2026-08-18T19:29:27.509149+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
     {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 2.04,
+      "discord_members": 71,
+      "facebook_members": null,
+      "market_cap": 70011185100.15,
+      "owner_count": 5971,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
       "ticker": "TRANSTEMA",
       "company_name": "Transtema",
       "trend7d": 1.97,
@@ -111,6 +121,16 @@
       "market_cap": 427168552.0,
       "owner_count": 290,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 1.77,
+      "discord_members": 356,
+      "facebook_members": null,
+      "market_cap": 127676711.0,
+      "owner_count": 613,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "ECOMB",
@@ -151,26 +171,6 @@
       "market_cap": 71181625.0,
       "owner_count": 1177,
       "detail_url": "https://allaaktier.se/bolag/transfer-group"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 1.55,
-      "discord_members": 70,
-      "facebook_members": null,
-      "market_cap": 70011185100.15,
-      "owner_count": 5971,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.47,
-      "discord_members": 353,
-      "facebook_members": null,
-      "market_cap": 127676711.0,
-      "owner_count": 613,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "NYAB",
@@ -233,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
+      "ticker": "SEDANA-MEDICAL",
+      "company_name": "Sedana Medical",
+      "trend7d": 0.9,
+      "discord_members": 452,
+      "facebook_members": null,
+      "market_cap": 1080786125.0,
+      "owner_count": 924,
+      "detail_url": "https://allaaktier.se/bolag/sedana-medical"
+    },
+    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 0.83,
@@ -271,16 +281,6 @@
       "market_cap": 103673148.0,
       "owner_count": 266,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
-    },
-    {
-      "ticker": "SEDANA-MEDICAL",
-      "company_name": "Sedana Medical",
-      "trend7d": 0.68,
-      "discord_members": 449,
-      "facebook_members": null,
-      "market_cap": 1080786125.0,
-      "owner_count": 924,
-      "detail_url": "https://allaaktier.se/bolag/sedana-medical"
     },
     {
       "ticker": "NITRO-GAMES",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
