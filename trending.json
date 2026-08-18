@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:35:43.960595+00:00",
+  "generated_at": "2026-08-18T15:33:54.544071+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 4.18,
-      "discord_members": 631,
+      "trend7d": 4.29,
+      "discord_members": 633,
       "facebook_members": 363,
       "market_cap": 255784504.0,
       "owner_count": 481,
@@ -293,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/nitro-games"
     },
     {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.54,
+      "discord_members": 1310,
+      "facebook_members": 195,
+      "market_cap": 880678426.0,
+      "owner_count": 1506,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
       "ticker": "AFRICA-OIL",
       "company_name": "Africa Oil",
       "trend7d": 0.54,
@@ -301,16 +311,6 @@
       "market_cap": 10464287258.0,
       "owner_count": 3746,
       "detail_url": "https://allaaktier.se/bolag/africa-oil"
-    },
-    {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.52,
-      "discord_members": 1309,
-      "facebook_members": 195,
-      "market_cap": 880678426.0,
-      "owner_count": 1506,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "JONDETECH-SENSORS",
@@ -331,6 +331,16 @@
       "market_cap": 43289165.0,
       "owner_count": 412,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
+    },
+    {
+      "ticker": "SEDANA-MEDICAL",
+      "company_name": "Sedana Medical",
+      "trend7d": 0.45,
+      "discord_members": 446,
+      "facebook_members": null,
+      "market_cap": 1080786125.0,
+      "owner_count": 924,
+      "detail_url": "https://allaaktier.se/bolag/sedana-medical"
     },
     {
       "ticker": "BONESUPPORT",
@@ -473,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
-      "ticker": "SEDANA-MEDICAL",
-      "company_name": "Sedana Medical",
-      "trend7d": 0.23,
-      "discord_members": 443,
-      "facebook_members": null,
-      "market_cap": 1080786125.0,
-      "owner_count": 924,
-      "detail_url": "https://allaaktier.se/bolag/sedana-medical"
-    },
-    {
       "ticker": "INVESTOR",
       "company_name": "Investor",
       "trend7d": 0.22,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 63,
+    "total_posts_fetched": 54,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
