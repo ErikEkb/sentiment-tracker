@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T11:27:16.891312+00:00",
+  "generated_at": "2026-08-18T12:51:10.815601+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -53,6 +53,16 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
+      "ticker": "HEMPLY-BALANCE",
+      "company_name": "Hemply Balance",
+      "trend7d": 4.07,
+      "discord_members": 81,
+      "facebook_members": null,
+      "market_cap": 9568411.0,
+      "owner_count": 169,
+      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
+    },
+    {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
       "trend7d": 3.86,
@@ -61,16 +71,6 @@
       "market_cap": 57409379.0,
       "owner_count": 624,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
-      "ticker": "HEMPLY-BALANCE",
-      "company_name": "Hemply Balance",
-      "trend7d": 3.64,
-      "discord_members": 80,
-      "facebook_members": null,
-      "market_cap": 9568411.0,
-      "owner_count": 169,
-      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
       "ticker": "ZENITH-ENERGY",
@@ -113,6 +113,16 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 1.74,
+      "discord_members": 163,
+      "facebook_members": null,
+      "market_cap": 11334015.0,
+      "owner_count": 305,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
+    },
+    {
       "ticker": "KILIARO",
       "company_name": "Kiliaro",
       "trend7d": 1.73,
@@ -151,16 +161,6 @@
       "market_cap": 70011185100.15,
       "owner_count": 5971,
       "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
-      "ticker": "ECOMB",
-      "company_name": "ECOMB",
-      "trend7d": 1.53,
-      "discord_members": 162,
-      "facebook_members": null,
-      "market_cap": 11334015.0,
-      "owner_count": 305,
-      "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
       "ticker": "NYAB",
@@ -293,16 +293,6 @@
       "detail_url": "https://allaaktier.se/bolag/nitro-games"
     },
     {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.54,
-      "discord_members": 1310,
-      "facebook_members": 195,
-      "market_cap": 880678426.0,
-      "owner_count": 1506,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
       "ticker": "AFRICA-OIL",
       "company_name": "Africa Oil",
       "trend7d": 0.54,
@@ -311,6 +301,16 @@
       "market_cap": 10464287258.0,
       "owner_count": 3746,
       "detail_url": "https://allaaktier.se/bolag/africa-oil"
+    },
+    {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.52,
+      "discord_members": 1309,
+      "facebook_members": 195,
+      "market_cap": 880678426.0,
+      "owner_count": 1506,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "JONDETECH-SENSORS",
@@ -453,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.26,
+      "discord_members": 793,
+      "facebook_members": 435,
+      "market_cap": 3479974809.0,
+      "owner_count": 1242,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "SEDANA-MEDICAL",
       "company_name": "Sedana Medical",
       "trend7d": 0.23,
@@ -493,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.22,
-      "discord_members": 792,
-      "facebook_members": 435,
-      "market_cap": 3479974809.0,
-      "owner_count": 1242,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
       "ticker": "BOTNIA-GOLD",
       "company_name": "Botnia Gold",
       "trend7d": 0.2,
@@ -516,27 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "INDU-A",
-      "company_name": "Industrivärden A",
-      "sector": "Financials",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.417,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 0.833,
-      "sample_posts": [
-        "https://www.flashback.org/sp95684292",
-        "https://www.flashback.org/sp95684343"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 54,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 63,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
