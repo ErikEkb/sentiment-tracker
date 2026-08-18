@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:29:04.683914+00:00",
+  "generated_at": "2026-08-18T18:41:00.069562+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 3.86,
-      "discord_members": 48,
+      "trend7d": 3.12,
+      "discord_members": 47,
       "facebook_members": 63,
       "market_cap": 57409379.0,
       "owner_count": 624,
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 1.29,
+      "discord_members": 440,
+      "facebook_members": null,
+      "market_cap": 24046646319.0,
+      "owner_count": 4331,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "XVIVO-PERFUSION",
       "company_name": "Xvivo Perfusion",
       "trend7d": 1.26,
@@ -191,16 +201,6 @@
       "market_cap": 8958449268.0,
       "owner_count": 2036,
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 1.21,
-      "discord_members": 439,
-      "facebook_members": null,
-      "market_cap": 24046646319.0,
-      "owner_count": 4331,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "AVTECH-SWEDEN",
@@ -283,16 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/sedana-medical"
     },
     {
-      "ticker": "ELICERA-THERAPEUTICS",
-      "company_name": "Elicera Therapeutics",
-      "trend7d": 0.65,
-      "discord_members": 1036,
-      "facebook_members": 129,
-      "market_cap": 181522945.0,
-      "owner_count": 1186,
-      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
-    },
-    {
       "ticker": "NITRO-GAMES",
       "company_name": "Nitro Games",
       "trend7d": 0.63,
@@ -301,6 +291,16 @@
       "market_cap": 49599484.0,
       "owner_count": 293,
       "detail_url": "https://allaaktier.se/bolag/nitro-games"
+    },
+    {
+      "ticker": "ELICERA-THERAPEUTICS",
+      "company_name": "Elicera Therapeutics",
+      "trend7d": 0.61,
+      "discord_members": 1035,
+      "facebook_members": 129,
+      "market_cap": 181522945.0,
+      "owner_count": 1186,
+      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
       "ticker": "NANEXA",
@@ -443,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.3,
+      "discord_members": 1242,
+      "facebook_members": 297,
+      "market_cap": 763111631.0,
+      "owner_count": 2619,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "ZAPTEC",
       "company_name": "Zaptec",
       "trend7d": 0.3,
@@ -453,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
     {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.28,
-      "discord_members": 1241,
-      "facebook_members": 297,
-      "market_cap": 763111631.0,
-      "owner_count": 2619,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
       "ticker": "MILDEF-GROUP",
       "company_name": "Mildef Group",
       "trend7d": 0.27,
@@ -471,16 +471,6 @@
       "market_cap": 10544313501.0,
       "owner_count": 7337,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.26,
-      "discord_members": 793,
-      "facebook_members": 435,
-      "market_cap": 3479974809.0,
-      "owner_count": 1242,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "INVESTOR",
@@ -503,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/bimobject"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.22,
+      "discord_members": 792,
+      "facebook_members": 435,
+      "market_cap": 3479974809.0,
+      "owner_count": 1242,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "BOTNIA-GOLD",
       "company_name": "Botnia Gold",
       "trend7d": 0.2,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 56,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
