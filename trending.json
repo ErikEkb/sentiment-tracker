@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:47:43.027171+00:00",
+  "generated_at": "2026-08-18T07:39:47.904851+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 2.1,
+      "discord_members": 143,
+      "facebook_members": null,
+      "market_cap": 288671040.0,
+      "owner_count": 848,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
+    },
+    {
       "ticker": "KILIARO",
       "company_name": "Kiliaro",
       "trend7d": 1.96,
@@ -71,16 +81,6 @@
       "market_cap": 6248830.0,
       "owner_count": 372,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
-    },
-    {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
-      "trend7d": 1.86,
-      "discord_members": 142,
-      "facebook_members": null,
-      "market_cap": 288671040.0,
-      "owner_count": 848,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "TRANSFER-GROUP",
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 1.36,
+      "discord_members": 353,
+      "facebook_members": null,
+      "market_cap": 129246507.0,
+      "owner_count": 609,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 1.24,
@@ -141,16 +151,6 @@
       "market_cap": 705114168.0,
       "owner_count": 191,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.17,
-      "discord_members": 351,
-      "facebook_members": null,
-      "market_cap": 129246507.0,
-      "owner_count": 609,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "KLARNA",
@@ -185,8 +185,8 @@
     {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
-      "trend7d": 0.82,
-      "discord_members": 1036,
+      "trend7d": 0.85,
+      "discord_members": 1037,
       "facebook_members": 129,
       "market_cap": 183191355.0,
       "owner_count": 1191,
@@ -201,6 +201,16 @@
       "market_cap": 24625038293.0,
       "owner_count": 4300,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 0.76,
+      "discord_members": 163,
+      "facebook_members": null,
+      "market_cap": 6551437920.0,
+      "owner_count": 2782,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "USWE-SPORTS",
@@ -261,16 +271,6 @@
       "market_cap": 8344629538.0,
       "owner_count": 3714,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 0.55,
-      "discord_members": 162,
-      "facebook_members": null,
-      "market_cap": 6551437920.0,
-      "owner_count": 2782,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "AFRICA-OIL",
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.22,
+      "discord_members": 1135,
+      "facebook_members": 2135,
+      "market_cap": 4263879002.0,
+      "owner_count": 3615,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
       "ticker": "YUBICO",
       "company_name": "Yubico",
       "trend7d": 0.21,
@@ -501,16 +511,6 @@
       "market_cap": 8535045048.0,
       "owner_count": 2648,
       "detail_url": "https://allaaktier.se/bolag/yubico"
-    },
-    {
-      "ticker": "GOLD-TOWN-GAMES",
-      "company_name": "Gold Town Games",
-      "trend7d": 0.19,
-      "discord_members": 82,
-      "facebook_members": null,
-      "market_cap": 11283359.0,
-      "owner_count": 248,
-      "detail_url": "https://allaaktier.se/bolag/gold-town-games"
     }
   ],
   "twitter_mentions": 0,
