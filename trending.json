@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:26:54.778603+00:00",
+  "generated_at": "2026-08-18T22:26:23.997325+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -28,15 +28,15 @@
       "trend7d": 6.69,
       "discord_members": 225,
       "facebook_members": null,
-      "market_cap": 120913478.0,
+      "market_cap": 121195328.0,
       "owner_count": 148,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 4.95,
-      "discord_members": 83,
+      "trend7d": 5.39,
+      "discord_members": 84,
       "facebook_members": null,
       "market_cap": 14431047.0,
       "owner_count": 169,
@@ -78,7 +78,7 @@
       "trend7d": 2.22,
       "discord_members": 833,
       "facebook_members": null,
-      "market_cap": 473980494.04,
+      "market_cap": 453583309.52,
       "owner_count": 4543,
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
@@ -98,7 +98,7 @@
       "trend7d": 1.97,
       "discord_members": 86,
       "facebook_members": null,
-      "market_cap": 340173158.0,
+      "market_cap": 334857953.0,
       "owner_count": 500,
       "detail_url": "https://allaaktier.se/bolag/transtema"
     },
@@ -118,7 +118,7 @@
       "trend7d": 1.94,
       "discord_members": 143,
       "facebook_members": null,
-      "market_cap": 293286420.0,
+      "market_cap": 288251460.0,
       "owner_count": 845,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
@@ -128,7 +128,7 @@
       "trend7d": 1.87,
       "discord_members": 90,
       "facebook_members": null,
-      "market_cap": 427168552.0,
+      "market_cap": 408407771.0,
       "owner_count": 290,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
@@ -138,7 +138,7 @@
       "trend7d": 1.77,
       "discord_members": 356,
       "facebook_members": null,
-      "market_cap": 127676711.0,
+      "market_cap": 130816302.0,
       "owner_count": 613,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
@@ -148,7 +148,7 @@
       "trend7d": 1.73,
       "discord_members": 44,
       "facebook_members": null,
-      "market_cap": 5513674.0,
+      "market_cap": 5881252.0,
       "owner_count": 371,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
@@ -178,7 +178,7 @@
       "trend7d": 1.39,
       "discord_members": 206,
       "facebook_members": null,
-      "market_cap": 4819832734.0,
+      "market_cap": 4741403503.0,
       "owner_count": 1760,
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
@@ -188,7 +188,7 @@
       "trend7d": 1.29,
       "discord_members": 440,
       "facebook_members": null,
-      "market_cap": 24046646319.0,
+      "market_cap": 23988807122.0,
       "owner_count": 4331,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -218,7 +218,7 @@
       "trend7d": 0.96,
       "discord_members": 200,
       "facebook_members": null,
-      "market_cap": 727235397.0,
+      "market_cap": 691288400.0,
       "owner_count": 190,
       "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
@@ -278,7 +278,7 @@
       "trend7d": 0.72,
       "discord_members": 146,
       "facebook_members": null,
-      "market_cap": 103673148.0,
+      "market_cap": 100131519.0,
       "owner_count": 266,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
@@ -338,7 +338,7 @@
       "trend7d": 0.48,
       "discord_members": 58,
       "facebook_members": null,
-      "market_cap": 43289165.0,
+      "market_cap": 40815499.0,
       "owner_count": 412,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
@@ -358,7 +358,7 @@
       "trend7d": 0.39,
       "discord_members": 219,
       "facebook_members": null,
-      "market_cap": 8455195355.0,
+      "market_cap": 8517300672.0,
       "owner_count": 2658,
       "detail_url": "https://allaaktier.se/bolag/yubico"
     },
@@ -468,7 +468,7 @@
       "trend7d": 0.27,
       "discord_members": 465,
       "facebook_members": null,
-      "market_cap": 10544313501.0,
+      "market_cap": 10327584984.0,
       "owner_count": 7337,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
@@ -516,10 +516,44 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.2,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95701596",
+        "https://www.flashback.org/sp95702469",
+        "https://www.flashback.org/sp95703804"
+      ]
+    },
+    {
+      "ticker": "TOKMAN",
+      "company_name": "Tokmanni Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.167,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 0.333,
+      "sample_posts": [
+        "https://www.flashback.org/sp95699231",
+        "https://www.flashback.org/sp95699309"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 58,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 60,
+    "tickers_with_any_mentions": 7,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
