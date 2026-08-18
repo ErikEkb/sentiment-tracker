@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:36:09.544271+00:00",
+  "generated_at": "2026-08-18T10:31:23.302047+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,7 +15,7 @@
     {
       "ticker": "ENORAMA-PHARMA",
       "company_name": "Enorama Pharma",
-      "trend7d": 6.28,
+      "trend7d": 7.11,
       "discord_members": 38,
       "facebook_members": 707,
       "market_cap": 68174055.0,
@@ -78,17 +78,37 @@
       "trend7d": 2.1,
       "discord_members": 143,
       "facebook_members": null,
-      "market_cap": 288671040.0,
+      "market_cap": 293286420.0,
       "owner_count": 845,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
+      "ticker": "TRANSTEMA",
+      "company_name": "Transtema",
+      "trend7d": 1.97,
+      "discord_members": 86,
+      "facebook_members": null,
+      "market_cap": 340173158.0,
+      "owner_count": 500,
+      "detail_url": "https://allaaktier.se/bolag/transtema"
+    },
+    {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 1.87,
+      "discord_members": 90,
+      "facebook_members": null,
+      "market_cap": 427168552.0,
+      "owner_count": 290,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+    },
+    {
       "ticker": "KILIARO",
       "company_name": "Kiliaro",
-      "trend7d": 1.96,
+      "trend7d": 1.73,
       "discord_members": 44,
       "facebook_members": null,
-      "market_cap": 6248830.0,
+      "market_cap": 5513674.0,
       "owner_count": 371,
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
@@ -113,16 +133,6 @@
       "detail_url": "https://allaaktier.se/bolag/transfer-group"
     },
     {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 1.58,
-      "discord_members": 90,
-      "facebook_members": null,
-      "market_cap": 427168552.0,
-      "owner_count": 290,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 1.53,
@@ -138,24 +148,14 @@
       "trend7d": 1.36,
       "discord_members": 353,
       "facebook_members": null,
-      "market_cap": 129246507.0,
+      "market_cap": 127676711.0,
       "owner_count": 613,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 1.24,
-      "discord_members": 200,
-      "facebook_members": null,
-      "market_cap": 705114168.0,
-      "owner_count": 190,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
-    },
-    {
       "ticker": "XVIVO-PERFUSION",
       "company_name": "Xvivo Perfusion",
-      "trend7d": 1.22,
+      "trend7d": 1.26,
       "discord_members": 173,
       "facebook_members": null,
       "market_cap": 8958449268.0,
@@ -163,34 +163,24 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 1.24,
+      "discord_members": 200,
+      "facebook_members": null,
+      "market_cap": 727235397.0,
+      "owner_count": 190,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
       "ticker": "KLARNA",
       "company_name": "Klarna",
       "trend7d": 1.17,
       "discord_members": 70,
       "facebook_members": null,
-      "market_cap": 74675463509.87,
+      "market_cap": 70011185100.15,
       "owner_count": 5971,
       "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
-      "ticker": "TRANSTEMA",
-      "company_name": "Transtema",
-      "trend7d": 1.13,
-      "discord_members": 86,
-      "facebook_members": null,
-      "market_cap": 340173158.0,
-      "owner_count": 500,
-      "detail_url": "https://allaaktier.se/bolag/transtema"
-    },
-    {
-      "ticker": "AVTECH-SWEDEN",
-      "company_name": "Avtech Sweden",
-      "trend7d": 0.94,
-      "discord_members": 237,
-      "facebook_members": null,
-      "market_cap": 276749849.0,
-      "owner_count": 562,
-      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -201,6 +191,16 @@
       "market_cap": 8344629538.0,
       "owner_count": 3722,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 0.9,
+      "discord_members": 237,
+      "facebook_members": null,
+      "market_cap": 276749849.0,
+      "owner_count": 562,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
@@ -218,7 +218,7 @@
       "trend7d": 0.79,
       "discord_members": 439,
       "facebook_members": null,
-      "market_cap": 24625038293.0,
+      "market_cap": 24046646319.0,
       "owner_count": 4331,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -235,7 +235,7 @@
     {
       "ticker": "RAYSEARCH-LABORATORIES",
       "company_name": "RaySearch Laboratories",
-      "trend7d": 0.73,
+      "trend7d": 0.72,
       "discord_members": 163,
       "facebook_members": null,
       "market_cap": 6548009643.0,
@@ -278,7 +278,7 @@
       "trend7d": 0.56,
       "discord_members": 206,
       "facebook_members": null,
-      "market_cap": 4784183084.0,
+      "market_cap": 4819832734.0,
       "owner_count": 1760,
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
@@ -313,12 +313,22 @@
       "detail_url": "https://allaaktier.se/bolag/jondetech-sensors"
     },
     {
+      "ticker": "BONESUPPORT",
+      "company_name": "Bonesupport",
+      "trend7d": 0.42,
+      "discord_members": 461,
+      "facebook_members": null,
+      "market_cap": 15008625880.0,
+      "owner_count": 3537,
+      "detail_url": "https://allaaktier.se/bolag/bonesupport"
+    },
+    {
       "ticker": "ZENERGY",
       "company_name": "Zenergy",
       "trend7d": 0.42,
       "discord_members": 58,
       "facebook_members": null,
-      "market_cap": 42052332.0,
+      "market_cap": 43289165.0,
       "owner_count": 412,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
@@ -353,14 +363,14 @@
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
-      "ticker": "BONESUPPORT",
-      "company_name": "Bonesupport",
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
       "trend7d": 0.37,
-      "discord_members": 461,
+      "discord_members": 823,
       "facebook_members": null,
-      "market_cap": 15008625880.0,
-      "owner_count": 3537,
-      "detail_url": "https://allaaktier.se/bolag/bonesupport"
+      "market_cap": 11747002522.0,
+      "owner_count": 7321,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
       "ticker": "CLEAN-MOTION",
@@ -381,26 +391,6 @@
       "market_cap": 163382601.0,
       "owner_count": 393,
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
-    },
-    {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.34,
-      "discord_members": 823,
-      "facebook_members": null,
-      "market_cap": 11747002522.0,
-      "owner_count": 7321,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.34,
-      "discord_members": 795,
-      "facebook_members": 435,
-      "market_cap": 3479974809.0,
-      "owner_count": 1242,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "PLEJD",
@@ -435,22 +425,12 @@
     {
       "ticker": "MILDEF-GROUP",
       "company_name": "Mildef Group",
-      "trend7d": 0.28,
+      "trend7d": 0.27,
       "discord_members": 465,
       "facebook_members": null,
-      "market_cap": 10426526264.0,
+      "market_cap": 10544313501.0,
       "owner_count": 7337,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
-      "ticker": "PARADOX-INTERACTIVE",
-      "company_name": "Paradox Interactive",
-      "trend7d": 0.24,
-      "discord_members": 71,
-      "facebook_members": null,
-      "market_cap": 14734411988.0,
-      "owner_count": 2789,
-      "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
     },
     {
       "ticker": "RANLOS",
@@ -458,7 +438,7 @@
       "trend7d": 0.24,
       "discord_members": 340,
       "facebook_members": null,
-      "market_cap": 37721871.0,
+      "market_cap": 38573905.0,
       "owner_count": 252,
       "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
@@ -471,6 +451,16 @@
       "market_cap": 1080786125.0,
       "owner_count": 924,
       "detail_url": "https://allaaktier.se/bolag/sedana-medical"
+    },
+    {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 0.22,
+      "discord_members": 471,
+      "facebook_members": null,
+      "market_cap": 1249909818574.0,
+      "owner_count": 17506,
+      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "BIMOBJECT",
@@ -493,14 +483,14 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
-      "ticker": "BOTNIA-GOLD",
-      "company_name": "Botnia Gold",
-      "trend7d": 0.21,
-      "discord_members": 159,
-      "facebook_members": null,
-      "market_cap": 488844235.0,
-      "owner_count": 872,
-      "detail_url": "https://allaaktier.se/bolag/botnia-gold"
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.22,
+      "discord_members": 792,
+      "facebook_members": 435,
+      "market_cap": 3479974809.0,
+      "owner_count": 1242,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "YUBICO",
@@ -508,9 +498,19 @@
       "trend7d": 0.21,
       "discord_members": 219,
       "facebook_members": null,
-      "market_cap": 8535045048.0,
+      "market_cap": 8455195355.0,
       "owner_count": 2658,
       "detail_url": "https://allaaktier.se/bolag/yubico"
+    },
+    {
+      "ticker": "BOTNIA-GOLD",
+      "company_name": "Botnia Gold",
+      "trend7d": 0.2,
+      "discord_members": 159,
+      "facebook_members": null,
+      "market_cap": 488844235.0,
+      "owner_count": 872,
+      "detail_url": "https://allaaktier.se/bolag/botnia-gold"
     }
   ],
   "twitter_mentions": 0,
