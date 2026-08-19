@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T04:39:08.601646+00:00",
+  "generated_at": "2026-08-19T05:32:52.816078+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -293,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
+      "ticker": "XER-TECH",
+      "company_name": "Xer Tech",
+      "trend7d": 0.36,
+      "discord_members": 313,
+      "facebook_members": null,
+      "market_cap": 193358200.0,
+      "owner_count": 401,
+      "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
       "ticker": "EMB-MISSION-BOUND",
       "company_name": "EMB Mission Bound",
       "trend7d": 0.34,
@@ -351,16 +361,6 @@
       "market_cap": 10327584984.0,
       "owner_count": 7337,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
-      "ticker": "XER-TECH",
-      "company_name": "Xer Tech",
-      "trend7d": 0.25,
-      "discord_members": 312,
-      "facebook_members": null,
-      "market_cap": 193358200.0,
-      "owner_count": 401,
-      "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
     {
       "ticker": "EGETIS-THERAPEUTICS",
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 60,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 7,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
