@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:38:46.757176+00:00",
+  "generated_at": "2026-08-19T19:28:00.974519+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -85,8 +85,8 @@
     {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
-      "trend7d": 2.83,
-      "discord_members": 838,
+      "trend7d": 2.87,
+      "discord_members": 839,
       "facebook_members": null,
       "market_cap": 496811750.39,
       "owner_count": 4558,
@@ -393,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
     },
     {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 0.27,
+      "discord_members": 116,
+      "facebook_members": null,
+      "market_cap": 126600047.0,
+      "owner_count": 351,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
       "ticker": "MILDEF-GROUP",
       "company_name": "Mildef Group",
       "trend7d": 0.26,
@@ -501,16 +511,6 @@
       "market_cap": 548801896.0,
       "owner_count": 612,
       "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
-    },
-    {
-      "ticker": "GAMING-CORPS",
-      "company_name": "Gaming Corps",
-      "trend7d": 0.19,
-      "discord_members": 140,
-      "facebook_members": null,
-      "market_cap": 133515326.0,
-      "owner_count": 473,
-      "detail_url": "https://allaaktier.se/bolag/gaming-corps"
     }
   ],
   "twitter_mentions": 0,
