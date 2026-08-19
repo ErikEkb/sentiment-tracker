@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:36:44.205954+00:00",
+  "generated_at": "2026-08-19T15:33:39.152975+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 4.14,
-      "discord_members": 635,
+      "trend7d": 4.19,
+      "discord_members": 636,
       "facebook_members": 363,
       "market_cap": 261138133.0,
       "owner_count": 490,
@@ -146,7 +146,7 @@
       "ticker": "SEDANA-MEDICAL",
       "company_name": "Sedana Medical",
       "trend7d": 1.34,
-      "discord_members": 459,
+      "discord_members": 460,
       "facebook_members": null,
       "market_cap": 1062905472.0,
       "owner_count": 927,
@@ -223,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
+      "ticker": "NORDIC-IRON-ORE",
+      "company_name": "Nordic Iron Ore",
+      "trend7d": 0.78,
+      "discord_members": 312,
+      "facebook_members": 567,
+      "market_cap": 319201807.0,
+      "owner_count": 1301,
+      "detail_url": "https://allaaktier.se/bolag/nordic-iron-ore"
+    },
+    {
       "ticker": "TOUCHTECH",
       "company_name": "Touchtech",
       "trend7d": 0.68,
@@ -253,20 +263,10 @@
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
-      "ticker": "NORDIC-IRON-ORE",
-      "company_name": "Nordic Iron Ore",
-      "trend7d": 0.57,
-      "discord_members": 310,
-      "facebook_members": 567,
-      "market_cap": 319201807.0,
-      "owner_count": 1301,
-      "detail_url": "https://allaaktier.se/bolag/nordic-iron-ore"
-    },
-    {
       "ticker": "NITRO-GAMES",
       "company_name": "Nitro Games",
-      "trend7d": 0.49,
-      "discord_members": 381,
+      "trend7d": 0.58,
+      "discord_members": 382,
       "facebook_members": 172,
       "market_cap": 50347215.0,
       "owner_count": 289,
@@ -463,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/dustin"
     },
     {
-      "ticker": "IMPLANTICA-SDB",
-      "company_name": "Implantica SDB",
-      "trend7d": 0.21,
-      "discord_members": 624,
-      "facebook_members": 106,
-      "market_cap": 3676161461.0,
-      "owner_count": 624,
-      "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
-    },
-    {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
       "trend7d": 0.21,
@@ -511,6 +501,16 @@
       "market_cap": 133515326.0,
       "owner_count": 473,
       "detail_url": "https://allaaktier.se/bolag/gaming-corps"
+    },
+    {
+      "ticker": "KILIARO",
+      "company_name": "Kiliaro",
+      "trend7d": 0.19,
+      "discord_members": 44,
+      "facebook_members": null,
+      "market_cap": 5881252.0,
+      "owner_count": 371,
+      "detail_url": "https://allaaktier.se/bolag/kiliaro"
     }
   ],
   "twitter_mentions": 0,
