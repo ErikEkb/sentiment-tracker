@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:27:37.482392+00:00",
+  "generated_at": "2026-08-19T12:52:07.512596+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 3.98,
+      "discord_members": 226,
+      "facebook_members": null,
+      "market_cap": 124013824.0,
+      "owner_count": 152,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
       "trend7d": 3.87,
@@ -71,16 +81,6 @@
       "market_cap": 58809608.0,
       "owner_count": 622,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 3.83,
-      "discord_members": 225,
-      "facebook_members": null,
-      "market_cap": 124013824.0,
-      "owner_count": 152,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "ZENITH-ENERGY",
@@ -155,8 +155,8 @@
     {
       "ticker": "SEDANA-MEDICAL",
       "company_name": "Sedana Medical",
-      "trend7d": 1.04,
-      "discord_members": 455,
+      "trend7d": 1.19,
+      "discord_members": 457,
       "facebook_members": null,
       "market_cap": 1062905472.0,
       "owner_count": 927,
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 0.92,
+      "discord_members": 240,
+      "facebook_members": null,
+      "market_cap": 271949086.0,
+      "owner_count": 559,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+    },
+    {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
       "trend7d": 0.89,
@@ -201,16 +211,6 @@
       "market_cap": 8248493253.0,
       "owner_count": 3730,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "AVTECH-SWEDEN",
-      "company_name": "Avtech Sweden",
-      "trend7d": 0.78,
-      "discord_members": 239,
-      "facebook_members": null,
-      "market_cap": 271949086.0,
-      "owner_count": 559,
-      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
       "ticker": "TRANSFER-GROUP",
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.32,
+      "discord_members": 593,
+      "facebook_members": null,
+      "market_cap": 1695871488.0,
+      "owner_count": 617,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
       "ticker": "XVIVO-PERFUSION",
       "company_name": "Xvivo Perfusion",
       "trend7d": 0.32,
@@ -371,16 +381,6 @@
       "market_cap": 199326773.0,
       "owner_count": 393,
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
-    },
-    {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.26,
-      "discord_members": 592,
-      "facebook_members": null,
-      "market_cap": 1695871488.0,
-      "owner_count": 617,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
       "ticker": "MILDEF-GROUP",
@@ -453,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/africa-oil"
     },
     {
+      "ticker": "DUSTIN",
+      "company_name": "Dustin",
+      "trend7d": 0.22,
+      "discord_members": 65,
+      "facebook_members": null,
+      "market_cap": 2513962572.0,
+      "owner_count": 1696,
+      "detail_url": "https://allaaktier.se/bolag/dustin"
+    },
+    {
       "ticker": "IMPLANTICA-SDB",
       "company_name": "Implantica SDB",
       "trend7d": 0.21,
@@ -501,16 +511,6 @@
       "market_cap": 133515326.0,
       "owner_count": 473,
       "detail_url": "https://allaaktier.se/bolag/gaming-corps"
-    },
-    {
-      "ticker": "KILIARO",
-      "company_name": "Kiliaro",
-      "trend7d": 0.19,
-      "discord_members": 44,
-      "facebook_members": null,
-      "market_cap": 5881252.0,
-      "owner_count": 371,
-      "detail_url": "https://allaaktier.se/bolag/kiliaro"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 66,
+    "total_posts_fetched": 67,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
