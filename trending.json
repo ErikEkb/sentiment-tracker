@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:46:08.785156+00:00",
+  "generated_at": "2026-08-19T14:36:44.205954+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 15.56,
-      "discord_members": 98,
+      "trend7d": 15.99,
+      "discord_members": 99,
       "facebook_members": null,
       "market_cap": 18195668.0,
       "owner_count": 179,
@@ -75,8 +75,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 3.87,
-      "discord_members": 48,
+      "trend7d": 3.13,
+      "discord_members": 47,
       "facebook_members": 63,
       "market_cap": 58809608.0,
       "owner_count": 622,
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
+      "ticker": "TRANSFER-GROUP",
+      "company_name": "Transfer Group",
+      "trend7d": 0.97,
+      "discord_members": 139,
+      "facebook_members": 738,
+      "market_cap": 74879372.0,
+      "owner_count": 1172,
+      "detail_url": "https://allaaktier.se/bolag/transfer-group"
+    },
+    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 0.96,
@@ -211,16 +221,6 @@
       "market_cap": 8248493253.0,
       "owner_count": 3730,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "TRANSFER-GROUP",
-      "company_name": "Transfer Group",
-      "trend7d": 0.73,
-      "discord_members": 138,
-      "facebook_members": 738,
-      "market_cap": 74879372.0,
-      "owner_count": 1172,
-      "detail_url": "https://allaaktier.se/bolag/transfer-group"
     },
     {
       "ticker": "TOUCHTECH",
@@ -285,8 +285,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 0.43,
-      "discord_members": 2541,
+      "trend7d": 0.42,
+      "discord_members": 2540,
       "facebook_members": 2874,
       "market_cap": 12917858312.0,
       "owner_count": 5707,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 68,
+    "total_posts_fetched": 69,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
