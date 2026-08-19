@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:28:31.414841+00:00",
+  "generated_at": "2026-08-19T18:38:46.757176+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 15.99,
-      "discord_members": 99,
+      "trend7d": 16.87,
+      "discord_members": 101,
       "facebook_members": null,
       "market_cap": 18195668.0,
       "owner_count": 179,
@@ -145,8 +145,8 @@
     {
       "ticker": "SEDANA-MEDICAL",
       "company_name": "Sedana Medical",
-      "trend7d": 1.41,
-      "discord_members": 460,
+      "trend7d": 1.56,
+      "discord_members": 462,
       "facebook_members": null,
       "market_cap": 1062905472.0,
       "owner_count": 927,
@@ -271,6 +271,16 @@
       "market_cap": 50347215.0,
       "owner_count": 289,
       "detail_url": "https://allaaktier.se/bolag/nitro-games"
+    },
+    {
+      "ticker": "CANDLES-SCANDINAVIA",
+      "company_name": "Candles Scandinavia",
+      "trend7d": 0.55,
+      "discord_members": 45,
+      "facebook_members": 166,
+      "market_cap": 333589906.0,
+      "owner_count": 330,
+      "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
     },
     {
       "ticker": "ZAPTEC",
@@ -501,16 +511,6 @@
       "market_cap": 133515326.0,
       "owner_count": 473,
       "detail_url": "https://allaaktier.se/bolag/gaming-corps"
-    },
-    {
-      "ticker": "KILIARO",
-      "company_name": "Kiliaro",
-      "trend7d": 0.19,
-      "discord_members": 44,
-      "facebook_members": null,
-      "market_cap": 5881252.0,
-      "owner_count": 371,
-      "detail_url": "https://allaaktier.se/bolag/kiliaro"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 70,
+    "total_posts_fetched": 71,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
