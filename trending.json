@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:52:07.512596+00:00",
+  "generated_at": "2026-08-19T13:46:08.785156+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
+      "ticker": "SEDANA-MEDICAL",
+      "company_name": "Sedana Medical",
+      "trend7d": 1.34,
+      "discord_members": 459,
+      "facebook_members": null,
+      "market_cap": 1062905472.0,
+      "owner_count": 927,
+      "detail_url": "https://allaaktier.se/bolag/sedana-medical"
+    },
+    {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
       "trend7d": 1.34,
@@ -151,16 +161,6 @@
       "market_cap": 23800829730.0,
       "owner_count": 4335,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
-      "ticker": "SEDANA-MEDICAL",
-      "company_name": "Sedana Medical",
-      "trend7d": 1.19,
-      "discord_members": 457,
-      "facebook_members": null,
-      "market_cap": 1062905472.0,
-      "owner_count": 927,
-      "detail_url": "https://allaaktier.se/bolag/sedana-medical"
     },
     {
       "ticker": "ARGO-DEFENCE",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 67,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
