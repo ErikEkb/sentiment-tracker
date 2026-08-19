@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T19:28:00.974519+00:00",
+  "generated_at": "2026-08-19T20:30:50.189476+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "KLARNA",
       "company_name": "Klarna",
-      "trend7d": 6.71,
-      "discord_members": 72,
+      "trend7d": 7.2,
+      "discord_members": 73,
       "facebook_members": null,
       "market_cap": 54197045189.02,
       "owner_count": 6340,
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/nitro-games"
     },
     {
-      "ticker": "CANDLES-SCANDINAVIA",
-      "company_name": "Candles Scandinavia",
-      "trend7d": 0.55,
-      "discord_members": 45,
-      "facebook_members": 166,
-      "market_cap": 333589906.0,
-      "owner_count": 330,
-      "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
-    },
-    {
       "ticker": "ZAPTEC",
       "company_name": "Zaptec",
       "trend7d": 0.43,
@@ -353,26 +343,6 @@
       "detail_url": "https://allaaktier.se/bolag/emb-mission-bound"
     },
     {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.33,
-      "discord_members": 790,
-      "facebook_members": 435,
-      "market_cap": 3465249951.0,
-      "owner_count": 1248,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.32,
-      "discord_members": 593,
-      "facebook_members": null,
-      "market_cap": 1695871488.0,
-      "owner_count": 617,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
-    },
-    {
       "ticker": "XVIVO-PERFUSION",
       "company_name": "Xvivo Perfusion",
       "trend7d": 0.32,
@@ -381,6 +351,26 @@
       "market_cap": 8756852660.0,
       "owner_count": 2034,
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 0.29,
+      "discord_members": 164,
+      "facebook_members": null,
+      "market_cap": 6359454392.0,
+      "owner_count": 2779,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
+    },
+    {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.29,
+      "discord_members": 789,
+      "facebook_members": 435,
+      "market_cap": 3465249951.0,
+      "owner_count": 1248,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "BYHMGARD",
@@ -403,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.26,
+      "discord_members": 592,
+      "facebook_members": null,
+      "market_cap": 1695871488.0,
+      "owner_count": 617,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
       "ticker": "MILDEF-GROUP",
       "company_name": "Mildef Group",
       "trend7d": 0.26,
@@ -421,16 +421,6 @@
       "market_cap": 975634737.0,
       "owner_count": 1063,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 0.24,
-      "discord_members": 471,
-      "facebook_members": null,
-      "market_cap": 1256737759502.0,
-      "owner_count": 17509,
-      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
@@ -511,6 +501,16 @@
       "market_cap": 548801896.0,
       "owner_count": 612,
       "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
+    },
+    {
+      "ticker": "GAMING-CORPS",
+      "company_name": "Gaming Corps",
+      "trend7d": 0.19,
+      "discord_members": 140,
+      "facebook_members": null,
+      "market_cap": 133515326.0,
+      "owner_count": 473,
+      "detail_url": "https://allaaktier.se/bolag/gaming-corps"
     }
   ],
   "twitter_mentions": 0,
@@ -518,8 +518,8 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 71,
-    "tickers_with_any_mentions": 5,
+    "total_posts_fetched": 63,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
