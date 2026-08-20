@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:42:03.319945+00:00",
+  "generated_at": "2026-08-20T19:33:28.290546+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -383,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.38,
-      "discord_members": 1243,
-      "facebook_members": 297,
-      "market_cap": 745768184.0,
-      "owner_count": 2631,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
       "ticker": "ALLARITY-THERAPEUTICS",
       "company_name": "Allarity Therapeutics",
       "trend7d": 0.35,
@@ -401,6 +391,16 @@
       "market_cap": 215253878.9,
       "owner_count": 79,
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
+    },
+    {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.35,
+      "discord_members": 1242,
+      "facebook_members": 297,
+      "market_cap": 745768184.0,
+      "owner_count": 2631,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "SMART-EYE",
@@ -518,8 +518,8 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 58,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 48,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
