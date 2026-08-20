@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:33:39.656634+00:00",
+  "generated_at": "2026-08-20T06:50:45.380311+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 0.27,
+      "discord_members": 823,
+      "facebook_members": null,
+      "market_cap": 11517916882.0,
+      "owner_count": 7325,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
+    },
+    {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
       "company_name": "Trophy Games Development",
       "trend7d": 0.26,
@@ -391,16 +401,6 @@
       "market_cap": 3798360038.0,
       "owner_count": 7133,
       "detail_url": "https://allaaktier.se/bolag/smart-eye"
-    },
-    {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.23,
-      "discord_members": 822,
-      "facebook_members": null,
-      "market_cap": 11517916882.0,
-      "owner_count": 7325,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
       "ticker": "YUBICO",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 42,
+    "total_posts_fetched": 44,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
