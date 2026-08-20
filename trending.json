@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:36:15.745463+00:00",
+  "generated_at": "2026-08-20T16:37:50.271446+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "KLARNA",
       "company_name": "Klarna",
-      "trend7d": 10.08,
-      "discord_members": 75,
+      "trend7d": 9.59,
+      "discord_members": 74,
       "facebook_members": null,
       "market_cap": 52608256634.16,
       "owner_count": 6585,
@@ -235,8 +235,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.89,
-      "discord_members": 1220,
+      "trend7d": 0.92,
+      "discord_members": 1221,
       "facebook_members": 3706,
       "market_cap": 8210038739.0,
       "owner_count": 3724,
@@ -273,6 +273,36 @@
       "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
+      "trend7d": 0.76,
+      "discord_members": 232,
+      "facebook_members": null,
+      "market_cap": 42151188.0,
+      "owner_count": 517,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
+      "ticker": "CLOETTA",
+      "company_name": "Cloetta",
+      "trend7d": 0.74,
+      "discord_members": 50,
+      "facebook_members": null,
+      "market_cap": 15960647235.0,
+      "owner_count": 5480,
+      "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
+      "ticker": "IMPLANTICA-SDB",
+      "company_name": "Implantica SDB",
+      "trend7d": 0.69,
+      "discord_members": 626,
+      "facebook_members": 106,
+      "market_cap": 3863437611.0,
+      "owner_count": 629,
+      "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
+    },
+    {
       "ticker": "ZAPTEC",
       "company_name": "Zaptec",
       "trend7d": 0.66,
@@ -283,16 +313,6 @@
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
     {
-      "ticker": "IMPLANTICA-SDB",
-      "company_name": "Implantica SDB",
-      "trend7d": 0.64,
-      "discord_members": 625,
-      "facebook_members": 106,
-      "market_cap": 3863437611.0,
-      "owner_count": 629,
-      "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
-    },
-    {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
       "trend7d": 0.62,
@@ -301,16 +321,6 @@
       "market_cap": 34838256452.22,
       "owner_count": 1083,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
-    },
-    {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.61,
-      "discord_members": 231,
-      "facebook_members": null,
-      "market_cap": 42151188.0,
-      "owner_count": 517,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
       "ticker": "TRANSFER-GROUP",
@@ -405,22 +415,12 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 0.29,
-      "discord_members": 1507,
+      "trend7d": 0.31,
+      "discord_members": 1508,
       "facebook_members": null,
       "market_cap": 3845398552.0,
       "owner_count": 7135,
       "detail_url": "https://allaaktier.se/bolag/smart-eye"
-    },
-    {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.28,
-      "discord_members": 861,
-      "facebook_members": null,
-      "market_cap": 243516390.0,
-      "owner_count": 832,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "DOUBLE-BOND-PHARMACEUTICAL",
@@ -453,16 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.26,
-      "discord_members": 823,
-      "facebook_members": null,
-      "market_cap": 11537007352.0,
-      "owner_count": 7326,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
       "ticker": "ZAPLOX",
       "company_name": "Zaplox",
       "trend7d": 0.26,
@@ -493,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.24,
+      "discord_members": 860,
+      "facebook_members": null,
+      "market_cap": 243516390.0,
+      "owner_count": 832,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+    },
+    {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
       "company_name": "Trophy Games Development",
       "trend7d": 0.24,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 53,
+    "total_posts_fetched": 54,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
