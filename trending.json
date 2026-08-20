@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:38:25.655271+00:00",
+  "generated_at": "2026-08-20T15:36:15.745463+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -443,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/dustin"
     },
     {
+      "ticker": "MAHVIE-MINERALS",
+      "company_name": "Mahvie Minerals",
+      "trend7d": 0.27,
+      "discord_members": 350,
+      "facebook_members": null,
+      "market_cap": 73090201.0,
+      "owner_count": 1451,
+      "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
+    },
+    {
       "ticker": "INTRUM",
       "company_name": "Intrum",
       "trend7d": 0.26,
@@ -501,16 +511,6 @@
       "market_cap": 330571936.0,
       "owner_count": 658,
       "detail_url": "https://allaaktier.se/bolag/nexam-chemical"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.23,
-      "discord_members": 943,
-      "facebook_members": 289,
-      "market_cap": 3130564594.0,
-      "owner_count": 2102,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 52,
+    "total_posts_fetched": 53,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
