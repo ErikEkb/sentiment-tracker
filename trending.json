@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:30:23.636938+00:00",
+  "generated_at": "2026-08-20T22:30:05.401370+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "KLARNA",
       "company_name": "Klarna",
-      "trend7d": 9.59,
-      "discord_members": 74,
+      "trend7d": 10.08,
+      "discord_members": 75,
       "facebook_members": null,
       "market_cap": 52608256634.16,
       "owner_count": 6585,
@@ -68,7 +68,7 @@
       "trend7d": 4.77,
       "discord_members": 840,
       "facebook_members": null,
-      "market_cap": 480557839.91,
+      "market_cap": 466597429.37,
       "owner_count": 4765,
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
@@ -78,7 +78,7 @@
       "trend7d": 4.76,
       "discord_members": 226,
       "facebook_members": null,
-      "market_cap": 126550470.0,
+      "market_cap": 132187462.0,
       "owner_count": 156,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
@@ -98,7 +98,7 @@
       "trend7d": 2.69,
       "discord_members": 206,
       "facebook_members": null,
-      "market_cap": 4798442944.0,
+      "market_cap": 4905391895.0,
       "owner_count": 1783,
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
@@ -108,7 +108,7 @@
       "trend7d": 2.5,
       "discord_members": 82,
       "facebook_members": null,
-      "market_cap": 9872939.0,
+      "market_cap": 9483857.0,
       "owner_count": 266,
       "detail_url": "https://allaaktier.se/bolag/gold-town-games"
     },
@@ -128,7 +128,7 @@
       "trend7d": 1.83,
       "discord_members": 357,
       "facebook_members": null,
-      "market_cap": 135002424.0,
+      "market_cap": 130816302.0,
       "owner_count": 610,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
@@ -138,7 +138,7 @@
       "trend7d": 1.74,
       "discord_members": 91,
       "facebook_members": null,
-      "market_cap": 418509730.0,
+      "market_cap": 425725415.0,
       "owner_count": 290,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
@@ -228,7 +228,7 @@
       "trend7d": 0.92,
       "discord_members": 441,
       "facebook_members": null,
-      "market_cap": 23555013141.0,
+      "market_cap": 23569472940.0,
       "owner_count": 4328,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -248,7 +248,7 @@
       "trend7d": 0.88,
       "discord_members": 143,
       "facebook_members": null,
-      "market_cap": 299999700.0,
+      "market_cap": 294545160.0,
       "owner_count": 850,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
@@ -278,7 +278,7 @@
       "trend7d": 0.76,
       "discord_members": 232,
       "facebook_members": null,
-      "market_cap": 42151188.0,
+      "market_cap": 41495989.0,
       "owner_count": 517,
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
@@ -358,7 +358,7 @@
       "trend7d": 0.49,
       "discord_members": 195,
       "facebook_members": null,
-      "market_cap": 54761540.0,
+      "market_cap": 54983247.0,
       "owner_count": 146,
       "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
@@ -405,8 +405,8 @@
     {
       "ticker": "KLARIA-PHARMA",
       "company_name": "Klaria Pharma",
-      "trend7d": 0.28,
-      "discord_members": 861,
+      "trend7d": 0.32,
+      "discord_members": 862,
       "facebook_members": null,
       "market_cap": 256307150.0,
       "owner_count": 832,
@@ -448,7 +448,7 @@
       "trend7d": 0.27,
       "discord_members": 350,
       "facebook_members": null,
-      "market_cap": 73090201.0,
+      "market_cap": 75429087.0,
       "owner_count": 1451,
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
@@ -516,10 +516,28 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95717241",
+        "https://www.flashback.org/sp95717591",
+        "https://www.flashback.org/sp95717992"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 50,
-    "tickers_with_any_mentions": 0,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
