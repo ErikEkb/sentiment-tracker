@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T13:47:59.548123+00:00",
+  "generated_at": "2026-08-21T14:37:38.566729+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -153,6 +153,16 @@
       "detail_url": "https://allaaktier.se/bolag/sedana-medical"
     },
     {
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 1.48,
+      "discord_members": 245,
+      "facebook_members": null,
+      "market_cap": 275620258.0,
+      "owner_count": 560,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+    },
+    {
       "ticker": "CLEAN-MOTION",
       "company_name": "Clean Motion",
       "trend7d": 1.47,
@@ -181,16 +191,6 @@
       "market_cap": 282527556.0,
       "owner_count": 1318,
       "detail_url": "https://allaaktier.se/bolag/nordic-iron-ore"
-    },
-    {
-      "ticker": "AVTECH-SWEDEN",
-      "company_name": "Avtech Sweden",
-      "trend7d": 1.2,
-      "discord_members": 243,
-      "facebook_members": null,
-      "market_cap": 275620258.0,
-      "owner_count": 560,
-      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
       "ticker": "TRANSTEMA",
