@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:36:10.937057+00:00",
+  "generated_at": "2026-08-21T16:37:20.076090+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "IMPLANTICA-SDB",
       "company_name": "Implantica SDB",
-      "trend7d": 2.36,
-      "discord_members": 635,
+      "trend7d": 2.41,
+      "discord_members": 636,
       "facebook_members": 106,
       "market_cap": 4078458376.0,
       "owner_count": 643,
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/gold-town-games"
     },
     {
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 1.77,
+      "discord_members": 247,
+      "facebook_members": null,
+      "market_cap": 275620258.0,
+      "owner_count": 560,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+    },
+    {
       "ticker": "SEDANA-MEDICAL",
       "company_name": "Sedana Medical",
       "trend7d": 1.75,
@@ -151,16 +161,6 @@
       "market_cap": 1029130906.0,
       "owner_count": 927,
       "detail_url": "https://allaaktier.se/bolag/sedana-medical"
-    },
-    {
-      "ticker": "AVTECH-SWEDEN",
-      "company_name": "Avtech Sweden",
-      "trend7d": 1.48,
-      "discord_members": 245,
-      "facebook_members": null,
-      "market_cap": 275620258.0,
-      "owner_count": 560,
-      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
       "ticker": "CLEAN-MOTION",
@@ -453,16 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 0.35,
-      "discord_members": 875,
-      "facebook_members": null,
-      "market_cap": 215661875.19,
-      "owner_count": 79,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
-    },
-    {
       "ticker": "PRECISE-BIOMETRICS",
       "company_name": "Precise Biometrics",
       "trend7d": 0.35,
@@ -511,6 +501,16 @@
       "market_cap": 8671047.0,
       "owner_count": 462,
       "detail_url": "https://allaaktier.se/bolag/insplorion"
+    },
+    {
+      "ticker": "ALLARITY-THERAPEUTICS",
+      "company_name": "Allarity Therapeutics",
+      "trend7d": 0.31,
+      "discord_members": 874,
+      "facebook_members": null,
+      "market_cap": 215661875.19,
+      "owner_count": 79,
+      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 46,
+    "total_posts_fetched": 47,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
