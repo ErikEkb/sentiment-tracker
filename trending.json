@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:26:14.788092+00:00",
+  "generated_at": "2026-08-21T03:05:21.014765+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,7 +45,7 @@
     {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
-      "trend7d": 4.77,
+      "trend7d": 4.84,
       "discord_members": 840,
       "facebook_members": null,
       "market_cap": 466597429.37,
@@ -85,7 +85,7 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 4.42,
+      "trend7d": 4.27,
       "discord_members": 637,
       "facebook_members": 363,
       "market_cap": 255189656.0,
@@ -175,7 +175,7 @@
     {
       "ticker": "NORDIC-IRON-ORE",
       "company_name": "Nordic Iron Ore",
-      "trend7d": 1.33,
+      "trend7d": 1.35,
       "discord_members": 312,
       "facebook_members": 567,
       "market_cap": 296789765.0,
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
+      "ticker": "IMPLANTICA-SDB",
+      "company_name": "Implantica SDB",
+      "trend7d": 0.78,
+      "discord_members": 627,
+      "facebook_members": 106,
+      "market_cap": 3759395305.0,
+      "owner_count": 629,
+      "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
+    },
+    {
       "ticker": "AIK-FOTBOLL",
       "company_name": "AIK Fotboll",
       "trend7d": 0.77,
@@ -253,16 +263,6 @@
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
-      "ticker": "IMPLANTICA-SDB",
-      "company_name": "Implantica SDB",
-      "trend7d": 0.74,
-      "discord_members": 627,
-      "facebook_members": 106,
-      "market_cap": 3759395305.0,
-      "owner_count": 629,
-      "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
-    },
-    {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
       "trend7d": 0.73,
@@ -271,6 +271,16 @@
       "market_cap": 23569472940.0,
       "owner_count": 4328,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.71,
+      "discord_members": 417,
+      "facebook_members": null,
+      "market_cap": 33561924648.57,
+      "owner_count": 1083,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "AVTECH-SWEDEN",
@@ -301,16 +311,6 @@
       "market_cap": 4375149938.69,
       "owner_count": 12662,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.62,
-      "discord_members": 417,
-      "facebook_members": null,
-      "market_cap": 33561924648.57,
-      "owner_count": 1083,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "BYHMGARD",
@@ -383,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
+      "ticker": "LEADING-EDGE-MATERIALS",
+      "company_name": "Leading Edge Materials",
+      "trend7d": 0.36,
+      "discord_members": 677,
+      "facebook_members": null,
+      "market_cap": 508244802.0,
+      "owner_count": 558,
+      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
+    },
+    {
       "ticker": "ALLARITY-THERAPEUTICS",
       "company_name": "Allarity Therapeutics",
       "trend7d": 0.35,
@@ -391,6 +401,16 @@
       "market_cap": 215253925.83,
       "owner_count": 79,
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
+    },
+    {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.35,
+      "discord_members": 862,
+      "facebook_members": null,
+      "market_cap": 256307150.0,
+      "owner_count": 832,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -411,16 +431,6 @@
       "market_cap": 2387715543.0,
       "owner_count": 1694,
       "detail_url": "https://allaaktier.se/bolag/dustin"
-    },
-    {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.32,
-      "discord_members": 862,
-      "facebook_members": null,
-      "market_cap": 256307150.0,
-      "owner_count": 832,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "SMART-EYE",
@@ -453,26 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/zaplox"
     },
     {
-      "ticker": "EMB-MISSION-BOUND",
-      "company_name": "EMB Mission Bound",
-      "trend7d": 0.25,
-      "discord_members": 100,
-      "facebook_members": null,
-      "market_cap": 144946023.0,
-      "owner_count": 101,
-      "detail_url": "https://allaaktier.se/bolag/emb-mission-bound"
-    },
-    {
-      "ticker": "ODINWELL",
-      "company_name": "Odinwell",
-      "trend7d": 0.25,
-      "discord_members": 160,
-      "facebook_members": 142,
-      "market_cap": 13038064.0,
-      "owner_count": 241,
-      "detail_url": "https://allaaktier.se/bolag/odinwell"
-    },
-    {
       "ticker": "TROPHY-GAMES-DEVELOPMENT",
       "company_name": "Trophy Games Development",
       "trend7d": 0.24,
@@ -491,6 +481,16 @@
       "market_cap": 4516492593.0,
       "owner_count": 3470,
       "detail_url": "https://allaaktier.se/bolag/ovzon"
+    },
+    {
+      "ticker": "INTERNATIONAL-PETROLEUM",
+      "company_name": "International Petroleum",
+      "trend7d": 0.21,
+      "discord_members": 311,
+      "facebook_members": 89,
+      "market_cap": 27010724429.0,
+      "owner_count": 2623,
+      "detail_url": "https://allaaktier.se/bolag/international-petroleum"
     },
     {
       "ticker": "EGETIS-THERAPEUTICS",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 50,
+    "total_posts_fetched": 51,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
