@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:28:44.382683+00:00",
+  "generated_at": "2026-08-21T12:52:55.321304+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -115,8 +115,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 2.32,
-      "discord_members": 359,
+      "trend7d": 2.23,
+      "discord_members": 358,
       "facebook_members": null,
       "market_cap": 135525689.0,
       "owner_count": 612,
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/nordic-iron-ore"
     },
     {
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 1.2,
+      "discord_members": 243,
+      "facebook_members": null,
+      "market_cap": 275620258.0,
+      "owner_count": 560,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+    },
+    {
       "ticker": "TRANSTEMA",
       "company_name": "Transtema",
       "trend7d": 1.18,
@@ -223,14 +233,14 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
-      "ticker": "AVTECH-SWEDEN",
-      "company_name": "Avtech Sweden",
-      "trend7d": 1.05,
-      "discord_members": 242,
+      "ticker": "PREBONA",
+      "company_name": "Prebona",
+      "trend7d": 1.12,
+      "discord_members": 40,
       "facebook_members": null,
-      "market_cap": 275620258.0,
-      "owner_count": 560,
-      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+      "market_cap": 22828036.0,
+      "owner_count": 154,
+      "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
       "ticker": "ACAST",
@@ -341,6 +351,16 @@
       "market_cap": 73954935.0,
       "owner_count": 1175,
       "detail_url": "https://allaaktier.se/bolag/transfer-group"
+    },
+    {
+      "ticker": "MAHVIE-MINERALS",
+      "company_name": "Mahvie Minerals",
+      "trend7d": 0.56,
+      "discord_members": 354,
+      "facebook_members": null,
+      "market_cap": 73090201.0,
+      "owner_count": 1452,
+      "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
       "ticker": "TOUCHTECH",
@@ -491,26 +511,6 @@
       "market_cap": 8671047.0,
       "owner_count": 462,
       "detail_url": "https://allaaktier.se/bolag/insplorion"
-    },
-    {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 0.31,
-      "discord_members": 83,
-      "facebook_members": null,
-      "market_cap": 10146099726.0,
-      "owner_count": 2548,
-      "detail_url": "https://allaaktier.se/bolag/mips"
-    },
-    {
-      "ticker": "SSAB",
-      "company_name": "SSAB",
-      "trend7d": 0.3,
-      "discord_members": 423,
-      "facebook_members": null,
-      "market_cap": 96554734755.0,
-      "owner_count": 3359,
-      "detail_url": "https://allaaktier.se/bolag/ssab"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 51,
+    "total_posts_fetched": 54,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
