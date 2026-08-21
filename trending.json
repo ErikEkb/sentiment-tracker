@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:39:34.766029+00:00",
+  "generated_at": "2026-08-21T19:27:30.395533+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 26.14,
-      "discord_members": 100,
+      "trend7d": 25.71,
+      "discord_members": 99,
       "facebook_members": null,
       "market_cap": 13019314.0,
       "owner_count": 211,
@@ -263,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
+      "ticker": "ZAPTEC",
+      "company_name": "Zaptec",
+      "trend7d": 0.92,
+      "discord_members": 188,
+      "facebook_members": 558,
+      "market_cap": 4307665633.23,
+      "owner_count": 12700,
+      "detail_url": "https://allaaktier.se/bolag/zaptec"
+    },
+    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 0.88,
@@ -301,16 +311,6 @@
       "market_cap": 8459993080.0,
       "owner_count": 3730,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "ZAPTEC",
-      "company_name": "Zaptec",
-      "trend7d": 0.75,
-      "discord_members": 187,
-      "facebook_members": 558,
-      "market_cap": 4307665633.23,
-      "owner_count": 12700,
-      "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
     {
       "ticker": "HACKSAW",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 52,
+    "total_posts_fetched": 60,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
