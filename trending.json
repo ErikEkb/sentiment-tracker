@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:27:30.017629+00:00",
+  "generated_at": "2026-08-21T23:26:18.034859+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -43,16 +43,6 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
-      "ticker": "FLEXQUBE",
-      "company_name": "FlexQube",
-      "trend7d": 5.53,
-      "discord_members": 113,
-      "facebook_members": null,
-      "market_cap": 671594040.0,
-      "owner_count": 311,
-      "detail_url": "https://allaaktier.se/bolag/flexqube"
-    },
-    {
       "ticker": "CYCLEZYME",
       "company_name": "Cyclezyme",
       "trend7d": 5.39,
@@ -61,6 +51,16 @@
       "market_cap": 123731974.0,
       "owner_count": 160,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
+      "ticker": "FLEXQUBE",
+      "company_name": "FlexQube",
+      "trend7d": 5.23,
+      "discord_members": 112,
+      "facebook_members": null,
+      "market_cap": 671594040.0,
+      "owner_count": 311,
+      "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
       "ticker": "ZENITH-ENERGY",
@@ -323,6 +323,16 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
+      "ticker": "MIPS",
+      "company_name": "Mips",
+      "trend7d": 0.72,
+      "discord_members": 84,
+      "facebook_members": null,
+      "market_cap": 9960661872.0,
+      "owner_count": 2548,
+      "detail_url": "https://allaaktier.se/bolag/mips"
+    },
+    {
       "ticker": "AIK-FOTBOLL",
       "company_name": "AIK Fotboll",
       "trend7d": 0.64,
@@ -501,16 +511,6 @@
       "market_cap": 3810119666.0,
       "owner_count": 7139,
       "detail_url": "https://allaaktier.se/bolag/smart-eye"
-    },
-    {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 0.31,
-      "discord_members": 83,
-      "facebook_members": null,
-      "market_cap": 9960661872.0,
-      "owner_count": 2548,
-      "detail_url": "https://allaaktier.se/bolag/mips"
     }
   ],
   "twitter_mentions": 0,
