@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:37:20.076090+00:00",
+  "generated_at": "2026-08-21T17:31:05.439331+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -265,8 +265,8 @@
     {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
-      "trend7d": 0.93,
-      "discord_members": 589,
+      "trend7d": 0.88,
+      "discord_members": 588,
       "facebook_members": null,
       "market_cap": 1660430077.0,
       "owner_count": 623,
@@ -403,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
     },
     {
-      "ticker": "VETTED-ASSETS",
-      "company_name": "Vetted Assets",
-      "trend7d": 0.41,
-      "discord_members": 76,
-      "facebook_members": null,
-      "market_cap": 270708236.0,
-      "owner_count": 446,
-      "detail_url": "https://allaaktier.se/bolag/vetted-assets"
-    },
-    {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
       "trend7d": 0.41,
@@ -511,6 +501,16 @@
       "market_cap": 215661875.19,
       "owner_count": 79,
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
+    },
+    {
+      "ticker": "MIPS",
+      "company_name": "Mips",
+      "trend7d": 0.31,
+      "discord_members": 83,
+      "facebook_members": null,
+      "market_cap": 10146099726.0,
+      "owner_count": 2548,
+      "detail_url": "https://allaaktier.se/bolag/mips"
     }
   ],
   "twitter_mentions": 0,
