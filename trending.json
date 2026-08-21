@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:52:55.321304+00:00",
+  "generated_at": "2026-08-21T13:47:59.548123+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -516,28 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "SPCX",
-      "company_name": "SpaceX",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.333,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95717241",
-        "https://www.flashback.org/sp95717591",
-        "https://www.flashback.org/sp95717992"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 54,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 43,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
