@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:39:12.756720+00:00",
+  "generated_at": "2026-08-21T10:32:45.143965+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -28,7 +28,7 @@
       "trend7d": 10.06,
       "discord_members": 75,
       "facebook_members": null,
-      "market_cap": 52608256634.16,
+      "market_cap": 50095820617.92,
       "owner_count": 6715,
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
@@ -58,7 +58,7 @@
       "trend7d": 4.84,
       "discord_members": 840,
       "facebook_members": null,
-      "market_cap": 466597429.37,
+      "market_cap": 451049377.42,
       "owner_count": 4808,
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
@@ -68,7 +68,7 @@
       "trend7d": 4.44,
       "discord_members": 226,
       "facebook_members": null,
-      "market_cap": 132187462.0,
+      "market_cap": 130778214.0,
       "owner_count": 160,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
@@ -98,15 +98,15 @@
       "trend7d": 2.6,
       "discord_members": 206,
       "facebook_members": null,
-      "market_cap": 4905391895.0,
+      "market_cap": 4869742245.0,
       "owner_count": 1780,
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
       "ticker": "IMPLANTICA-SDB",
       "company_name": "Implantica SDB",
-      "trend7d": 2.31,
-      "discord_members": 634,
+      "trend7d": 2.36,
+      "discord_members": 635,
       "facebook_members": 106,
       "market_cap": 4078458376.0,
       "owner_count": 643,
@@ -125,7 +125,7 @@
     {
       "ticker": "GOLD-TOWN-GAMES",
       "company_name": "Gold Town Games",
-      "trend7d": 1.95,
+      "trend7d": 1.94,
       "discord_members": 82,
       "facebook_members": null,
       "market_cap": 9727033.0,
@@ -148,7 +148,7 @@
       "trend7d": 1.65,
       "discord_members": 359,
       "facebook_members": null,
-      "market_cap": 130816302.0,
+      "market_cap": 135525689.0,
       "owner_count": 612,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
@@ -173,16 +173,6 @@
       "detail_url": "https://allaaktier.se/bolag/xspray-pharma"
     },
     {
-      "ticker": "TRANSTEMA",
-      "company_name": "Transtema",
-      "trend7d": 1.38,
-      "discord_members": 86,
-      "facebook_members": null,
-      "market_cap": 331905061.0,
-      "owner_count": 497,
-      "detail_url": "https://allaaktier.se/bolag/transtema"
-    },
-    {
       "ticker": "NORDIC-IRON-ORE",
       "company_name": "Nordic Iron Ore",
       "trend7d": 1.26,
@@ -193,9 +183,19 @@
       "detail_url": "https://allaaktier.se/bolag/nordic-iron-ore"
     },
     {
+      "ticker": "TRANSTEMA",
+      "company_name": "Transtema",
+      "trend7d": 1.18,
+      "discord_members": 86,
+      "facebook_members": null,
+      "market_cap": 331905061.0,
+      "owner_count": 497,
+      "detail_url": "https://allaaktier.se/bolag/transtema"
+    },
+    {
       "ticker": "FERROAMP",
       "company_name": "Ferroamp",
-      "trend7d": 1.15,
+      "trend7d": 1.16,
       "discord_members": 53,
       "facebook_members": null,
       "market_cap": 306423771.0,
@@ -205,7 +205,7 @@
     {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
-      "trend7d": 1.05,
+      "trend7d": 1.15,
       "discord_members": 91,
       "facebook_members": null,
       "market_cap": 425725415.0,
@@ -213,9 +213,19 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 1.05,
+      "discord_members": 242,
+      "facebook_members": null,
+      "market_cap": 275620258.0,
+      "owner_count": 560,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+    },
+    {
       "ticker": "ACAST",
       "company_name": "Acast",
-      "trend7d": 1.03,
+      "trend7d": 1.05,
       "discord_members": 57,
       "facebook_members": null,
       "market_cap": 6568749360.0,
@@ -253,24 +263,24 @@
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
-      "ticker": "AVTECH-SWEDEN",
-      "company_name": "Avtech Sweden",
-      "trend7d": 0.91,
-      "discord_members": 241,
-      "facebook_members": null,
-      "market_cap": 275620258.0,
-      "owner_count": 560,
-      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
-    },
-    {
       "ticker": "ARGO-DEFENCE",
       "company_name": "Argo Defence",
       "trend7d": 0.88,
       "discord_members": 143,
       "facebook_members": null,
-      "market_cap": 294545160.0,
+      "market_cap": 294125580.0,
       "owner_count": 850,
       "detail_url": "https://allaaktier.se/bolag/argo-defence"
+    },
+    {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 0.79,
+      "discord_members": 147,
+      "facebook_members": null,
+      "market_cap": 91116462.0,
+      "owner_count": 268,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "AIK-FOTBOLL",
@@ -308,19 +318,9 @@
       "trend7d": 0.73,
       "discord_members": 441,
       "facebook_members": null,
-      "market_cap": 23569472940.0,
+      "market_cap": 23714070934.0,
       "owner_count": 4326,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
-      "ticker": "BIBBINSTRUMENTS",
-      "company_name": "BiBBInstruments",
-      "trend7d": 0.71,
-      "discord_members": 147,
-      "facebook_members": null,
-      "market_cap": 91116462.0,
-      "owner_count": 268,
-      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "KLARIA-PHARMA",
@@ -348,7 +348,7 @@
       "trend7d": 0.53,
       "discord_members": 195,
       "facebook_members": null,
-      "market_cap": 54983247.0,
+      "market_cap": 55204953.0,
       "owner_count": 146,
       "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
-      "ticker": "DUSTIN",
-      "company_name": "Dustin",
-      "trend7d": 0.31,
-      "discord_members": 65,
+      "ticker": "SSAB",
+      "company_name": "SSAB",
+      "trend7d": 0.3,
+      "discord_members": 423,
       "facebook_members": null,
-      "market_cap": 2461817060.0,
-      "owner_count": 1693,
-      "detail_url": "https://allaaktier.se/bolag/dustin"
+      "market_cap": 96554734755.0,
+      "owner_count": 3359,
+      "detail_url": "https://allaaktier.se/bolag/ssab"
     }
   ],
   "twitter_mentions": 0,
