@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:34:15.893906+00:00",
+  "generated_at": "2026-08-22T19:24:18.811166+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -165,8 +165,8 @@
     {
       "ticker": "AVTECH-SWEDEN",
       "company_name": "Avtech Sweden",
-      "trend7d": 1.54,
-      "discord_members": 246,
+      "trend7d": 1.68,
+      "discord_members": 247,
       "facebook_members": null,
       "market_cap": 200220044.0,
       "owner_count": 560,
@@ -201,6 +201,16 @@
       "market_cap": 290677390.0,
       "owner_count": 1318,
       "detail_url": "https://allaaktier.se/bolag/nordic-iron-ore"
+    },
+    {
+      "ticker": "BYHMGARD",
+      "company_name": "Byhmgard",
+      "trend7d": 1.21,
+      "discord_members": 69,
+      "facebook_members": 614,
+      "market_cap": 221111120.0,
+      "owner_count": 394,
+      "detail_url": "https://allaaktier.se/bolag/byhmgard"
     },
     {
       "ticker": "FERROAMP",
@@ -311,16 +321,6 @@
       "market_cap": 13674299.0,
       "owner_count": 304,
       "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
-      "ticker": "BYHMGARD",
-      "company_name": "Byhmgard",
-      "trend7d": 0.71,
-      "discord_members": 68,
-      "facebook_members": 614,
-      "market_cap": 221111120.0,
-      "owner_count": 394,
-      "detail_url": "https://allaaktier.se/bolag/byhmgard"
     },
     {
       "ticker": "MIPS",
