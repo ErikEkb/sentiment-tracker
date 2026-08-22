@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T14:24:13.979177+00:00",
+  "generated_at": "2026-08-22T15:23:52.938263+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -95,8 +95,8 @@
     {
       "ticker": "IMPLANTICA-SDB",
       "company_name": "Implantica SDB",
-      "trend7d": 3.93,
-      "discord_members": 639,
+      "trend7d": 3.98,
+      "discord_members": 640,
       "facebook_members": 106,
       "market_cap": 3918926840.0,
       "owner_count": 643,
@@ -165,8 +165,8 @@
     {
       "ticker": "AVTECH-SWEDEN",
       "company_name": "Avtech Sweden",
-      "trend7d": 1.68,
-      "discord_members": 247,
+      "trend7d": 1.54,
+      "discord_members": 246,
       "facebook_members": null,
       "market_cap": 200220044.0,
       "owner_count": 560,
@@ -333,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.67,
-      "discord_members": 863,
-      "facebook_members": null,
-      "market_cap": 261226673.0,
-      "owner_count": 837,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
-    },
-    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 0.65,
@@ -351,6 +341,16 @@
       "market_cap": 618105518.0,
       "owner_count": 952,
       "detail_url": "https://allaaktier.se/bolag/qliro"
+    },
+    {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.63,
+      "discord_members": 862,
+      "facebook_members": null,
+      "market_cap": 261226673.0,
+      "owner_count": 837,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "I-TECH",
