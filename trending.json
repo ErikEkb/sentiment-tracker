@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:26:13.610083+00:00",
+  "generated_at": "2026-08-22T11:22:52.108832+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,7 +25,7 @@
     {
       "ticker": "KLARNA",
       "company_name": "Klarna",
-      "trend7d": 11.14,
+      "trend7d": 11.58,
       "discord_members": 76,
       "facebook_members": null,
       "market_cap": 50048413174.58,
@@ -43,16 +43,6 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 5.54,
-      "discord_members": 227,
-      "facebook_members": null,
-      "market_cap": 123731974.0,
-      "owner_count": 160,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 5.49,
@@ -61,6 +51,16 @@
       "market_cap": 671594040.0,
       "owner_count": 311,
       "detail_url": "https://allaaktier.se/bolag/flexqube"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 5.45,
+      "discord_members": 227,
+      "facebook_members": null,
+      "market_cap": 123731974.0,
+      "owner_count": 160,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "ENORAMA-PHARMA",
@@ -75,7 +75,7 @@
     {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
-      "trend7d": 5.13,
+      "trend7d": 4.95,
       "discord_members": 840,
       "facebook_members": null,
       "market_cap": 473349779.28,
@@ -105,12 +105,22 @@
     {
       "ticker": "NYAB",
       "company_name": "NYAB",
-      "trend7d": 2.79,
+      "trend7d": 2.88,
       "discord_members": 206,
       "facebook_members": null,
       "market_cap": 4926781685.0,
       "owner_count": 1780,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 2.45,
+      "discord_members": 358,
+      "facebook_members": null,
+      "market_cap": 134479159.0,
+      "owner_count": 612,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "S2MEDICAL",
@@ -121,16 +131,6 @@
       "market_cap": 15468513.0,
       "owner_count": 441,
       "detail_url": "https://allaaktier.se/bolag/s2medical"
-    },
-    {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 2.13,
-      "discord_members": 358,
-      "facebook_members": null,
-      "market_cap": 134479159.0,
-      "owner_count": 612,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "GOLD-TOWN-GAMES",
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 0.93,
+      "discord_members": 143,
+      "facebook_members": null,
+      "market_cap": 293706000.0,
+      "owner_count": 850,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
+    },
+    {
       "ticker": "ZAPTEC",
       "company_name": "Zaptec",
       "trend7d": 0.89,
@@ -251,6 +261,16 @@
       "market_cap": 4617629438.13,
       "owner_count": 12700,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.88,
+      "discord_members": 443,
+      "facebook_members": null,
+      "market_cap": 24017726720.0,
+      "owner_count": 4326,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
@@ -263,16 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
-      "trend7d": 0.84,
-      "discord_members": 143,
-      "facebook_members": null,
-      "market_cap": 293706000.0,
-      "owner_count": 850,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
-    },
-    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 0.82,
@@ -281,16 +291,6 @@
       "market_cap": 1717136334.0,
       "owner_count": 623,
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.81,
-      "discord_members": 442,
-      "facebook_members": null,
-      "market_cap": 24017726720.0,
-      "owner_count": 4326,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -375,7 +375,7 @@
     {
       "ticker": "TOUCHTECH",
       "company_name": "Touchtech",
-      "trend7d": 0.53,
+      "trend7d": 0.49,
       "discord_members": 195,
       "facebook_members": null,
       "market_cap": 54096420.0,
