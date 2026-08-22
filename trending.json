@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:25:26.392056+00:00",
+  "generated_at": "2026-08-22T21:24:10.926192+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,12 +35,22 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 7.71,
-      "discord_members": 51,
+      "trend7d": 8.43,
+      "discord_members": 52,
       "facebook_members": 63,
       "market_cap": 70851575.0,
       "owner_count": 629,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
+      "ticker": "ENORAMA-PHARMA",
+      "company_name": "Enorama Pharma",
+      "trend7d": 6.06,
+      "discord_members": 40,
+      "facebook_members": 707,
+      "market_cap": 72201844.0,
+      "owner_count": 183,
+      "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
     },
     {
       "ticker": "FLEXQUBE",
@@ -71,16 +81,6 @@
       "market_cap": 473349779.28,
       "owner_count": 4808,
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
-    },
-    {
-      "ticker": "ENORAMA-PHARMA",
-      "company_name": "Enorama Pharma",
-      "trend7d": 5.19,
-      "discord_members": 39,
-      "facebook_members": 707,
-      "market_cap": 72201844.0,
-      "owner_count": 183,
-      "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -248,7 +248,7 @@
       "trend7d": 1.02,
       "discord_members": 417,
       "facebook_members": null,
-      "market_cap": 32940407973.48,
+      "market_cap": 32940418514.42,
       "owner_count": 1083,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
