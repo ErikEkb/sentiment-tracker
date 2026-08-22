@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:22:52.108832+00:00",
+  "generated_at": "2026-08-22T12:43:10.151643+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -343,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
+      "ticker": "QLIRO",
+      "company_name": "Qliro",
+      "trend7d": 0.65,
+      "discord_members": 46,
+      "facebook_members": null,
+      "market_cap": 618105518.0,
+      "owner_count": 952,
+      "detail_url": "https://allaaktier.se/bolag/qliro"
+    },
+    {
       "ticker": "I-TECH",
       "company_name": "I-Tech",
       "trend7d": 0.61,
@@ -453,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
     },
     {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 0.37,
+      "discord_members": 824,
+      "facebook_members": null,
+      "market_cap": 11435191512.0,
+      "owner_count": 7332,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
+    },
+    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 0.37,
@@ -473,16 +493,6 @@
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     },
     {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.33,
-      "discord_members": 823,
-      "facebook_members": null,
-      "market_cap": 11435191512.0,
-      "owner_count": 7332,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
       "ticker": "MONIVENT",
       "company_name": "Monivent",
       "trend7d": 0.33,
@@ -501,16 +511,6 @@
       "market_cap": 47854779.0,
       "owner_count": 288,
       "detail_url": "https://allaaktier.se/bolag/nitro-games"
-    },
-    {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 0.31,
-      "discord_members": 874,
-      "facebook_members": null,
-      "market_cap": 214794772.73,
-      "owner_count": 79,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     }
   ],
   "twitter_mentions": 0,
