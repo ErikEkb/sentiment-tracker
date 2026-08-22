@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:22:42.885042+00:00",
+  "generated_at": "2026-08-22T18:34:15.893906+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
+      "ticker": "ZENITH-ENERGY",
+      "company_name": "Zenith Energy",
+      "trend7d": 5.23,
+      "discord_members": 847,
+      "facebook_members": null,
+      "market_cap": 473349779.28,
+      "owner_count": 4808,
+      "detail_url": "https://allaaktier.se/bolag/zenith-energy"
+    },
+    {
       "ticker": "ENORAMA-PHARMA",
       "company_name": "Enorama Pharma",
       "trend7d": 5.19,
@@ -71,16 +81,6 @@
       "market_cap": 72201844.0,
       "owner_count": 183,
       "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
-    },
-    {
-      "ticker": "ZENITH-ENERGY",
-      "company_name": "Zenith Energy",
-      "trend7d": 4.95,
-      "discord_members": 840,
-      "facebook_members": null,
-      "market_cap": 473349779.28,
-      "owner_count": 4808,
-      "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
