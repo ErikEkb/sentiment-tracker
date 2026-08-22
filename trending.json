@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:24:10.926192+00:00",
+  "generated_at": "2026-08-22T22:24:50.806113+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -403,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.48,
+      "discord_members": 1245,
+      "facebook_members": 297,
+      "market_cap": 728424738.0,
+      "owner_count": 2634,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
       "trend7d": 0.45,
@@ -431,16 +441,6 @@
       "market_cap": 34096005.0,
       "owner_count": 241,
       "detail_url": "https://allaaktier.se/bolag/double-bond-pharmaceutical"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.42,
-      "discord_members": 1243,
-      "facebook_members": 297,
-      "market_cap": 728424738.0,
-      "owner_count": 2634,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "SEAFIRE",
@@ -516,10 +516,61 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 4.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95734793",
+        "https://www.flashback.org/sp95736577",
+        "https://www.flashback.org/sp95739129"
+      ]
+    },
+    {
+      "ticker": "IMP-A-SDB",
+      "company_name": "Implantica",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.6,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 3.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95730341",
+        "https://www.flashback.org/sp95731058",
+        "https://www.flashback.org/sp95731906"
+      ]
+    },
+    {
+      "ticker": "LVMH",
+      "company_name": "LVMH Moet Hennessy Louis Vuitton",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95732128",
+        "https://www.flashback.org/sp95732216"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 62,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 51,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
