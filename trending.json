@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:28:46.127356+00:00",
+  "generated_at": "2026-08-23T17:22:19.672972+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
-      "trend7d": 5.1,
-      "discord_members": 850,
+      "trend7d": 5.14,
+      "discord_members": 851,
       "facebook_members": null,
       "market_cap": 473298658.58,
       "owner_count": 4808,
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/double-bond-pharmaceutical"
     },
     {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.42,
+      "discord_members": 1314,
+      "facebook_members": 195,
+      "market_cap": 915065003.0,
+      "owner_count": 1500,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
       "ticker": "SEAFIRE",
       "company_name": "Seafire",
       "trend7d": 0.4,
@@ -441,16 +451,6 @@
       "market_cap": 13674299.0,
       "owner_count": 304,
       "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 0.39,
-      "discord_members": 1313,
-      "facebook_members": 195,
-      "market_cap": 915065003.0,
-      "owner_count": 1500,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "PRECISE-BIOMETRICS",
