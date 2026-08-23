@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:23:59.595322+00:00",
+  "generated_at": "2026-08-23T20:26:18.478566+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -13,6 +13,16 @@
   "allaaktier_source": "https://allaaktier.se/",
   "allaaktier_hot": [
     {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 31.81,
+      "discord_members": 88,
+      "facebook_members": 63,
+      "market_cap": 70851575.0,
+      "owner_count": 629,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
       "trend7d": 28.22,
@@ -21,16 +31,6 @@
       "market_cap": 13019314.0,
       "owner_count": 211,
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
-    },
-    {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 25.56,
-      "discord_members": 79,
-      "facebook_members": 63,
-      "market_cap": 70851575.0,
-      "owner_count": 629,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "KLARNA",
@@ -105,8 +105,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 2.65,
-      "discord_members": 359,
+      "trend7d": 2.75,
+      "discord_members": 360,
       "facebook_members": null,
       "market_cap": 134479159.0,
       "owner_count": 612,
@@ -323,6 +323,16 @@
       "detail_url": "https://allaaktier.se/bolag/qliro"
     },
     {
+      "ticker": "MEDIVIR",
+      "company_name": "Medivir",
+      "trend7d": 0.61,
+      "discord_members": 512,
+      "facebook_members": null,
+      "market_cap": 1190325750.0,
+      "owner_count": 1246,
+      "detail_url": "https://allaaktier.se/bolag/medivir"
+    },
+    {
       "ticker": "EPISURF-MEDICAL",
       "company_name": "Episurf Medical",
       "trend7d": 0.58,
@@ -361,16 +371,6 @@
       "market_cap": 71920758.0,
       "owner_count": 1452,
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
-    },
-    {
-      "ticker": "MEDIVIR",
-      "company_name": "Medivir",
-      "trend7d": 0.54,
-      "discord_members": 511,
-      "facebook_members": null,
-      "market_cap": 1190325750.0,
-      "owner_count": 1246,
-      "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
       "ticker": "BIBBINSTRUMENTS",
