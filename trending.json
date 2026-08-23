@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T21:24:05.258373+00:00",
+  "generated_at": "2026-08-23T22:24:47.111787+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 31.81,
-      "discord_members": 88,
+      "trend7d": 34.59,
+      "discord_members": 92,
       "facebook_members": 63,
       "market_cap": 70851575.0,
       "owner_count": 629,
@@ -518,6 +518,23 @@
   "min_mentions": 2,
   "trending": [
     {
+      "ticker": "IMP-A-SDB",
+      "company_name": "Implantica",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 7,
+      "velocity_mentions_per_day": 2.33,
+      "avg_sentiment": 0.571,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 4.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95730341",
+        "https://www.flashback.org/sp95731058",
+        "https://www.flashback.org/sp95731906"
+      ]
+    },
+    {
       "ticker": "SPCX",
       "company_name": "SpaceX",
       "sector": "Discovered",
@@ -535,26 +552,25 @@
       ]
     },
     {
-      "ticker": "IMP-A-SDB",
-      "company_name": "Implantica",
+      "ticker": "HTRO",
+      "company_name": "Hexatronic Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.6,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 3.0,
+      "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95730341",
-        "https://www.flashback.org/sp95731058",
-        "https://www.flashback.org/sp95731906"
+        "https://www.flashback.org/sp95741656",
+        "https://www.flashback.org/sp95742465"
       ]
     }
   ],
   "stats": {
     "total_posts_fetched": 59,
-    "tickers_with_any_mentions": 2,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
