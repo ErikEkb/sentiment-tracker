@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T14:25:57.923625+00:00",
+  "generated_at": "2026-08-23T15:25:04.642752+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -373,6 +373,16 @@
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
+      "ticker": "MEDIVIR",
+      "company_name": "Medivir",
+      "trend7d": 0.54,
+      "discord_members": 511,
+      "facebook_members": null,
+      "market_cap": 1190325750.0,
+      "owner_count": 1246,
+      "detail_url": "https://allaaktier.se/bolag/medivir"
+    },
+    {
       "ticker": "TRANSFER-GROUP",
       "company_name": "Transfer Group",
       "trend7d": 0.52,
@@ -391,16 +401,6 @@
       "market_cap": 9960661872.0,
       "owner_count": 2548,
       "detail_url": "https://allaaktier.se/bolag/mips"
-    },
-    {
-      "ticker": "MEDIVIR",
-      "company_name": "Medivir",
-      "trend7d": 0.48,
-      "discord_members": 510,
-      "facebook_members": null,
-      "market_cap": 1190325750.0,
-      "owner_count": 1246,
-      "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
       "ticker": "DICOT-PHARMA",
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 58,
+    "total_posts_fetched": 56,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
