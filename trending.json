@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:32:54.477495+00:00",
+  "generated_at": "2026-08-23T09:30:08.955822+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -258,7 +258,7 @@
       "trend7d": 0.85,
       "discord_members": 188,
       "facebook_members": 558,
-      "market_cap": 4617629438.13,
+      "market_cap": 4617130744.67,
       "owner_count": 12700,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
@@ -550,27 +550,11 @@
         "https://www.flashback.org/sp95731058",
         "https://www.flashback.org/sp95731906"
       ]
-    },
-    {
-      "ticker": "LVMH",
-      "company_name": "LVMH Moet Hennessy Louis Vuitton",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95732128",
-        "https://www.flashback.org/sp95732216"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 51,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 52,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
