@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:30:08.955822+00:00",
+  "generated_at": "2026-08-23T10:26:34.301293+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -48,7 +48,7 @@
       "trend7d": 5.06,
       "discord_members": 849,
       "facebook_members": null,
-      "market_cap": 473349779.28,
+      "market_cap": 473298658.58,
       "owner_count": 4808,
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/seafire"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.4,
+      "discord_members": 1248,
+      "facebook_members": 297,
+      "market_cap": 728424738.0,
+      "owner_count": 2634,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 0.39,
@@ -441,16 +451,6 @@
       "market_cap": 915065003.0,
       "owner_count": 1500,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.37,
-      "discord_members": 1247,
-      "facebook_members": 297,
-      "market_cap": 728424738.0,
-      "owner_count": 2634,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
       "ticker": "PRECISE-BIOMETRICS",
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 52,
+    "total_posts_fetched": 53,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
