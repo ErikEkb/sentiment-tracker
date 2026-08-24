@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:54:50.125456+00:00",
+  "generated_at": "2026-08-24T13:53:43.003057+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -223,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/nordic-iron-ore"
     },
     {
-      "ticker": "ACAST",
-      "company_name": "Acast",
-      "trend7d": 1.01,
-      "discord_members": 57,
-      "facebook_members": null,
-      "market_cap": 6495763256.0,
-      "owner_count": 1362,
-      "detail_url": "https://allaaktier.se/bolag/acast"
-    },
-    {
       "ticker": "MEDIVIR",
       "company_name": "Medivir",
       "trend7d": 0.98,
@@ -323,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
+      "trend7d": 0.7,
+      "discord_members": 233,
+      "facebook_members": null,
+      "market_cap": 43024788.0,
+      "owner_count": 514,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 0.66,
@@ -363,14 +363,14 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.55,
-      "discord_members": 232,
-      "facebook_members": null,
-      "market_cap": 43024788.0,
-      "owner_count": 514,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+      "ticker": "BLINCVISION",
+      "company_name": "BlincVision",
+      "trend7d": 0.54,
+      "discord_members": 1857,
+      "facebook_members": 2541,
+      "market_cap": 199179633.0,
+      "owner_count": 1853,
+      "detail_url": "https://allaaktier.se/bolag/blincvision"
     },
     {
       "ticker": "NANEXA",
@@ -383,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "BLINCVISION",
-      "company_name": "BlincVision",
-      "trend7d": 0.52,
-      "discord_members": 1856,
-      "facebook_members": 2541,
-      "market_cap": 199179633.0,
-      "owner_count": 1853,
-      "detail_url": "https://allaaktier.se/bolag/blincvision"
-    },
-    {
       "ticker": "TRANSFER-GROUP",
       "company_name": "Transfer Group",
       "trend7d": 0.51,
@@ -403,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/transfer-group"
     },
     {
+      "ticker": "XER-TECH",
+      "company_name": "Xer Tech",
+      "trend7d": 0.49,
+      "discord_members": 319,
+      "facebook_members": null,
+      "market_cap": 195701936.0,
+      "owner_count": 399,
+      "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
       "ticker": "SEAFIRE",
       "company_name": "Seafire",
       "trend7d": 0.48,
@@ -411,16 +411,6 @@
       "market_cap": 519567835.0,
       "owner_count": 354,
       "detail_url": "https://allaaktier.se/bolag/seafire"
-    },
-    {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.45,
-      "discord_members": 860,
-      "facebook_members": null,
-      "market_cap": 277953052.0,
-      "owner_count": 837,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "BONESUPPORT",
@@ -463,6 +453,26 @@
       "detail_url": "https://allaaktier.se/bolag/zaplox"
     },
     {
+      "ticker": "ACAST",
+      "company_name": "Acast",
+      "trend7d": 0.42,
+      "discord_members": 56,
+      "facebook_members": null,
+      "market_cap": 6495763256.0,
+      "owner_count": 1362,
+      "detail_url": "https://allaaktier.se/bolag/acast"
+    },
+    {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.41,
+      "discord_members": 859,
+      "facebook_members": null,
+      "market_cap": 277953052.0,
+      "owner_count": 837,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+    },
+    {
       "ticker": "RANLOS",
       "company_name": "RanLOS",
       "trend7d": 0.39,
@@ -501,16 +511,6 @@
       "market_cap": 4514246699.0,
       "owner_count": 3485,
       "detail_url": "https://allaaktier.se/bolag/ovzon"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.37,
-      "discord_members": 1219,
-      "facebook_members": 3706,
-      "market_cap": 8498447594.0,
-      "owner_count": 3733,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     }
   ],
   "twitter_mentions": 0,
@@ -535,23 +535,6 @@
       ]
     },
     {
-      "ticker": "IMP-A-SDB",
-      "company_name": "Implantica",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95740353",
-        "https://www.flashback.org/sp95740480",
-        "https://www.flashback.org/sp95747564"
-      ]
-    },
-    {
       "ticker": "HTRO",
       "company_name": "Hexatronic Group",
       "sector": "Discovered",
@@ -569,8 +552,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 62,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 41,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
