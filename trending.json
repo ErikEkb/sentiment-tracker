@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:43:17.157337+00:00",
+  "generated_at": "2026-08-24T19:31:48.315887+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -323,6 +323,16 @@
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
+      "ticker": "XER-TECH",
+      "company_name": "Xer Tech",
+      "trend7d": 0.7,
+      "discord_members": 321,
+      "facebook_members": null,
+      "market_cap": 195701936.0,
+      "owner_count": 399,
+      "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 0.66,
@@ -351,16 +361,6 @@
       "market_cap": 54318127.0,
       "owner_count": 146,
       "detail_url": "https://allaaktier.se/bolag/touchtech"
-    },
-    {
-      "ticker": "XER-TECH",
-      "company_name": "Xer Tech",
-      "trend7d": 0.59,
-      "discord_members": 320,
-      "facebook_members": null,
-      "market_cap": 195701936.0,
-      "owner_count": 399,
-      "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
     {
       "ticker": "NANEXA",
@@ -411,16 +411,6 @@
       "market_cap": 14474511080.0,
       "owner_count": 3563,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
-    },
-    {
-      "ticker": "DOUBLE-BOND-PHARMACEUTICAL",
-      "company_name": "Double Bond Pharmaceutical",
-      "trend7d": 0.44,
-      "discord_members": 210,
-      "facebook_members": null,
-      "market_cap": 34318855.0,
-      "owner_count": 240,
-      "detail_url": "https://allaaktier.se/bolag/double-bond-pharmaceutical"
     },
     {
       "ticker": "DICOT-PHARMA",
@@ -503,14 +493,24 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
+      "ticker": "HAMLET-PHARMA",
+      "company_name": "Hamlet BioPharma",
       "trend7d": 0.34,
-      "discord_members": 857,
+      "discord_members": 593,
+      "facebook_members": 679,
+      "market_cap": 1158019387.0,
+      "owner_count": 1102,
+      "detail_url": "https://allaaktier.se/bolag/hamlet-pharma"
+    },
+    {
+      "ticker": "DUSTIN",
+      "company_name": "Dustin",
+      "trend7d": 0.33,
+      "discord_members": 65,
       "facebook_members": null,
-      "market_cap": 277953052.0,
-      "owner_count": 837,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+      "market_cap": 2434372053.0,
+      "owner_count": 1693,
+      "detail_url": "https://allaaktier.se/bolag/dustin"
     }
   ],
   "twitter_mentions": 0,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 40,
+    "total_posts_fetched": 42,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
