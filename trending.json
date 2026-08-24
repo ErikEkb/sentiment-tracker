@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T21:31:53.669618+00:00",
+  "generated_at": "2026-08-24T22:29:12.938831+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 77.94,
-      "discord_members": 156,
+      "trend7d": 78.63,
+      "discord_members": 157,
       "facebook_members": 63,
       "market_cap": 87374275.0,
       "owner_count": 630,
@@ -35,8 +35,8 @@
     {
       "ticker": "KLARNA",
       "company_name": "Klarna",
-      "trend7d": 10.13,
-      "discord_members": 76,
+      "trend7d": 10.59,
+      "discord_members": 77,
       "facebook_members": null,
       "market_cap": 51228125768.0,
       "owner_count": 6834,
@@ -58,7 +58,7 @@
       "trend7d": 4.26,
       "discord_members": 226,
       "facebook_members": null,
-      "market_cap": 118094982.0,
+      "market_cap": 107666547.0,
       "owner_count": 163,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
@@ -78,7 +78,7 @@
       "trend7d": 3.26,
       "discord_members": 855,
       "facebook_members": null,
-      "market_cap": 482342059.2,
+      "market_cap": 492588597.06,
       "owner_count": 4822,
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
@@ -98,7 +98,7 @@
       "trend7d": 2.12,
       "discord_members": 360,
       "facebook_members": null,
-      "market_cap": 144944463.0,
+      "market_cap": 141281607.0,
       "owner_count": 613,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
@@ -258,7 +258,7 @@
       "trend7d": 0.84,
       "discord_members": 234,
       "facebook_members": null,
-      "market_cap": 43024788.0,
+      "market_cap": 42915588.0,
       "owner_count": 514,
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
@@ -278,7 +278,7 @@
       "trend7d": 0.81,
       "discord_members": 91,
       "facebook_members": null,
-      "market_cap": 430054826.0,
+      "market_cap": 424282278.0,
       "owner_count": 293,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
@@ -318,7 +318,7 @@
       "trend7d": 0.73,
       "discord_members": 354,
       "facebook_members": null,
-      "market_cap": 68217521.0,
+      "market_cap": 74064737.0,
       "owner_count": 1453,
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
@@ -328,7 +328,7 @@
       "trend7d": 0.7,
       "discord_members": 321,
       "facebook_members": null,
-      "market_cap": 195701936.0,
+      "market_cap": 203905011.0,
       "owner_count": 399,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
@@ -373,16 +373,6 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "BLINCVISION",
-      "company_name": "BlincVision",
-      "trend7d": 0.52,
-      "discord_members": 1856,
-      "facebook_members": 2541,
-      "market_cap": 195906728.0,
-      "owner_count": 1853,
-      "detail_url": "https://allaaktier.se/bolag/blincvision"
-    },
-    {
       "ticker": "TRANSFER-GROUP",
       "company_name": "Transfer Group",
       "trend7d": 0.51,
@@ -391,6 +381,16 @@
       "market_cap": 69332751.0,
       "owner_count": 1174,
       "detail_url": "https://allaaktier.se/bolag/transfer-group"
+    },
+    {
+      "ticker": "BLINCVISION",
+      "company_name": "BlincVision",
+      "trend7d": 0.5,
+      "discord_members": 1855,
+      "facebook_members": 2541,
+      "market_cap": 195906728.0,
+      "owner_count": 1853,
+      "detail_url": "https://allaaktier.se/bolag/blincvision"
     },
     {
       "ticker": "SEAFIRE",
@@ -458,7 +458,7 @@
       "trend7d": 0.39,
       "discord_members": 347,
       "facebook_members": null,
-      "market_cap": 42679160.0,
+      "market_cap": 37721871.0,
       "owner_count": 251,
       "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
@@ -518,6 +518,23 @@
   "min_mentions": 2,
   "trending": [
     {
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95751402",
+        "https://www.flashback.org/sp95753895",
+        "https://www.flashback.org/sp95754523"
+      ]
+    },
+    {
       "ticker": "HTRO",
       "company_name": "Hexatronic Group",
       "sector": "Discovered",
@@ -532,11 +549,28 @@
         "https://www.flashback.org/sp95741656",
         "https://www.flashback.org/sp95742465"
       ]
+    },
+    {
+      "ticker": "BABA",
+      "company_name": "Alibaba Group Holding",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.311,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 0.933,
+      "sample_posts": [
+        "https://www.flashback.org/sp95753605",
+        "https://www.flashback.org/sp95757280",
+        "https://www.flashback.org/sp95757319"
+      ]
     }
   ],
   "stats": {
     "total_posts_fetched": 46,
-    "tickers_with_any_mentions": 1,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
