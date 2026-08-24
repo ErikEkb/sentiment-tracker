@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:39:15.195819+00:00",
+  "generated_at": "2026-08-24T11:31:04.061936+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -75,8 +75,8 @@
     {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
-      "trend7d": 3.14,
-      "discord_members": 852,
+      "trend7d": 3.18,
+      "discord_members": 853,
       "facebook_members": null,
       "market_cap": 482342059.2,
       "owner_count": 4822,
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/s2medical"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 2.17,
+      "discord_members": 638,
+      "facebook_members": 363,
+      "market_cap": 261732981.0,
+      "owner_count": 500,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 2.12,
@@ -101,16 +111,6 @@
       "market_cap": 144944463.0,
       "owner_count": 613,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 2.12,
-      "discord_members": 637,
-      "facebook_members": 363,
-      "market_cap": 261732981.0,
-      "owner_count": 500,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
       "ticker": "GOLD-TOWN-GAMES",
@@ -155,8 +155,8 @@
     {
       "ticker": "REALFICTION",
       "company_name": "Realfiction",
-      "trend7d": 1.35,
-      "discord_members": 1048,
+      "trend7d": 1.39,
+      "discord_members": 1049,
       "facebook_members": 796,
       "market_cap": 12467744.0,
       "owner_count": 369,
@@ -406,11 +406,21 @@
       "ticker": "TERRANET",
       "company_name": "Terranet",
       "trend7d": 0.46,
-      "discord_members": 1853,
+      "discord_members": 1856,
       "facebook_members": 2541,
       "market_cap": 199179633.0,
       "owner_count": 1853,
       "detail_url": "https://allaaktier.se/bolag/terranet"
+    },
+    {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.45,
+      "discord_members": 860,
+      "facebook_members": null,
+      "market_cap": 277953052.0,
+      "owner_count": 837,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "BONESUPPORT",
@@ -421,6 +431,16 @@
       "market_cap": 14474511080.0,
       "owner_count": 3563,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
+    },
+    {
+      "ticker": "DOUBLE-BOND-PHARMACEUTICAL",
+      "company_name": "Double Bond Pharmaceutical",
+      "trend7d": 0.44,
+      "discord_members": 210,
+      "facebook_members": null,
+      "market_cap": 34318855.0,
+      "owner_count": 240,
+      "detail_url": "https://allaaktier.se/bolag/double-bond-pharmaceutical"
     },
     {
       "ticker": "DICOT-PHARMA",
@@ -451,16 +471,6 @@
       "market_cap": 3538874242.0,
       "owner_count": 1259,
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.41,
-      "discord_members": 859,
-      "facebook_members": null,
-      "market_cap": 277953052.0,
-      "owner_count": 837,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "RANLOS",
@@ -501,16 +511,6 @@
       "market_cap": 8498447594.0,
       "owner_count": 3733,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "PRECISE-BIOMETRICS",
-      "company_name": "Precise Biometrics",
-      "trend7d": 0.35,
-      "discord_members": 145,
-      "facebook_members": 540,
-      "market_cap": 200709659.0,
-      "owner_count": 4262,
-      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     }
   ],
   "twitter_mentions": 0,
