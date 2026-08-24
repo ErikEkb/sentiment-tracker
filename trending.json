@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:31:48.315887+00:00",
+  "generated_at": "2026-08-24T20:32:47.587869+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 76.55,
-      "discord_members": 154,
+      "trend7d": 77.94,
+      "discord_members": 156,
       "facebook_members": 63,
       "market_cap": 76172445.0,
       "owner_count": 630,
@@ -25,8 +25,8 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 24.08,
-      "discord_members": 103,
+      "trend7d": 23.69,
+      "discord_members": 102,
       "facebook_members": null,
       "market_cap": 12078159.0,
       "owner_count": 212,
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
+      "ticker": "XINTELA",
+      "company_name": "Xintela",
+      "trend7d": 0.44,
+      "discord_members": 435,
+      "facebook_members": 594,
+      "market_cap": 155458665.0,
+      "owner_count": 415,
+      "detail_url": "https://allaaktier.se/bolag/xintela"
+    },
+    {
       "ticker": "ZAPLOX",
       "company_name": "Zaplox",
       "trend7d": 0.43,
@@ -463,14 +473,14 @@
       "detail_url": "https://allaaktier.se/bolag/insplorion"
     },
     {
-      "ticker": "XINTELA",
-      "company_name": "Xintela",
-      "trend7d": 0.37,
-      "discord_members": 434,
-      "facebook_members": 594,
-      "market_cap": 155458665.0,
-      "owner_count": 415,
-      "detail_url": "https://allaaktier.se/bolag/xintela"
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.36,
+      "discord_members": 1219,
+      "facebook_members": 3706,
+      "market_cap": 8498447594.0,
+      "owner_count": 3732,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "PRECISE-BIOMETRICS",
@@ -481,16 +491,6 @@
       "market_cap": 200709659.0,
       "owner_count": 4262,
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.35,
-      "discord_members": 1218,
-      "facebook_members": 3706,
-      "market_cap": 8498447594.0,
-      "owner_count": 3733,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "HAMLET-PHARMA",
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 42,
+    "total_posts_fetched": 44,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
