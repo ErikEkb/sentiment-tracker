@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T04:48:26.763529+00:00",
+  "generated_at": "2026-08-24T05:40:15.512324+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -453,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/hamlet-pharma"
     },
     {
+      "ticker": "TERRANET",
+      "company_name": "Terranet",
+      "trend7d": 0.3,
+      "discord_members": 1842,
+      "facebook_members": 2541,
+      "market_cap": 194036497.0,
+      "owner_count": 1855,
+      "detail_url": "https://allaaktier.se/bolag/terranet"
+    },
+    {
       "ticker": "DEVYSER-DIAGNOSTICS",
       "company_name": "Devyser Diagnostics",
       "trend7d": 0.29,
@@ -501,16 +511,6 @@
       "market_cap": 36681078.0,
       "owner_count": 543,
       "detail_url": "https://allaaktier.se/bolag/ecorub"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.26,
-      "discord_members": 789,
-      "facebook_members": 435,
-      "market_cap": 3597773675.0,
-      "owner_count": 1253,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     }
   ],
   "twitter_mentions": 0,
