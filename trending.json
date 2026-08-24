@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:45:01.474404+00:00",
+  "generated_at": "2026-08-24T15:41:24.345364+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "IMPLANTICA-SDB",
       "company_name": "Implantica SDB",
-      "trend7d": 7.4,
-      "discord_members": 642,
+      "trend7d": 7.45,
+      "discord_members": 643,
       "facebook_members": 106,
       "market_cap": 3856501457.0,
       "owner_count": 709,
@@ -75,8 +75,8 @@
     {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
-      "trend7d": 3.18,
-      "discord_members": 853,
+      "trend7d": 3.22,
+      "discord_members": 854,
       "facebook_members": null,
       "market_cap": 482342059.2,
       "owner_count": 4822,
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
     },
     {
+      "ticker": "EPISURF-MEDICAL",
+      "company_name": "Episurf Medical",
+      "trend7d": 1.09,
+      "discord_members": 109,
+      "facebook_members": 306,
+      "market_cap": 887139640.0,
+      "owner_count": 1142,
+      "detail_url": "https://allaaktier.se/bolag/episurf-medical"
+    },
+    {
       "ticker": "SEDANA-MEDICAL",
       "company_name": "Sedana Medical",
       "trend7d": 1.08,
@@ -283,16 +293,6 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
-      "ticker": "EPISURF-MEDICAL",
-      "company_name": "Episurf Medical",
-      "trend7d": 0.78,
-      "discord_members": 108,
-      "facebook_members": 306,
-      "market_cap": 887139640.0,
-      "owner_count": 1142,
-      "detail_url": "https://allaaktier.se/bolag/episurf-medical"
-    },
-    {
       "ticker": "STOCKWIK-FORVALTNING",
       "company_name": "Stockwik Förvaltning",
       "trend7d": 0.75,
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
     {
+      "ticker": "XER-TECH",
+      "company_name": "Xer Tech",
+      "trend7d": 0.59,
+      "discord_members": 320,
+      "facebook_members": null,
+      "market_cap": 195701936.0,
+      "owner_count": 399,
+      "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
       "ticker": "MIPS",
       "company_name": "Mips",
       "trend7d": 0.58,
@@ -391,16 +401,6 @@
       "market_cap": 73030498.0,
       "owner_count": 1174,
       "detail_url": "https://allaaktier.se/bolag/transfer-group"
-    },
-    {
-      "ticker": "XER-TECH",
-      "company_name": "Xer Tech",
-      "trend7d": 0.49,
-      "discord_members": 319,
-      "facebook_members": null,
-      "market_cap": 195701936.0,
-      "owner_count": 399,
-      "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
     {
       "ticker": "SEAFIRE",
@@ -463,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.41,
-      "discord_members": 859,
-      "facebook_members": null,
-      "market_cap": 277953052.0,
-      "owner_count": 837,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
-    },
-    {
       "ticker": "RANLOS",
       "company_name": "RanLOS",
       "trend7d": 0.39,
@@ -501,6 +491,16 @@
       "market_cap": 8907530.0,
       "owner_count": 464,
       "detail_url": "https://allaaktier.se/bolag/insplorion"
+    },
+    {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.37,
+      "discord_members": 858,
+      "facebook_members": null,
+      "market_cap": 277953052.0,
+      "owner_count": 837,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
       "ticker": "OVZON",
