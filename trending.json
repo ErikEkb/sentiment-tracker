@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:41:24.345364+00:00",
+  "generated_at": "2026-08-24T16:39:58.062643+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 73.08,
-      "discord_members": 149,
+      "trend7d": 75.85,
+      "discord_members": 153,
       "facebook_members": 63,
       "market_cap": 76172445.0,
       "owner_count": 630,
@@ -55,8 +55,8 @@
     {
       "ticker": "CYCLEZYME",
       "company_name": "Cyclezyme",
-      "trend7d": 4.41,
-      "discord_members": 227,
+      "trend7d": 4.26,
+      "discord_members": 226,
       "facebook_members": null,
       "market_cap": 118094982.0,
       "owner_count": 163,
@@ -81,16 +81,6 @@
       "market_cap": 482342059.2,
       "owner_count": 4822,
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
-    },
-    {
-      "ticker": "S2MEDICAL",
-      "company_name": "S2Medical",
-      "trend7d": 2.32,
-      "discord_members": 118,
-      "facebook_members": null,
-      "market_cap": 11988097.0,
-      "owner_count": 443,
-      "detail_url": "https://allaaktier.se/bolag/s2medical"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -131,6 +121,16 @@
       "market_cap": 4912521825.0,
       "owner_count": 1786,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "S2MEDICAL",
+      "company_name": "S2Medical",
+      "trend7d": 2.03,
+      "discord_members": 117,
+      "facebook_members": null,
+      "market_cap": 11988097.0,
+      "owner_count": 443,
+      "detail_url": "https://allaaktier.se/bolag/s2medical"
     },
     {
       "ticker": "ENORAMA-PHARMA",
@@ -243,16 +243,6 @@
       "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.88,
-      "discord_members": 589,
-      "facebook_members": null,
-      "market_cap": 1731312898.0,
-      "owner_count": 622,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
-    },
-    {
       "ticker": "CLEAN-MOTION",
       "company_name": "Clean Motion",
       "trend7d": 0.86,
@@ -271,6 +261,16 @@
       "market_cap": 187794540.0,
       "owner_count": 555,
       "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
+    },
+    {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.82,
+      "discord_members": 588,
+      "facebook_members": null,
+      "market_cap": 1731312898.0,
+      "owner_count": 622,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
       "ticker": "ONLINE-BRANDS-NORDIC",
@@ -361,16 +361,6 @@
       "market_cap": 195701936.0,
       "owner_count": 399,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
-    },
-    {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 0.58,
-      "discord_members": 84,
-      "facebook_members": null,
-      "market_cap": 9738136447.0,
-      "owner_count": 2546,
-      "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
       "ticker": "BLINCVISION",
@@ -503,14 +493,24 @@
       "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
     },
     {
-      "ticker": "OVZON",
-      "company_name": "Ovzon",
+      "ticker": "XINTELA",
+      "company_name": "Xintela",
       "trend7d": 0.37,
-      "discord_members": 529,
-      "facebook_members": null,
-      "market_cap": 4514246699.0,
-      "owner_count": 3485,
-      "detail_url": "https://allaaktier.se/bolag/ovzon"
+      "discord_members": 434,
+      "facebook_members": 594,
+      "market_cap": 155458665.0,
+      "owner_count": 415,
+      "detail_url": "https://allaaktier.se/bolag/xintela"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.37,
+      "discord_members": 1219,
+      "facebook_members": 3706,
+      "market_cap": 8498447594.0,
+      "owner_count": 3733,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     }
   ],
   "twitter_mentions": 0,
