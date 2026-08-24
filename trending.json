@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T03:05:39.414344+00:00",
+  "generated_at": "2026-08-24T04:48:26.763529+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -518,23 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "IMP-A-SDB",
-      "company_name": "Implantica",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 6,
-      "velocity_mentions_per_day": 2.0,
-      "avg_sentiment": 0.667,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 4.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95731058",
-        "https://www.flashback.org/sp95731906",
-        "https://www.flashback.org/sp95740353"
-      ]
-    },
-    {
       "ticker": "SPCX",
       "company_name": "SpaceX",
       "sector": "Discovered",
@@ -549,6 +532,23 @@
         "https://www.flashback.org/sp95734793",
         "https://www.flashback.org/sp95736577",
         "https://www.flashback.org/sp95739129"
+      ]
+    },
+    {
+      "ticker": "IMP-A-SDB",
+      "company_name": "Implantica",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.6,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 3.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95731906",
+        "https://www.flashback.org/sp95740353",
+        "https://www.flashback.org/sp95740480"
       ]
     },
     {
