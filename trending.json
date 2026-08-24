@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:39:58.062643+00:00",
+  "generated_at": "2026-08-24T17:33:09.276019+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "IMPLANTICA-SDB",
       "company_name": "Implantica SDB",
-      "trend7d": 7.45,
-      "discord_members": 643,
+      "trend7d": 7.56,
+      "discord_members": 645,
       "facebook_members": 106,
       "market_cap": 3856501457.0,
       "owner_count": 709,
@@ -75,8 +75,8 @@
     {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
-      "trend7d": 3.22,
-      "discord_members": 854,
+      "trend7d": 3.26,
+      "discord_members": 855,
       "facebook_members": null,
       "market_cap": 482342059.2,
       "owner_count": 4822,
@@ -153,16 +153,6 @@
       "detail_url": "https://allaaktier.se/bolag/pila-pharma"
     },
     {
-      "ticker": "REALFICTION",
-      "company_name": "Realfiction",
-      "trend7d": 1.39,
-      "discord_members": 1049,
-      "facebook_members": 796,
-      "market_cap": 12467744.0,
-      "owner_count": 369,
-      "detail_url": "https://allaaktier.se/bolag/realfiction"
-    },
-    {
       "ticker": "XSPRAY-PHARMA",
       "company_name": "Xspray Pharma",
       "trend7d": 1.3,
@@ -171,6 +161,16 @@
       "market_cap": 503564016.0,
       "owner_count": 945,
       "detail_url": "https://allaaktier.se/bolag/xspray-pharma"
+    },
+    {
+      "ticker": "REALFICTION",
+      "company_name": "Realfiction",
+      "trend7d": 1.29,
+      "discord_members": 1046,
+      "facebook_members": 796,
+      "market_cap": 12467744.0,
+      "owner_count": 369,
+      "detail_url": "https://allaaktier.se/bolag/realfiction"
     },
     {
       "ticker": "I-TECH",
@@ -483,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/insplorion"
     },
     {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.37,
-      "discord_members": 858,
-      "facebook_members": null,
-      "market_cap": 277953052.0,
-      "owner_count": 837,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
-    },
-    {
       "ticker": "XINTELA",
       "company_name": "Xintela",
       "trend7d": 0.37,
@@ -511,6 +501,16 @@
       "market_cap": 8498447594.0,
       "owner_count": 3733,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "PRECISE-BIOMETRICS",
+      "company_name": "Precise Biometrics",
+      "trend7d": 0.35,
+      "discord_members": 145,
+      "facebook_members": 540,
+      "market_cap": 200709659.0,
+      "owner_count": 4262,
+      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     }
   ],
   "twitter_mentions": 0,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 41,
+    "total_posts_fetched": 42,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
