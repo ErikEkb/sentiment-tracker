@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:44:05.847457+00:00",
+  "generated_at": "2026-08-25T16:39:48.525058+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 86.33,
-      "discord_members": 160,
+      "trend7d": 87.04,
+      "discord_members": 161,
       "facebook_members": 63,
       "market_cap": 80093085.0,
       "owner_count": 672,
@@ -253,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
+      "trend7d": 0.8,
+      "discord_members": 235,
+      "facebook_members": null,
+      "market_cap": 44771988.0,
+      "owner_count": 514,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
       "ticker": "STOCKWIK-FORVALTNING",
       "company_name": "Stockwik Förvaltning",
       "trend7d": 0.76,
@@ -273,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
     {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.7,
+      "discord_members": 589,
+      "facebook_members": null,
+      "market_cap": 1662202148.0,
+      "owner_count": 625,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
       "trend7d": 0.69,
@@ -281,26 +301,6 @@
       "market_cap": 914109820.0,
       "owner_count": 1510,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.66,
-      "discord_members": 234,
-      "facebook_members": null,
-      "market_cap": 44771988.0,
-      "owner_count": 514,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
-    },
-    {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.64,
-      "discord_members": 588,
-      "facebook_members": null,
-      "market_cap": 1662202148.0,
-      "owner_count": 625,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
       "ticker": "QLIRO",
@@ -466,7 +466,7 @@
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
       "trend7d": 0.4,
-      "discord_members": 1249,
+      "discord_members": 1248,
       "facebook_members": 297,
       "market_cap": 721487360.0,
       "owner_count": 2639,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 59,
+    "total_posts_fetched": 60,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
