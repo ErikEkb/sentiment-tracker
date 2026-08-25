@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:52:23.814249+00:00",
+  "generated_at": "2026-08-25T07:46:32.342620+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -213,16 +213,6 @@
       "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
-      "ticker": "EPISURF-MEDICAL",
-      "company_name": "Episurf Medical",
-      "trend7d": 0.89,
-      "discord_members": 108,
-      "facebook_members": 306,
-      "market_cap": 892483854.0,
-      "owner_count": 1142,
-      "detail_url": "https://allaaktier.se/bolag/episurf-medical"
-    },
-    {
       "ticker": "CLEAN-MOTION",
       "company_name": "Clean Motion",
       "trend7d": 0.87,
@@ -251,6 +241,16 @@
       "market_cap": 121145489.0,
       "owner_count": 660,
       "detail_url": "https://allaaktier.se/bolag/stockwik-forvaltning"
+    },
+    {
+      "ticker": "ZINZINO",
+      "company_name": "Zinzino",
+      "trend7d": 0.77,
+      "discord_members": 78,
+      "facebook_members": null,
+      "market_cap": 5342551318.0,
+      "owner_count": 2882,
+      "detail_url": "https://allaaktier.se/bolag/zinzino"
     },
     {
       "ticker": "MAHVIE-MINERALS",
@@ -301,6 +301,16 @@
       "market_cap": 302107943.0,
       "owner_count": 1007,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
+      "ticker": "EPISURF-MEDICAL",
+      "company_name": "Episurf Medical",
+      "trend7d": 0.58,
+      "discord_members": 107,
+      "facebook_members": 306,
+      "market_cap": 892483854.0,
+      "owner_count": 1142,
+      "detail_url": "https://allaaktier.se/bolag/episurf-medical"
     },
     {
       "ticker": "NANEXA",
@@ -423,16 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
-      "ticker": "ZINZINO",
-      "company_name": "Zinzino",
-      "trend7d": 0.34,
-      "discord_members": 77,
-      "facebook_members": null,
-      "market_cap": 5342551318.0,
-      "owner_count": 2882,
-      "detail_url": "https://allaaktier.se/bolag/zinzino"
-    },
-    {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
       "trend7d": 0.34,
@@ -533,28 +533,11 @@
         "https://www.flashback.org/sp95753895",
         "https://www.flashback.org/sp95754523"
       ]
-    },
-    {
-      "ticker": "BABA",
-      "company_name": "Alibaba Group Holding",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.311,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 0.933,
-      "sample_posts": [
-        "https://www.flashback.org/sp95753605",
-        "https://www.flashback.org/sp95757280",
-        "https://www.flashback.org/sp95757319"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 46,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 53,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
