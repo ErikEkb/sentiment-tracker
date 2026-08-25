@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:35:39.584826+00:00",
+  "generated_at": "2026-08-25T11:30:23.935990+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,7 +45,7 @@
     {
       "ticker": "KLARNA",
       "company_name": "Klarna",
-      "trend7d": 5.73,
+      "trend7d": 6.29,
       "discord_members": 77,
       "facebook_members": null,
       "market_cap": 50585363361.45,
@@ -63,19 +63,9 @@
       "detail_url": "https://allaaktier.se/bolag/unibap"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 2.84,
-      "discord_members": 226,
-      "facebook_members": null,
-      "market_cap": 111048742.0,
-      "owner_count": 162,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
-      "trend7d": 2.73,
+      "trend7d": 3.58,
       "discord_members": 857,
       "facebook_members": null,
       "market_cap": 504325271.14,
@@ -91,6 +81,16 @@
       "market_cap": 72634572.0,
       "owner_count": 1427,
       "detail_url": "https://allaaktier.se/bolag/pila-pharma"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 2.45,
+      "discord_members": 226,
+      "facebook_members": null,
+      "market_cap": 111048742.0,
+      "owner_count": 162,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "FLEXQUBE",
@@ -111,6 +111,16 @@
       "market_cap": 72947731.0,
       "owner_count": 190,
       "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 2.06,
+      "discord_members": 360,
+      "facebook_members": null,
+      "market_cap": 140235076.0,
+      "owner_count": 620,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "I-TECH",
@@ -143,16 +153,6 @@
       "detail_url": "https://allaaktier.se/bolag/s2medical"
     },
     {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.47,
-      "discord_members": 360,
-      "facebook_members": null,
-      "market_cap": 140235076.0,
-      "owner_count": 620,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
       "ticker": "XSPRAY-PHARMA",
       "company_name": "Xspray Pharma",
       "trend7d": 1.47,
@@ -183,24 +183,24 @@
       "detail_url": "https://allaaktier.se/bolag/zinzino"
     },
     {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.1,
-      "discord_members": 638,
-      "facebook_members": 363,
-      "market_cap": 258758743.0,
-      "owner_count": 499,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
       "ticker": "NYAB",
       "company_name": "NYAB",
-      "trend7d": 1.09,
+      "trend7d": 1.16,
       "discord_members": 206,
       "facebook_members": null,
       "market_cap": 4905391895.0,
       "owner_count": 1786,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 1.15,
+      "discord_members": 639,
+      "facebook_members": 363,
+      "market_cap": 258758743.0,
+      "owner_count": 499,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
       "ticker": "MEDIVIR",
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
+      "trend7d": 0.66,
+      "discord_members": 234,
+      "facebook_members": null,
+      "market_cap": 44771988.0,
+      "owner_count": 514,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 0.64,
@@ -311,16 +321,6 @@
       "market_cap": 303186900.0,
       "owner_count": 1008,
       "detail_url": "https://allaaktier.se/bolag/ferroamp"
-    },
-    {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.63,
-      "discord_members": 234,
-      "facebook_members": null,
-      "market_cap": 44771988.0,
-      "owner_count": 514,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
       "ticker": "BYHMGARD",
@@ -473,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/xintela"
     },
     {
-      "ticker": "RANLOS",
-      "company_name": "RanLOS",
-      "trend7d": 0.39,
-      "discord_members": 347,
-      "facebook_members": null,
-      "market_cap": 38264074.0,
-      "owner_count": 250,
-      "detail_url": "https://allaaktier.se/bolag/ranlos"
-    },
-    {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
       "trend7d": 0.37,
@@ -501,6 +491,16 @@
       "market_cap": 302222987.0,
       "owner_count": 1314,
       "detail_url": "https://allaaktier.se/bolag/nordic-iron-ore"
+    },
+    {
+      "ticker": "INSPLORION",
+      "company_name": "Insplorion",
+      "trend7d": 0.37,
+      "discord_members": 179,
+      "facebook_members": 765,
+      "market_cap": 8671047.0,
+      "owner_count": 460,
+      "detail_url": "https://allaaktier.se/bolag/insplorion"
     },
     {
       "ticker": "PLEJD",
