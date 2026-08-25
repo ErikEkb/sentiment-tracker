@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:52:23.902841+00:00",
+  "generated_at": "2026-08-25T14:48:51.441929+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 85.62,
-      "discord_members": 159,
+      "trend7d": 86.33,
+      "discord_members": 160,
       "facebook_members": 63,
       "market_cap": 80093085.0,
       "owner_count": 672,
@@ -25,8 +25,8 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 11.01,
-      "discord_members": 103,
+      "trend7d": 10.68,
+      "discord_members": 102,
       "facebook_members": null,
       "market_cap": 11764440.0,
       "owner_count": 209,
@@ -185,8 +185,8 @@
     {
       "ticker": "MEDIVIR",
       "company_name": "Medivir",
-      "trend7d": 1.21,
-      "discord_members": 515,
+      "trend7d": 1.27,
+      "discord_members": 516,
       "facebook_members": null,
       "market_cap": 1157748414.0,
       "owner_count": 1252,
@@ -383,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/sedana-medical"
     },
     {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 0.51,
+      "discord_members": 825,
+      "facebook_members": null,
+      "market_cap": 11568824802.0,
+      "owner_count": 7376,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
+    },
+    {
       "ticker": "LEADING-EDGE-MATERIALS",
       "company_name": "Leading Edge Materials",
       "trend7d": 0.47,
@@ -393,24 +403,14 @@
       "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
     },
     {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.47,
-      "discord_members": 824,
+      "ticker": "AVTECH-SWEDEN",
+      "company_name": "Avtech Sweden",
+      "trend7d": 0.44,
+      "discord_members": 250,
       "facebook_members": null,
-      "market_cap": 11568824802.0,
-      "owner_count": 7376,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
-      "ticker": "EDYOUTEC",
-      "company_name": "edyoutec",
-      "trend7d": 0.46,
-      "discord_members": 239,
-      "facebook_members": 176,
-      "market_cap": 26118330.0,
-      "owner_count": 348,
-      "detail_url": "https://allaaktier.se/bolag/edyoutec"
+      "market_cap": 186100153.0,
+      "owner_count": 548,
+      "detail_url": "https://allaaktier.se/bolag/avtech-sweden"
     },
     {
       "ticker": "ANNEXIN-PHARMACEUTICALS",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
