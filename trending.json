@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:30:41.796378+00:00",
+  "generated_at": "2026-08-25T22:30:08.478176+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -68,7 +68,7 @@
       "trend7d": 3.58,
       "discord_members": 857,
       "facebook_members": null,
-      "market_cap": 504325271.14,
+      "market_cap": 495717058.19,
       "owner_count": 4915,
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
@@ -118,7 +118,7 @@
       "trend7d": 2.06,
       "discord_members": 360,
       "facebook_members": null,
-      "market_cap": 140235076.0,
+      "market_cap": 141281607.0,
       "owner_count": 620,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
@@ -148,7 +148,7 @@
       "trend7d": 1.72,
       "discord_members": 81,
       "facebook_members": null,
-      "market_cap": 10407926.0,
+      "market_cap": 9483857.0,
       "owner_count": 265,
       "detail_url": "https://allaaktier.se/bolag/gold-town-games"
     },
@@ -238,7 +238,7 @@
       "trend7d": 0.95,
       "discord_members": 236,
       "facebook_members": null,
-      "market_cap": 44771988.0,
+      "market_cap": 45863987.0,
       "owner_count": 514,
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
@@ -268,7 +268,7 @@
       "trend7d": 0.81,
       "discord_members": 355,
       "facebook_members": null,
-      "market_cap": 75039273.0,
+      "market_cap": 76208716.0,
       "owner_count": 1451,
       "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
@@ -283,24 +283,24 @@
       "detail_url": "https://allaaktier.se/bolag/stockwik-forvaltning"
     },
     {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 0.75,
+      "discord_members": 590,
+      "facebook_members": null,
+      "market_cap": 1651569725.0,
+      "owner_count": 625,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
       "ticker": "XER-TECH",
       "company_name": "Xer Tech",
       "trend7d": 0.75,
       "discord_members": 321,
       "facebook_members": null,
-      "market_cap": 199217540.0,
+      "market_cap": 200389407.0,
       "owner_count": 397,
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
-    },
-    {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 0.7,
-      "discord_members": 589,
-      "facebook_members": null,
-      "market_cap": 1651569725.0,
-      "owner_count": 625,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
       "ticker": "NANEXA",
@@ -353,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
-      "ticker": "CHARGEPANEL",
-      "company_name": "ChargePanel",
-      "trend7d": 0.61,
-      "discord_members": 53,
-      "facebook_members": null,
-      "market_cap": 94832735.0,
-      "owner_count": 359,
-      "detail_url": "https://allaaktier.se/bolag/chargepanel"
-    },
-    {
       "ticker": "DLABORATORY-SWEDEN",
       "company_name": "Dlaboratory Sweden",
       "trend7d": 0.59,
@@ -378,7 +368,7 @@
       "trend7d": 0.59,
       "discord_members": 91,
       "facebook_members": null,
-      "market_cap": 424282278.0,
+      "market_cap": 412737182.0,
       "owner_count": 293,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
@@ -488,7 +478,7 @@
       "trend7d": 0.41,
       "discord_members": 49,
       "facebook_members": null,
-      "market_cap": 10659108010560.9,
+      "market_cap": 10723560562221.75,
       "owner_count": 45186,
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
@@ -511,6 +501,16 @@
       "market_cap": 742299495.0,
       "owner_count": 2639,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
+      "ticker": "INSPLORION",
+      "company_name": "Insplorion",
+      "trend7d": 0.37,
+      "discord_members": 179,
+      "facebook_members": 765,
+      "market_cap": 9144013.0,
+      "owner_count": 460,
+      "detail_url": "https://allaaktier.se/bolag/insplorion"
     }
   ],
   "twitter_mentions": 0,
@@ -522,6 +522,23 @@
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
       "discovered": false,
+      "mentions": 10,
+      "velocity_mentions_per_day": 3.33,
+      "avg_sentiment": 0.367,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 3.667,
+      "sample_posts": [
+        "https://www.flashback.org/sp95751402",
+        "https://www.flashback.org/sp95753895",
+        "https://www.flashback.org/sp95754523"
+      ]
+    },
+    {
+      "ticker": "HTRO",
+      "company_name": "Hexatronic Group",
+      "sector": "Discovered",
+      "discovered": true,
       "mentions": 4,
       "velocity_mentions_per_day": 1.33,
       "avg_sentiment": 0.5,
@@ -529,15 +546,15 @@
       "label": "bullish",
       "trending_score": 2.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95751402",
-        "https://www.flashback.org/sp95753895",
-        "https://www.flashback.org/sp95754523"
+        "https://www.flashback.org/sp95761772",
+        "https://www.flashback.org/sp95761790",
+        "https://www.flashback.org/sp95761814"
       ]
     }
   ],
   "stats": {
     "total_posts_fetched": 50,
-    "tickers_with_any_mentions": 1,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
