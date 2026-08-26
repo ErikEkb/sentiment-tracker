@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:37:33.164065+00:00",
+  "generated_at": "2026-08-26T11:32:18.277585+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,7 +45,7 @@
     {
       "ticker": "KLARNA",
       "company_name": "Klarna",
-      "trend7d": 3.91,
+      "trend7d": 4.48,
       "discord_members": 78,
       "facebook_members": null,
       "market_cap": 51013632574.36,
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/pila-pharma"
     },
     {
+      "ticker": "ZENITH-ENERGY",
+      "company_name": "Zenith Energy",
+      "trend7d": 2.4,
+      "discord_members": 857,
+      "facebook_members": null,
+      "market_cap": 507259656.05,
+      "owner_count": 5000,
+      "detail_url": "https://allaaktier.se/bolag/zenith-energy"
+    },
+    {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
       "trend7d": 2.34,
@@ -91,6 +101,16 @@
       "market_cap": 2777232288.0,
       "owner_count": 7212,
       "detail_url": "https://allaaktier.se/bolag/smart-eye"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 2.25,
+      "discord_members": 360,
+      "facebook_members": null,
+      "market_cap": 140758341.0,
+      "owner_count": 624,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "I-TECH",
@@ -111,26 +131,6 @@
       "market_cap": 1265504219.0,
       "owner_count": 1256,
       "detail_url": "https://allaaktier.se/bolag/medivir"
-    },
-    {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.89,
-      "discord_members": 360,
-      "facebook_members": null,
-      "market_cap": 140758341.0,
-      "owner_count": 624,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "ZENITH-ENERGY",
-      "company_name": "Zenith Energy",
-      "trend7d": 1.64,
-      "discord_members": 857,
-      "facebook_members": null,
-      "market_cap": 507259656.05,
-      "owner_count": 5000,
-      "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
     {
       "ticker": "HEMPLY-BALANCE",
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 1.39,
+      "discord_members": 227,
+      "facebook_members": null,
+      "market_cap": 129368966.0,
+      "owner_count": 162,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
       "ticker": "REALFICTION",
       "company_name": "Realfiction",
       "trend7d": 1.32,
@@ -193,16 +203,6 @@
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.9,
-      "discord_members": 227,
-      "facebook_members": null,
-      "market_cap": 129368966.0,
-      "owner_count": 162,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
       "trend7d": 0.84,
@@ -221,6 +221,26 @@
       "market_cap": 886409522.0,
       "owner_count": 1511,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
+      "trend7d": 0.74,
+      "discord_members": 143,
+      "facebook_members": null,
+      "market_cap": 314685000.0,
+      "owner_count": 859,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
+    },
+    {
+      "ticker": "NYAB",
+      "company_name": "NYAB",
+      "trend7d": 0.73,
+      "discord_members": 206,
+      "facebook_members": null,
+      "market_cap": 4862612315.0,
+      "owner_count": 1784,
+      "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -243,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
     },
     {
+      "ticker": "VETTED-ASSETS",
+      "company_name": "Vetted Assets",
+      "trend7d": 0.7,
+      "discord_members": 76,
+      "facebook_members": null,
+      "market_cap": 256249955.0,
+      "owner_count": 441,
+      "detail_url": "https://allaaktier.se/bolag/vetted-assets"
+    },
+    {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
       "trend7d": 0.7,
@@ -251,6 +281,16 @@
       "market_cap": 57101488.0,
       "owner_count": 503,
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
+      "ticker": "B-TREASURY-CAPITAL",
+      "company_name": "B Treasury Capital",
+      "trend7d": 0.7,
+      "discord_members": 111,
+      "facebook_members": null,
+      "market_cap": 109918516.0,
+      "owner_count": 367,
+      "detail_url": "https://allaaktier.se/bolag/b-treasury-capital"
     },
     {
       "ticker": "ZINZINO",
@@ -373,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
     },
     {
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
+      "trend7d": 0.49,
+      "discord_members": 236,
+      "facebook_members": null,
+      "market_cap": 44990388.0,
+      "owner_count": 514,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.46,
@@ -391,16 +441,6 @@
       "market_cap": 115406299.0,
       "owner_count": 257,
       "detail_url": "https://allaaktier.se/bolag/iconovo"
-    },
-    {
-      "ticker": "NYAB",
-      "company_name": "NYAB",
-      "trend7d": 0.45,
-      "discord_members": 206,
-      "facebook_members": null,
-      "market_cap": 4862612315.0,
-      "owner_count": 1784,
-      "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -433,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/angler-gaming"
     },
     {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.41,
-      "discord_members": 236,
-      "facebook_members": null,
-      "market_cap": 44990388.0,
-      "owner_count": 514,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
-    },
-    {
       "ticker": "MENDUS",
       "company_name": "Mendus",
       "trend7d": 0.41,
@@ -463,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
+      "ticker": "RANLOS",
+      "company_name": "RanLOS",
+      "trend7d": 0.37,
+      "discord_members": 347,
+      "facebook_members": null,
+      "market_cap": 37721871.0,
+      "owner_count": 251,
+      "detail_url": "https://allaaktier.se/bolag/ranlos"
+    },
+    {
       "ticker": "ABERA-BIOSCIENCE",
       "company_name": "Abera Bioscience",
       "trend7d": 0.37,
@@ -471,46 +511,6 @@
       "market_cap": 175090213.0,
       "owner_count": 207,
       "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
-    },
-    {
-      "ticker": "DLABORATORY-SWEDEN",
-      "company_name": "Dlaboratory Sweden",
-      "trend7d": 0.36,
-      "discord_members": 138,
-      "facebook_members": null,
-      "market_cap": 52190526.0,
-      "owner_count": 201,
-      "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
-    },
-    {
-      "ticker": "OXE-MARINE",
-      "company_name": "OXE Marine",
-      "trend7d": 0.36,
-      "discord_members": 171,
-      "facebook_members": null,
-      "market_cap": 219728434.0,
-      "owner_count": 456,
-      "detail_url": "https://allaaktier.se/bolag/oxe-marine"
-    },
-    {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.34,
-      "discord_members": 417,
-      "facebook_members": null,
-      "market_cap": 36293970880.68,
-      "owner_count": 1078,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
-    },
-    {
-      "ticker": "PRECISE-BIOMETRICS",
-      "company_name": "Precise Biometrics",
-      "trend7d": 0.34,
-      "discord_members": 145,
-      "facebook_members": 540,
-      "market_cap": 186200527.0,
-      "owner_count": 4258,
-      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 67,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
