@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:53:34.507290+00:00",
+  "generated_at": "2026-08-26T07:49:36.983688+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -216,7 +216,7 @@
       "ticker": "NANEXA",
       "company_name": "Nanexa",
       "trend7d": 0.67,
-      "discord_members": 1316,
+      "discord_members": 1317,
       "facebook_members": 195,
       "market_cap": 884499157.0,
       "owner_count": 1510,
@@ -273,6 +273,16 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 0.51,
+      "discord_members": 639,
+      "facebook_members": 363,
+      "market_cap": 259651014.0,
+      "owner_count": 499,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "HAMLET-PHARMA",
       "company_name": "Hamlet BioPharma",
       "trend7d": 0.51,
@@ -311,16 +321,6 @@
       "market_cap": 10723560562221.75,
       "owner_count": 45186,
       "detail_url": "https://allaaktier.se/bolag/tesla"
-    },
-    {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.46,
-      "discord_members": 638,
-      "facebook_members": 363,
-      "market_cap": 259651014.0,
-      "owner_count": 499,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
       "ticker": "NYAB",
@@ -533,28 +533,11 @@
         "https://www.flashback.org/sp95754523",
         "https://www.flashback.org/sp95754548"
       ]
-    },
-    {
-      "ticker": "HTRO",
-      "company_name": "Hexatronic Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95761772",
-        "https://www.flashback.org/sp95761790",
-        "https://www.flashback.org/sp95761814"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 67,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
