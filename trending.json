@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:32:18.277585+00:00",
+  "generated_at": "2026-08-26T12:56:40.731451+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "UNIBAP",
       "company_name": "Unibap",
-      "trend7d": 7.88,
-      "discord_members": 416,
+      "trend7d": 7.96,
+      "discord_members": 417,
       "facebook_members": 507,
       "market_cap": 719305529.0,
       "owner_count": 773,
@@ -95,8 +95,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 2.34,
-      "discord_members": 1521,
+      "trend7d": 2.38,
+      "discord_members": 1523,
       "facebook_members": null,
       "market_cap": 2777232288.0,
       "owner_count": 7212,
@@ -105,8 +105,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 2.25,
-      "discord_members": 360,
+      "trend7d": 2.15,
+      "discord_members": 359,
       "facebook_members": null,
       "market_cap": 140758341.0,
       "owner_count": 624,
@@ -125,8 +125,8 @@
     {
       "ticker": "MEDIVIR",
       "company_name": "Medivir",
-      "trend7d": 1.98,
-      "discord_members": 517,
+      "trend7d": 1.91,
+      "discord_members": 516,
       "facebook_members": null,
       "market_cap": 1265504219.0,
       "owner_count": 1256,
@@ -181,6 +181,16 @@
       "market_cap": 11988216.0,
       "owner_count": 368,
       "detail_url": "https://allaaktier.se/bolag/realfiction"
+    },
+    {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 1.29,
+      "discord_members": 176,
+      "facebook_members": null,
+      "market_cap": 57101488.0,
+      "owner_count": 503,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "STOCKWIK-FORVALTNING",
@@ -271,16 +281,6 @@
       "market_cap": 256249955.0,
       "owner_count": 441,
       "detail_url": "https://allaaktier.se/bolag/vetted-assets"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 0.7,
-      "discord_members": 173,
-      "facebook_members": null,
-      "market_cap": 57101488.0,
-      "owner_count": 503,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "B-TREASURY-CAPITAL",
@@ -522,21 +522,21 @@
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 9,
-      "velocity_mentions_per_day": 3.0,
-      "avg_sentiment": 0.296,
+      "mentions": 8,
+      "velocity_mentions_per_day": 2.67,
+      "avg_sentiment": 0.333,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 2.667,
       "sample_posts": [
-        "https://www.flashback.org/sp95753895",
         "https://www.flashback.org/sp95754523",
-        "https://www.flashback.org/sp95754548"
+        "https://www.flashback.org/sp95754548",
+        "https://www.flashback.org/sp95766647"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 68,
+    "total_posts_fetched": 72,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
