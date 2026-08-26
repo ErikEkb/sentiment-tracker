@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:57:42.871238+00:00",
+  "generated_at": "2026-08-26T14:52:37.246742+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/pila-pharma"
     },
     {
+      "ticker": "SMART-EYE",
+      "company_name": "Smart Eye",
+      "trend7d": 2.4,
+      "discord_members": 1524,
+      "facebook_members": null,
+      "market_cap": 2777232288.0,
+      "owner_count": 7212,
+      "detail_url": "https://allaaktier.se/bolag/smart-eye"
+    },
+    {
       "ticker": "ZENITH-ENERGY",
       "company_name": "Zenith Energy",
       "trend7d": 2.4,
@@ -93,20 +103,10 @@
       "detail_url": "https://allaaktier.se/bolag/zenith-energy"
     },
     {
-      "ticker": "SMART-EYE",
-      "company_name": "Smart Eye",
-      "trend7d": 2.38,
-      "discord_members": 1523,
-      "facebook_members": null,
-      "market_cap": 2777232288.0,
-      "owner_count": 7212,
-      "detail_url": "https://allaaktier.se/bolag/smart-eye"
-    },
-    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 2.15,
-      "discord_members": 359,
+      "trend7d": 2.25,
+      "discord_members": 360,
       "facebook_members": null,
       "market_cap": 140758341.0,
       "owner_count": 624,
@@ -125,8 +125,8 @@
     {
       "ticker": "MEDIVIR",
       "company_name": "Medivir",
-      "trend7d": 1.91,
-      "discord_members": 516,
+      "trend7d": 1.98,
+      "discord_members": 517,
       "facebook_members": null,
       "market_cap": 1265504219.0,
       "owner_count": 1256,
@@ -323,6 +323,16 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
+      "ticker": "CHARGEPANEL",
+      "company_name": "ChargePanel",
+      "trend7d": 0.59,
+      "discord_members": 53,
+      "facebook_members": null,
+      "market_cap": 96588897.0,
+      "owner_count": 359,
+      "detail_url": "https://allaaktier.se/bolag/chargepanel"
+    },
+    {
       "ticker": "BYHMGARD",
       "company_name": "Byhmgard",
       "trend7d": 0.59,
@@ -483,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/mendus"
     },
     {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.4,
+      "discord_members": 858,
+      "facebook_members": null,
+      "market_cap": 255323246.0,
+      "owner_count": 840,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+    },
+    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 0.39,
@@ -491,26 +511,6 @@
       "market_cap": 10566440980.0,
       "owner_count": 4883,
       "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
-      "ticker": "RANLOS",
-      "company_name": "RanLOS",
-      "trend7d": 0.37,
-      "discord_members": 347,
-      "facebook_members": null,
-      "market_cap": 37721871.0,
-      "owner_count": 251,
-      "detail_url": "https://allaaktier.se/bolag/ranlos"
-    },
-    {
-      "ticker": "ABERA-BIOSCIENCE",
-      "company_name": "Abera Bioscience",
-      "trend7d": 0.37,
-      "discord_members": 233,
-      "facebook_members": 49,
-      "market_cap": 175090213.0,
-      "owner_count": 207,
-      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
     }
   ],
   "twitter_mentions": 0,
