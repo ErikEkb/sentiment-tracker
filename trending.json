@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T17:33:57.838320+00:00",
+  "generated_at": "2026-08-29T20:38:38.797221+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -17,24 +17,25 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "MSTR",
-      "company_name": "MicroStrategy Inc.",
-      "sector": "Information Technology",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95782861",
-        "https://www.flashback.org/sp95789256"
+        "https://www.flashback.org/sp95781943",
+        "https://www.flashback.org/sp95782012",
+        "https://www.flashback.org/sp95783528"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 53,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 0,
     "twitter_mentions_count": 0
