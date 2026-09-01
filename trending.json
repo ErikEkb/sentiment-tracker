@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:14:57.729611+00:00",
+  "generated_at": "2026-09-01T17:41:53.410040+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "BEYOND-FRAMES",
       "company_name": "Beyond Frames",
-      "trend7d": 18.27,
-      "discord_members": 42,
+      "trend7d": 19.46,
+      "discord_members": 43,
       "facebook_members": null,
       "market_cap": 61496850.0,
       "owner_count": 205,
@@ -45,12 +45,22 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 4.96,
-      "discord_members": 192,
+      "trend7d": 5.16,
+      "discord_members": 193,
       "facebook_members": 295,
       "market_cap": 743586828.0,
       "owner_count": 1619,
       "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 4.75,
+      "discord_members": 198,
+      "facebook_members": null,
+      "market_cap": 67956718.0,
+      "owner_count": 504,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "ALZECURE-PHARMA",
@@ -61,16 +71,6 @@
       "market_cap": 1102762900.0,
       "owner_count": 1092,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 4.37,
-      "discord_members": 196,
-      "facebook_members": null,
-      "market_cap": 67956718.0,
-      "owner_count": 504,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "ARGO-DEFENCE",
@@ -113,16 +113,6 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
-      "ticker": "TRUECALLER",
-      "company_name": "Truecaller",
-      "trend7d": 2.4,
-      "discord_members": 621,
-      "facebook_members": null,
-      "market_cap": 8360266242.0,
-      "owner_count": 3223,
-      "detail_url": "https://allaaktier.se/bolag/truecaller"
-    },
-    {
       "ticker": "BIOSERGEN",
       "company_name": "Biosergen",
       "trend7d": 2.39,
@@ -131,6 +121,16 @@
       "market_cap": 197251488.0,
       "owner_count": 781,
       "detail_url": "https://allaaktier.se/bolag/biosergen"
+    },
+    {
+      "ticker": "TRUECALLER",
+      "company_name": "Truecaller",
+      "trend7d": 2.34,
+      "discord_members": 620,
+      "facebook_members": null,
+      "market_cap": 8360266242.0,
+      "owner_count": 3223,
+      "detail_url": "https://allaaktier.se/bolag/truecaller"
     },
     {
       "ticker": "MILDEF-GROUP",
@@ -183,10 +183,20 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
+      "ticker": "RANLOS",
+      "company_name": "RanLOS",
+      "trend7d": 1.62,
+      "discord_members": 367,
+      "facebook_members": null,
+      "market_cap": 40200515.0,
+      "owner_count": 250,
+      "detail_url": "https://allaaktier.se/bolag/ranlos"
+    },
+    {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 1.49,
-      "discord_members": 1323,
+      "trend7d": 1.52,
+      "discord_members": 1324,
       "facebook_members": 195,
       "market_cap": 1134757018.0,
       "owner_count": 1560,
@@ -201,16 +211,6 @@
       "market_cap": 35246326.0,
       "owner_count": 1463,
       "detail_url": "https://allaaktier.se/bolag/spectracure"
-    },
-    {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 1.31,
-      "discord_members": 228,
-      "facebook_members": null,
-      "market_cap": 89064474.0,
-      "owner_count": 166,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -233,16 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/i-tech"
     },
     {
-      "ticker": "RANLOS",
-      "company_name": "RanLOS",
-      "trend7d": 1.23,
-      "discord_members": 363,
-      "facebook_members": null,
-      "market_cap": 40200515.0,
-      "owner_count": 250,
-      "detail_url": "https://allaaktier.se/bolag/ranlos"
-    },
-    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 1.19,
@@ -263,10 +253,20 @@
       "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 1.16,
+      "discord_members": 227,
+      "facebook_members": null,
+      "market_cap": 89064474.0,
+      "owner_count": 166,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.0,
-      "discord_members": 1226,
+      "trend7d": 1.03,
+      "discord_members": 1227,
       "facebook_members": 3706,
       "market_cap": 8921447248.0,
       "owner_count": 3775,
@@ -285,8 +285,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 0.94,
-      "discord_members": 2528,
+      "trend7d": 0.95,
+      "discord_members": 2529,
       "facebook_members": 2874,
       "market_cap": 9318057472.0,
       "owner_count": 5736,
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
+      "ticker": "KLARIA-PHARMA",
+      "company_name": "Klaria Pharma",
+      "trend7d": 0.63,
+      "discord_members": 867,
+      "facebook_members": null,
+      "market_cap": 159638523.0,
+      "owner_count": 848,
+      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
+    },
+    {
       "ticker": "KILIARO",
       "company_name": "Kiliaro",
       "trend7d": 0.62,
@@ -393,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/gosol-energy"
     },
     {
-      "ticker": "KLARIA-PHARMA",
-      "company_name": "Klaria Pharma",
-      "trend7d": 0.55,
-      "discord_members": 865,
-      "facebook_members": null,
-      "market_cap": 159638523.0,
-      "owner_count": 848,
-      "detail_url": "https://allaaktier.se/bolag/klaria-pharma"
-    },
-    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 0.53,
@@ -413,16 +413,6 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
-      "ticker": "KEO-CAPITAL",
-      "company_name": "Keo Capital",
-      "trend7d": 0.52,
-      "discord_members": 638,
-      "facebook_members": null,
-      "market_cap": 3011698176.0,
-      "owner_count": 1817,
-      "detail_url": "https://allaaktier.se/bolag/keo-capital"
-    },
-    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 0.51,
@@ -431,6 +421,16 @@
       "market_cap": 11019693140.0,
       "owner_count": 4930,
       "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
+      "ticker": "KEO-CAPITAL",
+      "company_name": "Keo Capital",
+      "trend7d": 0.47,
+      "discord_members": 637,
+      "facebook_members": null,
+      "market_cap": 3011698176.0,
+      "owner_count": 1817,
+      "detail_url": "https://allaaktier.se/bolag/keo-capital"
     },
     {
       "ticker": "BIOARCTIC",
@@ -483,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/camurus"
     },
     {
+      "ticker": "ELICERA-THERAPEUTICS",
+      "company_name": "Elicera Therapeutics",
+      "trend7d": 0.33,
+      "discord_members": 1026,
+      "facebook_members": 129,
+      "market_cap": 178853490.0,
+      "owner_count": 1199,
+      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
+    },
+    {
       "ticker": "HANZA",
       "company_name": "HANZA",
       "trend7d": 0.33,
@@ -501,16 +511,6 @@
       "market_cap": 1254987636268.0,
       "owner_count": 17642,
       "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
-      "ticker": "CRUSTAL-RESOURCES",
-      "company_name": "Crustal Resources",
-      "trend7d": 0.3,
-      "discord_members": 59,
-      "facebook_members": null,
-      "market_cap": 32197140.0,
-      "owner_count": 505,
-      "detail_url": "https://allaaktier.se/bolag/crustal-resources"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 74,
+    "total_posts_fetched": 78,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
