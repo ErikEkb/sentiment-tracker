@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:23:29.738991+00:00",
+  "generated_at": "2026-09-02T17:42:55.147234+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "BEYOND-FRAMES",
       "company_name": "Beyond Frames",
-      "trend7d": 30.5,
-      "discord_members": 52,
+      "trend7d": 31.69,
+      "discord_members": 53,
       "facebook_members": null,
       "market_cap": 60266913.0,
       "owner_count": 205,
@@ -25,8 +25,8 @@
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 24.31,
-      "discord_members": 248,
+      "trend7d": 25.06,
+      "discord_members": 252,
       "facebook_members": null,
       "market_cap": 78811949.0,
       "owner_count": 523,
@@ -35,8 +35,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 8.29,
-      "discord_members": 208,
+      "trend7d": 9.29,
+      "discord_members": 213,
       "facebook_members": 295,
       "market_cap": 738290626.0,
       "owner_count": 1618,
@@ -135,8 +135,8 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 1.89,
-      "discord_members": 1595,
+      "trend7d": 1.87,
+      "discord_members": 1594,
       "facebook_members": null,
       "market_cap": 2248049001.0,
       "owner_count": 7561,
@@ -175,8 +175,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.6,
-      "discord_members": 653,
+      "trend7d": 1.65,
+      "discord_members": 654,
       "facebook_members": 363,
       "market_cap": 258758743.0,
       "owner_count": 504,
@@ -213,20 +213,10 @@
       "detail_url": "https://allaaktier.se/bolag/i-tech"
     },
     {
-      "ticker": "ONCOZENGE",
-      "company_name": "OncoZenge",
-      "trend7d": 0.98,
-      "discord_members": 732,
-      "facebook_members": null,
-      "market_cap": 103486687.0,
-      "owner_count": 507,
-      "detail_url": "https://allaaktier.se/bolag/oncozenge"
-    },
-    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.95,
-      "discord_members": 1228,
+      "trend7d": 0.93,
+      "discord_members": 1227,
       "facebook_members": 3706,
       "market_cap": 8709947421.0,
       "owner_count": 3776,
@@ -241,6 +231,16 @@
       "market_cap": 4983821126.0,
       "owner_count": 1790,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "ONCOZENGE",
+      "company_name": "OncoZenge",
+      "trend7d": 0.89,
+      "discord_members": 730,
+      "facebook_members": null,
+      "market_cap": 103486687.0,
+      "owner_count": 507,
+      "detail_url": "https://allaaktier.se/bolag/oncozenge"
     },
     {
       "ticker": "TRUECALLER",
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/kiliaro"
     },
     {
+      "ticker": "LUNDIN-MINING",
+      "company_name": "Lundin Mining",
+      "trend7d": 0.64,
+      "discord_members": 1019,
+      "facebook_members": null,
+      "market_cap": 207800521463.0,
+      "owner_count": 8030,
+      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
+    },
+    {
       "ticker": "KLARIA-PHARMA",
       "company_name": "Klaria Pharma",
       "trend7d": 0.63,
@@ -301,16 +311,6 @@
       "market_cap": 29374907357.0,
       "owner_count": 3862,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "LUNDIN-MINING",
-      "company_name": "Lundin Mining",
-      "trend7d": 0.58,
-      "discord_members": 1017,
-      "facebook_members": null,
-      "market_cap": 207800521463.0,
-      "owner_count": 8030,
-      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "ELICERA-THERAPEUTICS",
@@ -345,8 +345,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 0.53,
-      "discord_members": 2526,
+      "trend7d": 0.52,
+      "discord_members": 2525,
       "facebook_members": 2874,
       "market_cap": 8083735923.0,
       "owner_count": 5723,
@@ -453,16 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/crustal-resources"
     },
     {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 0.32,
-      "discord_members": 467,
-      "facebook_members": null,
-      "market_cap": 1237644659758.0,
-      "owner_count": 17653,
-      "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
       "ticker": "STORYTEL",
       "company_name": "Storytel",
       "trend7d": 0.32,
@@ -471,6 +461,16 @@
       "market_cap": 8498016181.0,
       "owner_count": 4058,
       "detail_url": "https://allaaktier.se/bolag/storytel"
+    },
+    {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.32,
+      "discord_members": 1146,
+      "facebook_members": 2135,
+      "market_cap": 4392100662.0,
+      "owner_count": 3629,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
       "ticker": "MEDCLAIR-INVEST",
@@ -533,28 +533,11 @@
         "https://www.flashback.org/sp95818421",
         "https://www.flashback.org/sp95818562"
       ]
-    },
-    {
-      "ticker": "TSLA",
-      "company_name": "Tesla Inc.",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95820912",
-        "https://www.flashback.org/sp95821724",
-        "https://www.flashback.org/sp95821866"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 77,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 69,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
