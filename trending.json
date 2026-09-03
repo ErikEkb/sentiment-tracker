@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:38:23.704546+00:00",
+  "generated_at": "2026-09-03T20:42:24.999186+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 32.01,
-      "discord_members": 256,
+      "trend7d": 31.64,
+      "discord_members": 254,
       "facebook_members": null,
       "market_cap": 69889842.0,
       "owner_count": 541,
@@ -35,8 +35,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 11.05,
-      "discord_members": 222,
+      "trend7d": 11.25,
+      "discord_members": 223,
       "facebook_members": 295,
       "market_cap": 769008600.0,
       "owner_count": 1616,
@@ -55,8 +55,8 @@
     {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
       "company_name": "White Pearl Technology",
-      "trend7d": 4.26,
-      "discord_members": 195,
+      "trend7d": 4.09,
+      "discord_members": 194,
       "facebook_members": null,
       "market_cap": 496430096.0,
       "owner_count": 997,
@@ -303,6 +303,16 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.62,
+      "discord_members": 1230,
+      "facebook_members": 3706,
+      "market_cap": 8844538220.0,
+      "owner_count": 3780,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
       "ticker": "PROLIGHT-DIAGNOSTICS",
       "company_name": "Prolight Diagnostics",
       "trend7d": 0.6,
@@ -333,16 +343,6 @@
       "detail_url": "https://allaaktier.se/bolag/truecaller"
     },
     {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.57,
-      "discord_members": 1228,
-      "facebook_members": 3706,
-      "market_cap": 8844538220.0,
-      "owner_count": 3780,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
       "ticker": "AIK-FOTBOLL",
       "company_name": "AIK Fotboll",
       "trend7d": 0.56,
@@ -351,16 +351,6 @@
       "market_cap": 48921587.0,
       "owner_count": 515,
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
-    },
-    {
-      "ticker": "AEROWASH",
-      "company_name": "Aerowash",
-      "trend7d": 0.53,
-      "discord_members": 158,
-      "facebook_members": null,
-      "market_cap": 25946065.0,
-      "owner_count": 434,
-      "detail_url": "https://allaaktier.se/bolag/aerowash"
     },
     {
       "ticker": "MEDCLAIR-INVEST",
@@ -383,34 +373,24 @@
       "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
     },
     {
-      "ticker": "CESSATECH",
-      "company_name": "Cessatech",
-      "trend7d": 0.5,
-      "discord_members": 1056,
-      "facebook_members": 164,
-      "market_cap": 264585262.77,
-      "owner_count": 3888,
-      "detail_url": "https://allaaktier.se/bolag/cessatech"
-    },
-    {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
-      "trend7d": 0.46,
-      "discord_members": 1025,
+      "trend7d": 0.49,
+      "discord_members": 1026,
       "facebook_members": 129,
       "market_cap": 185860810.0,
       "owner_count": 1204,
       "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     },
     {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.43,
-      "discord_members": 944,
-      "facebook_members": 289,
-      "market_cap": 3096781523.0,
-      "owner_count": 2116,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+      "ticker": "CESSATECH",
+      "company_name": "Cessatech",
+      "trend7d": 0.47,
+      "discord_members": 1055,
+      "facebook_members": 164,
+      "market_cap": 264585262.77,
+      "owner_count": 3888,
+      "detail_url": "https://allaaktier.se/bolag/cessatech"
     },
     {
       "ticker": "ONCOZENGE",
@@ -431,6 +411,16 @@
       "market_cap": 848699460.0,
       "owner_count": 689,
       "detail_url": "https://allaaktier.se/bolag/infant-bacterial-therapeutics"
+    },
+    {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.39,
+      "discord_members": 943,
+      "facebook_members": 289,
+      "market_cap": 3096781523.0,
+      "owner_count": 2116,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "PLEJD",
@@ -503,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/irisity"
     },
     {
+      "ticker": "AEROWASH",
+      "company_name": "Aerowash",
+      "trend7d": 0.31,
+      "discord_members": 157,
+      "facebook_members": null,
+      "market_cap": 25946065.0,
+      "owner_count": 434,
+      "detail_url": "https://allaaktier.se/bolag/aerowash"
+    },
+    {
       "ticker": "CORLINE-BIOMEDICAL",
       "company_name": "Corline Biomedical",
       "trend7d": 0.31,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 48,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
