@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:03:56.475776+00:00",
+  "generated_at": "2026-09-04T03:35:21.353604+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,7 +25,7 @@
     {
       "ticker": "BEYOND-FRAMES",
       "company_name": "Beyond Frames",
-      "trend7d": 29.79,
+      "trend7d": 32.01,
       "discord_members": 54,
       "facebook_members": null,
       "market_cap": 56782092.0,
@@ -43,16 +43,6 @@
       "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
-      "ticker": "ALZECURE-PHARMA",
-      "company_name": "AlzeCure Pharma",
-      "trend7d": 4.96,
-      "discord_members": 328,
-      "facebook_members": 12,
-      "market_cap": 1203282842.0,
-      "owner_count": 1103,
-      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
       "company_name": "White Pearl Technology",
       "trend7d": 4.09,
@@ -61,6 +51,16 @@
       "market_cap": 488550254.0,
       "owner_count": 997,
       "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
+    },
+    {
+      "ticker": "ALZECURE-PHARMA",
+      "company_name": "AlzeCure Pharma",
+      "trend7d": 3.95,
+      "discord_members": 328,
+      "facebook_members": 12,
+      "market_cap": 1203282842.0,
+      "owner_count": 1103,
+      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
       "ticker": "NANEXA",
@@ -103,26 +103,6 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
-      "ticker": "SMART-EYE",
-      "company_name": "Smart Eye",
-      "trend7d": 1.51,
-      "discord_members": 1593,
-      "facebook_members": null,
-      "market_cap": 2232369496.0,
-      "owner_count": 7577,
-      "detail_url": "https://allaaktier.se/bolag/smart-eye"
-    },
-    {
-      "ticker": "RANLOS",
-      "company_name": "RanLOS",
-      "trend7d": 1.51,
-      "discord_members": 366,
-      "facebook_members": null,
-      "market_cap": 43143905.0,
-      "owner_count": 251,
-      "detail_url": "https://allaaktier.se/bolag/ranlos"
-    },
-    {
       "ticker": "ZELLUNA",
       "company_name": "Zelluna",
       "trend7d": 1.5,
@@ -131,6 +111,16 @@
       "market_cap": 746666078.66,
       "owner_count": 3506,
       "detail_url": "https://allaaktier.se/bolag/zelluna"
+    },
+    {
+      "ticker": "SMART-EYE",
+      "company_name": "Smart Eye",
+      "trend7d": 1.45,
+      "discord_members": 1593,
+      "facebook_members": null,
+      "market_cap": 2232369496.0,
+      "owner_count": 7577,
+      "detail_url": "https://allaaktier.se/bolag/smart-eye"
     },
     {
       "ticker": "MILDEF-GROUP",
@@ -153,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 1.39,
+      "discord_members": 45,
+      "facebook_members": null,
+      "market_cap": 29467136266.0,
+      "owner_count": 3885,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 1.36,
@@ -163,14 +163,14 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 1.34,
-      "discord_members": 80,
+      "ticker": "RANLOS",
+      "company_name": "RanLOS",
+      "trend7d": 1.21,
+      "discord_members": 366,
       "facebook_members": null,
-      "market_cap": 52916563680.45,
-      "owner_count": 7117,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
+      "market_cap": 43143905.0,
+      "owner_count": 251,
+      "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
     {
       "ticker": "SPECTRACURE",
@@ -181,6 +181,26 @@
       "market_cap": 36946806.0,
       "owner_count": 1462,
       "detail_url": "https://allaaktier.se/bolag/spectracure"
+    },
+    {
+      "ticker": "I-TECH",
+      "company_name": "I-Tech",
+      "trend7d": 1.1,
+      "discord_members": 174,
+      "facebook_members": null,
+      "market_cap": 884236165.0,
+      "owner_count": 741,
+      "detail_url": "https://allaaktier.se/bolag/i-tech"
+    },
+    {
+      "ticker": "LUXBRIGHT",
+      "company_name": "Luxbright",
+      "trend7d": 1.03,
+      "discord_members": 36,
+      "facebook_members": null,
+      "market_cap": 12305905.0,
+      "owner_count": 331,
+      "detail_url": "https://allaaktier.se/bolag/luxbright"
     },
     {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
@@ -203,14 +223,14 @@
       "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
-      "ticker": "I-TECH",
-      "company_name": "I-Tech",
-      "trend7d": 0.91,
-      "discord_members": 174,
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.92,
+      "discord_members": 80,
       "facebook_members": null,
-      "market_cap": 884236165.0,
-      "owner_count": 741,
-      "detail_url": "https://allaaktier.se/bolag/i-tech"
+      "market_cap": 52916563680.45,
+      "owner_count": 7117,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "FLEXQUBE",
@@ -243,16 +263,6 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
-      "ticker": "PIXFAM",
-      "company_name": "Pixfam",
-      "trend7d": 0.72,
-      "discord_members": 44,
-      "facebook_members": null,
-      "market_cap": null,
-      "owner_count": null,
-      "detail_url": "https://allaaktier.se/bolag/pixfam"
-    },
-    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 0.7,
@@ -273,14 +283,24 @@
       "detail_url": "https://allaaktier.se/bolag/bpc-instruments"
     },
     {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 0.67,
-      "discord_members": 45,
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.65,
+      "discord_members": 1230,
+      "facebook_members": 3706,
+      "market_cap": 9075265304.0,
+      "owner_count": 3780,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "TRUECALLER",
+      "company_name": "Truecaller",
+      "trend7d": 0.64,
+      "discord_members": 621,
       "facebook_members": null,
-      "market_cap": 29467136266.0,
-      "owner_count": 3885,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
+      "market_cap": 8174632555.0,
+      "owner_count": 3232,
+      "detail_url": "https://allaaktier.se/bolag/truecaller"
     },
     {
       "ticker": "ARGO-DEFENCE",
@@ -303,26 +323,6 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.62,
-      "discord_members": 1230,
-      "facebook_members": 3706,
-      "market_cap": 9075265304.0,
-      "owner_count": 3780,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "PROLIGHT-DIAGNOSTICS",
-      "company_name": "Prolight Diagnostics",
-      "trend7d": 0.6,
-      "discord_members": 129,
-      "facebook_members": null,
-      "market_cap": 211988163.0,
-      "owner_count": 1109,
-      "detail_url": "https://allaaktier.se/bolag/prolight-diagnostics"
-    },
-    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 0.59,
@@ -331,16 +331,6 @@
       "market_cap": 145355610.0,
       "owner_count": 346,
       "detail_url": "https://allaaktier.se/bolag/acucort"
-    },
-    {
-      "ticker": "TRUECALLER",
-      "company_name": "Truecaller",
-      "trend7d": 0.58,
-      "discord_members": 621,
-      "facebook_members": null,
-      "market_cap": 8174632555.0,
-      "owner_count": 3232,
-      "detail_url": "https://allaaktier.se/bolag/truecaller"
     },
     {
       "ticker": "AIK-FOTBOLL",
@@ -363,14 +353,14 @@
       "detail_url": "https://allaaktier.se/bolag/medclair-invest"
     },
     {
-      "ticker": "CINCLUS-PHARMA",
-      "company_name": "Cinclus Pharma",
+      "ticker": "INFANT-BACTERIAL-THERAPEUTICS",
+      "company_name": "Infant Bacterial Therapeutics",
       "trend7d": 0.5,
-      "discord_members": 287,
+      "discord_members": 306,
       "facebook_members": null,
-      "market_cap": 588611360.0,
-      "owner_count": 614,
-      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
+      "market_cap": 874295158.0,
+      "owner_count": 689,
+      "detail_url": "https://allaaktier.se/bolag/infant-bacterial-therapeutics"
     },
     {
       "ticker": "ELICERA-THERAPEUTICS",
@@ -393,6 +383,26 @@
       "detail_url": "https://allaaktier.se/bolag/cessatech"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.46,
+      "discord_members": 943,
+      "facebook_members": 289,
+      "market_cap": 3068628964.0,
+      "owner_count": 2116,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.45,
+      "discord_members": 498,
+      "facebook_members": 2766,
+      "market_cap": 10651425760.0,
+      "owner_count": 4928,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
       "ticker": "ONCOZENGE",
       "company_name": "OncoZenge",
       "trend7d": 0.42,
@@ -403,34 +413,24 @@
       "detail_url": "https://allaaktier.se/bolag/oncozenge"
     },
     {
-      "ticker": "INFANT-BACTERIAL-THERAPEUTICS",
-      "company_name": "Infant Bacterial Therapeutics",
-      "trend7d": 0.4,
-      "discord_members": 306,
-      "facebook_members": null,
-      "market_cap": 874295158.0,
-      "owner_count": 689,
-      "detail_url": "https://allaaktier.se/bolag/infant-bacterial-therapeutics"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
+      "ticker": "CINCLUS-PHARMA",
+      "company_name": "Cinclus Pharma",
       "trend7d": 0.39,
-      "discord_members": 943,
-      "facebook_members": 289,
-      "market_cap": 3068628964.0,
-      "owner_count": 2116,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+      "discord_members": 287,
+      "facebook_members": null,
+      "market_cap": 588611360.0,
+      "owner_count": 614,
+      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
     },
     {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
+      "ticker": "ODINWELL",
+      "company_name": "Odinwell",
       "trend7d": 0.38,
-      "discord_members": 498,
-      "facebook_members": 2766,
-      "market_cap": 10651425760.0,
-      "owner_count": 4928,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
+      "discord_members": 159,
+      "facebook_members": 142,
+      "market_cap": 14266574.0,
+      "owner_count": 239,
+      "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
       "ticker": "KLARIA-PHARMA",
@@ -473,6 +473,16 @@
       "detail_url": "https://allaaktier.se/bolag/swedencare"
     },
     {
+      "ticker": "PROLIGHT-DIAGNOSTICS",
+      "company_name": "Prolight Diagnostics",
+      "trend7d": 0.33,
+      "discord_members": 129,
+      "facebook_members": null,
+      "market_cap": 211988163.0,
+      "owner_count": 1109,
+      "detail_url": "https://allaaktier.se/bolag/prolight-diagnostics"
+    },
+    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 0.33,
@@ -501,16 +511,6 @@
       "market_cap": 26257418.0,
       "owner_count": 434,
       "detail_url": "https://allaaktier.se/bolag/aerowash"
-    },
-    {
-      "ticker": "CORLINE-BIOMEDICAL",
-      "company_name": "Corline Biomedical",
-      "trend7d": 0.31,
-      "discord_members": 315,
-      "facebook_members": 325,
-      "market_cap": 422049840.0,
-      "owner_count": 198,
-      "detail_url": "https://allaaktier.se/bolag/corline-biomedical"
     }
   ],
   "twitter_mentions": 0,
