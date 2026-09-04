@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:16:06.913031+00:00",
+  "generated_at": "2026-09-04T17:26:57.285802+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 32.86,
-      "discord_members": 260,
+      "trend7d": 32.68,
+      "discord_members": 259,
       "facebook_members": null,
       "market_cap": 70854752.0,
       "owner_count": 542,
@@ -45,12 +45,22 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 12.01,
-      "discord_members": 227,
+      "trend7d": 12.21,
+      "discord_members": 228,
       "facebook_members": 295,
       "market_cap": 800785815.0,
       "owner_count": 1614,
       "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
+      "ticker": "ALZECURE-PHARMA",
+      "company_name": "AlzeCure Pharma",
+      "trend7d": 4.58,
+      "discord_members": 331,
+      "facebook_members": 12,
+      "market_cap": 1185544029.0,
+      "owner_count": 1109,
+      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
       "ticker": "NANEXA",
@@ -61,16 +71,6 @@
       "market_cap": 1134757018.0,
       "owner_count": 1641,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
-      "ticker": "ALZECURE-PHARMA",
-      "company_name": "AlzeCure Pharma",
-      "trend7d": 4.36,
-      "discord_members": 329,
-      "facebook_members": 12,
-      "market_cap": 1185544029.0,
-      "owner_count": 1109,
-      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
       "ticker": "BIOSERGEN",
@@ -103,6 +103,16 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
+      "ticker": "MILDEF-GROUP",
+      "company_name": "Mildef Group",
+      "trend7d": 1.73,
+      "discord_members": 466,
+      "facebook_members": null,
+      "market_cap": 10704504144.0,
+      "owner_count": 7495,
+      "detail_url": "https://allaaktier.se/bolag/mildef-group"
+    },
+    {
       "ticker": "ZELLUNA",
       "company_name": "Zelluna",
       "trend7d": 1.61,
@@ -123,16 +133,6 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
-      "ticker": "MILDEF-GROUP",
-      "company_name": "Mildef Group",
-      "trend7d": 1.51,
-      "discord_members": 463,
-      "facebook_members": null,
-      "market_cap": 10704504144.0,
-      "owner_count": 7495,
-      "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
       "ticker": "RANLOS",
       "company_name": "RanLOS",
       "trend7d": 1.5,
@@ -143,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/ranlos"
     },
     {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 1.39,
-      "discord_members": 45,
-      "facebook_members": null,
-      "market_cap": 29596256738.0,
-      "owner_count": 3883,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
       "ticker": "LUXBRIGHT",
       "company_name": "Luxbright",
       "trend7d": 1.3,
@@ -161,6 +151,16 @@
       "market_cap": 12354353.0,
       "owner_count": 333,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
+    },
+    {
+      "ticker": "LUNDIN-MINING",
+      "company_name": "Lundin Mining",
+      "trend7d": 1.28,
+      "discord_members": 1035,
+      "facebook_members": null,
+      "market_cap": 211461079604.0,
+      "owner_count": 8042,
+      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "ECOMB",
@@ -191,16 +191,6 @@
       "market_cap": 878237276.0,
       "owner_count": 744,
       "detail_url": "https://allaaktier.se/bolag/i-tech"
-    },
-    {
-      "ticker": "LUNDIN-MINING",
-      "company_name": "Lundin Mining",
-      "trend7d": 1.18,
-      "discord_members": 1032,
-      "facebook_members": null,
-      "market_cap": 211461079604.0,
-      "owner_count": 8042,
-      "detail_url": "https://allaaktier.se/bolag/lundin-mining"
     },
     {
       "ticker": "FLEXQUBE",
@@ -303,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 0.8,
+      "discord_members": 119,
+      "facebook_members": null,
+      "market_cap": 143480054.0,
+      "owner_count": 346,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
       "ticker": "TRUECALLER",
       "company_name": "Truecaller",
       "trend7d": 0.73,
@@ -321,6 +321,16 @@
       "market_cap": 240011190.0,
       "owner_count": 571,
       "detail_url": "https://allaaktier.se/bolag/integrum"
+    },
+    {
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 0.65,
+      "discord_members": 44,
+      "facebook_members": null,
+      "market_cap": 29596256738.0,
+      "owner_count": 3883,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "ONLINE-BRANDS-NORDIC",
@@ -363,14 +373,14 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
-      "ticker": "ACUCORT",
-      "company_name": "AcuCort",
-      "trend7d": 0.51,
-      "discord_members": 118,
-      "facebook_members": null,
-      "market_cap": 143480054.0,
-      "owner_count": 346,
-      "detail_url": "https://allaaktier.se/bolag/acucort"
+      "ticker": "ADVENICA",
+      "company_name": "Advenica",
+      "trend7d": 0.54,
+      "discord_members": 71,
+      "facebook_members": 53,
+      "market_cap": 740722522.0,
+      "owner_count": 621,
+      "detail_url": "https://allaaktier.se/bolag/advenica"
     },
     {
       "ticker": "MRESELL",
@@ -383,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/mresell"
     },
     {
+      "ticker": "MEDCLAIR-INVEST",
+      "company_name": "Medclair Invest",
+      "trend7d": 0.49,
+      "discord_members": 947,
+      "facebook_members": null,
+      "market_cap": 269442348.0,
+      "owner_count": 370,
+      "detail_url": "https://allaaktier.se/bolag/medclair-invest"
+    },
+    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 0.46,
@@ -391,16 +411,6 @@
       "market_cap": 10804398364.0,
       "owner_count": 4934,
       "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
-      "ticker": "MEDCLAIR-INVEST",
-      "company_name": "Medclair Invest",
-      "trend7d": 0.45,
-      "discord_members": 946,
-      "facebook_members": null,
-      "market_cap": 269442348.0,
-      "owner_count": 370,
-      "detail_url": "https://allaaktier.se/bolag/medclair-invest"
     },
     {
       "ticker": "CAMURUS",
@@ -501,16 +511,6 @@
       "market_cap": 268814899.51,
       "owner_count": 3887,
       "detail_url": "https://allaaktier.se/bolag/cessatech"
-    },
-    {
-      "ticker": "BPC-INSTRUMENTS",
-      "company_name": "BPC Instruments",
-      "trend7d": 0.37,
-      "discord_members": 103,
-      "facebook_members": null,
-      "market_cap": 190993960.0,
-      "owner_count": 160,
-      "detail_url": "https://allaaktier.se/bolag/bpc-instruments"
     }
   ],
   "twitter_mentions": 0,
@@ -522,21 +522,21 @@
       "company_name": "Hexatronic Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.25,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95825494",
         "https://www.flashback.org/sp95829534",
-        "https://www.flashback.org/sp95831638"
+        "https://www.flashback.org/sp95831638",
+        "https://www.flashback.org/sp95838865"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
