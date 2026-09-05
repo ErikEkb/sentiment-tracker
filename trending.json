@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:59:56.182892+00:00",
+  "generated_at": "2026-09-05T22:49:00.934923+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -522,21 +522,20 @@
       "company_name": "Hexatronic Group",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95838865",
         "https://www.flashback.org/sp95845735",
         "https://www.flashback.org/sp95846789"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 62,
+    "total_posts_fetched": 49,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
