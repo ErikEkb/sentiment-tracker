@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:44:34.879826+00:00",
+  "generated_at": "2026-09-05T16:38:10.570416+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -116,7 +116,7 @@
       "ticker": "LUNDIN-MINING",
       "company_name": "Lundin Mining",
       "trend7d": 1.31,
-      "discord_members": 1035,
+      "discord_members": null,
       "facebook_members": null,
       "market_cap": 209588235904.0,
       "owner_count": 8042,
@@ -303,16 +303,6 @@
       "detail_url": "https://allaaktier.se/bolag/truecaller"
     },
     {
-      "ticker": "INTEGRUM",
-      "company_name": "Integrum",
-      "trend7d": 0.67,
-      "discord_members": 580,
-      "facebook_members": null,
-      "market_cap": 244011376.0,
-      "owner_count": 571,
-      "detail_url": "https://allaaktier.se/bolag/integrum"
-    },
-    {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
       "trend7d": 0.64,
@@ -331,6 +321,16 @@
       "market_cap": 29328792903.0,
       "owner_count": 3883,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
+      "ticker": "INTEGRUM",
+      "company_name": "Integrum",
+      "trend7d": 0.61,
+      "discord_members": 579,
+      "facebook_members": null,
+      "market_cap": 244011376.0,
+      "owner_count": 571,
+      "detail_url": "https://allaaktier.se/bolag/integrum"
     },
     {
       "ticker": "CAMURUS",
