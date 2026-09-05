@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:11:48.429128+00:00",
+  "generated_at": "2026-09-05T13:44:34.879826+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 31.8,
-      "discord_members": 260,
+      "trend7d": 31.99,
+      "discord_members": 261,
       "facebook_members": null,
       "market_cap": 73722683.0,
       "owner_count": 542,
@@ -105,8 +105,8 @@
     {
       "ticker": "MILDEF-GROUP",
       "company_name": "Mildef Group",
-      "trend7d": 1.32,
-      "discord_members": 466,
+      "trend7d": 1.34,
+      "discord_members": 467,
       "facebook_members": null,
       "market_cap": 11062577346.0,
       "owner_count": 7495,
@@ -125,12 +125,22 @@
     {
       "ticker": "RANLOS",
       "company_name": "RanLOS",
-      "trend7d": 1.27,
+      "trend7d": 1.3,
       "discord_members": 366,
       "facebook_members": null,
       "market_cap": 38651362.0,
       "owner_count": 253,
       "detail_url": "https://allaaktier.se/bolag/ranlos"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 1.27,
+      "discord_members": 365,
+      "facebook_members": null,
+      "market_cap": 132386098.0,
+      "owner_count": 633,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "ECOMB",
@@ -143,6 +153,16 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
+      "ticker": "ADVENICA",
+      "company_name": "Advenica",
+      "trend7d": 1.14,
+      "discord_members": 72,
+      "facebook_members": 53,
+      "market_cap": 751279138.0,
+      "owner_count": 621,
+      "detail_url": "https://allaaktier.se/bolag/advenica"
+    },
+    {
       "ticker": "I-TECH",
       "company_name": "I-Tech",
       "trend7d": 1.05,
@@ -153,14 +173,24 @@
       "detail_url": "https://allaaktier.se/bolag/i-tech"
     },
     {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.04,
-      "discord_members": 365,
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 1.02,
+      "discord_members": 80,
       "facebook_members": null,
-      "market_cap": 132386098.0,
-      "owner_count": 633,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+      "market_cap": 52020239670.66,
+      "owner_count": 7137,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.99,
+      "discord_members": 1234,
+      "facebook_members": 3706,
+      "market_cap": 9132947075.0,
+      "owner_count": 3788,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
@@ -171,26 +201,6 @@
       "market_cap": 11635696879.0,
       "owner_count": 14178,
       "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 0.96,
-      "discord_members": 80,
-      "facebook_members": null,
-      "market_cap": 52020239670.66,
-      "owner_count": 7137,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.96,
-      "discord_members": 1233,
-      "facebook_members": 3706,
-      "market_cap": 9132947075.0,
-      "owner_count": 3788,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "VETTED-ASSETS",
@@ -213,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.89,
+      "discord_members": 944,
+      "facebook_members": 289,
+      "market_cap": 3068628964.0,
+      "owner_count": 2116,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.86,
@@ -221,16 +241,6 @@
       "market_cap": 5040860567.0,
       "owner_count": 1800,
       "detail_url": "https://allaaktier.se/bolag/nyab"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.86,
-      "discord_members": 943,
-      "facebook_members": 289,
-      "market_cap": 3068628964.0,
-      "owner_count": 2116,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "MIPS",
@@ -253,24 +263,14 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
       "trend7d": 0.79,
-      "discord_members": 234,
+      "discord_members": 241,
       "facebook_members": null,
-      "market_cap": 90191872.0,
-      "owner_count": 166,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 0.75,
-      "discord_members": 91,
-      "facebook_members": null,
-      "market_cap": 419952867.0,
-      "owner_count": 297,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+      "market_cap": 47829587.0,
+      "owner_count": 516,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
       "ticker": "FLEXQUBE",
@@ -281,6 +281,16 @@
       "market_cap": 668149968.0,
       "owner_count": 331,
       "detail_url": "https://allaaktier.se/bolag/flexqube"
+    },
+    {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 0.72,
+      "discord_members": 91,
+      "facebook_members": null,
+      "market_cap": 419952867.0,
+      "owner_count": 297,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "TRUECALLER",
@@ -305,22 +315,12 @@
     {
       "ticker": "SMART-EYE",
       "company_name": "Smart Eye",
-      "trend7d": 0.66,
-      "discord_members": 1593,
+      "trend7d": 0.64,
+      "discord_members": 1592,
       "facebook_members": null,
       "market_cap": 2179451167.0,
       "owner_count": 7502,
       "detail_url": "https://allaaktier.se/bolag/smart-eye"
-    },
-    {
-      "ticker": "ADVENICA",
-      "company_name": "Advenica",
-      "trend7d": 0.66,
-      "discord_members": 71,
-      "facebook_members": 53,
-      "market_cap": 751279138.0,
-      "owner_count": 621,
-      "detail_url": "https://allaaktier.se/bolag/advenica"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -353,14 +353,14 @@
       "detail_url": "https://allaaktier.se/bolag/mresell"
     },
     {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
       "trend7d": 0.58,
-      "discord_members": 240,
+      "discord_members": 234,
       "facebook_members": null,
-      "market_cap": 47829587.0,
-      "owner_count": 516,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+      "market_cap": 90191872.0,
+      "owner_count": 166,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "HANSA-BIOPHARMA",
@@ -403,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
     },
     {
+      "ticker": "UPSALES-TECHNOLOGY",
+      "company_name": "Upsales Technology",
+      "trend7d": 0.49,
+      "discord_members": 40,
+      "facebook_members": null,
+      "market_cap": 511886600.0,
+      "owner_count": 325,
+      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
       "ticker": "INCOAX-NETWORKS",
       "company_name": "InCoax Networks",
       "trend7d": 0.49,
@@ -431,16 +441,6 @@
       "market_cap": 36637628.0,
       "owner_count": 1460,
       "detail_url": "https://allaaktier.se/bolag/spectracure"
-    },
-    {
-      "ticker": "UPSALES-TECHNOLOGY",
-      "company_name": "Upsales Technology",
-      "trend7d": 0.47,
-      "discord_members": 40,
-      "facebook_members": null,
-      "market_cap": 511886600.0,
-      "owner_count": 325,
-      "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
       "ticker": "VESTUM",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/infant-bacterial-therapeutics"
     },
     {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
+      "ticker": "CINCLUS-PHARMA",
+      "company_name": "Cinclus Pharma",
       "trend7d": 0.31,
-      "discord_members": 497,
-      "facebook_members": 2766,
-      "market_cap": 10736410540.0,
-      "owner_count": 4934,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
+      "discord_members": 287,
+      "facebook_members": null,
+      "market_cap": 598089804.0,
+      "owner_count": 612,
+      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
     }
   ],
   "twitter_mentions": 0,
@@ -553,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 69,
+    "total_posts_fetched": 68,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
