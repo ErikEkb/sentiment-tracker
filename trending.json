@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:52:18.599670+00:00",
+  "generated_at": "2026-09-05T20:59:56.182892+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -223,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.89,
-      "discord_members": 944,
-      "facebook_members": 289,
-      "market_cap": 3068628964.0,
-      "owner_count": 2116,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
-    },
-    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.86,
@@ -241,6 +231,16 @@
       "market_cap": 5040860567.0,
       "owner_count": 1800,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.86,
+      "discord_members": 943,
+      "facebook_members": 289,
+      "market_cap": 3068628964.0,
+      "owner_count": 2116,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "MIPS",
@@ -518,23 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "ANOT",
-      "company_name": "Anoto Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.75,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 3.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95841096",
-        "https://www.flashback.org/sp95841758",
-        "https://www.flashback.org/sp95845759"
-      ]
-    },
-    {
       "ticker": "HTRO",
       "company_name": "Hexatronic Group",
       "sector": "Discovered",
@@ -553,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 73,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 62,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
