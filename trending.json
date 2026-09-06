@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:09:25.481053+00:00",
+  "generated_at": "2026-09-06T22:46:34.323388+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
     },
     {
+      "ticker": "BEYOND-FRAMES",
+      "company_name": "Beyond Frames",
+      "trend7d": 14.1,
+      "discord_members": 56,
+      "facebook_members": null,
+      "market_cap": 59036976.0,
+      "owner_count": 207,
+      "detail_url": "https://allaaktier.se/bolag/beyond-frames"
+    },
+    {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
       "trend7d": 13.46,
@@ -43,20 +53,10 @@
       "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
-      "ticker": "BEYOND-FRAMES",
-      "company_name": "Beyond Frames",
-      "trend7d": 13.27,
-      "discord_members": 55,
-      "facebook_members": null,
-      "market_cap": 59036976.0,
-      "owner_count": 207,
-      "detail_url": "https://allaaktier.se/bolag/beyond-frames"
-    },
-    {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 4.61,
-      "discord_members": 1336,
+      "trend7d": 4.63,
+      "discord_members": 1337,
       "facebook_members": 195,
       "market_cap": 1209261267.0,
       "owner_count": 1641,
@@ -163,16 +163,6 @@
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.97,
-      "discord_members": 235,
-      "facebook_members": null,
-      "market_cap": 90191872.0,
-      "owner_count": 166,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
       "ticker": "KLARNA",
       "company_name": "Klarna",
       "trend7d": 0.91,
@@ -211,6 +201,16 @@
       "market_cap": 10397809706.0,
       "owner_count": 2560,
       "detail_url": "https://allaaktier.se/bolag/mips"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.83,
+      "discord_members": 234,
+      "facebook_members": null,
+      "market_cap": 90191872.0,
+      "owner_count": 166,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "ACUCORT",
@@ -516,10 +516,44 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "FMM-B",
+      "company_name": "FM Mattsson B",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95864466",
+        "https://www.flashback.org/sp95864478"
+      ]
+    },
+    {
+      "ticker": "VALUNO",
+      "company_name": "Valuno Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95854432",
+        "https://www.flashback.org/sp95858737",
+        "https://www.flashback.org/sp95859022"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 57,
-    "tickers_with_any_mentions": 0,
+    "total_posts_fetched": 58,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
