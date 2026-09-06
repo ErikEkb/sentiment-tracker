@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:00:53.376725+00:00",
+  "generated_at": "2026-09-06T17:32:23.278112+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 12.65,
-      "discord_members": 230,
+      "trend7d": 12.85,
+      "discord_members": 231,
       "facebook_members": 295,
       "market_cap": 812437460.0,
       "owner_count": 1614,
@@ -173,16 +173,6 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
-      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
-      "company_name": "Cibus Nordic Real Estate",
-      "trend7d": 0.91,
-      "discord_members": 680,
-      "facebook_members": 161,
-      "market_cap": 11635696879.0,
-      "owner_count": 14178,
-      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
-    },
-    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 0.91,
@@ -191,6 +181,16 @@
       "market_cap": 9132947075.0,
       "owner_count": 3788,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
+      "company_name": "Cibus Nordic Real Estate",
+      "trend7d": 0.86,
+      "discord_members": 679,
+      "facebook_members": 161,
+      "market_cap": 11635696879.0,
+      "owner_count": 14178,
+      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
     },
     {
       "ticker": "MIPS",
@@ -231,6 +231,16 @@
       "market_cap": 214680628.81,
       "owner_count": 81,
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
+    },
+    {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 0.8,
+      "discord_members": 120,
+      "facebook_members": null,
+      "market_cap": 145355610.0,
+      "owner_count": 346,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
       "ticker": "NYAB",
@@ -341,16 +351,6 @@
       "market_cap": 33536553033.11,
       "owner_count": 1100,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
-    },
-    {
-      "ticker": "ACUCORT",
-      "company_name": "AcuCort",
-      "trend7d": 0.51,
-      "discord_members": 119,
-      "facebook_members": null,
-      "market_cap": 145355610.0,
-      "owner_count": 346,
-      "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
       "ticker": "VETTED-ASSETS",
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 52,
+    "total_posts_fetched": 55,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
