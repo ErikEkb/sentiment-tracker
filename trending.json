@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:32:23.278112+00:00",
+  "generated_at": "2026-09-06T20:09:25.481053+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
     },
     {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 13.46,
+      "discord_members": 234,
+      "facebook_members": 295,
+      "market_cap": 812437460.0,
+      "owner_count": 1614,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
       "ticker": "BEYOND-FRAMES",
       "company_name": "Beyond Frames",
       "trend7d": 13.27,
@@ -43,20 +53,10 @@
       "detail_url": "https://allaaktier.se/bolag/beyond-frames"
     },
     {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 12.85,
-      "discord_members": 231,
-      "facebook_members": 295,
-      "market_cap": 812437460.0,
-      "owner_count": 1614,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
-    },
-    {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 4.63,
-      "discord_members": 1337,
+      "trend7d": 4.61,
+      "discord_members": 1336,
       "facebook_members": 195,
       "market_cap": 1209261267.0,
       "owner_count": 1641,
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 0.97,
+      "discord_members": 235,
+      "facebook_members": null,
+      "market_cap": 90191872.0,
+      "owner_count": 166,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
       "ticker": "KLARNA",
       "company_name": "Klarna",
       "trend7d": 0.91,
@@ -203,36 +213,6 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.84,
-      "discord_members": 943,
-      "facebook_members": 289,
-      "market_cap": 3068628964.0,
-      "owner_count": 2116,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
-    },
-    {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.83,
-      "discord_members": 234,
-      "facebook_members": null,
-      "market_cap": 90191872.0,
-      "owner_count": 166,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 0.81,
-      "discord_members": 863,
-      "facebook_members": null,
-      "market_cap": 214680628.81,
-      "owner_count": 81,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
-    },
-    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 0.8,
@@ -253,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.8,
+      "discord_members": 942,
+      "facebook_members": 289,
+      "market_cap": 3068628964.0,
+      "owner_count": 2116,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "INTEGRUM",
       "company_name": "Integrum",
       "trend7d": 0.79,
@@ -261,6 +251,16 @@
       "market_cap": 244011376.0,
       "owner_count": 571,
       "detail_url": "https://allaaktier.se/bolag/integrum"
+    },
+    {
+      "ticker": "ALLARITY-THERAPEUTICS",
+      "company_name": "Allarity Therapeutics",
+      "trend7d": 0.77,
+      "discord_members": 862,
+      "facebook_members": null,
+      "market_cap": 214680628.81,
+      "owner_count": 81,
+      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
       "ticker": "ONLINE-BRANDS-NORDIC",
@@ -281,16 +281,6 @@
       "market_cap": 8005874657.0,
       "owner_count": 3238,
       "detail_url": "https://allaaktier.se/bolag/truecaller"
-    },
-    {
-      "ticker": "ANOTO",
-      "company_name": "Anoto",
-      "trend7d": 0.6,
-      "discord_members": 366,
-      "facebook_members": null,
-      "market_cap": 211653649.0,
-      "owner_count": 1361,
-      "detail_url": "https://allaaktier.se/bolag/anoto"
     },
     {
       "ticker": "CAMURUS",
@@ -363,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/vetted-assets"
     },
     {
+      "ticker": "ANOTO",
+      "company_name": "Anoto",
+      "trend7d": 0.5,
+      "discord_members": 365,
+      "facebook_members": null,
+      "market_cap": 211653649.0,
+      "owner_count": 1361,
+      "detail_url": "https://allaaktier.se/bolag/anoto"
+    },
+    {
       "ticker": "SPECTRACURE",
       "company_name": "SpectraCure",
       "trend7d": 0.49,
@@ -423,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/bpc-instruments"
     },
     {
-      "ticker": "MEDCLAIR-INVEST",
-      "company_name": "Medclair Invest",
-      "trend7d": 0.42,
-      "discord_members": 947,
-      "facebook_members": null,
-      "market_cap": 267609406.0,
-      "owner_count": 370,
-      "detail_url": "https://allaaktier.se/bolag/medclair-invest"
-    },
-    {
       "ticker": "TALKPOOL",
       "company_name": "TalkPool",
       "trend7d": 0.4,
@@ -441,6 +431,16 @@
       "market_cap": 133671453.0,
       "owner_count": 226,
       "detail_url": "https://allaaktier.se/bolag/talkpool"
+    },
+    {
+      "ticker": "MEDCLAIR-INVEST",
+      "company_name": "Medclair Invest",
+      "trend7d": 0.39,
+      "discord_members": 946,
+      "facebook_members": null,
+      "market_cap": 267609406.0,
+      "owner_count": 370,
+      "detail_url": "https://allaaktier.se/bolag/medclair-invest"
     },
     {
       "ticker": "UPSALES-TECHNOLOGY",
@@ -516,27 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "HTRO",
-      "company_name": "Hexatronic Group",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95845735",
-        "https://www.flashback.org/sp95846789"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 55,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 57,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
