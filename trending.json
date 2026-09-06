@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:32:35.163059+00:00",
+  "generated_at": "2026-09-06T14:00:53.376725+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 31.79,
-      "discord_members": 261,
+      "trend7d": 31.98,
+      "discord_members": 262,
       "facebook_members": null,
       "market_cap": 73722683.0,
       "owner_count": 542,
@@ -161,16 +161,6 @@
       "market_cap": 132386098.0,
       "owner_count": 633,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "VETTED-ASSETS",
-      "company_name": "Vetted Assets",
-      "trend7d": 0.94,
-      "discord_members": 76,
-      "facebook_members": null,
-      "market_cap": 275014958.0,
-      "owner_count": 441,
-      "detail_url": "https://allaaktier.se/bolag/vetted-assets"
     },
     {
       "ticker": "KLARNA",
@@ -363,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
+      "ticker": "VETTED-ASSETS",
+      "company_name": "Vetted Assets",
+      "trend7d": 0.5,
+      "discord_members": 75,
+      "facebook_members": null,
+      "market_cap": 275014958.0,
+      "owner_count": 441,
+      "detail_url": "https://allaaktier.se/bolag/vetted-assets"
+    },
+    {
       "ticker": "SPECTRACURE",
       "company_name": "SpectraCure",
       "trend7d": 0.49,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 49,
+    "total_posts_fetched": 52,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
