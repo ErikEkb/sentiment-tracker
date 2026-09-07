@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:56:17.018281+00:00",
+  "generated_at": "2026-09-07T17:36:44.452887+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 6.12,
-      "discord_members": 234,
+      "trend7d": 6.29,
+      "discord_members": 235,
       "facebook_members": 295,
       "market_cap": 815615182.0,
       "owner_count": 1615,
@@ -65,12 +65,22 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 2.21,
-      "discord_members": 220,
+      "trend7d": 2.36,
+      "discord_members": 221,
       "facebook_members": 63,
       "market_cap": 83173588.0,
       "owner_count": 752,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 1.53,
+      "discord_members": 82,
+      "facebook_members": null,
+      "market_cap": 52056364836.14,
+      "owner_count": 7164,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "ALZECURE-PHARMA",
@@ -121,16 +131,6 @@
       "market_cap": 131862833.0,
       "owner_count": 631,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 1.11,
-      "discord_members": 81,
-      "facebook_members": null,
-      "market_cap": 52056364836.14,
-      "owner_count": 7164,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "LUNDIN-MINING",
@@ -193,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
+      "ticker": "LUXBRIGHT",
+      "company_name": "Luxbright",
+      "trend7d": 0.83,
+      "discord_members": 37,
+      "facebook_members": null,
+      "market_cap": 13081080.0,
+      "owner_count": 332,
+      "detail_url": "https://allaaktier.se/bolag/luxbright"
+    },
+    {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
       "company_name": "Cibus Nordic Real Estate",
       "trend7d": 0.83,
@@ -221,6 +231,16 @@
       "market_cap": 703574524.84,
       "owner_count": 3544,
       "detail_url": "https://allaaktier.se/bolag/zelluna"
+    },
+    {
+      "ticker": "MILDEF-GROUP",
+      "company_name": "Mildef Group",
+      "trend7d": 0.73,
+      "discord_members": 469,
+      "facebook_members": null,
+      "market_cap": 11246325436.0,
+      "owner_count": 7475,
+      "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
@@ -253,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
-      "ticker": "MILDEF-GROUP",
-      "company_name": "Mildef Group",
-      "trend7d": 0.66,
-      "discord_members": 468,
-      "facebook_members": null,
-      "market_cap": 11246325436.0,
-      "owner_count": 7475,
-      "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
       "ticker": "XVIVO-PERFUSION",
       "company_name": "Xvivo Perfusion",
       "trend7d": 0.64,
@@ -291,6 +301,16 @@
       "market_cap": 7894494445.0,
       "owner_count": 3241,
       "detail_url": "https://allaaktier.se/bolag/truecaller"
+    },
+    {
+      "ticker": "CLOETTA",
+      "company_name": "Cloetta",
+      "trend7d": 0.6,
+      "discord_members": 50,
+      "facebook_members": null,
+      "market_cap": 15946216270.0,
+      "owner_count": 5459,
+      "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
       "ticker": "ONLINE-BRANDS-NORDIC",
@@ -423,6 +443,16 @@
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
+      "ticker": "ODINWELL",
+      "company_name": "Odinwell",
+      "trend7d": 0.41,
+      "discord_members": 160,
+      "facebook_members": 142,
+      "market_cap": 13038064.0,
+      "owner_count": 239,
+      "detail_url": "https://allaaktier.se/bolag/odinwell"
+    },
+    {
       "ticker": "RANLOS",
       "company_name": "RanLOS",
       "trend7d": 0.4,
@@ -441,6 +471,16 @@
       "market_cap": 133671453.0,
       "owner_count": 226,
       "detail_url": "https://allaaktier.se/bolag/talkpool"
+    },
+    {
+      "ticker": "NITRO-GAMES",
+      "company_name": "Nitro Games",
+      "trend7d": 0.4,
+      "discord_members": 381,
+      "facebook_members": 172,
+      "market_cap": 52341164.0,
+      "owner_count": 291,
+      "detail_url": "https://allaaktier.se/bolag/nitro-games"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -471,46 +511,6 @@
       "market_cap": 228189090.0,
       "owner_count": 1358,
       "detail_url": "https://allaaktier.se/bolag/anoto"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 0.34,
-      "discord_members": 1145,
-      "facebook_members": 2135,
-      "market_cap": 4658720303.0,
-      "owner_count": 3631,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
-    },
-    {
-      "ticker": "PROLIGHT-DIAGNOSTICS",
-      "company_name": "Prolight Diagnostics",
-      "trend7d": 0.33,
-      "discord_members": 129,
-      "facebook_members": null,
-      "market_cap": 234391458.0,
-      "owner_count": 1108,
-      "detail_url": "https://allaaktier.se/bolag/prolight-diagnostics"
-    },
-    {
-      "ticker": "ZAPTEC",
-      "company_name": "Zaptec",
-      "trend7d": 0.33,
-      "discord_members": 189,
-      "facebook_members": 558,
-      "market_cap": 4709668138.83,
-      "owner_count": 12734,
-      "detail_url": "https://allaaktier.se/bolag/zaptec"
-    },
-    {
-      "ticker": "ELICERA-THERAPEUTICS",
-      "company_name": "Elicera Therapeutics",
-      "trend7d": 0.32,
-      "discord_members": 1025,
-      "facebook_members": 129,
-      "market_cap": 192200766.0,
-      "owner_count": 1211,
-      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
     }
   ],
   "twitter_mentions": 0,
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 59,
+    "total_posts_fetched": 43,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
