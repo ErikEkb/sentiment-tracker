@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:59:04.023907+00:00",
+  "generated_at": "2026-09-08T18:31:36.132548+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,32 +25,32 @@
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 5.83,
-      "discord_members": 266,
+      "trend7d": 5.96,
+      "discord_members": 267,
       "facebook_members": null,
       "market_cap": 72035665.0,
       "owner_count": 541,
       "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 4.82,
-      "discord_members": 1339,
-      "facebook_members": 195,
-      "market_cap": 1150039941.0,
-      "owner_count": 1689,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 4.81,
-      "discord_members": 246,
+      "trend7d": 5.89,
+      "discord_members": 253,
       "facebook_members": 295,
       "market_cap": 793371132.0,
       "owner_count": 1617,
       "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 4.79,
+      "discord_members": 1338,
+      "facebook_members": 195,
+      "market_cap": 1150039941.0,
+      "owner_count": 1689,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "VIBROSENSE-DYNAMICS",
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/beyond-frames"
     },
     {
+      "ticker": "ALZECURE-PHARMA",
+      "company_name": "AlzeCure Pharma",
+      "trend7d": 1.92,
+      "discord_members": 333,
+      "facebook_members": 12,
+      "market_cap": 1271281627.0,
+      "owner_count": 1116,
+      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+    },
+    {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
       "trend7d": 1.9,
@@ -93,14 +103,14 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
-      "ticker": "ALZECURE-PHARMA",
-      "company_name": "AlzeCure Pharma",
-      "trend7d": 1.82,
-      "discord_members": 332,
-      "facebook_members": 12,
-      "market_cap": 1271281627.0,
-      "owner_count": 1116,
-      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 1.74,
+      "discord_members": 83,
+      "facebook_members": null,
+      "market_cap": 52206233777.62,
+      "owner_count": 7164,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -111,16 +121,6 @@
       "market_cap": 132909363.0,
       "owner_count": 632,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 1.32,
-      "discord_members": 82,
-      "facebook_members": null,
-      "market_cap": 52206233777.62,
-      "owner_count": 7164,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "ALLARITY-THERAPEUTICS",
@@ -193,16 +193,6 @@
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 0.8,
-      "discord_members": 1234,
-      "facebook_members": 3706,
-      "market_cap": 9555946729.0,
-      "owner_count": 3801,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
       "ticker": "ADVENICA",
       "company_name": "Advenica",
       "trend7d": 0.78,
@@ -211,6 +201,16 @@
       "market_cap": 731045625.0,
       "owner_count": 618,
       "detail_url": "https://allaaktier.se/bolag/advenica"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 0.77,
+      "discord_members": 1233,
+      "facebook_members": 3706,
+      "market_cap": 9555946729.0,
+      "owner_count": 3801,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "CAMURUS",
@@ -383,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.48,
+      "discord_members": 1258,
+      "facebook_members": 297,
+      "market_cap": 886596967.0,
+      "owner_count": 2620,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "ZAPTEC",
       "company_name": "Zaptec",
       "trend7d": 0.48,
@@ -423,14 +433,14 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.43,
-      "discord_members": 1256,
-      "facebook_members": 297,
-      "market_cap": 886596967.0,
-      "owner_count": 2620,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 0.42,
+      "discord_members": 45,
+      "facebook_members": null,
+      "market_cap": 29540919393.0,
+      "owner_count": 3889,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "INCOAX-NETWORKS",
@@ -493,24 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/qbrick"
     },
     {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
+      "ticker": "SENZIME",
+      "company_name": "Senzime",
       "trend7d": 0.32,
-      "discord_members": 241,
+      "discord_members": 372,
       "facebook_members": null,
-      "market_cap": 48921587.0,
-      "owner_count": 516,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
-    },
-    {
-      "ticker": "CLINICAL-LASERTHERMIA-SYSTEMS",
-      "company_name": "Clinical Laserthermia Systems",
-      "trend7d": 0.32,
-      "discord_members": 752,
-      "facebook_members": 703,
-      "market_cap": 90919438.0,
-      "owner_count": 864,
-      "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
+      "market_cap": 505446373.0,
+      "owner_count": 503,
+      "detail_url": "https://allaaktier.se/bolag/senzime"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 49,
+    "total_posts_fetched": 42,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
