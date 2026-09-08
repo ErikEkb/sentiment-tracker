@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:40:45.843044+00:00",
+  "generated_at": "2026-09-08T23:55:40.035919+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 7.44,
-      "discord_members": 263,
+      "trend7d": 7.75,
+      "discord_members": 265,
       "facebook_members": 295,
       "market_cap": 755238474.0,
       "owner_count": 1617,
@@ -35,8 +35,8 @@
     {
       "ticker": "MODUS-THERAPEUTICS",
       "company_name": "Modus Therapeutics",
-      "trend7d": 5.96,
-      "discord_members": 267,
+      "trend7d": 6.09,
+      "discord_members": 268,
       "facebook_members": null,
       "market_cap": 73385279.0,
       "owner_count": 541,
@@ -78,7 +78,7 @@
       "trend7d": 2.17,
       "discord_members": 234,
       "facebook_members": null,
-      "market_cap": 95828864.0,
+      "market_cap": 96392563.0,
       "owner_count": 171,
       "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
@@ -118,7 +118,7 @@
       "trend7d": 1.56,
       "discord_members": 366,
       "facebook_members": null,
-      "market_cap": 132909363.0,
+      "market_cap": 137618750.0,
       "owner_count": 632,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
@@ -378,7 +378,7 @@
       "trend7d": 0.49,
       "discord_members": 287,
       "facebook_members": null,
-      "market_cap": 594298426.0,
+      "market_cap": 599037648.0,
       "owner_count": 611,
       "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
     },
@@ -408,19 +408,9 @@
       "trend7d": 0.44,
       "discord_members": 47,
       "facebook_members": null,
-      "market_cap": 1040214302.4,
+      "market_cap": 1056043650.48,
       "owner_count": 1497,
       "detail_url": "https://allaaktier.se/bolag/dellia"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 0.44,
-      "discord_members": 1144,
-      "facebook_members": 2135,
-      "market_cap": 4701460856.0,
-      "owner_count": 3637,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
       "ticker": "NYAB",
@@ -428,7 +418,7 @@
       "trend7d": 0.43,
       "discord_members": 209,
       "facebook_members": null,
-      "market_cap": 5040860567.0,
+      "market_cap": 5097900007.0,
       "owner_count": 1800,
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
@@ -451,6 +441,16 @@
       "market_cap": 115652034.0,
       "owner_count": 254,
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
+    },
+    {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.42,
+      "discord_members": 1143,
+      "facebook_members": 2135,
+      "market_cap": 4701460856.0,
+      "owner_count": 3637,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
       "ticker": "ANOTO",
@@ -488,7 +488,7 @@
       "trend7d": 0.33,
       "discord_members": 446,
       "facebook_members": null,
-      "market_cap": 25593844850.0,
+      "market_cap": 24870854882.0,
       "owner_count": 4298,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
@@ -516,10 +516,28 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.367,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.833,
+      "sample_posts": [
+        "https://www.flashback.org/sp95873557",
+        "https://www.flashback.org/sp95873970",
+        "https://www.flashback.org/sp95874033"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 50,
-    "tickers_with_any_mentions": 0,
+    "total_posts_fetched": 52,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
