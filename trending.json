@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T13:33:17.672048+00:00",
+  "generated_at": "2026-09-09T17:40:54.551689+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 7.66,
-      "discord_members": 275,
+      "trend7d": 7.95,
+      "discord_members": 277,
       "facebook_members": 295,
       "market_cap": 810318979.0,
       "owner_count": 1618,
@@ -35,8 +35,8 @@
     {
       "ticker": "COFFEE-STAIN",
       "company_name": "Coffee Stain",
-      "trend7d": 4.47,
-      "discord_members": 26,
+      "trend7d": 7.37,
+      "discord_members": 28,
       "facebook_members": null,
       "market_cap": 4369632488.0,
       "owner_count": 9256,
@@ -65,8 +65,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 2.03,
-      "discord_members": 223,
+      "trend7d": 2.18,
+      "discord_members": 224,
       "facebook_members": 63,
       "market_cap": 98576105.0,
       "owner_count": 758,
@@ -85,8 +85,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.85,
-      "discord_members": 367,
+      "trend7d": 1.94,
+      "discord_members": 368,
       "facebook_members": null,
       "market_cap": 140758341.0,
       "owner_count": 636,
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 1.51,
+      "discord_members": 273,
+      "facebook_members": null,
+      "market_cap": 73047876.0,
+      "owner_count": 545,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "ALZECURE-PHARMA",
       "company_name": "AlzeCure Pharma",
       "trend7d": 1.43,
@@ -141,16 +151,6 @@
       "market_cap": 1203282842.0,
       "owner_count": 1121,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 1.38,
-      "discord_members": 272,
-      "facebook_members": null,
-      "market_cap": 73047876.0,
-      "owner_count": 545,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -223,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
-      "ticker": "PILA-PHARMA",
-      "company_name": "PILA PHARMA",
-      "trend7d": 0.8,
-      "discord_members": 74,
-      "facebook_members": 38,
-      "market_cap": 96846097.0,
-      "owner_count": 1441,
-      "detail_url": "https://allaaktier.se/bolag/pila-pharma"
-    },
-    {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
       "trend7d": 0.75,
@@ -245,8 +235,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 0.72,
-      "discord_members": 1263,
+      "trend7d": 0.74,
+      "discord_members": 1264,
       "facebook_members": 297,
       "market_cap": 872722210.0,
       "owner_count": 2617,
@@ -383,6 +373,16 @@
       "detail_url": "https://allaaktier.se/bolag/mresell"
     },
     {
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
+      "trend7d": 0.49,
+      "discord_members": 242,
+      "facebook_members": null,
+      "market_cap": 49795186.0,
+      "owner_count": 517,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
       "ticker": "CLOETTA",
       "company_name": "Cloetta",
       "trend7d": 0.47,
@@ -413,16 +413,6 @@
       "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
     },
     {
-      "ticker": "INTEGRUM",
-      "company_name": "Integrum",
-      "trend7d": 0.42,
-      "discord_members": 578,
-      "facebook_members": null,
-      "market_cap": 242411302.0,
-      "owner_count": 564,
-      "detail_url": "https://allaaktier.se/bolag/integrum"
-    },
-    {
       "ticker": "NOTE",
       "company_name": "NOTE",
       "trend7d": 0.42,
@@ -441,6 +431,26 @@
       "market_cap": 190684611.7,
       "owner_count": 80,
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
+    },
+    {
+      "ticker": "FREEMELT",
+      "company_name": "Freemelt",
+      "trend7d": 0.37,
+      "discord_members": 564,
+      "facebook_members": 52,
+      "market_cap": 420788606.0,
+      "owner_count": 1039,
+      "detail_url": "https://allaaktier.se/bolag/freemelt"
+    },
+    {
+      "ticker": "INTEGRUM",
+      "company_name": "Integrum",
+      "trend7d": 0.36,
+      "discord_members": 577,
+      "facebook_members": null,
+      "market_cap": 242411302.0,
+      "owner_count": 564,
+      "detail_url": "https://allaaktier.se/bolag/integrum"
     },
     {
       "ticker": "NYAB",
@@ -471,16 +481,6 @@
       "market_cap": 190488284.0,
       "owner_count": 1362,
       "detail_url": "https://allaaktier.se/bolag/anoto"
-    },
-    {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.35,
-      "discord_members": 241,
-      "facebook_members": null,
-      "market_cap": 49795186.0,
-      "owner_count": 517,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
       "ticker": "CLINICAL-LASERTHERMIA-SYSTEMS",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 45,
+    "total_posts_fetched": 47,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
