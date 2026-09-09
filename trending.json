@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:40:54.551689+00:00",
+  "generated_at": "2026-09-09T20:40:14.783903+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
       "company_name": "White Pearl Technology",
-      "trend7d": 11.75,
-      "discord_members": 197,
+      "trend7d": 11.92,
+      "discord_members": 198,
       "facebook_members": null,
       "market_cap": 549225043.0,
       "owner_count": 1063,
@@ -25,8 +25,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 7.95,
-      "discord_members": 277,
+      "trend7d": 8.25,
+      "discord_members": 279,
       "facebook_members": 295,
       "market_cap": 810318979.0,
       "owner_count": 1618,
@@ -65,12 +65,22 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 2.18,
-      "discord_members": 224,
+      "trend7d": 2.34,
+      "discord_members": 225,
       "facebook_members": 63,
       "market_cap": 98576105.0,
       "owner_count": 758,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 2.04,
+      "discord_members": 369,
+      "facebook_members": null,
+      "market_cap": 140758341.0,
+      "owner_count": 636,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "VIBROSENSE-DYNAMICS",
@@ -81,16 +91,6 @@
       "market_cap": 26165713.0,
       "owner_count": 229,
       "detail_url": "https://allaaktier.se/bolag/vibrosense-dynamics"
-    },
-    {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.94,
-      "discord_members": 368,
-      "facebook_members": null,
-      "market_cap": 140758341.0,
-      "owner_count": 636,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "CYCLEZYME",
@@ -223,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
     },
     {
+      "ticker": "UMIDA",
+      "company_name": "Umida",
+      "trend7d": 0.76,
+      "discord_members": 215,
+      "facebook_members": null,
+      "market_cap": 24284350.0,
+      "owner_count": 255,
+      "detail_url": "https://allaaktier.se/bolag/umida"
+    },
+    {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
       "trend7d": 0.75,
@@ -241,6 +251,16 @@
       "market_cap": 872722210.0,
       "owner_count": 2617,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
+      "ticker": "FREEMELT",
+      "company_name": "Freemelt",
+      "trend7d": 0.67,
+      "discord_members": 569,
+      "facebook_members": 52,
+      "market_cap": 420788606.0,
+      "owner_count": 1039,
+      "detail_url": "https://allaaktier.se/bolag/freemelt"
     },
     {
       "ticker": "ACUCORT",
@@ -291,16 +311,6 @@
       "market_cap": 4595627106.0,
       "owner_count": 3641,
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
-    },
-    {
-      "ticker": "UMIDA",
-      "company_name": "Umida",
-      "trend7d": 0.6,
-      "discord_members": 214,
-      "facebook_members": null,
-      "market_cap": 24284350.0,
-      "owner_count": 255,
-      "detail_url": "https://allaaktier.se/bolag/umida"
     },
     {
       "ticker": "HACKSAW",
@@ -433,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
-      "ticker": "FREEMELT",
-      "company_name": "Freemelt",
-      "trend7d": 0.37,
-      "discord_members": 564,
-      "facebook_members": 52,
-      "market_cap": 420788606.0,
-      "owner_count": 1039,
-      "detail_url": "https://allaaktier.se/bolag/freemelt"
-    },
-    {
       "ticker": "INTEGRUM",
       "company_name": "Integrum",
       "trend7d": 0.36,
@@ -483,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/anoto"
     },
     {
+      "ticker": "REDSENSE-MEDICAL",
+      "company_name": "Redsense Medical",
+      "trend7d": 0.35,
+      "discord_members": 116,
+      "facebook_members": 300,
+      "market_cap": 44236757.0,
+      "owner_count": 235,
+      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
+    },
+    {
       "ticker": "CLINICAL-LASERTHERMIA-SYSTEMS",
       "company_name": "Clinical Laserthermia Systems",
       "trend7d": 0.35,
@@ -501,16 +511,6 @@
       "market_cap": 116062343.0,
       "owner_count": 474,
       "detail_url": "https://allaaktier.se/bolag/gaming-corps"
-    },
-    {
-      "ticker": "ZENERGY",
-      "company_name": "Zenergy",
-      "trend7d": 0.34,
-      "discord_members": 56,
-      "facebook_members": null,
-      "market_cap": 34665599.0,
-      "owner_count": 409,
-      "detail_url": "https://allaaktier.se/bolag/zenergy"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 47,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
