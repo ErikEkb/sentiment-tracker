@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T13:24:00.893032+00:00",
+  "generated_at": "2026-09-10T17:33:21.564104+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -13,10 +13,20 @@
   "allaaktier_source": "https://allaaktier.se/",
   "allaaktier_hot": [
     {
+      "ticker": "LIGHTNING-GROUP",
+      "company_name": "Lightning Group ",
+      "trend7d": 449.59,
+      "discord_members": 43,
+      "facebook_members": null,
+      "market_cap": 69913491.0,
+      "owner_count": 180,
+      "detail_url": "https://allaaktier.se/bolag/lightning-group"
+    },
+    {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 7.84,
-      "discord_members": 282,
+      "trend7d": 7.7,
+      "discord_members": 280,
       "facebook_members": 295,
       "market_cap": 807141258.0,
       "owner_count": 1624,
@@ -165,8 +175,8 @@
     {
       "ticker": "INHALATION-SCIENCES",
       "company_name": "Inhalation Sciences",
-      "trend7d": 1.32,
-      "discord_members": 309,
+      "trend7d": 1.21,
+      "discord_members": 308,
       "facebook_members": 1168,
       "market_cap": 7840007.0,
       "owner_count": 259,
@@ -283,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
+      "ticker": "ENORAMA-PHARMA",
+      "company_name": "Enorama Pharma",
+      "trend7d": 0.81,
+      "discord_members": 39,
+      "facebook_members": 707,
+      "market_cap": 52212077.0,
+      "owner_count": 190,
+      "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
+    },
+    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
       "trend7d": 0.78,
@@ -363,16 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
     },
     {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.56,
-      "discord_members": 446,
-      "facebook_members": null,
-      "market_cap": 25868581037.0,
-      "owner_count": 4280,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
       "ticker": "BIBBINSTRUMENTS",
       "company_name": "BiBBInstruments",
       "trend7d": 0.51,
@@ -391,6 +401,16 @@
       "market_cap": 47174387.0,
       "owner_count": 518,
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.49,
+      "discord_members": 445,
+      "facebook_members": null,
+      "market_cap": 25868581037.0,
+      "owner_count": 4280,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "EGETIS-THERAPEUTICS",
@@ -491,26 +511,6 @@
       "market_cap": 115052801.0,
       "owner_count": 253,
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
-    },
-    {
-      "ticker": "HUMBLE-GROUP",
-      "company_name": "Humble Group",
-      "trend7d": 0.32,
-      "discord_members": 941,
-      "facebook_members": 2341,
-      "market_cap": 2644535855.0,
-      "owner_count": 1966,
-      "detail_url": "https://allaaktier.se/bolag/humble-group"
-    },
-    {
-      "ticker": "GAMING-CORPS",
-      "company_name": "Gaming Corps",
-      "trend7d": 0.31,
-      "discord_members": 138,
-      "facebook_members": null,
-      "market_cap": 120425588.0,
-      "owner_count": 473,
-      "detail_url": "https://allaaktier.se/bolag/gaming-corps"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 79,
+    "total_posts_fetched": 80,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
