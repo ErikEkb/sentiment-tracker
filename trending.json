@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:33:21.564104+00:00",
+  "generated_at": "2026-09-10T20:35:07.964451+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group ",
-      "trend7d": 449.59,
-      "discord_members": 43,
+      "trend7d": 516.25,
+      "discord_members": 49,
       "facebook_members": null,
       "market_cap": 69913491.0,
       "owner_count": 180,
@@ -65,8 +65,8 @@
     {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
-      "trend7d": 3.1,
-      "discord_members": 225,
+      "trend7d": 3.25,
+      "discord_members": 226,
       "facebook_members": 63,
       "market_cap": 92975190.0,
       "owner_count": 761,
@@ -173,16 +173,6 @@
       "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
     },
     {
-      "ticker": "INHALATION-SCIENCES",
-      "company_name": "Inhalation Sciences",
-      "trend7d": 1.21,
-      "discord_members": 308,
-      "facebook_members": 1168,
-      "market_cap": 7840007.0,
-      "owner_count": 259,
-      "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
-    },
-    {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
       "trend7d": 1.17,
@@ -211,6 +201,16 @@
       "market_cap": 9440583187.0,
       "owner_count": 3846,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "INHALATION-SCIENCES",
+      "company_name": "Inhalation Sciences",
+      "trend7d": 1.11,
+      "discord_members": 307,
+      "facebook_members": 1168,
+      "market_cap": 7840007.0,
+      "owner_count": 259,
+      "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     },
     {
       "ticker": "MODUS-THERAPEUTICS",
@@ -261,6 +261,16 @@
       "market_cap": 1226934594.0,
       "owner_count": 1121,
       "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
+    },
+    {
+      "ticker": "VETTED-ASSETS",
+      "company_name": "Vetted Assets",
+      "trend7d": 0.88,
+      "discord_members": 76,
+      "facebook_members": null,
+      "market_cap": 335309065.0,
+      "owner_count": 450,
+      "detail_url": "https://allaaktier.se/bolag/vetted-assets"
     },
     {
       "ticker": "CYCLEZYME",
@@ -333,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
+      "ticker": "AIK-FOTBOLL",
+      "company_name": "AIK Fotboll",
+      "trend7d": 0.65,
+      "discord_members": 243,
+      "facebook_members": null,
+      "market_cap": 47174387.0,
+      "owner_count": 518,
+      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
+    },
+    {
       "ticker": "PILA-PHARMA",
       "company_name": "PILA PHARMA",
       "trend7d": 0.65,
@@ -351,16 +371,6 @@
       "market_cap": 5128941472.01,
       "owner_count": 12873,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 0.62,
-      "discord_members": 1143,
-      "facebook_members": 2135,
-      "market_cap": 4408382777.0,
-      "owner_count": 3655,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
       "ticker": "BIOINVENT-INTERNATIONAL",
@@ -383,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
     },
     {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.59,
+      "discord_members": 1142,
+      "facebook_members": 2135,
+      "market_cap": 4408382777.0,
+      "owner_count": 3655,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
       "ticker": "BIBBINSTRUMENTS",
       "company_name": "BiBBInstruments",
       "trend7d": 0.51,
@@ -391,16 +411,6 @@
       "market_cap": 66647024.0,
       "owner_count": 267,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
-    },
-    {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.51,
-      "discord_members": 242,
-      "facebook_members": null,
-      "market_cap": 47174387.0,
-      "owner_count": 518,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
       "ticker": "HACKSAW",
@@ -421,16 +431,6 @@
       "market_cap": 3941353698.0,
       "owner_count": 1277,
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
-      "ticker": "VETTED-ASSETS",
-      "company_name": "Vetted Assets",
-      "trend7d": 0.44,
-      "discord_members": 75,
-      "facebook_members": null,
-      "market_cap": 335309065.0,
-      "owner_count": 450,
-      "detail_url": "https://allaaktier.se/bolag/vetted-assets"
     },
     {
       "ticker": "ZELLUNA",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 80,
+    "total_posts_fetched": 82,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
