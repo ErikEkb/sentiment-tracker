@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:57:12.093162+00:00",
+  "generated_at": "2026-09-11T05:47:43.728621+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group ",
-      "trend7d": 616.25,
-      "discord_members": 58,
+      "trend7d": 638.33,
+      "discord_members": 60,
       "facebook_members": null,
       "market_cap": 74162377.0,
       "owner_count": 180,
@@ -25,7 +25,7 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 7.7,
+      "trend7d": 7.52,
       "discord_members": 280,
       "facebook_members": 295,
       "market_cap": 798667334.0,
@@ -63,16 +63,6 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "BEYOND-FRAMES",
-      "company_name": "Beyond Frames",
-      "trend7d": 3.0,
-      "discord_members": 59,
-      "facebook_members": null,
-      "market_cap": 55142176.0,
-      "owner_count": 206,
-      "detail_url": "https://allaaktier.se/bolag/beyond-frames"
-    },
-    {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
       "trend7d": 3.0,
@@ -91,6 +81,16 @@
       "market_cap": 407582037.0,
       "owner_count": 1072,
       "detail_url": "https://allaaktier.se/bolag/freemelt"
+    },
+    {
+      "ticker": "BEYOND-FRAMES",
+      "company_name": "Beyond Frames",
+      "trend7d": 2.36,
+      "discord_members": 59,
+      "facebook_members": null,
+      "market_cap": 55142176.0,
+      "owner_count": 206,
+      "detail_url": "https://allaaktier.se/bolag/beyond-frames"
     },
     {
       "ticker": "TENEO-AI",
@@ -183,29 +183,9 @@
       "detail_url": "https://allaaktier.se/bolag/implantica-sdb"
     },
     {
-      "ticker": "HEMPLY-BALANCE",
-      "company_name": "Hemply Balance",
-      "trend7d": 1.17,
-      "discord_members": 103,
-      "facebook_members": null,
-      "market_cap": 11764440.0,
-      "owner_count": 206,
-      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
-    },
-    {
-      "ticker": "FINEPART",
-      "company_name": "Finepart",
-      "trend7d": 1.14,
-      "discord_members": 193,
-      "facebook_members": 212,
-      "market_cap": 28581637.0,
-      "owner_count": 735,
-      "detail_url": "https://allaaktier.se/bolag/finepart"
-    },
-    {
       "ticker": "INHALATION-SCIENCES",
       "company_name": "Inhalation Sciences",
-      "trend7d": 1.11,
+      "trend7d": 1.29,
       "discord_members": 307,
       "facebook_members": 1168,
       "market_cap": 7840007.0,
@@ -213,9 +193,39 @@
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     },
     {
+      "ticker": "HEMPLY-BALANCE",
+      "company_name": "Hemply Balance",
+      "trend7d": 1.27,
+      "discord_members": 103,
+      "facebook_members": null,
+      "market_cap": 11764440.0,
+      "owner_count": 206,
+      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
+    },
+    {
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
+      "trend7d": 1.06,
+      "discord_members": 234,
+      "facebook_members": null,
+      "market_cap": 100056608.0,
+      "owner_count": 170,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
+    },
+    {
+      "ticker": "FINEPART",
+      "company_name": "Finepart",
+      "trend7d": 1.0,
+      "discord_members": 193,
+      "facebook_members": 212,
+      "market_cap": 28581637.0,
+      "owner_count": 735,
+      "detail_url": "https://allaaktier.se/bolag/finepart"
+    },
+    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
-      "trend7d": 1.05,
+      "trend7d": 0.98,
       "discord_members": 45,
       "facebook_members": null,
       "market_cap": 28277383346.0,
@@ -231,16 +241,6 @@
       "market_cap": 35042399.0,
       "owner_count": 409,
       "detail_url": "https://allaaktier.se/bolag/zenergy"
-    },
-    {
-      "ticker": "VETTED-ASSETS",
-      "company_name": "Vetted Assets",
-      "trend7d": 0.88,
-      "discord_members": 76,
-      "facebook_members": null,
-      "market_cap": 344537754.0,
-      "owner_count": 450,
-      "detail_url": "https://allaaktier.se/bolag/vetted-assets"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -261,16 +261,6 @@
       "market_cap": 13904703.0,
       "owner_count": 331,
       "detail_url": "https://allaaktier.se/bolag/luxbright"
-    },
-    {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.85,
-      "discord_members": 234,
-      "facebook_members": null,
-      "market_cap": 100056608.0,
-      "owner_count": 170,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "ALZECURE-PHARMA",
@@ -296,16 +286,26 @@
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
       "trend7d": 0.82,
-      "discord_members": 1265,
+      "discord_members": 1266,
       "facebook_members": 297,
       "market_cap": 874109686.0,
       "owner_count": 2623,
       "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
     },
     {
+      "ticker": "VETTED-ASSETS",
+      "company_name": "Vetted Assets",
+      "trend7d": 0.78,
+      "discord_members": 76,
+      "facebook_members": null,
+      "market_cap": 344537754.0,
+      "owner_count": 450,
+      "detail_url": "https://allaaktier.se/bolag/vetted-assets"
+    },
+    {
       "ticker": "UPSALES-TECHNOLOGY",
       "company_name": "Upsales Technology",
-      "trend7d": 0.78,
+      "trend7d": 0.76,
       "discord_members": 40,
       "facebook_members": null,
       "market_cap": 491680550.0,
@@ -353,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
     {
-      "ticker": "DLABORATORY-SWEDEN",
-      "company_name": "Dlaboratory Sweden",
-      "trend7d": 0.59,
-      "discord_members": 138,
-      "facebook_members": null,
-      "market_cap": 56596220.0,
-      "owner_count": 204,
-      "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
-    },
-    {
       "ticker": "PILA-PHARMA",
       "company_name": "PILA PHARMA",
       "trend7d": 0.59,
@@ -391,16 +381,6 @@
       "market_cap": 67290956.0,
       "owner_count": 267,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.49,
-      "discord_members": 445,
-      "facebook_members": null,
-      "market_cap": 25998719231.0,
-      "owner_count": 4280,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "AIK-FOTBOLL",
@@ -483,14 +463,24 @@
       "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
     },
     {
-      "ticker": "INCOAX-NETWORKS",
-      "company_name": "InCoax Networks",
+      "ticker": "HUMBLE-GROUP",
+      "company_name": "Humble Group",
+      "trend7d": 0.35,
+      "discord_members": 941,
+      "facebook_members": 2341,
+      "market_cap": 2626422596.0,
+      "owner_count": 1966,
+      "detail_url": "https://allaaktier.se/bolag/humble-group"
+    },
+    {
+      "ticker": "DLABORATORY-SWEDEN",
+      "company_name": "Dlaboratory Sweden",
       "trend7d": 0.33,
-      "discord_members": 159,
-      "facebook_members": 13,
-      "market_cap": 115052801.0,
-      "owner_count": 253,
-      "detail_url": "https://allaaktier.se/bolag/incoax-networks"
+      "discord_members": 138,
+      "facebook_members": null,
+      "market_cap": 56596220.0,
+      "owner_count": 204,
+      "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
     },
     {
       "ticker": "LOHILO-FOODS",
@@ -511,6 +501,16 @@
       "market_cap": 430054826.0,
       "owner_count": 299,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+    },
+    {
+      "ticker": "ADVERTY",
+      "company_name": "Adverty",
+      "trend7d": 0.31,
+      "discord_members": 1185,
+      "facebook_members": 367,
+      "market_cap": 96818101.0,
+      "owner_count": 488,
+      "detail_url": "https://allaaktier.se/bolag/adverty"
     }
   ],
   "twitter_mentions": 0,
