@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:15:33.033615+00:00",
+  "generated_at": "2026-09-11T21:35:19.183716+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group",
-      "trend7d": 771.66,
-      "discord_members": 72,
+      "trend7d": 816.1,
+      "discord_members": 76,
       "facebook_members": null,
       "market_cap": 74162377.0,
       "owner_count": 180,
@@ -45,8 +45,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 4.04,
-      "discord_members": 372,
+      "trend7d": 4.13,
+      "discord_members": 373,
       "facebook_members": null,
       "market_cap": 153520431.0,
       "owner_count": 642,
@@ -135,8 +135,8 @@
     {
       "ticker": "TENEO-AI",
       "company_name": "Teneo AI",
-      "trend7d": 2.19,
-      "discord_members": 255,
+      "trend7d": 2.06,
+      "discord_members": 254,
       "facebook_members": 223,
       "market_cap": 91922086.0,
       "owner_count": 909,
@@ -183,6 +183,26 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
+      "ticker": "H100",
+      "company_name": "H100",
+      "trend7d": 1.66,
+      "discord_members": 26,
+      "facebook_members": null,
+      "market_cap": 1695654900.0,
+      "owner_count": 1440,
+      "detail_url": "https://allaaktier.se/bolag/h100"
+    },
+    {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 1.39,
+      "discord_members": 276,
+      "facebook_members": null,
+      "market_cap": 68661629.0,
+      "owner_count": 543,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
       "trend7d": 1.3,
@@ -201,16 +221,6 @@
       "market_cap": 7840007.0,
       "owner_count": 259,
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 1.26,
-      "discord_members": 275,
-      "facebook_members": null,
-      "market_cap": 68661629.0,
-      "owner_count": 543,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -255,8 +265,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.02,
-      "discord_members": 1234,
+      "trend7d": 1.04,
+      "discord_members": 1235,
       "facebook_members": 3706,
       "market_cap": 9171401589.0,
       "owner_count": 3851,
@@ -453,12 +463,22 @@
       "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
     },
     {
+      "ticker": "SCANDINAVIAN-ASTOR",
+      "company_name": "Scandinavian Astor",
+      "trend7d": 0.38,
+      "discord_members": 1477,
+      "facebook_members": null,
+      "market_cap": 1250345424.0,
+      "owner_count": 5818,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
+    },
+    {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
       "trend7d": 0.37,
       "discord_members": 418,
       "facebook_members": null,
-      "market_cap": 32766505793.04,
+      "market_cap": 32766506186.23,
       "owner_count": 1107,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
@@ -491,26 +511,6 @@
       "market_cap": 9469084435.0,
       "owner_count": 1518,
       "detail_url": "https://allaaktier.se/bolag/hanza"
-    },
-    {
-      "ticker": "HUMBLE-GROUP",
-      "company_name": "Humble Group",
-      "trend7d": 0.34,
-      "discord_members": 941,
-      "facebook_members": 2341,
-      "market_cap": 2626422596.0,
-      "owner_count": 1967,
-      "detail_url": "https://allaaktier.se/bolag/humble-group"
-    },
-    {
-      "ticker": "AXOLOT-SOLUTIONS",
-      "company_name": "Axolot Solutions",
-      "trend7d": 0.31,
-      "discord_members": 134,
-      "facebook_members": null,
-      "market_cap": 89775304.0,
-      "owner_count": 764,
-      "detail_url": "https://allaaktier.se/bolag/axolot-solutions"
     }
   ],
   "twitter_mentions": 0,
@@ -536,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 84,
-    "tickers_with_any_mentions": 5,
+    "total_posts_fetched": 79,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
