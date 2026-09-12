@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:00:35.565576+00:00",
+  "generated_at": "2026-09-12T23:57:08.610487+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -518,42 +518,26 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "FORTUM",
-      "company_name": "Fortum",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95896398",
-        "https://www.flashback.org/sp95897103"
-      ]
-    },
-    {
       "ticker": "HEM",
       "company_name": "Hemnet",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 5,
-      "velocity_mentions_per_day": 1.67,
-      "avg_sentiment": 0.2,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.25,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95896396",
         "https://www.flashback.org/sp95896772",
-        "https://www.flashback.org/sp95896781"
+        "https://www.flashback.org/sp95896781",
+        "https://www.flashback.org/sp95897571"
       ]
     }
   ],
   "stats": {
     "total_posts_fetched": 72,
-    "tickers_with_any_mentions": 4,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
