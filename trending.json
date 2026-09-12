@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:25:14.390356+00:00",
+  "generated_at": "2026-09-12T16:49:56.592899+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group",
-      "trend7d": 994.32,
-      "discord_members": 92,
+      "trend7d": 1027.66,
+      "discord_members": 95,
       "facebook_members": null,
       "market_cap": 74162377.0,
       "owner_count": 180,
@@ -75,8 +75,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 3.49,
-      "discord_members": 1339,
+      "trend7d": 3.52,
+      "discord_members": 1340,
       "facebook_members": 195,
       "market_cap": 1104191172.0,
       "owner_count": 1692,
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/finepart"
     },
     {
-      "ticker": "ALZECURE-PHARMA",
-      "company_name": "AlzeCure Pharma",
-      "trend7d": 1.06,
-      "discord_members": 333,
-      "facebook_members": 12,
-      "market_cap": 1247629876.0,
-      "owner_count": 1121,
-      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
-    },
-    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 1.04,
@@ -291,6 +281,16 @@
       "market_cap": 9171401589.0,
       "owner_count": 3851,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "ALZECURE-PHARMA",
+      "company_name": "AlzeCure Pharma",
+      "trend7d": 0.95,
+      "discord_members": 332,
+      "facebook_members": 12,
+      "market_cap": 1247629876.0,
+      "owner_count": 1121,
+      "detail_url": "https://allaaktier.se/bolag/alzecure-pharma"
     },
     {
       "ticker": "DICOT-PHARMA",
@@ -483,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
+      "ticker": "SCANDINAVIAN-ASTOR",
+      "company_name": "Scandinavian Astor",
+      "trend7d": 0.39,
+      "discord_members": 1477,
+      "facebook_members": null,
+      "market_cap": 1250345424.0,
+      "owner_count": 5818,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
+    },
+    {
       "ticker": "BIOFRIGAS",
       "company_name": "Biofrigas",
       "trend7d": 0.39,
@@ -501,16 +511,6 @@
       "market_cap": 95382932.0,
       "owner_count": 863,
       "detail_url": "https://allaaktier.se/bolag/clinical-laserthermia-systems"
-    },
-    {
-      "ticker": "ZELLUNA",
-      "company_name": "Zelluna",
-      "trend7d": 0.37,
-      "discord_members": 143,
-      "facebook_members": null,
-      "market_cap": 666754573.33,
-      "owner_count": 3556,
-      "detail_url": "https://allaaktier.se/bolag/zelluna"
     }
   ],
   "twitter_mentions": 0,
