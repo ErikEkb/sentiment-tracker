@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:49:56.592899+00:00",
+  "generated_at": "2026-09-12T19:01:55.015610+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group",
-      "trend7d": 1027.66,
-      "discord_members": 95,
+      "trend7d": 1049.88,
+      "discord_members": 97,
       "facebook_members": null,
       "market_cap": 74162377.0,
       "owner_count": 180,
@@ -53,16 +53,6 @@
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
-      "ticker": "AIXIA",
-      "company_name": "Aixia",
-      "trend7d": 3.84,
-      "discord_members": 114,
-      "facebook_members": 21,
-      "market_cap": 157284800.0,
-      "owner_count": 63,
-      "detail_url": "https://allaaktier.se/bolag/aixia"
-    },
-    {
       "ticker": "PROSTATYPE-GENOMICS",
       "company_name": "Prostatype Genomics",
       "trend7d": 3.82,
@@ -71,6 +61,16 @@
       "market_cap": 91855007.0,
       "owner_count": 765,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
+      "ticker": "AIXIA",
+      "company_name": "Aixia",
+      "trend7d": 3.55,
+      "discord_members": 113,
+      "facebook_members": 21,
+      "market_cap": 157284800.0,
+      "owner_count": 63,
+      "detail_url": "https://allaaktier.se/bolag/aixia"
     },
     {
       "ticker": "NANEXA",
@@ -453,16 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
-      "ticker": "CELL-IMPACT",
-      "company_name": "Cell Impact",
-      "trend7d": 0.44,
-      "discord_members": 676,
-      "facebook_members": 2107,
-      "market_cap": 55732559.0,
-      "owner_count": 3195,
-      "detail_url": "https://allaaktier.se/bolag/cell-impact"
-    },
-    {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
       "trend7d": 0.42,
@@ -501,6 +491,16 @@
       "market_cap": 23633284.0,
       "owner_count": 329,
       "detail_url": "https://allaaktier.se/bolag/biofrigas"
+    },
+    {
+      "ticker": "CELL-IMPACT",
+      "company_name": "Cell Impact",
+      "trend7d": 0.39,
+      "discord_members": 675,
+      "facebook_members": 2107,
+      "market_cap": 55732559.0,
+      "owner_count": 3195,
+      "detail_url": "https://allaaktier.se/bolag/cell-impact"
     },
     {
       "ticker": "CLINICAL-LASERTHERMIA-SYSTEMS",
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 82,
+    "total_posts_fetched": 83,
     "tickers_with_any_mentions": 5,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
