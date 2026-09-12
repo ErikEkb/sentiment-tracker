@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T19:01:55.015610+00:00",
+  "generated_at": "2026-09-12T22:00:35.565576+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 4.88,
-      "discord_members": 378,
+      "trend7d": 4.97,
+      "discord_members": 379,
       "facebook_members": null,
       "market_cap": 153520431.0,
       "owner_count": 642,
@@ -83,16 +83,6 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "SPERMOSENS",
-      "company_name": "Spermosens",
-      "trend7d": 2.91,
-      "discord_members": 657,
-      "facebook_members": 362,
-      "market_cap": 34346038.0,
-      "owner_count": 1078,
-      "detail_url": "https://allaaktier.se/bolag/spermosens"
-    },
-    {
       "ticker": "BEYOND-FRAMES",
       "company_name": "Beyond Frames",
       "trend7d": 2.87,
@@ -101,6 +91,16 @@
       "market_cap": 55142176.0,
       "owner_count": 206,
       "detail_url": "https://allaaktier.se/bolag/beyond-frames"
+    },
+    {
+      "ticker": "SPERMOSENS",
+      "company_name": "Spermosens",
+      "trend7d": 2.86,
+      "discord_members": 656,
+      "facebook_members": 362,
+      "market_cap": 34346038.0,
+      "owner_count": 1078,
+      "detail_url": "https://allaaktier.se/bolag/spermosens"
     },
     {
       "ticker": "ODINWELL",
@@ -173,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/vibrosense-dynamics"
     },
     {
+      "ticker": "HEMPLY-BALANCE",
+      "company_name": "Hemply Balance",
+      "trend7d": 1.84,
+      "discord_members": 105,
+      "facebook_members": null,
+      "market_cap": 11764440.0,
+      "owner_count": 205,
+      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
+    },
+    {
       "ticker": "VETTED-ASSETS",
       "company_name": "Vetted Assets",
       "trend7d": 1.69,
@@ -203,20 +213,10 @@
       "detail_url": "https://allaaktier.se/bolag/h100"
     },
     {
-      "ticker": "HEMPLY-BALANCE",
-      "company_name": "Hemply Balance",
-      "trend7d": 1.52,
-      "discord_members": 104,
-      "facebook_members": null,
-      "market_cap": 11764440.0,
-      "owner_count": 205,
-      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
-    },
-    {
       "ticker": "IMPLANTICA-SDB",
       "company_name": "Implantica SDB",
-      "trend7d": 1.24,
-      "discord_members": 647,
+      "trend7d": 1.29,
+      "discord_members": 648,
       "facebook_members": 106,
       "market_cap": 4362840677.0,
       "owner_count": 742,
@@ -231,16 +231,6 @@
       "market_cap": 7840007.0,
       "owner_count": 259,
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
-    },
-    {
-      "ticker": "MODUS-THERAPEUTICS",
-      "company_name": "Modus Therapeutics",
-      "trend7d": 1.17,
-      "discord_members": 276,
-      "facebook_members": null,
-      "market_cap": 68661629.0,
-      "owner_count": 543,
-      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -273,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/finepart"
     },
     {
+      "ticker": "MODUS-THERAPEUTICS",
+      "company_name": "Modus Therapeutics",
+      "trend7d": 1.04,
+      "discord_members": 275,
+      "facebook_members": null,
+      "market_cap": 68661629.0,
+      "owner_count": 543,
+      "detail_url": "https://allaaktier.se/bolag/modus-therapeutics"
+    },
+    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 1.04,
@@ -295,8 +295,8 @@
     {
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
-      "trend7d": 0.9,
-      "discord_members": 1268,
+      "trend7d": 0.93,
+      "discord_members": 1269,
       "facebook_members": 297,
       "market_cap": 874109686.0,
       "owner_count": 2624,
@@ -328,7 +328,7 @@
       "trend7d": 0.82,
       "discord_members": 191,
       "facebook_members": 558,
-      "market_cap": 5123034556.55,
+      "market_cap": 5123055786.41,
       "owner_count": 12898,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
@@ -538,22 +538,22 @@
       "company_name": "Hemnet",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 6,
-      "velocity_mentions_per_day": 2.0,
-      "avg_sentiment": 0.167,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.2,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95894463",
         "https://www.flashback.org/sp95896396",
-        "https://www.flashback.org/sp95896772"
+        "https://www.flashback.org/sp95896772",
+        "https://www.flashback.org/sp95896781"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 83,
-    "tickers_with_any_mentions": 5,
+    "total_posts_fetched": 72,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
