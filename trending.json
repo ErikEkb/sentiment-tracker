@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:41:24.562507+00:00",
+  "generated_at": "2026-09-13T22:59:42.309450+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group",
-      "trend7d": 1194.32,
-      "discord_members": 110,
+      "trend7d": 1205.43,
+      "discord_members": 111,
       "facebook_members": null,
       "market_cap": 74162377.0,
       "owner_count": 180,
@@ -233,16 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/pila-pharma"
     },
     {
-      "ticker": "ZENERGY",
-      "company_name": "Zenergy",
-      "trend7d": 1.05,
-      "discord_members": 57,
-      "facebook_members": null,
-      "market_cap": 35042399.0,
-      "owner_count": 409,
-      "detail_url": "https://allaaktier.se/bolag/zenergy"
-    },
-    {
       "ticker": "FINEPART",
       "company_name": "Finepart",
       "trend7d": 1.02,
@@ -398,7 +388,7 @@
       "trend7d": 0.47,
       "discord_members": 191,
       "facebook_members": 558,
-      "market_cap": 5123569152.67,
+      "market_cap": 5123546778.04,
       "owner_count": 12898,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
@@ -411,6 +401,16 @@
       "market_cap": 190076842.0,
       "owner_count": 918,
       "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
+      "ticker": "ZENERGY",
+      "company_name": "Zenergy",
+      "trend7d": 0.45,
+      "discord_members": 56,
+      "facebook_members": null,
+      "market_cap": 35042399.0,
+      "owner_count": 409,
+      "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
       "ticker": "EGETIS-THERAPEUTICS",
