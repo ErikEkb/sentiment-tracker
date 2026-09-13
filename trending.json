@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:32:17.582546+00:00",
+  "generated_at": "2026-09-13T10:03:31.896078+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -16,7 +16,7 @@
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group",
       "trend7d": 1049.88,
-      "discord_members": 97,
+      "discord_members": 99,
       "facebook_members": null,
       "market_cap": 74162377.0,
       "owner_count": 180,
@@ -35,8 +35,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 5.17,
-      "discord_members": 379,
+      "trend7d": 5.36,
+      "discord_members": 381,
       "facebook_members": null,
       "market_cap": 153520431.0,
       "owner_count": 642,
@@ -276,7 +276,7 @@
       "ticker": "DICOT-PHARMA",
       "company_name": "Dicot Pharma",
       "trend7d": 0.85,
-      "discord_members": 1269,
+      "discord_members": 1270,
       "facebook_members": 297,
       "market_cap": 874109686.0,
       "owner_count": 2624,
@@ -398,7 +398,7 @@
       "trend7d": 0.47,
       "discord_members": 191,
       "facebook_members": 558,
-      "market_cap": 5123055786.41,
+      "market_cap": 5123569152.67,
       "owner_count": 12898,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
@@ -516,27 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "HEM",
-      "company_name": "Hemnet",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95897571",
-        "https://www.flashback.org/sp95898818"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 73,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 76,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
