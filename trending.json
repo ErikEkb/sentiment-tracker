@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:05:41.385478+00:00",
+  "generated_at": "2026-09-14T23:00:20.253152+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group",
-      "trend7d": 367.18,
-      "discord_members": 120,
+      "trend7d": 370.51,
+      "discord_members": 121,
       "facebook_members": null,
       "market_cap": 74162377.0,
       "owner_count": 182,
@@ -25,8 +25,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 4.9,
-      "discord_members": 385,
+      "trend7d": 5.08,
+      "discord_members": 387,
       "facebook_members": null,
       "market_cap": 153520431.0,
       "owner_count": 637,
@@ -153,6 +153,16 @@
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
+      "ticker": "BEYOND-FRAMES",
+      "company_name": "Beyond Frames",
+      "trend7d": 1.57,
+      "discord_members": 62,
+      "facebook_members": null,
+      "market_cap": 55142176.0,
+      "owner_count": 205,
+      "detail_url": "https://allaaktier.se/bolag/beyond-frames"
+    },
+    {
       "ticker": "H100",
       "company_name": "H100",
       "trend7d": 1.34,
@@ -181,16 +191,6 @@
       "market_cap": 190076842.0,
       "owner_count": 936,
       "detail_url": "https://allaaktier.se/bolag/alzinova"
-    },
-    {
-      "ticker": "BEYOND-FRAMES",
-      "company_name": "Beyond Frames",
-      "trend7d": 1.01,
-      "discord_members": 61,
-      "facebook_members": null,
-      "market_cap": 55142176.0,
-      "owner_count": 205,
-      "detail_url": "https://allaaktier.se/bolag/beyond-frames"
     },
     {
       "ticker": "INHALATION-SCIENCES",
@@ -231,16 +231,6 @@
       "market_cap": 430054826.0,
       "owner_count": 304,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
-    },
-    {
-      "ticker": "BIOSERGEN",
-      "company_name": "Biosergen",
-      "trend7d": 0.77,
-      "discord_members": 73,
-      "facebook_members": null,
-      "market_cap": 74791189.0,
-      "owner_count": 771,
-      "detail_url": "https://allaaktier.se/bolag/biosergen"
     },
     {
       "ticker": "NANEXA",
@@ -389,7 +379,7 @@
       "discord_members": 1476,
       "facebook_members": null,
       "market_cap": 1250345424.0,
-      "owner_count": 5803,
+      "owner_count": 5804,
       "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
     },
     {
@@ -443,6 +433,16 @@
       "detail_url": "https://allaaktier.se/bolag/finepart"
     },
     {
+      "ticker": "BIOSERGEN",
+      "company_name": "Biosergen",
+      "trend7d": 0.3,
+      "discord_members": 72,
+      "facebook_members": null,
+      "market_cap": 74791189.0,
+      "owner_count": 771,
+      "detail_url": "https://allaaktier.se/bolag/biosergen"
+    },
+    {
       "ticker": "LUXBRIGHT",
       "company_name": "Luxbright",
       "trend7d": 0.3,
@@ -461,6 +461,16 @@
       "market_cap": 50822591902.04,
       "owner_count": 7210,
       "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
+      "ticker": "CLOETTA",
+      "company_name": "Cloetta",
+      "trend7d": 0.29,
+      "discord_members": 50,
+      "facebook_members": null,
+      "market_cap": 15311253812.0,
+      "owner_count": 5465,
+      "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
       "ticker": "MEDIVIR",
@@ -501,24 +511,32 @@
       "market_cap": 32861846101.74,
       "owner_count": 1107,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
-    },
-    {
-      "ticker": "CERENO-SCIENTIFIC",
-      "company_name": "Cereno Scientific",
-      "trend7d": 0.26,
-      "discord_members": 4615,
-      "facebook_members": 488,
-      "market_cap": 1502673415.0,
-      "owner_count": 1566,
-      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 6,
+      "velocity_mentions_per_day": 2.0,
+      "avg_sentiment": 0.167,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp95918302",
+        "https://www.flashback.org/sp95918937",
+        "https://www.flashback.org/sp95919028"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 84,
+    "total_posts_fetched": 78,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
