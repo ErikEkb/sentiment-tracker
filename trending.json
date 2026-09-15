@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:01:54.574024+00:00",
+  "generated_at": "2026-09-15T21:57:59.834526+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group",
-      "trend7d": 371.01,
-      "discord_members": 121,
+      "trend7d": 374.35,
+      "discord_members": 122,
       "facebook_members": null,
       "market_cap": 74162377.0,
       "owner_count": 183,
@@ -28,7 +28,7 @@
       "trend7d": 6.38,
       "discord_members": 418,
       "facebook_members": null,
-      "market_cap": 33054211697.56,
+      "market_cap": 33054219961.11,
       "owner_count": 1136,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
@@ -45,8 +45,8 @@
     {
       "ticker": "SPERMOSENS",
       "company_name": "Spermosens",
-      "trend7d": 3.35,
-      "discord_members": 656,
+      "trend7d": 3.29,
+      "discord_members": 655,
       "facebook_members": 362,
       "market_cap": 34346038.0,
       "owner_count": 1086,
@@ -141,6 +141,16 @@
       "market_cap": 491680550.0,
       "owner_count": 334,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
+    },
+    {
+      "ticker": "GENOVIS",
+      "company_name": "Genovis",
+      "trend7d": 1.23,
+      "discord_members": 26,
+      "facebook_members": 254,
+      "market_cap": 1399761364.0,
+      "owner_count": 1236,
+      "detail_url": "https://allaaktier.se/bolag/genovis"
     },
     {
       "ticker": "ONLINE-BRANDS-NORDIC",
@@ -303,6 +313,16 @@
       "detail_url": "https://allaaktier.se/bolag/aixia"
     },
     {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.51,
+      "discord_members": 1145,
+      "facebook_members": 2135,
+      "market_cap": 4394135926.0,
+      "owner_count": 3664,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
       "ticker": "WHITE-PEARL-TECHNOLOGY",
       "company_name": "White Pearl Technology",
       "trend7d": 0.49,
@@ -311,16 +331,6 @@
       "market_cap": 533465358.0,
       "owner_count": 1071,
       "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 0.48,
-      "discord_members": 1144,
-      "facebook_members": 2135,
-      "market_cap": 4394135926.0,
-      "owner_count": 3664,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
       "ticker": "TENEO-AI",
@@ -383,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
     {
+      "ticker": "DICOT-PHARMA",
+      "company_name": "Dicot Pharma",
+      "trend7d": 0.35,
+      "discord_members": 1273,
+      "facebook_members": 297,
+      "market_cap": 874109686.0,
+      "owner_count": 2627,
+      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
+    },
+    {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
       "trend7d": 0.35,
@@ -413,26 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
-      "ticker": "AIK-FOTBOLL",
-      "company_name": "AIK Fotboll",
-      "trend7d": 0.33,
-      "discord_members": 244,
-      "facebook_members": null,
-      "market_cap": 51760786.0,
-      "owner_count": 516,
-      "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
-    },
-    {
-      "ticker": "DICOT-PHARMA",
-      "company_name": "Dicot Pharma",
-      "trend7d": 0.32,
-      "discord_members": 1272,
-      "facebook_members": 297,
-      "market_cap": 874109686.0,
-      "owner_count": 2627,
-      "detail_url": "https://allaaktier.se/bolag/dicot-pharma"
-    },
-    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.29,
@@ -445,8 +445,8 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 0.29,
-      "discord_members": 2537,
+      "trend7d": 0.28,
+      "discord_members": 2536,
       "facebook_members": 2874,
       "market_cap": 10716479573.0,
       "owner_count": 5680,
@@ -516,27 +516,10 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "SPCX",
-      "company_name": "SpaceX",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95923474",
-        "https://www.flashback.org/sp95929286"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 54,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 60,
+    "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
