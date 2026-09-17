@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:10:41.277301+00:00",
+  "generated_at": "2026-09-17T18:00:29.465825+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
-      "trend7d": 3.11,
-      "discord_members": 48,
+      "trend7d": 3.83,
+      "discord_members": 49,
       "facebook_members": null,
       "market_cap": 25436732964.0,
       "owner_count": 4037,
@@ -63,16 +63,6 @@
       "detail_url": "https://allaaktier.se/bolag/genovis"
     },
     {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 2.04,
-      "discord_members": 390,
-      "facebook_members": null,
-      "market_cap": 163679872.0,
-      "owner_count": 640,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
       "trend7d": 1.92,
@@ -81,6 +71,16 @@
       "market_cap": 486337169.0,
       "owner_count": 307,
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 1.86,
+      "discord_members": 388,
+      "facebook_members": null,
+      "market_cap": 163679872.0,
+      "owner_count": 640,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "SKANSKA",
@@ -173,6 +173,16 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
+      "ticker": "HILBERT-GROUP",
+      "company_name": "Hilbert Group",
+      "trend7d": 0.85,
+      "discord_members": 291,
+      "facebook_members": null,
+      "market_cap": 210339076.0,
+      "owner_count": 1575,
+      "detail_url": "https://allaaktier.se/bolag/hilbert-group"
+    },
+    {
       "ticker": "BEYOND-FRAMES",
       "company_name": "Beyond Frames",
       "trend7d": 0.84,
@@ -191,16 +201,6 @@
       "market_cap": 476522730.0,
       "owner_count": 387,
       "detail_url": "https://allaaktier.se/bolag/sleep-cycle"
-    },
-    {
-      "ticker": "HILBERT-GROUP",
-      "company_name": "Hilbert Group",
-      "trend7d": 0.74,
-      "discord_members": 290,
-      "facebook_members": null,
-      "market_cap": 210339076.0,
-      "owner_count": 1575,
-      "detail_url": "https://allaaktier.se/bolag/hilbert-group"
     },
     {
       "ticker": "HEMPLY-BALANCE",
@@ -243,16 +243,6 @@
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     },
     {
-      "ticker": "WHITE-PEARL-TECHNOLOGY",
-      "company_name": "White Pearl Technology",
-      "trend7d": 0.59,
-      "discord_members": 202,
-      "facebook_members": null,
-      "market_cap": 516917688.0,
-      "owner_count": 1072,
-      "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
-    },
-    {
       "ticker": "ALZINOVA",
       "company_name": "Alzinova",
       "trend7d": 0.47,
@@ -261,6 +251,16 @@
       "market_cap": 136822904.0,
       "owner_count": 931,
       "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
+      "ticker": "WHITE-PEARL-TECHNOLOGY",
+      "company_name": "White Pearl Technology",
+      "trend7d": 0.42,
+      "discord_members": 201,
+      "facebook_members": null,
+      "market_cap": 516917688.0,
+      "owner_count": 1072,
+      "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
     },
     {
       "ticker": "RECYCTEC",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/edyoutec"
     },
     {
-      "ticker": "ODINWELL",
-      "company_name": "Odinwell",
-      "trend7d": 0.14,
-      "discord_members": 162,
-      "facebook_members": 142,
-      "market_cap": 14623239.0,
-      "owner_count": 246,
-      "detail_url": "https://allaaktier.se/bolag/odinwell"
+      "ticker": "MONIVENT",
+      "company_name": "Monivent",
+      "trend7d": 0.13,
+      "discord_members": 203,
+      "facebook_members": 131,
+      "market_cap": 41681672.0,
+      "owner_count": 200,
+      "detail_url": "https://allaaktier.se/bolag/monivent"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 45,
+    "total_posts_fetched": 46,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
