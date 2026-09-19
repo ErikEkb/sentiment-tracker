@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:03:39.836350+00:00",
+  "generated_at": "2026-09-19T20:14:47.804179+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.73,
-      "discord_members": 1238,
+      "trend7d": 1.76,
+      "discord_members": 1239,
       "facebook_members": 3706,
       "market_cap": 8325402281.0,
       "owner_count": 3860,
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
     },
     {
-      "ticker": "XER-TECH",
-      "company_name": "Xer Tech",
-      "trend7d": 0.36,
-      "discord_members": 329,
-      "facebook_members": null,
-      "market_cap": 152342824.0,
-      "owner_count": 387,
-      "detail_url": "https://allaaktier.se/bolag/xer-tech"
-    },
-    {
       "ticker": "SPERMOSENS",
       "company_name": "Spermosens",
       "trend7d": 0.36,
@@ -383,6 +373,26 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
+      "ticker": "XER-TECH",
+      "company_name": "Xer Tech",
+      "trend7d": 0.25,
+      "discord_members": 328,
+      "facebook_members": null,
+      "market_cap": 152342824.0,
+      "owner_count": 387,
+      "detail_url": "https://allaaktier.se/bolag/xer-tech"
+    },
+    {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.25,
+      "discord_members": 1147,
+      "facebook_members": 2135,
+      "market_cap": 3726569190.0,
+      "owner_count": 3666,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
       "ticker": "GREENMERC",
       "company_name": "GreenMerc",
       "trend7d": 0.23,
@@ -441,16 +451,6 @@
       "market_cap": 126920277.0,
       "owner_count": 141,
       "detail_url": "https://allaaktier.se/bolag/klimator"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 0.19,
-      "discord_members": 1145,
-      "facebook_members": 2135,
-      "market_cap": 3726569190.0,
-      "owner_count": 3666,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
       "ticker": "ATLAS-COPCO",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 56,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
