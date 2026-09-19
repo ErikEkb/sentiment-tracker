@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:14:47.804179+00:00",
+  "generated_at": "2026-09-19T22:44:32.936772+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -18,7 +18,7 @@
       "trend7d": 11.56,
       "discord_members": 416,
       "facebook_members": null,
-      "market_cap": 38122930068.83,
+      "market_cap": 38122923511.69,
       "owner_count": 1156,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/beyond-frames"
     },
     {
+      "ticker": "LIGHTNING-GROUP",
+      "company_name": "Lightning Group",
+      "trend7d": 7.5,
+      "discord_members": 131,
+      "facebook_members": null,
+      "market_cap": 101200744.0,
+      "owner_count": 185,
+      "detail_url": "https://allaaktier.se/bolag/lightning-group"
+    },
+    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 7.27,
@@ -41,16 +51,6 @@
       "market_cap": 23979516210.0,
       "owner_count": 4053,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "LIGHTNING-GROUP",
-      "company_name": "Lightning Group",
-      "trend7d": 7.2,
-      "discord_members": 130,
-      "facebook_members": null,
-      "market_cap": 101200744.0,
-      "owner_count": 185,
-      "detail_url": "https://allaaktier.se/bolag/lightning-group"
     },
     {
       "ticker": "BIOSERGEN",
@@ -453,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/klimator"
     },
     {
+      "ticker": "EDYOUTEC",
+      "company_name": "edyoutec",
+      "trend7d": 0.19,
+      "discord_members": 238,
+      "facebook_members": 176,
+      "market_cap": 20821606.0,
+      "owner_count": 346,
+      "detail_url": "https://allaaktier.se/bolag/edyoutec"
+    },
+    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.18,
@@ -501,22 +511,29 @@
       "market_cap": 1123294826.0,
       "owner_count": 1699,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
-      "ticker": "XMREALITY",
-      "company_name": "XMReality",
-      "trend7d": 0.14,
-      "discord_members": 129,
-      "facebook_members": 94,
-      "market_cap": 27827117.0,
-      "owner_count": 834,
-      "detail_url": "https://allaaktier.se/bolag/xmreality"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
+    {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 6,
+      "velocity_mentions_per_day": 2.0,
+      "avg_sentiment": 0.917,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 5.5,
+      "sample_posts": [
+        "https://www.flashback.org/sp95977319",
+        "https://www.flashback.org/sp95977745",
+        "https://www.flashback.org/sp95977792"
+      ]
+    },
     {
       "ticker": "ESSITY-B",
       "company_name": "Essity B",
@@ -536,8 +553,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 57,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 56,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
