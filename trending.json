@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:45:27.665631+00:00",
+  "generated_at": "2026-09-19T17:03:39.836350+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -23,6 +23,16 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
+      "ticker": "BEYOND-FRAMES",
+      "company_name": "Beyond Frames",
+      "trend7d": 7.94,
+      "discord_members": 76,
+      "facebook_members": null,
+      "market_cap": 56167123.0,
+      "owner_count": 205,
+      "detail_url": "https://allaaktier.se/bolag/beyond-frames"
+    },
+    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 7.27,
@@ -41,16 +51,6 @@
       "market_cap": 101200744.0,
       "owner_count": 185,
       "detail_url": "https://allaaktier.se/bolag/lightning-group"
-    },
-    {
-      "ticker": "BEYOND-FRAMES",
-      "company_name": "Beyond Frames",
-      "trend7d": 6.85,
-      "discord_members": 74,
-      "facebook_members": null,
-      "market_cap": 56167123.0,
-      "owner_count": 205,
-      "detail_url": "https://allaaktier.se/bolag/beyond-frames"
     },
     {
       "ticker": "BIOSERGEN",
@@ -93,24 +93,24 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
-      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
-      "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.7,
-      "discord_members": 1237,
-      "facebook_members": 3706,
-      "market_cap": 8325402281.0,
-      "owner_count": 3860,
-      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
       "ticker": "CYNCA",
       "company_name": "Cynca",
-      "trend7d": 1.55,
-      "discord_members": 146,
+      "trend7d": 1.78,
+      "discord_members": 147,
       "facebook_members": null,
       "market_cap": 1623496902.0,
       "owner_count": 1270,
       "detail_url": "https://allaaktier.se/bolag/cynca"
+    },
+    {
+      "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
+      "company_name": "Gruvaktiebolaget Viscaria",
+      "trend7d": 1.73,
+      "discord_members": 1238,
+      "facebook_members": 3706,
+      "market_cap": 8325402281.0,
+      "owner_count": 3860,
+      "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
     },
     {
       "ticker": "SKANSKA",
@@ -363,16 +363,6 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
-      "ticker": "ECOMB",
-      "company_name": "ECOMB",
-      "trend7d": 0.29,
-      "discord_members": 171,
-      "facebook_members": null,
-      "market_cap": 8985968.0,
-      "owner_count": 316,
-      "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
       "ticker": "VOLVO-CAR",
       "company_name": "Volvo Car",
       "trend7d": 0.28,
@@ -511,6 +501,16 @@
       "market_cap": 1123294826.0,
       "owner_count": 1699,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
+      "ticker": "XMREALITY",
+      "company_name": "XMReality",
+      "trend7d": 0.14,
+      "discord_members": 129,
+      "facebook_members": 94,
+      "market_cap": 27827117.0,
+      "owner_count": 834,
+      "detail_url": "https://allaaktier.se/bolag/xmreality"
     }
   ],
   "twitter_mentions": 0,
