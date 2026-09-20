@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:36:10.158531+00:00",
+  "generated_at": "2026-09-20T18:05:24.795176+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
-      "trend7d": 11.56,
-      "discord_members": 416,
+      "trend7d": 11.48,
+      "discord_members": 415,
       "facebook_members": null,
       "market_cap": 38122930068.83,
       "owner_count": 1156,
@@ -185,8 +185,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 0.79,
-      "discord_members": 266,
+      "trend7d": 0.67,
+      "discord_members": 265,
       "facebook_members": null,
       "market_cap": 6431477.0,
       "owner_count": 470,
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
-      "ticker": "DIVIDEND-SWEDEN",
-      "company_name": "Dividend Sweden",
-      "trend7d": 0.36,
-      "discord_members": 431,
-      "facebook_members": 461,
-      "market_cap": 28266730.0,
-      "owner_count": 643,
-      "detail_url": "https://allaaktier.se/bolag/dividend-sweden"
-    },
-    {
       "ticker": "VOLVO-CAR",
       "company_name": "Volvo Car",
       "trend7d": 0.3,
@@ -321,6 +311,16 @@
       "market_cap": 30612773.0,
       "owner_count": 1085,
       "detail_url": "https://allaaktier.se/bolag/spermosens"
+    },
+    {
+      "ticker": "DIVIDEND-SWEDEN",
+      "company_name": "Dividend Sweden",
+      "trend7d": 0.28,
+      "discord_members": 430,
+      "facebook_members": 461,
+      "market_cap": 28266730.0,
+      "owner_count": 643,
+      "detail_url": "https://allaaktier.se/bolag/dividend-sweden"
     },
     {
       "ticker": "HUNTER-CAPITAL",
@@ -383,26 +383,6 @@
       "detail_url": "https://allaaktier.se/bolag/xer-tech"
     },
     {
-      "ticker": "EDYOUTEC",
-      "company_name": "edyoutec",
-      "trend7d": 0.19,
-      "discord_members": 238,
-      "facebook_members": 176,
-      "market_cap": 20821606.0,
-      "owner_count": 346,
-      "detail_url": "https://allaaktier.se/bolag/edyoutec"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 0.19,
-      "discord_members": 1147,
-      "facebook_members": 2135,
-      "market_cap": 3726569190.0,
-      "owner_count": 3666,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
-    },
-    {
       "ticker": "DLABORATORY-SWEDEN",
       "company_name": "Dlaboratory Sweden",
       "trend7d": 0.16,
@@ -433,6 +413,16 @@
       "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
     },
     {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.16,
+      "discord_members": 1146,
+      "facebook_members": 2135,
+      "market_cap": 3726569190.0,
+      "owner_count": 3666,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
       "trend7d": 0.15,
@@ -451,16 +441,6 @@
       "market_cap": 7646085.0,
       "owner_count": 258,
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
-    },
-    {
-      "ticker": "XMREALITY",
-      "company_name": "XMReality",
-      "trend7d": 0.14,
-      "discord_members": 129,
-      "facebook_members": 94,
-      "market_cap": 27827117.0,
-      "owner_count": 834,
-      "detail_url": "https://allaaktier.se/bolag/xmreality"
     },
     {
       "ticker": "ORRON-ENERGY",
@@ -511,6 +491,26 @@
       "market_cap": 8985968.0,
       "owner_count": 316,
       "detail_url": "https://allaaktier.se/bolag/ecomb"
+    },
+    {
+      "ticker": "SVENSKA-AEROGEL",
+      "company_name": "Svenska Aerogel",
+      "trend7d": 0.09,
+      "discord_members": 250,
+      "facebook_members": null,
+      "market_cap": 36630790.0,
+      "owner_count": 1250,
+      "detail_url": "https://allaaktier.se/bolag/svenska-aerogel"
+    },
+    {
+      "ticker": "SENZIME",
+      "company_name": "Senzime",
+      "trend7d": 0.08,
+      "discord_members": 369,
+      "facebook_members": null,
+      "market_cap": 455923633.0,
+      "owner_count": 501,
+      "detail_url": "https://allaaktier.se/bolag/senzime"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 63,
+    "total_posts_fetched": 64,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
