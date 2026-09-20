@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:05:24.795176+00:00",
+  "generated_at": "2026-09-20T21:15:52.442334+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -18,15 +18,15 @@
       "trend7d": 11.48,
       "discord_members": 415,
       "facebook_members": null,
-      "market_cap": 38122930068.83,
+      "market_cap": 38122923511.69,
       "owner_count": 1156,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
-      "trend7d": 9.29,
-      "discord_members": 56,
+      "trend7d": 10.01,
+      "discord_members": 57,
       "facebook_members": null,
       "market_cap": 23979516210.0,
       "owner_count": 4053,
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
     },
     {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.68,
+      "discord_members": 229,
+      "facebook_members": 63,
+      "market_cap": 87374275.0,
+      "owner_count": 774,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
       "trend7d": 0.67,
@@ -261,16 +271,6 @@
       "market_cap": 20641366.0,
       "owner_count": 102,
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
-    },
-    {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 0.39,
-      "discord_members": 227,
-      "facebook_members": 63,
-      "market_cap": 87374275.0,
-      "owner_count": 774,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "VOLVO-CAR",
@@ -453,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/orron-energy"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.13,
+      "discord_members": 1412,
+      "facebook_members": null,
+      "market_cap": 846950423.0,
+      "owner_count": 751,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "LUXBRIGHT",
       "company_name": "Luxbright",
       "trend7d": 0.13,
@@ -471,16 +481,6 @@
       "market_cap": 347567638.0,
       "owner_count": 467,
       "detail_url": "https://allaaktier.se/bolag/vetted-assets"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.09,
-      "discord_members": 1410,
-      "facebook_members": null,
-      "market_cap": 846950423.0,
-      "owner_count": 751,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "ECOMB",
@@ -536,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 67,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
