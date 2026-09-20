@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:15:52.442334+00:00",
+  "generated_at": "2026-09-20T23:57:05.188364+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -205,8 +205,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 0.53,
-      "discord_members": 289,
+      "trend7d": 0.65,
+      "discord_members": 290,
       "facebook_members": 295,
       "market_cap": 793371132.0,
       "owner_count": 1622,
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/svenska-aerogel"
     },
     {
-      "ticker": "SENZIME",
-      "company_name": "Senzime",
-      "trend7d": 0.08,
-      "discord_members": 369,
+      "ticker": "STOCKWIK-FORVALTNING",
+      "company_name": "Stockwik Förvaltning",
+      "trend7d": 0.07,
+      "discord_members": 232,
       "facebook_members": null,
-      "market_cap": 455923633.0,
-      "owner_count": 501,
-      "detail_url": "https://allaaktier.se/bolag/senzime"
+      "market_cap": 112852792.0,
+      "owner_count": 661,
+      "detail_url": "https://allaaktier.se/bolag/stockwik-forvaltning"
     }
   ],
   "twitter_mentions": 0,
@@ -529,15 +529,31 @@
       "label": "bullish",
       "trending_score": 5.5,
       "sample_posts": [
-        "https://www.flashback.org/sp95977319",
         "https://www.flashback.org/sp95977745",
-        "https://www.flashback.org/sp95977792"
+        "https://www.flashback.org/sp95977792",
+        "https://www.flashback.org/sp95978989"
+      ]
+    },
+    {
+      "ticker": "PEP",
+      "company_name": "PepsiCo",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.333,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 0.667,
+      "sample_posts": [
+        "https://www.flashback.org/sp95987514",
+        "https://www.flashback.org/sp95987667"
       ]
     }
   ],
   "stats": {
     "total_posts_fetched": 67,
-    "tickers_with_any_mentions": 2,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
