@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:54:19.217676+00:00",
+  "generated_at": "2026-09-20T14:36:10.158531+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
-      "trend7d": 8.56,
-      "discord_members": 55,
+      "trend7d": 9.29,
+      "discord_members": 56,
       "facebook_members": null,
       "market_cap": 23979516210.0,
       "owner_count": 4053,
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/hilbert-group"
     },
     {
+      "ticker": "TENEO-AI",
+      "company_name": "Teneo AI",
+      "trend7d": 1.2,
+      "discord_members": 255,
+      "facebook_members": 223,
+      "market_cap": 121619229.0,
+      "owner_count": 931,
+      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
+    },
+    {
       "ticker": "SLEEP-CYCLE",
       "company_name": "Sleep Cycle",
       "trend7d": 1.08,
@@ -141,16 +151,6 @@
       "market_cap": 466383949.0,
       "owner_count": 388,
       "detail_url": "https://allaaktier.se/bolag/sleep-cycle"
-    },
-    {
-      "ticker": "TENEO-AI",
-      "company_name": "Teneo AI",
-      "trend7d": 1.06,
-      "discord_members": 254,
-      "facebook_members": 223,
-      "market_cap": 121619229.0,
-      "owner_count": 931,
-      "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
       "ticker": "SWEDENCARE",
@@ -185,8 +185,8 @@
     {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 0.67,
-      "discord_members": 265,
+      "trend7d": 0.79,
+      "discord_members": 266,
       "facebook_members": null,
       "market_cap": 6431477.0,
       "owner_count": 470,
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/vetted-assets"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.09,
+      "discord_members": 1410,
+      "facebook_members": null,
+      "market_cap": 846950423.0,
+      "owner_count": 751,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 0.09,
@@ -501,16 +511,6 @@
       "market_cap": 8985968.0,
       "owner_count": 316,
       "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
-      "ticker": "SVENSKA-AEROGEL",
-      "company_name": "Svenska Aerogel",
-      "trend7d": 0.09,
-      "discord_members": 250,
-      "facebook_members": null,
-      "market_cap": 36630790.0,
-      "owner_count": 1250,
-      "detail_url": "https://allaaktier.se/bolag/svenska-aerogel"
     }
   ],
   "twitter_mentions": 0,
