@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:51:13.224475+00:00",
+  "generated_at": "2026-09-21T20:52:08.544851+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "BEYOND-FRAMES",
       "company_name": "Beyond Frames",
-      "trend7d": 8.81,
-      "discord_members": 77,
+      "trend7d": 9.36,
+      "discord_members": 78,
       "facebook_members": null,
       "market_cap": 47762554.0,
       "owner_count": 207,
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/coffee-stain"
     },
     {
+      "ticker": "GENOVIS",
+      "company_name": "Genovis",
+      "trend7d": 2.45,
+      "discord_members": 28,
+      "facebook_members": 254,
+      "market_cap": 1352540499.0,
+      "owner_count": 1236,
+      "detail_url": "https://allaaktier.se/bolag/genovis"
+    },
+    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 2.29,
@@ -83,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/biosergen"
     },
     {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 1.68,
+      "discord_members": 92,
+      "facebook_members": null,
+      "market_cap": 515199909.0,
+      "owner_count": 308,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+    },
+    {
       "ticker": "2020-BULKERS",
       "company_name": "2020 Bulkers",
       "trend7d": 1.43,
@@ -91,16 +111,6 @@
       "market_cap": 140576770.72,
       "owner_count": 5475,
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
-    },
-    {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 1.31,
-      "discord_members": 91,
-      "facebook_members": null,
-      "market_cap": 515199909.0,
-      "owner_count": 308,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "SKANSKA",
@@ -133,20 +143,10 @@
       "detail_url": "https://allaaktier.se/bolag/teneo-ai"
     },
     {
-      "ticker": "GENOVIS",
-      "company_name": "Genovis",
-      "trend7d": 1.16,
-      "discord_members": 27,
-      "facebook_members": 254,
-      "market_cap": 1352540499.0,
-      "owner_count": 1236,
-      "detail_url": "https://allaaktier.se/bolag/genovis"
-    },
-    {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
-      "trend7d": 0.94,
-      "discord_members": 267,
+      "trend7d": 1.06,
+      "discord_members": 268,
       "facebook_members": null,
       "market_cap": 7139530.0,
       "owner_count": 470,
@@ -191,16 +191,6 @@
       "market_cap": 928120955.0,
       "owner_count": 751,
       "detail_url": "https://allaaktier.se/bolag/beammwave"
-    },
-    {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 0.49,
-      "discord_members": 229,
-      "facebook_members": 63,
-      "market_cap": 85413955.0,
-      "owner_count": 769,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "SLEEP-CYCLE",
@@ -273,10 +263,20 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.34,
+      "discord_members": 228,
+      "facebook_members": 63,
+      "market_cap": 85413955.0,
+      "owner_count": 769,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 0.34,
-      "discord_members": 1345,
+      "trend7d": 0.31,
+      "discord_members": 1344,
       "facebook_members": 195,
       "market_cap": 1083177153.0,
       "owner_count": 1706,
@@ -291,16 +291,6 @@
       "market_cap": 785956448.0,
       "owner_count": 1622,
       "detail_url": "https://allaaktier.se/bolag/midsummer"
-    },
-    {
-      "ticker": "HAMLET-PHARMA",
-      "company_name": "Hamlet BioPharma",
-      "trend7d": 0.29,
-      "discord_members": 593,
-      "facebook_members": 679,
-      "market_cap": 1110403458.0,
-      "owner_count": 1103,
-      "detail_url": "https://allaaktier.se/bolag/hamlet-pharma"
     },
     {
       "ticker": "INTERNATIONAL-PETROLEUM",
@@ -353,13 +343,23 @@
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     },
     {
+      "ticker": "HAMLET-PHARMA",
+      "company_name": "Hamlet BioPharma",
+      "trend7d": 0.23,
+      "discord_members": 592,
+      "facebook_members": 679,
+      "market_cap": 1110403458.0,
+      "owner_count": 1103,
+      "detail_url": "https://allaaktier.se/bolag/hamlet-pharma"
+    },
+    {
       "ticker": "BONESUPPORT",
       "company_name": "Bonesupport",
-      "trend7d": 0.23,
+      "trend7d": 0.22,
       "discord_members": 466,
       "facebook_members": null,
       "market_cap": 14073924980.0,
-      "owner_count": 3458,
+      "owner_count": 3457,
       "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
@@ -393,26 +393,6 @@
       "detail_url": "https://allaaktier.se/bolag/orron-energy"
     },
     {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 0.18,
-      "discord_members": 856,
-      "facebook_members": null,
-      "market_cap": 189301632.25,
-      "owner_count": 81,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
-    },
-    {
-      "ticker": "XER-TECH",
-      "company_name": "Xer Tech",
-      "trend7d": 0.18,
-      "discord_members": 329,
-      "facebook_members": null,
-      "market_cap": 142967881.0,
-      "owner_count": 386,
-      "detail_url": "https://allaaktier.se/bolag/xer-tech"
-    },
-    {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
       "trend7d": 0.18,
@@ -433,14 +413,14 @@
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     },
     {
-      "ticker": "ONCOPEPTIDES",
-      "company_name": "Oncopeptides",
-      "trend7d": 0.16,
-      "discord_members": 667,
-      "facebook_members": 504,
-      "market_cap": 868840833.0,
-      "owner_count": 3101,
-      "detail_url": "https://allaaktier.se/bolag/oncopeptides"
+      "ticker": "ALLARITY-THERAPEUTICS",
+      "company_name": "Allarity Therapeutics",
+      "trend7d": 0.15,
+      "discord_members": 855,
+      "facebook_members": null,
+      "market_cap": 189301632.25,
+      "owner_count": 81,
+      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
       "ticker": "GREENMERC",
@@ -493,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/aixia"
     },
     {
-      "ticker": "ABERA-BIOSCIENCE",
-      "company_name": "Abera Bioscience",
-      "trend7d": 0.12,
-      "discord_members": 231,
-      "facebook_members": 49,
-      "market_cap": 169511359.0,
-      "owner_count": 205,
-      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
-    },
-    {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
       "trend7d": 0.12,
@@ -511,29 +481,42 @@
       "market_cap": 3813738261.0,
       "owner_count": 1280,
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 0.11,
+      "discord_members": 170,
+      "facebook_members": null,
+      "market_cap": 8530158.0,
+      "owner_count": 317,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
+    },
+    {
+      "ticker": "ONCOPEPTIDES",
+      "company_name": "Oncopeptides",
+      "trend7d": 0.11,
+      "discord_members": 666,
+      "facebook_members": 504,
+      "market_cap": 868840833.0,
+      "owner_count": 3101,
+      "detail_url": "https://allaaktier.se/bolag/oncopeptides"
+    },
+    {
+      "ticker": "ENVAR",
+      "company_name": "Envar",
+      "trend7d": 0.1,
+      "discord_members": 88,
+      "facebook_members": null,
+      "market_cap": 583750000.0,
+      "owner_count": 595,
+      "detail_url": "https://allaaktier.se/bolag/envar"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "SPCX",
-      "company_name": "SpaceX",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 3.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95984025",
-        "https://www.flashback.org/sp95984157",
-        "https://www.flashback.org/sp95989543"
-      ]
-    },
     {
       "ticker": "PEP",
       "company_name": "PepsiCo",
@@ -552,8 +535,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 79,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 64,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
