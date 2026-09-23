@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:02:34.003593+00:00",
+  "generated_at": "2026-09-23T16:23:52.323331+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "LIGHTNING-GROUP",
       "company_name": "Lightning Group",
-      "trend7d": 3.01,
-      "discord_members": 134,
+      "trend7d": 3.28,
+      "discord_members": 135,
       "facebook_members": null,
       "market_cap": 107380942.0,
       "owner_count": 191,
@@ -105,8 +105,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.38,
-      "discord_members": 1426,
+      "trend7d": 1.4,
+      "discord_members": 1427,
       "facebook_members": null,
       "market_cap": 1068033320.0,
       "owner_count": 762,
@@ -133,6 +133,26 @@
       "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.83,
+      "discord_members": 86,
+      "facebook_members": null,
+      "market_cap": 50742696581.99,
+      "owner_count": 7115,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
+      "ticker": "XOMA",
+      "company_name": "Xoma",
+      "trend7d": 0.8,
+      "discord_members": 804,
+      "facebook_members": null,
+      "market_cap": 79321941.0,
+      "owner_count": 940,
+      "detail_url": "https://allaaktier.se/bolag/xoma"
+    },
+    {
       "ticker": "SENZAGEN",
       "company_name": "SenzaGen",
       "trend7d": 0.76,
@@ -141,16 +161,6 @@
       "market_cap": 152787821.0,
       "owner_count": 413,
       "detail_url": "https://allaaktier.se/bolag/senzagen"
-    },
-    {
-      "ticker": "XOMA",
-      "company_name": "Xoma",
-      "trend7d": 0.76,
-      "discord_members": 803,
-      "facebook_members": null,
-      "market_cap": 79321941.0,
-      "owner_count": 940,
-      "detail_url": "https://allaaktier.se/bolag/xoma"
     },
     {
       "ticker": "OBSERVIT",
@@ -241,16 +251,6 @@
       "market_cap": 2257862716.0,
       "owner_count": 1460,
       "detail_url": "https://allaaktier.se/bolag/h100"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 0.43,
-      "discord_members": 85,
-      "facebook_members": null,
-      "market_cap": 50742696581.99,
-      "owner_count": 7115,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "EGETIS-THERAPEUTICS",
@@ -363,16 +363,6 @@
       "detail_url": "https://allaaktier.se/bolag/infant-bacterial-therapeutics"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 0.29,
-      "discord_members": 229,
-      "facebook_members": 63,
-      "market_cap": 95401753.0,
-      "owner_count": 771,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
       "ticker": "EPISURF-MEDICAL",
       "company_name": "Episurf Medical",
       "trend7d": 0.27,
@@ -381,6 +371,16 @@
       "market_cap": 1169363248.0,
       "owner_count": 1141,
       "detail_url": "https://allaaktier.se/bolag/episurf-medical"
+    },
+    {
+      "ticker": "CRUSTAL-RESOURCES",
+      "company_name": "Crustal Resources",
+      "trend7d": 0.26,
+      "discord_members": 60,
+      "facebook_members": null,
+      "market_cap": 27551244.0,
+      "owner_count": 503,
+      "detail_url": "https://allaaktier.se/bolag/crustal-resources"
     },
     {
       "ticker": "MIDSUMMER",
@@ -421,6 +421,16 @@
       "market_cap": 39720182.0,
       "owner_count": 200,
       "detail_url": "https://allaaktier.se/bolag/monivent"
+    },
+    {
+      "ticker": "ORTOMA",
+      "company_name": "Ortoma",
+      "trend7d": 0.2,
+      "discord_members": 165,
+      "facebook_members": null,
+      "market_cap": 354639335.0,
+      "owner_count": 401,
+      "detail_url": "https://allaaktier.se/bolag/ortoma"
     },
     {
       "ticker": "INHALATION-SCIENCES",
@@ -493,24 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/integrum"
     },
     {
-      "ticker": "VETTED-ASSETS",
-      "company_name": "Vetted Assets",
-      "trend7d": 0.12,
-      "discord_members": 76,
-      "facebook_members": null,
-      "market_cap": 347567638.0,
-      "owner_count": 470,
-      "detail_url": "https://allaaktier.se/bolag/vetted-assets"
-    },
-    {
-      "ticker": "PREBONA",
-      "company_name": "Prebona",
-      "trend7d": 0.12,
-      "discord_members": 38,
-      "facebook_members": null,
-      "market_cap": 19393729.0,
-      "owner_count": 155,
-      "detail_url": "https://allaaktier.se/bolag/prebona"
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.14,
+      "discord_members": 228,
+      "facebook_members": 63,
+      "market_cap": 95401753.0,
+      "owner_count": 771,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     }
   ],
   "twitter_mentions": 0,
@@ -535,22 +535,6 @@
       ]
     },
     {
-      "ticker": "VOLCAR-B",
-      "company_name": "Volvo Cars B",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp95999517",
-        "https://www.flashback.org/sp96001134"
-      ]
-    },
-    {
       "ticker": "NOVO-B",
       "company_name": "Novo Nordisk B",
       "sector": "Discovered",
@@ -568,8 +552,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 61,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 57,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
