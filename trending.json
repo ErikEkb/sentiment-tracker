@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:23:52.323331+00:00",
+  "generated_at": "2026-09-23T20:00:22.888221+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -113,6 +113,16 @@
       "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 1.23,
+      "discord_members": 87,
+      "facebook_members": null,
+      "market_cap": 50742696581.99,
+      "owner_count": 7115,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
+    },
+    {
       "ticker": "APR-TECHNOLOGIES",
       "company_name": "APR Technologies",
       "trend7d": 1.02,
@@ -131,16 +141,6 @@
       "market_cap": 7434552.0,
       "owner_count": 469,
       "detail_url": "https://allaaktier.se/bolag/36-group"
-    },
-    {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 0.83,
-      "discord_members": 86,
-      "facebook_members": null,
-      "market_cap": 50742696581.99,
-      "owner_count": 7115,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "XOMA",
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/monivent"
     },
     {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 0.21,
+      "discord_members": 147,
+      "facebook_members": null,
+      "market_cap": 68095872.0,
+      "owner_count": 265,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
       "trend7d": 0.2,
@@ -451,16 +461,6 @@
       "market_cap": 10923377056.0,
       "owner_count": 4974,
       "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 0.18,
-      "discord_members": 853,
-      "facebook_members": null,
-      "market_cap": 173656873.16,
-      "owner_count": 82,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
       "ticker": "ACUCORT",
@@ -533,27 +533,11 @@
         "https://www.flashback.org/sp96008015",
         "https://www.flashback.org/sp96008333"
       ]
-    },
-    {
-      "ticker": "NOVO-B",
-      "company_name": "Novo Nordisk B",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp96004193",
-        "https://www.flashback.org/sp96008271"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 57,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 73,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
