@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:52:04.171869+00:00",
+  "generated_at": "2026-09-23T00:07:50.595754+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
       "company_name": "Abcellera Biologics Inc",
-      "trend7d": 3.42,
-      "discord_members": 415,
+      "trend7d": 3.34,
+      "discord_members": 414,
       "facebook_members": null,
       "market_cap": 38137997815.88,
       "owner_count": 1183,
@@ -83,16 +83,6 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
-      "ticker": "LIGHTNING-GROUP",
-      "company_name": "Lightning Group",
-      "trend7d": 1.85,
-      "discord_members": 133,
-      "facebook_members": null,
-      "market_cap": 108153466.0,
-      "owner_count": 186,
-      "detail_url": "https://allaaktier.se/bolag/lightning-group"
-    },
-    {
       "ticker": "2020-BULKERS",
       "company_name": "2020 Bulkers",
       "trend7d": 1.57,
@@ -101,6 +91,16 @@
       "market_cap": 164560739.47,
       "owner_count": 5470,
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
+    },
+    {
+      "ticker": "LIGHTNING-GROUP",
+      "company_name": "Lightning Group",
+      "trend7d": 1.5,
+      "discord_members": 133,
+      "facebook_members": null,
+      "market_cap": 108153466.0,
+      "owner_count": 186,
+      "detail_url": "https://allaaktier.se/bolag/lightning-group"
     },
     {
       "ticker": "BEAMMWAVE",
@@ -263,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/oncopeptides"
     },
     {
+      "ticker": "BONESUPPORT",
+      "company_name": "Bonesupport",
+      "trend7d": 0.42,
+      "discord_members": 465,
+      "facebook_members": null,
+      "market_cap": 14300923770.0,
+      "owner_count": 3466,
+      "detail_url": "https://allaaktier.se/bolag/bonesupport"
+    },
+    {
       "ticker": "DLABORATORY-SWEDEN",
       "company_name": "Dlaboratory Sweden",
       "trend7d": 0.38,
@@ -341,16 +351,6 @@
       "market_cap": 11065018356.0,
       "owner_count": 4970,
       "detail_url": "https://allaaktier.se/bolag/plejd"
-    },
-    {
-      "ticker": "BONESUPPORT",
-      "company_name": "Bonesupport",
-      "trend7d": 0.29,
-      "discord_members": 465,
-      "facebook_members": null,
-      "market_cap": 14300923770.0,
-      "owner_count": 3466,
-      "detail_url": "https://allaaktier.se/bolag/bonesupport"
     },
     {
       "ticker": "HAMLET-PHARMA",
@@ -518,26 +518,58 @@
   "min_mentions": 2,
   "trending": [
     {
+      "ticker": "AMD",
+      "company_name": "Advanced Micro Devices",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.627,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 3.133,
+      "sample_posts": [
+        "https://www.flashback.org/sp96005703",
+        "https://www.flashback.org/sp96008015",
+        "https://www.flashback.org/sp96008333"
+      ]
+    },
+    {
       "ticker": "VOLCAR-B",
       "company_name": "Volvo Cars B",
       "sector": "Consumer Discretionary",
       "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 1.0,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 2.0,
       "sample_posts": [
-        "https://www.flashback.org/sp95994019",
         "https://www.flashback.org/sp95999517",
         "https://www.flashback.org/sp96001134"
+      ]
+    },
+    {
+      "ticker": "NOVO-B",
+      "company_name": "Novo Nordisk B",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp96004193",
+        "https://www.flashback.org/sp96008271"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 57,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 58,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
