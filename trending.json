@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:23:27.594627+00:00",
+  "generated_at": "2026-09-25T18:19:21.001805+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 3.19,
-      "discord_members": 1471,
+      "trend7d": 3.44,
+      "discord_members": 1481,
       "facebook_members": 195,
       "market_cap": 2648762414.0,
       "owner_count": 1702,
@@ -233,6 +233,16 @@
       "detail_url": "https://allaaktier.se/bolag/blick-global"
     },
     {
+      "ticker": "ACUCORT",
+      "company_name": "AcuCort",
+      "trend7d": 0.62,
+      "discord_members": 120,
+      "facebook_members": null,
+      "market_cap": 112767820.0,
+      "owner_count": 351,
+      "detail_url": "https://allaaktier.se/bolag/acucort"
+    },
+    {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
       "trend7d": 0.62,
@@ -293,16 +303,6 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
-      "ticker": "XOMA",
-      "company_name": "Xoma",
-      "trend7d": 0.48,
-      "discord_members": 804,
-      "facebook_members": null,
-      "market_cap": 76489014.0,
-      "owner_count": 935,
-      "detail_url": "https://allaaktier.se/bolag/xoma"
-    },
-    {
       "ticker": "BONESUPPORT",
       "company_name": "Bonesupport",
       "trend7d": 0.46,
@@ -321,6 +321,16 @@
       "market_cap": 903932282.0,
       "owner_count": 684,
       "detail_url": "https://allaaktier.se/bolag/infant-bacterial-therapeutics"
+    },
+    {
+      "ticker": "XOMA",
+      "company_name": "Xoma",
+      "trend7d": 0.44,
+      "discord_members": 803,
+      "facebook_members": null,
+      "market_cap": 76489014.0,
+      "owner_count": 935,
+      "detail_url": "https://allaaktier.se/bolag/xoma"
     },
     {
       "ticker": "LIFECLEAN-INTERNATIONAL",
@@ -373,6 +383,16 @@
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     },
     {
+      "ticker": "ONCOPEPTIDES",
+      "company_name": "Oncopeptides",
+      "trend7d": 0.37,
+      "discord_members": 669,
+      "facebook_members": 504,
+      "market_cap": 941573641.0,
+      "owner_count": 3103,
+      "detail_url": "https://allaaktier.se/bolag/oncopeptides"
+    },
+    {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
       "trend7d": 0.36,
@@ -401,26 +421,6 @@
       "market_cap": 2393204544.0,
       "owner_count": 1673,
       "detail_url": "https://allaaktier.se/bolag/dustin"
-    },
-    {
-      "ticker": "ACUCORT",
-      "company_name": "AcuCort",
-      "trend7d": 0.33,
-      "discord_members": 119,
-      "facebook_members": null,
-      "market_cap": 112767820.0,
-      "owner_count": 351,
-      "detail_url": "https://allaaktier.se/bolag/acucort"
-    },
-    {
-      "ticker": "ONCOPEPTIDES",
-      "company_name": "Oncopeptides",
-      "trend7d": 0.32,
-      "discord_members": 668,
-      "facebook_members": 504,
-      "market_cap": 941573641.0,
-      "owner_count": 3103,
-      "detail_url": "https://allaaktier.se/bolag/oncopeptides"
     },
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
@@ -473,6 +473,26 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
+      "ticker": "HILBERT-GROUP",
+      "company_name": "Hilbert Group",
+      "trend7d": 0.27,
+      "discord_members": 298,
+      "facebook_members": null,
+      "market_cap": 222141143.0,
+      "owner_count": 1571,
+      "detail_url": "https://allaaktier.se/bolag/hilbert-group"
+    },
+    {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 0.26,
+      "discord_members": 147,
+      "facebook_members": null,
+      "market_cap": 64715226.0,
+      "owner_count": 266,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
       "ticker": "LOHILO-FOODS",
       "company_name": "Lohilo Foods",
       "trend7d": 0.26,
@@ -491,52 +511,14 @@
       "market_cap": 100970817.0,
       "owner_count": 253,
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
-    },
-    {
-      "ticker": "ORTOMA",
-      "company_name": "Ortoma",
-      "trend7d": 0.2,
-      "discord_members": 165,
-      "facebook_members": null,
-      "market_cap": 359317955.0,
-      "owner_count": 401,
-      "detail_url": "https://allaaktier.se/bolag/ortoma"
-    },
-    {
-      "ticker": "ANNEXIN-PHARMACEUTICALS",
-      "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 0.17,
-      "discord_members": 296,
-      "facebook_members": null,
-      "market_cap": 77940547.0,
-      "owner_count": 293,
-      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "TSLA",
-      "company_name": "Tesla Inc.",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.208,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 0.833,
-      "sample_posts": [
-        "https://www.flashback.org/sp96013485",
-        "https://www.flashback.org/sp96018050",
-        "https://www.flashback.org/sp96021647"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 64,
+    "total_posts_fetched": 69,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
