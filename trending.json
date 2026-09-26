@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:56:31.172970+00:00",
+  "generated_at": "2026-09-26T19:37:30.652714+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 15.25,
-      "discord_members": 1487,
+      "trend7d": 15.3,
+      "discord_members": 1489,
       "facebook_members": 195,
       "market_cap": 2330604266.0,
       "owner_count": 1702,
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/front-ventures"
     },
     {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 1.94,
+      "discord_members": 399,
+      "facebook_members": null,
+      "market_cap": 157471325.0,
+      "owner_count": 636,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
+    },
+    {
       "ticker": "DLABORATORY-SWEDEN",
       "company_name": "Dlaboratory Sweden",
       "trend7d": 1.91,
@@ -113,20 +123,10 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.86,
-      "discord_members": 398,
-      "facebook_members": null,
-      "market_cap": 157471325.0,
-      "owner_count": 636,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.67,
-      "discord_members": 1237,
+      "trend7d": 1.64,
+      "discord_members": 1236,
       "facebook_members": 3706,
       "market_cap": 8152356968.0,
       "owner_count": 3971,
@@ -293,6 +293,16 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
+      "ticker": "H100",
+      "company_name": "H100",
+      "trend7d": 0.59,
+      "discord_members": 26,
+      "facebook_members": null,
+      "market_cap": 2167548207.0,
+      "owner_count": 1463,
+      "detail_url": "https://allaaktier.se/bolag/h100"
+    },
+    {
       "ticker": "36-GROUP",
       "company_name": "36 Group",
       "trend7d": 0.57,
@@ -453,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/gasporox"
     },
     {
-      "ticker": "XOMA",
-      "company_name": "Xoma",
-      "trend7d": 0.31,
-      "discord_members": 803,
-      "facebook_members": null,
-      "market_cap": 78163016.0,
-      "owner_count": 935,
-      "detail_url": "https://allaaktier.se/bolag/xoma"
-    },
-    {
       "ticker": "CORLINE-BIOMEDICAL",
       "company_name": "Corline Biomedical",
       "trend7d": 0.31,
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
+      "ticker": "XOMA",
+      "company_name": "Xoma",
+      "trend7d": 0.27,
+      "discord_members": 802,
+      "facebook_members": null,
+      "market_cap": 78163016.0,
+      "owner_count": 935,
+      "detail_url": "https://allaaktier.se/bolag/xoma"
+    },
+    {
       "ticker": "SEAFIRE",
       "company_name": "Seafire",
       "trend7d": 0.27,
@@ -501,16 +511,6 @@
       "market_cap": 575083302.0,
       "owner_count": 354,
       "detail_url": "https://allaaktier.se/bolag/seafire"
-    },
-    {
-      "ticker": "HILBERT-GROUP",
-      "company_name": "Hilbert Group",
-      "trend7d": 0.26,
-      "discord_members": 298,
-      "facebook_members": null,
-      "market_cap": 222927948.0,
-      "owner_count": 1571,
-      "detail_url": "https://allaaktier.se/bolag/hilbert-group"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 57,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
