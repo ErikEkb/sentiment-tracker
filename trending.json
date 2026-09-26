@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:46:32.808071+00:00",
+  "generated_at": "2026-09-26T16:56:31.172970+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 15.15,
-      "discord_members": 1483,
+      "trend7d": 15.25,
+      "discord_members": 1487,
       "facebook_members": 195,
       "market_cap": 2330604266.0,
       "owner_count": 1702,
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/coffee-stain"
     },
     {
+      "ticker": "FRONT-VENTURES",
+      "company_name": "Front Ventures",
+      "trend7d": 2.1,
+      "discord_members": 153,
+      "facebook_members": null,
+      "market_cap": 114033437.0,
+      "owner_count": 754,
+      "detail_url": "https://allaaktier.se/bolag/front-ventures"
+    },
+    {
       "ticker": "DLABORATORY-SWEDEN",
       "company_name": "Dlaboratory Sweden",
       "trend7d": 1.91,
@@ -101,16 +111,6 @@
       "market_cap": 24385323407.0,
       "owner_count": 4115,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "FRONT-VENTURES",
-      "company_name": "Front Ventures",
-      "trend7d": 1.88,
-      "discord_members": 152,
-      "facebook_members": null,
-      "market_cap": 114033437.0,
-      "owner_count": 754,
-      "detail_url": "https://allaaktier.se/bolag/front-ventures"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
+      "ticker": "APR-TECHNOLOGIES",
+      "company_name": "APR Technologies",
+      "trend7d": 1.19,
+      "discord_members": 208,
+      "facebook_members": null,
+      "market_cap": 793599083.0,
+      "owner_count": 195,
+      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
+    },
+    {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
       "trend7d": 1.1,
@@ -181,16 +191,6 @@
       "market_cap": 3867729407.0,
       "owner_count": 1295,
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
-      "ticker": "APR-TECHNOLOGIES",
-      "company_name": "APR Technologies",
-      "trend7d": 1.03,
-      "discord_members": 207,
-      "facebook_members": null,
-      "market_cap": 793599083.0,
-      "owner_count": 195,
-      "detail_url": "https://allaaktier.se/bolag/apr-technologies"
     },
     {
       "ticker": "SENZAGEN",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 54,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
