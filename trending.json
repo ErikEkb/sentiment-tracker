@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:07:19.951464+00:00",
+  "generated_at": "2026-09-27T21:54:08.941425+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 15.41,
-      "discord_members": 1498,
+      "trend7d": 15.44,
+      "discord_members": 1499,
       "facebook_members": 195,
       "market_cap": 2330604266.0,
       "owner_count": 1702,
@@ -95,8 +95,8 @@
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
-      "trend7d": 1.91,
-      "discord_members": 399,
+      "trend7d": 1.99,
+      "discord_members": 400,
       "facebook_members": null,
       "market_cap": 157471325.0,
       "owner_count": 636,
@@ -522,22 +522,22 @@
       "company_name": "Nanexa",
       "sector": "Unknown",
       "discovered": false,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
       "avg_sentiment": 1.0,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 4.0,
+      "trending_score": 3.0,
       "sample_posts": [
-        "https://www.flashback.org/sp96032708",
         "https://www.flashback.org/sp96035151",
-        "https://www.flashback.org/sp96036519"
+        "https://www.flashback.org/sp96036519",
+        "https://www.flashback.org/sp96037512"
       ]
     }
   ],
   "stats": {
     "total_posts_fetched": 66,
-    "tickers_with_any_mentions": 2,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
