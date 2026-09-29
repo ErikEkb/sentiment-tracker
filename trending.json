@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:29:26.697369+00:00",
+  "generated_at": "2026-09-29T20:31:10.612804+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 40.21,
-      "discord_members": 1513,
+      "trend7d": 40.24,
+      "discord_members": 1514,
       "facebook_members": 195,
       "market_cap": 2069944578.0,
       "owner_count": 2680,
@@ -35,8 +35,8 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 3.36,
-      "discord_members": 805,
+      "trend7d": 3.32,
+      "discord_members": 804,
       "facebook_members": 435,
       "market_cap": 4157318284.0,
       "owner_count": 1351,
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
+      "ticker": "GENOVIS",
+      "company_name": "Genovis",
+      "trend7d": 1.98,
+      "discord_members": 32,
+      "facebook_members": 254,
+      "market_cap": 1260122520.0,
+      "owner_count": 1226,
+      "detail_url": "https://allaaktier.se/bolag/genovis"
+    },
+    {
       "ticker": "SENZIME",
       "company_name": "Senzime",
       "trend7d": 1.84,
@@ -143,6 +153,16 @@
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     },
     {
+      "ticker": "LIGHTNING-GROUP",
+      "company_name": "Lightning Group",
+      "trend7d": 1.26,
+      "discord_members": 138,
+      "facebook_members": null,
+      "market_cap": 101973268.0,
+      "owner_count": 194,
+      "detail_url": "https://allaaktier.se/bolag/lightning-group"
+    },
+    {
       "ticker": "BOMILL",
       "company_name": "BoMill",
       "trend7d": 1.24,
@@ -171,26 +191,6 @@
       "market_cap": 2133680267.0,
       "owner_count": 1460,
       "detail_url": "https://allaaktier.se/bolag/h100"
-    },
-    {
-      "ticker": "LIGHTNING-GROUP",
-      "company_name": "Lightning Group",
-      "trend7d": 1.02,
-      "discord_members": 137,
-      "facebook_members": null,
-      "market_cap": 101973268.0,
-      "owner_count": 194,
-      "detail_url": "https://allaaktier.se/bolag/lightning-group"
-    },
-    {
-      "ticker": "GENOVIS",
-      "company_name": "Genovis",
-      "trend7d": 0.87,
-      "discord_members": 31,
-      "facebook_members": 254,
-      "market_cap": 1260122520.0,
-      "owner_count": 1226,
-      "detail_url": "https://allaaktier.se/bolag/genovis"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -261,6 +261,16 @@
       "market_cap": 61173597.0,
       "owner_count": 268,
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
+      "ticker": "PROSTATYPE-GENOMICS",
+      "company_name": "Prostatype Genomics",
+      "trend7d": 0.62,
+      "discord_members": 230,
+      "facebook_members": 63,
+      "market_cap": 68025598.0,
+      "owner_count": 778,
+      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
     },
     {
       "ticker": "LIFECLEAN-INTERNATIONAL",
@@ -393,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/petrotal"
     },
     {
-      "ticker": "PROSTATYPE-GENOMICS",
-      "company_name": "Prostatype Genomics",
-      "trend7d": 0.35,
-      "discord_members": 229,
-      "facebook_members": 63,
-      "market_cap": 68025598.0,
-      "owner_count": 775,
-      "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
       "ticker": "INSPLORION",
       "company_name": "Insplorion",
       "trend7d": 0.35,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 52,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
