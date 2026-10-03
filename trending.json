@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:05:22.572179+00:00",
+  "generated_at": "2026-10-03T20:45:32.635319+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
       "company_name": "AI Revenue Assistant Software",
-      "trend7d": 14.1,
-      "discord_members": 90,
+      "trend7d": 14.59,
+      "discord_members": 91,
       "facebook_members": null,
       "market_cap": 103556006.0,
       "owner_count": 232,
@@ -63,6 +63,16 @@
       "detail_url": "https://allaaktier.se/bolag/genovis"
     },
     {
+      "ticker": "NEOVICI",
+      "company_name": "Neovici",
+      "trend7d": 3.64,
+      "discord_members": 29,
+      "facebook_members": null,
+      "market_cap": 85023962.0,
+      "owner_count": 714,
+      "detail_url": "https://allaaktier.se/bolag/neovici"
+    },
+    {
       "ticker": "ADVENICA",
       "company_name": "Advenica",
       "trend7d": 3.34,
@@ -91,16 +101,6 @@
       "market_cap": 65260330.0,
       "owner_count": 800,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
-    },
-    {
-      "ticker": "NEOVICI",
-      "company_name": "Neovici",
-      "trend7d": 2.36,
-      "discord_members": 28,
-      "facebook_members": null,
-      "market_cap": 85023962.0,
-      "owner_count": 714,
-      "detail_url": "https://allaaktier.se/bolag/neovici"
     },
     {
       "ticker": "ABCELLERA-BIOLOGICS-INC",
@@ -243,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
     },
     {
+      "ticker": "H100",
+      "company_name": "H100",
+      "trend7d": 0.93,
+      "discord_members": 32,
+      "facebook_members": null,
+      "market_cap": 2210447599.0,
+      "owner_count": 1460,
+      "detail_url": "https://allaaktier.se/bolag/h100"
+    },
+    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 0.82,
@@ -293,20 +303,10 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
-      "ticker": "BIBBINSTRUMENTS",
-      "company_name": "BiBBInstruments",
-      "trend7d": 0.67,
-      "discord_members": 148,
-      "facebook_members": null,
-      "market_cap": 63105394.0,
-      "owner_count": 268,
-      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
-    },
-    {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 0.62,
-      "discord_members": 1149,
+      "trend7d": 0.65,
+      "discord_members": 1150,
       "facebook_members": 2135,
       "market_cap": 3376503706.0,
       "owner_count": 3683,
@@ -373,6 +373,16 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 0.44,
+      "discord_members": 147,
+      "facebook_members": null,
+      "market_cap": 63105394.0,
+      "owner_count": 268,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
       "ticker": "ACUCORT",
       "company_name": "AcuCort",
       "trend7d": 0.42,
@@ -393,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/incoax-networks"
     },
     {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.4,
+      "discord_members": 302,
+      "facebook_members": 295,
+      "market_cap": 653551386.0,
+      "owner_count": 1612,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
       "ticker": "MIPS",
       "company_name": "Mips",
       "trend7d": 0.39,
@@ -411,16 +431,6 @@
       "market_cap": 11232190968.0,
       "owner_count": 7569,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
-      "ticker": "ALLARITY-THERAPEUTICS",
-      "company_name": "Allarity Therapeutics",
-      "trend7d": 0.38,
-      "discord_members": 847,
-      "facebook_members": null,
-      "market_cap": 166934798.55,
-      "owner_count": 80,
-      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
       "ticker": "CAMURUS",
@@ -473,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
+      "ticker": "ALLARITY-THERAPEUTICS",
+      "company_name": "Allarity Therapeutics",
+      "trend7d": 0.34,
+      "discord_members": 846,
+      "facebook_members": null,
+      "market_cap": 166934798.55,
+      "owner_count": 80,
+      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
+    },
+    {
       "ticker": "BIOFRIGAS",
       "company_name": "Biofrigas",
       "trend7d": 0.34,
@@ -491,49 +511,12 @@
       "market_cap": 4991185.0,
       "owner_count": 210,
       "detail_url": "https://allaaktier.se/bolag/eatgood"
-    },
-    {
-      "ticker": "HANZA",
-      "company_name": "HANZA",
-      "trend7d": 0.33,
-      "discord_members": 102,
-      "facebook_members": 152,
-      "market_cap": 10577168784.0,
-      "owner_count": 1545,
-      "detail_url": "https://allaaktier.se/bolag/hanza"
-    },
-    {
-      "ticker": "S2MEDICAL",
-      "company_name": "S2Medical",
-      "trend7d": 0.32,
-      "discord_members": 114,
-      "facebook_members": null,
-      "market_cap": 6960831.0,
-      "owner_count": 434,
-      "detail_url": "https://allaaktier.se/bolag/s2medical"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "SBB-B-SBB-D",
-      "company_name": "Samhällsbyggnadsbolaget i Norden",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 7,
-      "velocity_mentions_per_day": 2.33,
-      "avg_sentiment": 0.143,
-      "avg_upvote_ratio": 0.5,
-      "label": "neutral",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp96079571",
-        "https://www.flashback.org/sp96079621",
-        "https://www.flashback.org/sp96079849"
-      ]
-    },
     {
       "ticker": "HEM",
       "company_name": "Hemnet",
@@ -552,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 81,
+    "total_posts_fetched": 92,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
