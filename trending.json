@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T19:56:01.326002+00:00",
+  "generated_at": "2026-10-04T22:54:12.646653+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
       "company_name": "AI Revenue Assistant Software",
-      "trend7d": 17.49,
-      "discord_members": 97,
+      "trend7d": 18.45,
+      "discord_members": 99,
       "facebook_members": null,
       "market_cap": 103556006.0,
       "owner_count": 232,
@@ -108,7 +108,7 @@
       "trend7d": 2.07,
       "discord_members": 411,
       "facebook_members": null,
-      "market_cap": 42282213714.86,
+      "market_cap": 42282211008.8,
       "owner_count": 1220,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
@@ -155,8 +155,8 @@
     {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
-      "trend7d": 1.52,
-      "discord_members": 169,
+      "trend7d": 1.72,
+      "discord_members": 170,
       "facebook_members": null,
       "market_cap": 8758063.0,
       "owner_count": 313,
@@ -181,6 +181,16 @@
       "market_cap": 146904962.0,
       "owner_count": 139,
       "detail_url": "https://allaaktier.se/bolag/klimator"
+    },
+    {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 1.14,
+      "discord_members": 308,
+      "facebook_members": 295,
+      "market_cap": 653551386.0,
+      "owner_count": 1612,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "H100",
@@ -231,16 +241,6 @@
       "market_cap": 606792163.07,
       "owner_count": 1795,
       "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
-    },
-    {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.91,
-      "discord_members": 306,
-      "facebook_members": 295,
-      "market_cap": 653551386.0,
-      "owner_count": 1612,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "SPRINT-BIOSCIENCE",
@@ -518,25 +518,43 @@
   "min_mentions": 2,
   "trending": [
     {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 7,
+      "velocity_mentions_per_day": 2.33,
+      "avg_sentiment": 0.571,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 4.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp96093918",
+        "https://www.flashback.org/sp96097563",
+        "https://www.flashback.org/sp96097579"
+      ]
+    },
+    {
       "ticker": "MSTR",
       "company_name": "MicroStrategy Inc.",
       "sector": "Information Technology",
       "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
       "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 1.0,
+      "trending_score": 2.0,
       "sample_posts": [
         "https://www.flashback.org/sp96092407",
-        "https://www.flashback.org/sp96094753"
+        "https://www.flashback.org/sp96094753",
+        "https://www.flashback.org/sp96100012"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 82,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 83,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
