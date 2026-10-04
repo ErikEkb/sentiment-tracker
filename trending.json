@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:38:45.027781+00:00",
+  "generated_at": "2026-10-04T19:56:01.326002+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
       "company_name": "AI Revenue Assistant Software",
-      "trend7d": 17.0,
-      "discord_members": 96,
+      "trend7d": 17.49,
+      "discord_members": 97,
       "facebook_members": null,
       "market_cap": 103556006.0,
       "owner_count": 232,
@@ -35,8 +35,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 8.58,
-      "discord_members": 1525,
+      "trend7d": 8.62,
+      "discord_members": 1527,
       "facebook_members": 195,
       "market_cap": 1922690735.0,
       "owner_count": 2763,
@@ -153,16 +153,6 @@
       "detail_url": "https://allaaktier.se/bolag/freemelt"
     },
     {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.59,
-      "discord_members": 665,
-      "facebook_members": 363,
-      "market_cap": 276009325.0,
-      "owner_count": 527,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 1.52,
@@ -171,6 +161,16 @@
       "market_cap": 8758063.0,
       "owner_count": 313,
       "detail_url": "https://allaaktier.se/bolag/ecomb"
+    },
+    {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 1.49,
+      "discord_members": 663,
+      "facebook_members": 363,
+      "market_cap": 276009325.0,
+      "owner_count": 527,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
       "ticker": "KLIMATOR",
@@ -183,16 +183,6 @@
       "detail_url": "https://allaaktier.se/bolag/klimator"
     },
     {
-      "ticker": "YUBICO",
-      "company_name": "Yubico",
-      "trend7d": 1.15,
-      "discord_members": 207,
-      "facebook_members": null,
-      "market_cap": 10203016430.0,
-      "owner_count": 2747,
-      "detail_url": "https://allaaktier.se/bolag/yubico"
-    },
-    {
       "ticker": "H100",
       "company_name": "H100",
       "trend7d": 1.09,
@@ -201,6 +191,16 @@
       "market_cap": 2210447599.0,
       "owner_count": 1460,
       "detail_url": "https://allaaktier.se/bolag/h100"
+    },
+    {
+      "ticker": "YUBICO",
+      "company_name": "Yubico",
+      "trend7d": 0.99,
+      "discord_members": 206,
+      "facebook_members": null,
+      "market_cap": 10203016430.0,
+      "owner_count": 2747,
+      "detail_url": "https://allaaktier.se/bolag/yubico"
     },
     {
       "ticker": "SENZIME",
@@ -443,16 +443,6 @@
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
-      "ticker": "BIMOBJECT",
-      "company_name": "BIMobject",
-      "trend7d": 0.32,
-      "discord_members": 307,
-      "facebook_members": 255,
-      "market_cap": 706755462.0,
-      "owner_count": 653,
-      "detail_url": "https://allaaktier.se/bolag/bimobject"
-    },
-    {
       "ticker": "BIBBINSTRUMENTS",
       "company_name": "BiBBInstruments",
       "trend7d": 0.31,
@@ -511,6 +501,16 @@
       "market_cap": 68305940.0,
       "owner_count": 211,
       "detail_url": "https://allaaktier.se/bolag/solidx"
+    },
+    {
+      "ticker": "ASCELIA-PHARMA",
+      "company_name": "Ascelia Pharma",
+      "trend7d": 0.27,
+      "discord_members": 1377,
+      "facebook_members": 477,
+      "market_cap": 109001089.0,
+      "owner_count": 1391,
+      "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
     }
   ],
   "twitter_mentions": 0,
@@ -532,27 +532,11 @@
         "https://www.flashback.org/sp96092407",
         "https://www.flashback.org/sp96094753"
       ]
-    },
-    {
-      "ticker": "SBB-B-SBB-D",
-      "company_name": "Samhällsbyggnadsbolaget i Norden",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp96085763",
-        "https://www.flashback.org/sp96090109"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 100,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 82,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
