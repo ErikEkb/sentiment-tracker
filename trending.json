@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T04:57:20.274453+00:00",
+  "generated_at": "2026-10-04T11:03:26.985583+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
       "company_name": "AI Revenue Assistant Software",
-      "trend7d": 14.59,
-      "discord_members": 91,
+      "trend7d": 15.55,
+      "discord_members": 93,
       "facebook_members": null,
       "market_cap": 103556006.0,
       "owner_count": 232,
@@ -35,8 +35,8 @@
     {
       "ticker": "NANEXA",
       "company_name": "Nanexa",
-      "trend7d": 8.56,
-      "discord_members": 1524,
+      "trend7d": 8.58,
+      "discord_members": 1525,
       "facebook_members": 195,
       "market_cap": 1922690735.0,
       "owner_count": 2763,
@@ -45,8 +45,8 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 6.7,
-      "discord_members": 810,
+      "trend7d": 6.66,
+      "discord_members": 809,
       "facebook_members": 435,
       "market_cap": 4505806594.0,
       "owner_count": 1425,
@@ -108,7 +108,7 @@
       "trend7d": 2.07,
       "discord_members": 411,
       "facebook_members": null,
-      "market_cap": 42282211008.8,
+      "market_cap": 42282213714.86,
       "owner_count": 1220,
       "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
@@ -228,15 +228,25 @@
       "trend7d": 0.92,
       "discord_members": 29,
       "facebook_members": null,
-      "market_cap": 606515202.66,
+      "market_cap": 606792163.07,
       "owner_count": 1795,
       "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
     },
     {
+      "ticker": "MIDSUMMER",
+      "company_name": "Midsummer",
+      "trend7d": 0.8,
+      "discord_members": 305,
+      "facebook_members": 295,
+      "market_cap": 653551386.0,
+      "owner_count": 1612,
+      "detail_url": "https://allaaktier.se/bolag/midsummer"
+    },
+    {
       "ticker": "SPRINT-BIOSCIENCE",
       "company_name": "Sprint Bioscience",
-      "trend7d": 0.84,
-      "discord_members": 696,
+      "trend7d": 0.79,
+      "discord_members": 695,
       "facebook_members": 396,
       "market_cap": 372469849.0,
       "owner_count": 744,
@@ -331,16 +341,6 @@
       "market_cap": 419915972.0,
       "owner_count": 1205,
       "detail_url": "https://allaaktier.se/bolag/angler-gaming"
-    },
-    {
-      "ticker": "MIDSUMMER",
-      "company_name": "Midsummer",
-      "trend7d": 0.46,
-      "discord_members": 302,
-      "facebook_members": 295,
-      "market_cap": 653551386.0,
-      "owner_count": 1612,
-      "detail_url": "https://allaaktier.se/bolag/midsummer"
     },
     {
       "ticker": "NYAB",
@@ -568,7 +568,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 92,
+    "total_posts_fetched": 100,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
