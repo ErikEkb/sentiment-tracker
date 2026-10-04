@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:03:26.985583+00:00",
+  "generated_at": "2026-10-04T16:38:45.027781+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
       "company_name": "AI Revenue Assistant Software",
-      "trend7d": 15.55,
-      "discord_members": 93,
+      "trend7d": 17.0,
+      "discord_members": 96,
       "facebook_members": null,
       "market_cap": 103556006.0,
       "owner_count": 232,
@@ -56,7 +56,7 @@
       "ticker": "GENOVIS",
       "company_name": "Genovis",
       "trend7d": 5.84,
-      "discord_members": 36,
+      "discord_members": null,
       "facebook_members": 254,
       "market_cap": 1318136726.0,
       "owner_count": 1235,
@@ -125,8 +125,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.95,
-      "discord_members": 1445,
+      "trend7d": 1.92,
+      "discord_members": 1444,
       "facebook_members": null,
       "market_cap": 1217557985.0,
       "owner_count": 775,
@@ -235,8 +235,8 @@
     {
       "ticker": "MIDSUMMER",
       "company_name": "Midsummer",
-      "trend7d": 0.8,
-      "discord_members": 305,
+      "trend7d": 0.91,
+      "discord_members": 306,
       "facebook_members": 295,
       "market_cap": 653551386.0,
       "owner_count": 1612,
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.69,
+      "discord_members": 461,
+      "facebook_members": null,
+      "market_cap": 24176784513.0,
+      "owner_count": 4219,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "CINCLUS-PHARMA",
       "company_name": "Cinclus Pharma",
       "trend7d": 0.64,
@@ -321,16 +331,6 @@
       "market_cap": 3376503706.0,
       "owner_count": 3683,
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
-    },
-    {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 0.54,
-      "discord_members": 459,
-      "facebook_members": null,
-      "market_cap": 24176784513.0,
-      "owner_count": 4219,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "ANGLER-GAMING",
@@ -423,6 +423,16 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
+      "ticker": "LANE-CAPITAL",
+      "company_name": "Lane Capital",
+      "trend7d": 0.36,
+      "discord_members": 80,
+      "facebook_members": null,
+      "market_cap": 10315944.0,
+      "owner_count": 246,
+      "detail_url": "https://allaaktier.se/bolag/lane-capital"
+    },
+    {
       "ticker": "AIK-FOTBOLL",
       "company_name": "AIK Fotboll",
       "trend7d": 0.35,
@@ -471,16 +481,6 @@
       "market_cap": 1176643042.0,
       "owner_count": 1136,
       "detail_url": "https://allaaktier.se/bolag/episurf-medical"
-    },
-    {
-      "ticker": "PILA-PHARMA",
-      "company_name": "PILA PHARMA",
-      "trend7d": 0.28,
-      "discord_members": 75,
-      "facebook_members": 38,
-      "market_cap": 79486891.0,
-      "owner_count": 1432,
-      "detail_url": "https://allaaktier.se/bolag/pila-pharma"
     },
     {
       "ticker": "BIOFRIGAS",
@@ -538,38 +538,21 @@
       "company_name": "Samhällsbyggnadsbolaget i Norden",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.333,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 1.0,
       "sample_posts": [
-        "https://www.flashback.org/sp96084154",
         "https://www.flashback.org/sp96085763",
         "https://www.flashback.org/sp96090109"
-      ]
-    },
-    {
-      "ticker": "HEM",
-      "company_name": "Hemnet",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.25,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 0.5,
-      "sample_posts": [
-        "https://www.flashback.org/sp96084686",
-        "https://www.flashback.org/sp96085536"
       ]
     }
   ],
   "stats": {
     "total_posts_fetched": 100,
-    "tickers_with_any_mentions": 3,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
