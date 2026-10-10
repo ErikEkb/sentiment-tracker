@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:23:09.250982+00:00",
+  "generated_at": "2026-10-10T18:18:01.606241+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -163,24 +163,24 @@
       "detail_url": "https://allaaktier.se/bolag/nicoccino"
     },
     {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 1.08,
-      "discord_members": 1535,
-      "facebook_members": 195,
-      "market_cap": 2213307652.0,
-      "owner_count": 2790,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
-    },
-    {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.06,
-      "discord_members": 1453,
+      "trend7d": 1.11,
+      "discord_members": 1455,
       "facebook_members": null,
       "market_cap": 1190857152.0,
       "owner_count": 774,
       "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 1.11,
+      "discord_members": 1536,
+      "facebook_members": 195,
+      "market_cap": 2213307652.0,
+      "owner_count": 2790,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
       "ticker": "CAMURUS",
@@ -243,16 +243,6 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
-      "ticker": "SENZIME",
-      "company_name": "Senzime",
-      "trend7d": 0.84,
-      "discord_members": 377,
-      "facebook_members": null,
-      "market_cap": 459067934.0,
-      "owner_count": 514,
-      "detail_url": "https://allaaktier.se/bolag/senzime"
-    },
-    {
       "ticker": "YUBICO",
       "company_name": "Yubico",
       "trend7d": 0.82,
@@ -271,6 +261,16 @@
       "market_cap": 2357526036.0,
       "owner_count": 1665,
       "detail_url": "https://allaaktier.se/bolag/dustin"
+    },
+    {
+      "ticker": "SENZIME",
+      "company_name": "Senzime",
+      "trend7d": 0.75,
+      "discord_members": 376,
+      "facebook_members": null,
+      "market_cap": 459067934.0,
+      "owner_count": 514,
+      "detail_url": "https://allaaktier.se/bolag/senzime"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
@@ -313,16 +313,6 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
-      "ticker": "ALLIGATOR-BIOSCIENCE",
-      "company_name": "Alligator Bioscience",
-      "trend7d": 0.65,
-      "discord_members": 550,
-      "facebook_members": null,
-      "market_cap": 54592035.0,
-      "owner_count": 1621,
-      "detail_url": "https://allaaktier.se/bolag/alligator-bioscience"
-    },
-    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 0.63,
@@ -341,6 +331,16 @@
       "market_cap": 625577291.0,
       "owner_count": 624,
       "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
+    },
+    {
+      "ticker": "ALLIGATOR-BIOSCIENCE",
+      "company_name": "Alligator Bioscience",
+      "trend7d": 0.59,
+      "discord_members": 549,
+      "facebook_members": null,
+      "market_cap": 54592035.0,
+      "owner_count": 1621,
+      "detail_url": "https://allaaktier.se/bolag/alligator-bioscience"
     },
     {
       "ticker": "PROLIGHT-DIAGNOSTICS",
@@ -385,8 +385,8 @@
     {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
       "company_name": "Cibus Nordic Real Estate",
-      "trend7d": 0.39,
-      "discord_members": 679,
+      "trend7d": 0.44,
+      "discord_members": 680,
       "facebook_members": 161,
       "market_cap": 9731300635.0,
       "owner_count": 14411,
@@ -395,22 +395,12 @@
     {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
-      "trend7d": 0.37,
-      "discord_members": 1385,
+      "trend7d": 0.4,
+      "discord_members": 1386,
       "facebook_members": 128,
       "market_cap": 1208465866.0,
       "owner_count": 1185,
       "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
-    },
-    {
-      "ticker": "HANZA",
-      "company_name": "HANZA",
-      "trend7d": 0.37,
-      "discord_members": 102,
-      "facebook_members": 152,
-      "market_cap": 10577168784.0,
-      "owner_count": 1559,
-      "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -433,14 +423,14 @@
       "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
-      "ticker": "XBRANE-BIOPHARMA",
-      "company_name": "Xbrane Biopharma",
-      "trend7d": 0.3,
-      "discord_members": 938,
-      "facebook_members": 1532,
-      "market_cap": 287444605.0,
-      "owner_count": 1081,
-      "detail_url": "https://allaaktier.se/bolag/xbrane-biopharma"
+      "ticker": "NANOECHO",
+      "company_name": "NanoEcho",
+      "trend7d": 0.28,
+      "discord_members": 62,
+      "facebook_members": null,
+      "market_cap": 6112600.0,
+      "owner_count": 662,
+      "detail_url": "https://allaaktier.se/bolag/nanoecho"
     },
     {
       "ticker": "PREBONA",
@@ -461,6 +451,16 @@
       "market_cap": 73776625.0,
       "owner_count": 1433,
       "detail_url": "https://allaaktier.se/bolag/pila-pharma"
+    },
+    {
+      "ticker": "XBRANE-BIOPHARMA",
+      "company_name": "Xbrane Biopharma",
+      "trend7d": 0.27,
+      "discord_members": 937,
+      "facebook_members": 1532,
+      "market_cap": 287444605.0,
+      "owner_count": 1081,
+      "detail_url": "https://allaaktier.se/bolag/xbrane-biopharma"
     },
     {
       "ticker": "B-TREASURY-CAPITAL",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 80,
+    "total_posts_fetched": 71,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
