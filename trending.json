@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:18:01.606241+00:00",
+  "generated_at": "2026-10-10T22:18:39.492919+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -103,6 +103,16 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
+      "ticker": "PHYSITRACK",
+      "company_name": "Physitrack",
+      "trend7d": 1.65,
+      "discord_members": 317,
+      "facebook_members": null,
+      "market_cap": 163420698.0,
+      "owner_count": 339,
+      "detail_url": "https://allaaktier.se/bolag/physitrack"
+    },
+    {
       "ticker": "COFFEE-STAIN",
       "company_name": "Coffee Stain",
       "trend7d": 1.57,
@@ -111,16 +121,6 @@
       "market_cap": 4185422491.0,
       "owner_count": 9364,
       "detail_url": "https://allaaktier.se/bolag/coffee-stain"
-    },
-    {
-      "ticker": "PHYSITRACK",
-      "company_name": "Physitrack",
-      "trend7d": 1.43,
-      "discord_members": 315,
-      "facebook_members": null,
-      "market_cap": 163420698.0,
-      "owner_count": 339,
-      "detail_url": "https://allaaktier.se/bolag/physitrack"
     },
     {
       "ticker": "SLEEP-CYCLE",
@@ -522,12 +522,12 @@
       "company_name": "SpaceX",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
+      "mentions": 7,
+      "velocity_mentions_per_day": 2.33,
+      "avg_sentiment": 0.714,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 2.0,
+      "trending_score": 5.0,
       "sample_posts": [
         "https://www.flashback.org/sp96134429",
         "https://www.flashback.org/sp96135292",
@@ -536,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 71,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 67,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
