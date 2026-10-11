@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:27:58.791995+00:00",
+  "generated_at": "2026-10-11T15:25:25.291952+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "NEOVICI",
       "company_name": "Neovici",
-      "trend7d": 6.69,
-      "discord_members": 35,
+      "trend7d": 7.84,
+      "discord_members": 36,
       "facebook_members": null,
       "market_cap": 86024243.0,
       "owner_count": 707,
@@ -83,6 +83,16 @@
       "detail_url": "https://allaaktier.se/bolag/orexo"
     },
     {
+      "ticker": "PHYSITRACK",
+      "company_name": "Physitrack",
+      "trend7d": 1.76,
+      "discord_members": 318,
+      "facebook_members": null,
+      "market_cap": 163420698.0,
+      "owner_count": 339,
+      "detail_url": "https://allaaktier.se/bolag/physitrack"
+    },
+    {
       "ticker": "REALFICTION",
       "company_name": "Realfiction",
       "trend7d": 1.7,
@@ -91,16 +101,6 @@
       "market_cap": 77445332.0,
       "owner_count": 371,
       "detail_url": "https://allaaktier.se/bolag/realfiction"
-    },
-    {
-      "ticker": "PHYSITRACK",
-      "company_name": "Physitrack",
-      "trend7d": 1.65,
-      "discord_members": 317,
-      "facebook_members": null,
-      "market_cap": 163420698.0,
-      "owner_count": 339,
-      "detail_url": "https://allaaktier.se/bolag/physitrack"
     },
     {
       "ticker": "COFFEE-STAIN",
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 1.24,
+      "discord_members": 57,
+      "facebook_members": null,
+      "market_cap": 23463034322.0,
+      "owner_count": 4270,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
       "ticker": "NICOCCINO",
       "company_name": "Nicoccino",
       "trend7d": 1.14,
@@ -173,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/emb-mission-bound"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 1.01,
+      "discord_members": 1456,
+      "facebook_members": null,
+      "market_cap": 1190857152.0,
+      "owner_count": 774,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "INTRUM",
       "company_name": "Intrum",
       "trend7d": 0.99,
@@ -181,16 +201,6 @@
       "market_cap": 8877068536.0,
       "owner_count": 7472,
       "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.98,
-      "discord_members": 1455,
-      "facebook_members": null,
-      "market_cap": 1190857152.0,
-      "owner_count": 774,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "CAMURUS",
@@ -211,6 +221,16 @@
       "market_cap": 2213307652.0,
       "owner_count": 2790,
       "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 0.87,
+      "discord_members": 407,
+      "facebook_members": null,
+      "market_cap": 151262778.0,
+      "owner_count": 639,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "ECOMB",
@@ -243,16 +263,6 @@
       "detail_url": "https://allaaktier.se/bolag/dustin"
     },
     {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 0.79,
-      "discord_members": 406,
-      "facebook_members": null,
-      "market_cap": 151262778.0,
-      "owner_count": 639,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
       "ticker": "FLEXQUBE",
       "company_name": "FlexQube",
       "trend7d": 0.78,
@@ -271,16 +281,6 @@
       "market_cap": 253702537.0,
       "owner_count": 535,
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 0.65,
-      "discord_members": 56,
-      "facebook_members": null,
-      "market_cap": 23463034322.0,
-      "owner_count": 4270,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "QLIRO",
@@ -343,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
     },
     {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 0.42,
+      "discord_members": 1387,
+      "facebook_members": 128,
+      "market_cap": 1208465866.0,
+      "owner_count": 1185,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
       "ticker": "YUBICO",
       "company_name": "Yubico",
       "trend7d": 0.41,
@@ -351,16 +361,6 @@
       "market_cap": 10504670829.0,
       "owner_count": 2806,
       "detail_url": "https://allaaktier.se/bolag/yubico"
-    },
-    {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 0.4,
-      "discord_members": 1386,
-      "facebook_members": 128,
-      "market_cap": 1208465866.0,
-      "owner_count": 1185,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
     },
     {
       "ticker": "NANOECHO",
@@ -463,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/international-petroleum"
     },
     {
+      "ticker": "ASCELIA-PHARMA",
+      "company_name": "Ascelia Pharma",
+      "trend7d": 0.18,
+      "discord_members": 1379,
+      "facebook_members": 477,
+      "market_cap": 115729552.0,
+      "owner_count": 1386,
+      "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
+    },
+    {
       "ticker": "XBRANE-BIOPHARMA",
       "company_name": "Xbrane Biopharma",
       "trend7d": 0.17,
@@ -493,16 +503,6 @@
       "detail_url": "https://allaaktier.se/bolag/medivir"
     },
     {
-      "ticker": "ASCELIA-PHARMA",
-      "company_name": "Ascelia Pharma",
-      "trend7d": 0.15,
-      "discord_members": 1378,
-      "facebook_members": 477,
-      "market_cap": 115729552.0,
-      "owner_count": 1386,
-      "detail_url": "https://allaaktier.se/bolag/ascelia-pharma"
-    },
-    {
       "ticker": "2020-BULKERS",
       "company_name": "2020 Bulkers",
       "trend7d": 0.15,
@@ -522,22 +522,22 @@
       "company_name": "SpaceX",
       "sector": "Discovered",
       "discovered": true,
-      "mentions": 7,
-      "velocity_mentions_per_day": 2.33,
-      "avg_sentiment": 0.714,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.75,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 5.0,
+      "trending_score": 3.0,
       "sample_posts": [
-        "https://www.flashback.org/sp96134429",
-        "https://www.flashback.org/sp96135292",
-        "https://www.flashback.org/sp96135793"
+        "https://www.flashback.org/sp96141836",
+        "https://www.flashback.org/sp96142775",
+        "https://www.flashback.org/sp96145186"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 70,
-    "tickers_with_any_mentions": 3,
+    "total_posts_fetched": 68,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
