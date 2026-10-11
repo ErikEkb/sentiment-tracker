@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:38:58.544750+00:00",
+  "generated_at": "2026-10-11T08:27:58.791995+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,7 +65,7 @@
     {
       "ticker": "ONCOZENGE",
       "company_name": "OncoZenge",
-      "trend7d": 2.29,
+      "trend7d": 2.36,
       "discord_members": 729,
       "facebook_members": null,
       "market_cap": 115373200.0,
@@ -75,7 +75,7 @@
     {
       "ticker": "OREXO",
       "company_name": "Orexo",
-      "trend7d": 2.07,
+      "trend7d": 2.03,
       "discord_members": 311,
       "facebook_members": 503,
       "market_cap": 244490685.0,
@@ -143,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 1.23,
-      "discord_members": 411,
-      "facebook_members": null,
-      "market_cap": 38425982466.0,
-      "owner_count": 1218,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
-    },
-    {
       "ticker": "NICOCCINO",
       "company_name": "Nicoccino",
       "trend7d": 1.14,
@@ -163,14 +153,14 @@
       "detail_url": "https://allaaktier.se/bolag/nicoccino"
     },
     {
-      "ticker": "NANEXA",
-      "company_name": "Nanexa",
-      "trend7d": 1.11,
-      "discord_members": 1536,
-      "facebook_members": 195,
-      "market_cap": 2213307652.0,
-      "owner_count": 2790,
-      "detail_url": "https://allaaktier.se/bolag/nanexa"
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 1.07,
+      "discord_members": 411,
+      "facebook_members": null,
+      "market_cap": 38425982466.0,
+      "owner_count": 1218,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "EMB-MISSION-BOUND",
@@ -213,6 +203,16 @@
       "detail_url": "https://allaaktier.se/bolag/camurus"
     },
     {
+      "ticker": "NANEXA",
+      "company_name": "Nanexa",
+      "trend7d": 0.89,
+      "discord_members": 1534,
+      "facebook_members": 195,
+      "market_cap": 2213307652.0,
+      "owner_count": 2790,
+      "detail_url": "https://allaaktier.se/bolag/nanexa"
+    },
+    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 0.82,
@@ -221,16 +221,6 @@
       "market_cap": 10060377.0,
       "owner_count": 309,
       "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
-      "ticker": "YUBICO",
-      "company_name": "Yubico",
-      "trend7d": 0.82,
-      "discord_members": 205,
-      "facebook_members": null,
-      "market_cap": 10504670829.0,
-      "owner_count": 2806,
-      "detail_url": "https://allaaktier.se/bolag/yubico"
     },
     {
       "ticker": "NYAB",
@@ -275,7 +265,7 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.74,
+      "trend7d": 0.68,
       "discord_members": 669,
       "facebook_members": 363,
       "market_cap": 253702537.0,
@@ -285,7 +275,7 @@
     {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
-      "trend7d": 0.68,
+      "trend7d": 0.65,
       "discord_members": 56,
       "facebook_members": null,
       "market_cap": 23463034322.0,
@@ -353,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
     },
     {
+      "ticker": "YUBICO",
+      "company_name": "Yubico",
+      "trend7d": 0.41,
+      "discord_members": 205,
+      "facebook_members": null,
+      "market_cap": 10504670829.0,
+      "owner_count": 2806,
+      "detail_url": "https://allaaktier.se/bolag/yubico"
+    },
+    {
       "ticker": "SHT-SMART-HIGH-TECH",
       "company_name": "SHT Smart High-Tech",
       "trend7d": 0.4,
@@ -403,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/freja-eid"
     },
     {
+      "ticker": "PILA-PHARMA",
+      "company_name": "PILA PHARMA",
+      "trend7d": 0.3,
+      "discord_members": 75,
+      "facebook_members": 38,
+      "market_cap": 73776625.0,
+      "owner_count": 1433,
+      "detail_url": "https://allaaktier.se/bolag/pila-pharma"
+    },
+    {
       "ticker": "PREBONA",
       "company_name": "Prebona",
       "trend7d": 0.27,
@@ -411,16 +421,6 @@
       "market_cap": 20894603.0,
       "owner_count": 152,
       "detail_url": "https://allaaktier.se/bolag/prebona"
-    },
-    {
-      "ticker": "PILA-PHARMA",
-      "company_name": "PILA PHARMA",
-      "trend7d": 0.27,
-      "discord_members": 75,
-      "facebook_members": 38,
-      "market_cap": 73776625.0,
-      "owner_count": 1433,
-      "detail_url": "https://allaaktier.se/bolag/pila-pharma"
     },
     {
       "ticker": "B-TREASURY-CAPITAL",
@@ -453,14 +453,14 @@
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
-      "ticker": "INFANT-BACTERIAL-THERAPEUTICS",
-      "company_name": "Infant Bacterial Therapeutics",
+      "ticker": "INTERNATIONAL-PETROLEUM",
+      "company_name": "International Petroleum",
       "trend7d": 0.18,
-      "discord_members": 302,
-      "facebook_members": null,
-      "market_cap": 975330808.0,
-      "owner_count": 689,
-      "detail_url": "https://allaaktier.se/bolag/infant-bacterial-therapeutics"
+      "discord_members": 308,
+      "facebook_members": 89,
+      "market_cap": 28758701228.0,
+      "owner_count": 2634,
+      "detail_url": "https://allaaktier.se/bolag/international-petroleum"
     },
     {
       "ticker": "XBRANE-BIOPHARMA",
@@ -536,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 67,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 70,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
