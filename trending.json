@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:25:25.291952+00:00",
+  "generated_at": "2026-10-11T20:00:27.960297+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
     },
     {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 1.35,
+      "discord_members": 492,
+      "facebook_members": null,
+      "market_cap": 23569472940.0,
+      "owner_count": 4202,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
       "ticker": "SLEEP-CYCLE",
       "company_name": "Sleep Cycle",
       "trend7d": 1.28,
@@ -133,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/sleep-cycle"
     },
     {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 1.28,
-      "discord_members": 491,
-      "facebook_members": null,
-      "market_cap": 23569472940.0,
-      "owner_count": 4202,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 1.24,
@@ -151,6 +151,16 @@
       "market_cap": 23463034322.0,
       "owner_count": 4270,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 1.24,
+      "discord_members": 972,
+      "facebook_members": 289,
+      "market_cap": 2534800581.0,
+      "owner_count": 2140,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "NICOCCINO",
@@ -223,16 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/nanexa"
     },
     {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 0.87,
-      "discord_members": 407,
-      "facebook_members": null,
-      "market_cap": 151262778.0,
-      "owner_count": 639,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 0.82,
@@ -261,6 +261,16 @@
       "market_cap": 2357526036.0,
       "owner_count": 1665,
       "detail_url": "https://allaaktier.se/bolag/dustin"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 0.79,
+      "discord_members": 406,
+      "facebook_members": null,
+      "market_cap": 151262778.0,
+      "owner_count": 639,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "FLEXQUBE",
@@ -333,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/senzime"
     },
     {
+      "ticker": "SHT-SMART-HIGH-TECH",
+      "company_name": "SHT Smart High-Tech",
+      "trend7d": 0.44,
+      "discord_members": 1388,
+      "facebook_members": 128,
+      "market_cap": 1208465866.0,
+      "owner_count": 1185,
+      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
+    },
+    {
       "ticker": "CINCLUS-PHARMA",
       "company_name": "Cinclus Pharma",
       "trend7d": 0.43,
@@ -343,16 +363,6 @@
       "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
     },
     {
-      "ticker": "SHT-SMART-HIGH-TECH",
-      "company_name": "SHT Smart High-Tech",
-      "trend7d": 0.42,
-      "discord_members": 1387,
-      "facebook_members": 128,
-      "market_cap": 1208465866.0,
-      "owner_count": 1185,
-      "detail_url": "https://allaaktier.se/bolag/sht-smart-high-tech"
-    },
-    {
       "ticker": "YUBICO",
       "company_name": "Yubico",
       "trend7d": 0.41,
@@ -361,6 +371,16 @@
       "market_cap": 10504670829.0,
       "owner_count": 2806,
       "detail_url": "https://allaaktier.se/bolag/yubico"
+    },
+    {
+      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
+      "company_name": "Cibus Nordic Real Estate",
+      "trend7d": 0.41,
+      "discord_members": 680,
+      "facebook_members": 161,
+      "market_cap": 9731300635.0,
+      "owner_count": 14411,
+      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
     },
     {
       "ticker": "NANOECHO",
@@ -381,16 +401,6 @@
       "market_cap": 7940857141.0,
       "owner_count": 3968,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
-      "company_name": "Cibus Nordic Real Estate",
-      "trend7d": 0.36,
-      "discord_members": 679,
-      "facebook_members": 161,
-      "market_cap": 9731300635.0,
-      "owner_count": 14411,
-      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
     },
     {
       "ticker": "FREJA-EID",
@@ -441,16 +451,6 @@
       "market_cap": 325867017784.0,
       "owner_count": 56742,
       "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.2,
-      "discord_members": 943,
-      "facebook_members": 289,
-      "market_cap": 2534800581.0,
-      "owner_count": 2140,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "INTERNATIONAL-PETROLEUM",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 68,
+    "total_posts_fetched": 71,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
