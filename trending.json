@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:47:25.715597+00:00",
+  "generated_at": "2026-10-14T20:30:07.895451+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -45,8 +45,8 @@
     {
       "ticker": "XOMA",
       "company_name": "Xoma",
-      "trend7d": 5.56,
-      "discord_members": 864,
+      "trend7d": 5.6,
+      "discord_members": 865,
       "facebook_members": null,
       "market_cap": 97864732.0,
       "owner_count": 1004,
@@ -65,8 +65,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 4.02,
-      "discord_members": 1035,
+      "trend7d": 4.12,
+      "discord_members": 1038,
       "facebook_members": 289,
       "market_cap": 2481288124.0,
       "owner_count": 2166,
@@ -115,8 +115,8 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 2.33,
-      "discord_members": 824,
+      "trend7d": 2.41,
+      "discord_members": 826,
       "facebook_members": 435,
       "market_cap": 4657963461.0,
       "owner_count": 1555,
@@ -135,8 +135,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 1.67,
-      "discord_members": 1496,
+      "trend7d": 1.69,
+      "discord_members": 1497,
       "facebook_members": null,
       "market_cap": 1134785402.0,
       "owner_count": 778,
@@ -145,8 +145,8 @@
     {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
       "company_name": "Cibus Nordic Real Estate",
-      "trend7d": 1.67,
-      "discord_members": 680,
+      "trend7d": 1.57,
+      "discord_members": 678,
       "facebook_members": 161,
       "market_cap": 10379780390.0,
       "owner_count": 14748,
@@ -195,8 +195,8 @@
     {
       "ticker": "ONCOZENGE",
       "company_name": "OncoZenge",
-      "trend7d": 1.2,
-      "discord_members": 733,
+      "trend7d": 1.15,
+      "discord_members": 732,
       "facebook_members": null,
       "market_cap": 100468528.0,
       "owner_count": 523,
@@ -205,18 +205,18 @@
     {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
-      "trend7d": 1.12,
+      "trend7d": 1.11,
       "discord_members": 57,
       "facebook_members": null,
       "market_cap": 24182419809.0,
-      "owner_count": 4292,
+      "owner_count": 4291,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.02,
-      "discord_members": 1232,
+      "trend7d": 1.05,
+      "discord_members": 1233,
       "facebook_members": 3706,
       "market_cap": 7598611966.0,
       "owner_count": 4025,
@@ -353,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/alligator-bioscience"
     },
     {
-      "ticker": "ABCELLERA-BIOLOGICS-INC",
-      "company_name": "Abcellera Biologics Inc",
-      "trend7d": 0.38,
-      "discord_members": 411,
-      "facebook_members": null,
-      "market_cap": 38548061674.98,
-      "owner_count": 1223,
-      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
-    },
-    {
       "ticker": "PRECISE-BIOMETRICS",
       "company_name": "Precise Biometrics",
       "trend7d": 0.33,
@@ -371,6 +361,16 @@
       "market_cap": 127895311.0,
       "owner_count": 4201,
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
+    },
+    {
+      "ticker": "ABCELLERA-BIOLOGICS-INC",
+      "company_name": "Abcellera Biologics Inc",
+      "trend7d": 0.3,
+      "discord_members": 410,
+      "facebook_members": null,
+      "market_cap": 38548061674.98,
+      "owner_count": 1223,
+      "detail_url": "https://allaaktier.se/bolag/abcellera-biologics-inc"
     },
     {
       "ticker": "HILBERT-GROUP",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 48,
+    "total_posts_fetched": 57,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
