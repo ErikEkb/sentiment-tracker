@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:09:27.764961+00:00",
+  "generated_at": "2026-10-16T17:13:14.617801+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -25,8 +25,8 @@
     {
       "ticker": "HACKSAW",
       "company_name": "Hacksaw",
-      "trend7d": 6.4,
-      "discord_members": 533,
+      "trend7d": 6.33,
+      "discord_members": 532,
       "facebook_members": null,
       "market_cap": 16657688851.0,
       "owner_count": 4486,
@@ -45,8 +45,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 4.36,
-      "discord_members": 1045,
+      "trend7d": 4.32,
+      "discord_members": 1044,
       "facebook_members": 289,
       "market_cap": 2537617026.0,
       "owner_count": 2174,
@@ -195,12 +195,22 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 1.21,
-      "discord_members": 828,
+      "trend7d": 1.25,
+      "discord_members": 829,
       "facebook_members": 435,
       "market_cap": 4623605459.0,
       "owner_count": 1562,
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
+      "ticker": "BIOARCTIC",
+      "company_name": "BioArctic",
+      "trend7d": 1.23,
+      "discord_members": 743,
+      "facebook_members": 592,
+      "market_cap": 25913448020.0,
+      "owner_count": 3660,
+      "detail_url": "https://allaaktier.se/bolag/bioarctic"
     },
     {
       "ticker": "YUBICO",
@@ -211,16 +221,6 @@
       "market_cap": 10673242405.0,
       "owner_count": 2878,
       "detail_url": "https://allaaktier.se/bolag/yubico"
-    },
-    {
-      "ticker": "BIOARCTIC",
-      "company_name": "BioArctic",
-      "trend7d": 1.09,
-      "discord_members": 741,
-      "facebook_members": 592,
-      "market_cap": 25913448020.0,
-      "owner_count": 3660,
-      "detail_url": "https://allaaktier.se/bolag/bioarctic"
     },
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
@@ -241,6 +241,16 @@
       "market_cap": 203324933.0,
       "owner_count": 255,
       "detail_url": "https://allaaktier.se/bolag/scibase"
+    },
+    {
+      "ticker": "TOUCHTECH",
+      "company_name": "Touchtech",
+      "trend7d": 0.92,
+      "discord_members": 193,
+      "facebook_members": null,
+      "market_cap": 43011088.0,
+      "owner_count": 144,
+      "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
     {
       "ticker": "SPRINT-BIOSCIENCE",
@@ -275,22 +285,12 @@
     {
       "ticker": "SOUND-DIMENSION",
       "company_name": "Sound Dimension",
-      "trend7d": 0.77,
-      "discord_members": 796,
+      "trend7d": 0.72,
+      "discord_members": 795,
       "facebook_members": null,
       "market_cap": 95660999.0,
       "owner_count": 469,
       "detail_url": "https://allaaktier.se/bolag/sound-dimension"
-    },
-    {
-      "ticker": "TOUCHTECH",
-      "company_name": "Touchtech",
-      "trend7d": 0.75,
-      "discord_members": 192,
-      "facebook_members": null,
-      "market_cap": 43011088.0,
-      "owner_count": 144,
-      "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
     {
       "ticker": "PRECISE-BIOMETRICS",
@@ -473,6 +473,16 @@
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
+      "ticker": "AFRICA-OIL",
+      "company_name": "Africa Oil",
+      "trend7d": 0.17,
+      "discord_members": 1238,
+      "facebook_members": 1945,
+      "market_cap": 9924195013.0,
+      "owner_count": 3741,
+      "detail_url": "https://allaaktier.se/bolag/africa-oil"
+    },
+    {
       "ticker": "ENERSIZE",
       "company_name": "Enersize",
       "trend7d": 0.16,
@@ -501,16 +511,6 @@
       "market_cap": 116018888.0,
       "owner_count": 783,
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
-    },
-    {
-      "ticker": "REDSENSE-MEDICAL",
-      "company_name": "Redsense Medical",
-      "trend7d": 0.14,
-      "discord_members": 116,
-      "facebook_members": 300,
-      "market_cap": 51801407.0,
-      "owner_count": 232,
-      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     }
   ],
   "twitter_mentions": 0,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
