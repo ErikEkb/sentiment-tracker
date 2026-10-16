@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:13:14.617801+00:00",
+  "generated_at": "2026-10-16T20:40:25.328815+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -183,6 +183,16 @@
       "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 1.38,
+      "discord_members": 832,
+      "facebook_members": 435,
+      "market_cap": 4623605459.0,
+      "owner_count": 1562,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "TESSIN-NORDIC",
       "company_name": "Tessin Nordic",
       "trend7d": 1.33,
@@ -191,16 +201,6 @@
       "market_cap": 7336120.0,
       "owner_count": 521,
       "detail_url": "https://allaaktier.se/bolag/tessin-nordic"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 1.25,
-      "discord_members": 829,
-      "facebook_members": 435,
-      "market_cap": 4623605459.0,
-      "owner_count": 1562,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "BIOARCTIC",
@@ -225,8 +225,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.09,
-      "discord_members": 1234,
+      "trend7d": 1.12,
+      "discord_members": 1235,
       "facebook_members": 3706,
       "market_cap": 7121775993.0,
       "owner_count": 4052,
@@ -323,6 +323,16 @@
       "detail_url": "https://allaaktier.se/bolag/realfiction"
     },
     {
+      "ticker": "ELICERA-THERAPEUTICS",
+      "company_name": "Elicera Therapeutics",
+      "trend7d": 0.47,
+      "discord_members": 1033,
+      "facebook_members": 129,
+      "market_cap": 198207040.0,
+      "owner_count": 1200,
+      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
+    },
+    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.45,
@@ -331,26 +341,6 @@
       "market_cap": 944597835104.0,
       "owner_count": 16925,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
-    },
-    {
-      "ticker": "ELICERA-THERAPEUTICS",
-      "company_name": "Elicera Therapeutics",
-      "trend7d": 0.44,
-      "discord_members": 1032,
-      "facebook_members": 129,
-      "market_cap": 198207040.0,
-      "owner_count": 1200,
-      "detail_url": "https://allaaktier.se/bolag/elicera-therapeutics"
-    },
-    {
-      "ticker": "KINNEVIK",
-      "company_name": "Kinnevik",
-      "trend7d": 0.33,
-      "discord_members": 155,
-      "facebook_members": null,
-      "market_cap": 18404248155.0,
-      "owner_count": 13940,
-      "detail_url": "https://allaaktier.se/bolag/kinnevik"
     },
     {
       "ticker": "VEF",
@@ -475,8 +465,8 @@
     {
       "ticker": "AFRICA-OIL",
       "company_name": "Africa Oil",
-      "trend7d": 0.17,
-      "discord_members": 1238,
+      "trend7d": 0.19,
+      "discord_members": 1239,
       "facebook_members": 1945,
       "market_cap": 9924195013.0,
       "owner_count": 3741,
@@ -511,6 +501,16 @@
       "market_cap": 116018888.0,
       "owner_count": 783,
       "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
+    },
+    {
+      "ticker": "REDSENSE-MEDICAL",
+      "company_name": "Redsense Medical",
+      "trend7d": 0.14,
+      "discord_members": 116,
+      "facebook_members": 300,
+      "market_cap": 51801407.0,
+      "owner_count": 232,
+      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
     }
   ],
   "twitter_mentions": 0,
@@ -535,7 +535,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 58,
+    "total_posts_fetched": 61,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
