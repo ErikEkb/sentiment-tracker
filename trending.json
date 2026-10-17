@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:05:06.496789+00:00",
+  "generated_at": "2026-10-17T22:01:10.510379+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
       "company_name": "AI Revenue Assistant Software",
-      "trend7d": 6.65,
-      "discord_members": 153,
+      "trend7d": 6.89,
+      "discord_members": 154,
       "facebook_members": null,
       "market_cap": 107428832.0,
       "owner_count": 278,
@@ -85,8 +85,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 2.45,
-      "discord_members": 1045,
+      "trend7d": 2.42,
+      "discord_members": 1044,
       "facebook_members": 289,
       "market_cap": 2481288124.0,
       "owner_count": 2174,
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
+      "ticker": "PHYSITRACK",
+      "company_name": "Physitrack",
+      "trend7d": 1.88,
+      "discord_members": 337,
+      "facebook_members": null,
+      "market_cap": 178868426.0,
+      "owner_count": 339,
+      "detail_url": "https://allaaktier.se/bolag/physitrack"
+    },
+    {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
       "company_name": "Cibus Nordic Real Estate",
       "trend7d": 1.82,
@@ -131,16 +141,6 @@
       "market_cap": 10424927715.0,
       "owner_count": 14834,
       "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
-    },
-    {
-      "ticker": "PHYSITRACK",
-      "company_name": "Physitrack",
-      "trend7d": 1.78,
-      "discord_members": 336,
-      "facebook_members": null,
-      "market_cap": 178868426.0,
-      "owner_count": 339,
-      "detail_url": "https://allaaktier.se/bolag/physitrack"
     },
     {
       "ticker": "NEOVICI",
@@ -453,16 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
-      "ticker": "AFRICA-OIL",
-      "company_name": "Africa Oil",
-      "trend7d": 0.23,
-      "discord_members": 1241,
-      "facebook_members": 1945,
-      "market_cap": 10005208850.0,
-      "owner_count": 3741,
-      "detail_url": "https://allaaktier.se/bolag/africa-oil"
-    },
-    {
       "ticker": "BOTNIA-GOLD",
       "company_name": "Botnia Gold",
       "trend7d": 0.21,
@@ -471,6 +461,16 @@
       "market_cap": 416211286.0,
       "owner_count": 858,
       "detail_url": "https://allaaktier.se/bolag/botnia-gold"
+    },
+    {
+      "ticker": "AFRICA-OIL",
+      "company_name": "Africa Oil",
+      "trend7d": 0.2,
+      "discord_members": 1240,
+      "facebook_members": 1945,
+      "market_cap": 10005208850.0,
+      "owner_count": 3741,
+      "detail_url": "https://allaaktier.se/bolag/africa-oil"
     },
     {
       "ticker": "ENERSIZE",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/odinwell"
     },
     {
-      "ticker": "REDSENSE-MEDICAL",
-      "company_name": "Redsense Medical",
-      "trend7d": 0.14,
-      "discord_members": 116,
-      "facebook_members": 300,
-      "market_cap": 56734874.0,
-      "owner_count": 232,
-      "detail_url": "https://allaaktier.se/bolag/redsense-medical"
+      "ticker": "NEXAM-CHEMICAL",
+      "company_name": "Nexam Chemical",
+      "trend7d": 0.12,
+      "discord_members": 167,
+      "facebook_members": null,
+      "market_cap": 228936465.0,
+      "owner_count": 660,
+      "detail_url": "https://allaaktier.se/bolag/nexam-chemical"
     }
   ],
   "twitter_mentions": 0,
@@ -518,24 +518,25 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "SOFI",
-      "company_name": "SoFi Technologies Inc.",
-      "sector": "Financials",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
+      "ticker": "ACAD",
+      "company_name": "AcadeMedia",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.667,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
       "trending_score": 2.0,
       "sample_posts": [
-        "https://www.flashback.org/sp96182678",
-        "https://www.flashback.org/sp96187492"
+        "https://www.flashback.org/sp96193346",
+        "https://www.flashback.org/sp96193370",
+        "https://www.flashback.org/sp96193612"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 54,
+    "total_posts_fetched": 53,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
