@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:34:00.451345+00:00",
+  "generated_at": "2026-10-17T08:21:07.931992+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -53,16 +53,6 @@
       "detail_url": "https://allaaktier.se/bolag/xoma"
     },
     {
-      "ticker": "ENAD-GLOBAL-7",
-      "company_name": "Enad Global 7",
-      "trend7d": 3.91,
-      "discord_members": 582,
-      "facebook_members": null,
-      "market_cap": 1337913243.0,
-      "owner_count": 738,
-      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
-    },
-    {
       "ticker": "ENORAMA-PHARMA",
       "company_name": "Enorama Pharma",
       "trend7d": 3.89,
@@ -71,6 +61,16 @@
       "market_cap": 89506418.0,
       "owner_count": 189,
       "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
+    },
+    {
+      "ticker": "ENAD-GLOBAL-7",
+      "company_name": "Enad Global 7",
+      "trend7d": 3.85,
+      "discord_members": 581,
+      "facebook_members": null,
+      "market_cap": 1337913243.0,
+      "owner_count": 738,
+      "detail_url": "https://allaaktier.se/bolag/enad-global-7"
     },
     {
       "ticker": "FLERIE",
@@ -185,8 +185,8 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 1.38,
-      "discord_members": 832,
+      "trend7d": 1.42,
+      "discord_members": 833,
       "facebook_members": 435,
       "market_cap": 4535256310.0,
       "owner_count": 1562,
@@ -303,6 +303,16 @@
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     },
     {
+      "ticker": "NOTE",
+      "company_name": "NOTE",
+      "trend7d": 0.65,
+      "discord_members": 41,
+      "facebook_members": null,
+      "market_cap": 5170151460.0,
+      "owner_count": 2631,
+      "detail_url": "https://allaaktier.se/bolag/note"
+    },
+    {
       "ticker": "GASPOROX",
       "company_name": "Gasporox",
       "trend7d": 0.53,
@@ -341,6 +351,16 @@
       "market_cap": 954864827302.0,
       "owner_count": 16925,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
+    },
+    {
+      "ticker": "KINNEVIK",
+      "company_name": "Kinnevik",
+      "trend7d": 0.33,
+      "discord_members": 155,
+      "facebook_members": null,
+      "market_cap": 18233069516.0,
+      "owner_count": 13940,
+      "detail_url": "https://allaaktier.se/bolag/kinnevik"
     },
     {
       "ticker": "VEF",
@@ -383,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
     },
     {
+      "ticker": "ALZINOVA",
+      "company_name": "Alzinova",
+      "trend7d": 0.29,
+      "discord_members": 640,
+      "facebook_members": null,
+      "market_cap": 130836143.0,
+      "owner_count": 929,
+      "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
       "ticker": "ABERA-BIOSCIENCE",
       "company_name": "Abera Bioscience",
       "trend7d": 0.25,
@@ -391,16 +421,6 @@
       "market_cap": 150629081.0,
       "owner_count": 200,
       "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
-    },
-    {
-      "ticker": "ALZINOVA",
-      "company_name": "Alzinova",
-      "trend7d": 0.24,
-      "discord_members": 639,
-      "facebook_members": null,
-      "market_cap": 130836143.0,
-      "owner_count": 929,
-      "detail_url": "https://allaaktier.se/bolag/alzinova"
     },
     {
       "ticker": "UNIBAP",
@@ -463,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/umida"
     },
     {
-      "ticker": "CYCLEZYME",
-      "company_name": "Cyclezyme",
-      "trend7d": 0.19,
-      "discord_members": 234,
-      "facebook_members": null,
-      "market_cap": 68489453.0,
-      "owner_count": 163,
-      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
-    },
-    {
       "ticker": "ODINWELL",
       "company_name": "Odinwell",
       "trend7d": 0.19,
@@ -501,16 +511,6 @@
       "market_cap": 11920068435.0,
       "owner_count": 7592,
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
-    },
-    {
-      "ticker": "LOHILO-FOODS",
-      "company_name": "Lohilo Foods",
-      "trend7d": 0.14,
-      "discord_members": 30,
-      "facebook_members": 222,
-      "market_cap": 114888834.0,
-      "owner_count": 783,
-      "detail_url": "https://allaaktier.se/bolag/lohilo-foods"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
+    "total_posts_fetched": 67,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
