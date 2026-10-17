@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:45:44.402344+00:00",
+  "generated_at": "2026-10-17T16:11:32.433682+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -85,8 +85,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 2.45,
-      "discord_members": 1045,
+      "trend7d": 2.49,
+      "discord_members": 1046,
       "facebook_members": 289,
       "market_cap": 2481288124.0,
       "owner_count": 2174,
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 1.66,
+      "discord_members": 836,
+      "facebook_members": 435,
+      "market_cap": 4535256310.0,
+      "owner_count": 1562,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "ONCOPEPTIDES",
       "company_name": "Oncopeptides",
       "trend7d": 1.66,
@@ -171,16 +181,6 @@
       "market_cap": 791275004.0,
       "owner_count": 3177,
       "detail_url": "https://allaaktier.se/bolag/oncopeptides"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 1.54,
-      "discord_members": 833,
-      "facebook_members": 435,
-      "market_cap": 4535256310.0,
-      "owner_count": 1562,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "BEAMMWAVE",
@@ -225,8 +225,8 @@
     {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
-      "trend7d": 1.15,
-      "discord_members": 1235,
+      "trend7d": 1.13,
+      "discord_members": 1234,
       "facebook_members": 3706,
       "market_cap": 7129466896.0,
       "owner_count": 4052,
@@ -345,8 +345,8 @@
     {
       "ticker": "ELICERA-THERAPEUTICS",
       "company_name": "Elicera Therapeutics",
-      "trend7d": 0.44,
-      "discord_members": 1033,
+      "trend7d": 0.4,
+      "discord_members": 1032,
       "facebook_members": 129,
       "market_cap": 193201811.0,
       "owner_count": 1200,
@@ -473,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/botnia-gold"
     },
     {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.19,
-      "discord_members": 828,
-      "facebook_members": null,
-      "market_cap": 8959793906.0,
-      "owner_count": 7499,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
       "ticker": "ENERSIZE",
       "company_name": "Enersize",
       "trend7d": 0.16,
@@ -501,6 +491,16 @@
       "market_cap": 22245883.0,
       "owner_count": 246,
       "detail_url": "https://allaaktier.se/bolag/umida"
+    },
+    {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 0.15,
+      "discord_members": 827,
+      "facebook_members": null,
+      "market_cap": 8959793906.0,
+      "owner_count": 7499,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
       "ticker": "ODINWELL",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 52,
+    "total_posts_fetched": 56,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
