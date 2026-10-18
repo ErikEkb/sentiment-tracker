@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:36:07.725929+00:00",
+  "generated_at": "2026-10-18T14:21:00.438486+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -93,6 +93,16 @@
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 2.26,
+      "discord_members": 59,
+      "facebook_members": null,
+      "market_cap": 24163974027.0,
+      "owner_count": 4324,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 2.06,
@@ -111,16 +121,6 @@
       "market_cap": 10424927715.0,
       "owner_count": 14834,
       "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
-    },
-    {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 1.68,
-      "discord_members": 58,
-      "facebook_members": null,
-      "market_cap": 24163974027.0,
-      "owner_count": 4324,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "ONCOPEPTIDES",
@@ -155,8 +155,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 1.21,
-      "discord_members": 1044,
+      "trend7d": 1.24,
+      "discord_members": 1045,
       "facebook_members": 289,
       "market_cap": 2481288124.0,
       "owner_count": 2174,
@@ -171,6 +171,16 @@
       "market_cap": 25505222469.0,
       "owner_count": 3660,
       "detail_url": "https://allaaktier.se/bolag/bioarctic"
+    },
+    {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 1.12,
+      "discord_members": 841,
+      "facebook_members": 435,
+      "market_cap": 4535256310.0,
+      "owner_count": 1562,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "SCIBASE",
@@ -213,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.96,
-      "discord_members": 837,
-      "facebook_members": 435,
-      "market_cap": 4535256310.0,
-      "owner_count": 1562,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
       "ticker": "TOUCHTECH",
       "company_name": "Touchtech",
       "trend7d": 0.92,
@@ -253,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/acucort"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.83,
+      "discord_members": 1501,
+      "facebook_members": null,
+      "market_cap": 1121434986.0,
+      "owner_count": 780,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 0.83,
@@ -261,16 +271,6 @@
       "market_cap": 7129466896.0,
       "owner_count": 4052,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.8,
-      "discord_members": 1500,
-      "facebook_members": null,
-      "market_cap": 1121434986.0,
-      "owner_count": 780,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "PRECISE-BIOMETRICS",
@@ -363,6 +363,16 @@
       "detail_url": "https://allaaktier.se/bolag/b-treasury-capital"
     },
     {
+      "ticker": "AFRICA-OIL",
+      "company_name": "Africa Oil",
+      "trend7d": 0.3,
+      "discord_members": 1242,
+      "facebook_members": 1945,
+      "market_cap": 10005208850.0,
+      "owner_count": 3741,
+      "detail_url": "https://allaaktier.se/bolag/africa-oil"
+    },
+    {
       "ticker": "VEF",
       "company_name": "VEF",
       "trend7d": 0.29,
@@ -401,16 +411,6 @@
       "market_cap": 21251340.0,
       "owner_count": 222,
       "detail_url": "https://allaaktier.se/bolag/vibrosense-dynamics"
-    },
-    {
-      "ticker": "AFRICA-OIL",
-      "company_name": "Africa Oil",
-      "trend7d": 0.27,
-      "discord_members": 1241,
-      "facebook_members": 1945,
-      "market_cap": 10005208850.0,
-      "owner_count": 3741,
-      "detail_url": "https://allaaktier.se/bolag/africa-oil"
     },
     {
       "ticker": "LANE-CAPITAL",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 58,
+    "total_posts_fetched": 59,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
