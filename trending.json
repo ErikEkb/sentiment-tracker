@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:17:48.196662+00:00",
+  "generated_at": "2026-10-18T22:51:55.321302+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -143,24 +143,24 @@
       "detail_url": "https://allaaktier.se/bolag/ecomb"
     },
     {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 1.4,
-      "discord_members": 848,
-      "facebook_members": 435,
-      "market_cap": 4535256310.0,
-      "owner_count": 1562,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
       "ticker": "NYAB",
       "company_name": "NYAB",
-      "trend7d": 1.39,
-      "discord_members": 210,
+      "trend7d": 1.55,
+      "discord_members": 211,
       "facebook_members": null,
       "market_cap": 5639774693.0,
       "owner_count": 1948,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 1.49,
+      "discord_members": 850,
+      "facebook_members": 435,
+      "market_cap": 4535256310.0,
+      "owner_count": 1562,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "VICORE-PHARMA",
@@ -533,11 +533,28 @@
         "https://www.flashback.org/sp96193370",
         "https://www.flashback.org/sp96193612"
       ]
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla Inc.",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.25,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp96202958",
+        "https://www.flashback.org/sp96203050",
+        "https://www.flashback.org/sp96203242"
+      ]
     }
   ],
   "stats": {
     "total_posts_fetched": 61,
-    "tickers_with_any_mentions": 1,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
