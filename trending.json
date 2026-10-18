@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:31:35.954261+00:00",
+  "generated_at": "2026-10-18T10:36:07.725929+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -123,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
+      "ticker": "ONCOPEPTIDES",
+      "company_name": "Oncopeptides",
+      "trend7d": 1.59,
+      "discord_members": 676,
+      "facebook_members": 504,
+      "market_cap": 791275004.0,
+      "owner_count": 3177,
+      "detail_url": "https://allaaktier.se/bolag/oncopeptides"
+    },
+    {
       "ticker": "ECOMB",
       "company_name": "ECOMB",
       "trend7d": 1.55,
@@ -131,16 +141,6 @@
       "market_cap": 8432484.0,
       "owner_count": 316,
       "detail_url": "https://allaaktier.se/bolag/ecomb"
-    },
-    {
-      "ticker": "ONCOPEPTIDES",
-      "company_name": "Oncopeptides",
-      "trend7d": 1.54,
-      "discord_members": 675,
-      "facebook_members": 504,
-      "market_cap": 791275004.0,
-      "owner_count": 3177,
-      "detail_url": "https://allaaktier.se/bolag/oncopeptides"
     },
     {
       "ticker": "NYAB",
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.96,
+      "discord_members": 837,
+      "facebook_members": 435,
+      "market_cap": 4535256310.0,
+      "owner_count": 1562,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "TOUCHTECH",
       "company_name": "Touchtech",
       "trend7d": 0.92,
@@ -221,16 +231,6 @@
       "market_cap": 47888634.0,
       "owner_count": 144,
       "detail_url": "https://allaaktier.se/bolag/touchtech"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.92,
-      "discord_members": 836,
-      "facebook_members": 435,
-      "market_cap": 4535256310.0,
-      "owner_count": 1562,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "SPRINT-BIOSCIENCE",
@@ -403,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/vibrosense-dynamics"
     },
     {
+      "ticker": "AFRICA-OIL",
+      "company_name": "Africa Oil",
+      "trend7d": 0.27,
+      "discord_members": 1241,
+      "facebook_members": 1945,
+      "market_cap": 10005208850.0,
+      "owner_count": 3741,
+      "detail_url": "https://allaaktier.se/bolag/africa-oil"
+    },
+    {
       "ticker": "LANE-CAPITAL",
       "company_name": "Lane Capital",
       "trend7d": 0.26,
@@ -421,16 +431,6 @@
       "market_cap": 416211286.0,
       "owner_count": 858,
       "detail_url": "https://allaaktier.se/bolag/botnia-gold"
-    },
-    {
-      "ticker": "AFRICA-OIL",
-      "company_name": "Africa Oil",
-      "trend7d": 0.25,
-      "discord_members": 1240,
-      "facebook_members": 1945,
-      "market_cap": 10005208850.0,
-      "owner_count": 3741,
-      "detail_url": "https://allaaktier.se/bolag/africa-oil"
     },
     {
       "ticker": "MILDEF-GROUP",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 58,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
