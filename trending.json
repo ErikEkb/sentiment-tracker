@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:32:53.951626+00:00",
+  "generated_at": "2026-10-19T19:07:54.032934+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -53,6 +53,16 @@
       "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 2.35,
+      "discord_members": 872,
+      "facebook_members": 435,
+      "market_cap": 4471448592.0,
+      "owner_count": 1570,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 2.32,
@@ -61,16 +71,6 @@
       "market_cap": 23878064411.0,
       "owner_count": 4350,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 2.19,
-      "discord_members": 868,
-      "facebook_members": 435,
-      "market_cap": 4471448592.0,
-      "owner_count": 1570,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -85,8 +85,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.43,
-      "discord_members": 681,
+      "trend7d": 2.08,
+      "discord_members": 694,
       "facebook_members": 363,
       "market_cap": 292665061.0,
       "owner_count": 547,
@@ -101,6 +101,16 @@
       "market_cap": 773908811.0,
       "owner_count": 3177,
       "detail_url": "https://allaaktier.se/bolag/oncopeptides"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 1.3,
+      "discord_members": 533,
+      "facebook_members": null,
+      "market_cap": 16079296877.0,
+      "owner_count": 4487,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "ECOMB",
@@ -133,16 +143,6 @@
       "detail_url": "https://allaaktier.se/bolag/bioarctic"
     },
     {
-      "ticker": "HACKSAW",
-      "company_name": "Hacksaw",
-      "trend7d": 1.23,
-      "discord_members": 532,
-      "facebook_members": null,
-      "market_cap": 16079296877.0,
-      "owner_count": 4487,
-      "detail_url": "https://allaaktier.se/bolag/hacksaw"
-    },
-    {
       "ticker": "PHYSITRACK",
       "company_name": "Physitrack",
       "trend7d": 1.0,
@@ -161,6 +161,16 @@
       "market_cap": 5582735253.0,
       "owner_count": 1962,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "XOMA",
+      "company_name": "Xoma",
+      "trend7d": 0.93,
+      "discord_members": 876,
+      "facebook_members": null,
+      "market_cap": 91683801.0,
+      "owner_count": 998,
+      "detail_url": "https://allaaktier.se/bolag/xoma"
     },
     {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
@@ -183,6 +193,16 @@
       "detail_url": "https://allaaktier.se/bolag/vibrosense-dynamics"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.87,
+      "discord_members": 1047,
+      "facebook_members": 289,
+      "market_cap": 2484104569.0,
+      "owner_count": 2181,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "NEOVICI",
       "company_name": "Neovici",
       "trend7d": 0.86,
@@ -191,26 +211,6 @@
       "market_cap": 81022834.0,
       "owner_count": 712,
       "detail_url": "https://allaaktier.se/bolag/neovici"
-    },
-    {
-      "ticker": "XOMA",
-      "company_name": "Xoma",
-      "trend7d": 0.85,
-      "discord_members": 874,
-      "facebook_members": null,
-      "market_cap": 91683801.0,
-      "owner_count": 998,
-      "detail_url": "https://allaaktier.se/bolag/xoma"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.83,
-      "discord_members": 1046,
-      "facebook_members": 289,
-      "market_cap": 2484104569.0,
-      "owner_count": 2181,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "PRECISE-BIOMETRICS",
@@ -273,16 +273,6 @@
       "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
     {
-      "ticker": "SPRINT-BIOSCIENCE",
-      "company_name": "Sprint Bioscience",
-      "trend7d": 0.68,
-      "discord_members": 697,
-      "facebook_members": 396,
-      "market_cap": 366138917.0,
-      "owner_count": 771,
-      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
-    },
-    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 0.63,
@@ -291,6 +281,16 @@
       "market_cap": 1327280819.0,
       "owner_count": 741,
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
+      "ticker": "SPRINT-BIOSCIENCE",
+      "company_name": "Sprint Bioscience",
+      "trend7d": 0.63,
+      "discord_members": 696,
+      "facebook_members": 396,
+      "market_cap": 366138917.0,
+      "owner_count": 771,
+      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
       "ticker": "ECORUB",
@@ -403,16 +403,6 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.34,
-      "discord_members": 1501,
-      "facebook_members": null,
-      "market_cap": 1113424736.0,
-      "owner_count": 780,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
-    },
-    {
       "ticker": "VEF",
       "company_name": "VEF",
       "trend7d": 0.34,
@@ -421,6 +411,16 @@
       "market_cap": 2130875595.0,
       "owner_count": 1925,
       "detail_url": "https://allaaktier.se/bolag/vef"
+    },
+    {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.32,
+      "discord_members": 1500,
+      "facebook_members": null,
+      "market_cap": 1113424736.0,
+      "owner_count": 780,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "M-O-B-A-NETWORK",
@@ -493,6 +493,16 @@
       "detail_url": "https://allaaktier.se/bolag/unibap"
     },
     {
+      "ticker": "SHAMARAN-PETROLEUM",
+      "company_name": "ShaMaran Petroleum",
+      "trend7d": 0.15,
+      "discord_members": 1288,
+      "facebook_members": 1980,
+      "market_cap": 5341882979.0,
+      "owner_count": 842,
+      "detail_url": "https://allaaktier.se/bolag/shamaran-petroleum"
+    },
+    {
       "ticker": "ALLIGATOR-BIOSCIENCE",
       "company_name": "Alligator Bioscience",
       "trend7d": 0.14,
@@ -501,39 +511,12 @@
       "market_cap": 45671768.0,
       "owner_count": 1621,
       "detail_url": "https://allaaktier.se/bolag/alligator-bioscience"
-    },
-    {
-      "ticker": "MILDEF-GROUP",
-      "company_name": "Mildef Group",
-      "trend7d": 0.13,
-      "discord_members": 472,
-      "facebook_members": null,
-      "market_cap": 11825838645.0,
-      "owner_count": 7585,
-      "detail_url": "https://allaaktier.se/bolag/mildef-group"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "ACAD",
-      "company_name": "AcadeMedia",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.667,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp96193346",
-        "https://www.flashback.org/sp96193370",
-        "https://www.flashback.org/sp96193612"
-      ]
-    },
     {
       "ticker": "TSLA",
       "company_name": "Tesla Inc.",
@@ -553,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 66,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 57,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
