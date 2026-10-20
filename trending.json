@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:48:27.055419+00:00",
+  "generated_at": "2026-10-20T19:01:50.696510+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 2.89,
-      "discord_members": 709,
+      "trend7d": 2.99,
+      "discord_members": 711,
       "facebook_members": 363,
       "market_cap": 290285670.0,
       "owner_count": 548,
@@ -35,12 +35,22 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 2.59,
-      "discord_members": 877,
+      "trend7d": 2.63,
+      "discord_members": 878,
       "facebook_members": 435,
       "market_cap": 4500898308.0,
       "owner_count": 1580,
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
+      "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
+      "company_name": "AI Revenue Assistant Software",
+      "trend7d": 2.43,
+      "discord_members": 157,
+      "facebook_members": null,
+      "market_cap": 101872169.0,
+      "owner_count": 281,
+      "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -51,16 +61,6 @@
       "market_cap": 23499925886.0,
       "owner_count": 4362,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
-      "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
-      "company_name": "AI Revenue Assistant Software",
-      "trend7d": 2.21,
-      "discord_members": 156,
-      "facebook_members": null,
-      "market_cap": 101872169.0,
-      "owner_count": 281,
-      "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
     },
     {
       "ticker": "FLERIE",
@@ -81,6 +81,16 @@
       "market_cap": 55195625.0,
       "owner_count": 186,
       "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
+    },
+    {
+      "ticker": "NOTE",
+      "company_name": "NOTE",
+      "trend7d": 1.54,
+      "discord_members": 42,
+      "facebook_members": null,
+      "market_cap": 5010279300.0,
+      "owner_count": 2628,
+      "detail_url": "https://allaaktier.se/bolag/note"
     },
     {
       "ticker": "ECOMB",
@@ -145,8 +155,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 0.93,
-      "discord_members": 1050,
+      "trend7d": 0.9,
+      "discord_members": 1049,
       "facebook_members": 289,
       "market_cap": 2495370350.0,
       "owner_count": 2187,
@@ -171,16 +181,6 @@
       "market_cap": 5568475392.0,
       "owner_count": 1975,
       "detail_url": "https://allaaktier.se/bolag/nyab"
-    },
-    {
-      "ticker": "NOTE",
-      "company_name": "NOTE",
-      "trend7d": 0.71,
-      "discord_members": 41,
-      "facebook_members": null,
-      "market_cap": 5010279300.0,
-      "owner_count": 2628,
-      "detail_url": "https://allaaktier.se/bolag/note"
     },
     {
       "ticker": "ECORUB",
@@ -275,8 +275,8 @@
     {
       "ticker": "SHAMARAN-PETROLEUM",
       "company_name": "ShaMaran Petroleum",
-      "trend7d": 0.44,
-      "discord_members": 1297,
+      "trend7d": 0.47,
+      "discord_members": 1298,
       "facebook_members": 1980,
       "market_cap": 5497808212.0,
       "owner_count": 843,
@@ -403,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     },
     {
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.29,
+      "discord_members": 1417,
+      "facebook_members": 1546,
+      "market_cap": 8600206387.0,
+      "owner_count": 5505,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+    },
+    {
       "ticker": "MILDEF-GROUP",
       "company_name": "Mildef Group",
       "trend7d": 0.27,
@@ -413,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.27,
-      "discord_members": 1416,
-      "facebook_members": 1546,
-      "market_cap": 8600206387.0,
-      "owner_count": 5505,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
-    },
-    {
       "ticker": "KLIMATOR",
       "company_name": "Klimator",
       "trend7d": 0.24,
@@ -431,6 +431,16 @@
       "market_cap": 137789140.0,
       "owner_count": 139,
       "detail_url": "https://allaaktier.se/bolag/klimator"
+    },
+    {
+      "ticker": "PARADOX-INTERACTIVE",
+      "company_name": "Paradox Interactive",
+      "trend7d": 0.23,
+      "discord_members": 71,
+      "facebook_members": null,
+      "market_cap": 14301357585.0,
+      "owner_count": 2679,
+      "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
     },
     {
       "ticker": "ABERA-BIOSCIENCE",
@@ -501,16 +511,6 @@
       "market_cap": 445704655.0,
       "owner_count": 516,
       "detail_url": "https://allaaktier.se/bolag/senzime"
-    },
-    {
-      "ticker": "PREBONA",
-      "company_name": "Prebona",
-      "trend7d": 0.17,
-      "discord_members": 37,
-      "facebook_members": null,
-      "market_cap": 20894603.0,
-      "owner_count": 153,
-      "detail_url": "https://allaaktier.se/bolag/prebona"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 59,
+    "total_posts_fetched": 56,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
