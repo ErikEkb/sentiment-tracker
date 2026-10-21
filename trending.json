@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:55:49.385849+00:00",
+  "generated_at": "2026-10-21T19:10:11.954014+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 2.44,
-      "discord_members": 879,
+      "trend7d": 2.53,
+      "discord_members": 881,
       "facebook_members": 435,
       "market_cap": 4515623166.0,
       "owner_count": 1578,
@@ -135,8 +135,8 @@
     {
       "ticker": "SWEDENCARE",
       "company_name": "Swedencare",
-      "trend7d": 0.8,
-      "discord_members": 323,
+      "trend7d": 0.91,
+      "discord_members": 324,
       "facebook_members": null,
       "market_cap": 3046568659.0,
       "owner_count": 1405,
@@ -185,8 +185,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 0.53,
-      "discord_members": 1049,
+      "trend7d": 0.56,
+      "discord_members": 1050,
       "facebook_members": 289,
       "market_cap": 2522126578.0,
       "owner_count": 2190,
@@ -205,8 +205,8 @@
     {
       "ticker": "BEAMMWAVE",
       "company_name": "BeammWave",
-      "trend7d": 0.39,
-      "discord_members": 1500,
+      "trend7d": 0.42,
+      "discord_members": 1501,
       "facebook_members": null,
       "market_cap": 1126775153.0,
       "owner_count": 784,
@@ -223,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/xmreality"
     },
     {
-      "ticker": "AFRICA-OIL",
-      "company_name": "Africa Oil",
-      "trend7d": 0.37,
-      "discord_members": 1244,
-      "facebook_members": 1945,
-      "market_cap": 9991706544.0,
-      "owner_count": 3748,
-      "detail_url": "https://allaaktier.se/bolag/africa-oil"
-    },
-    {
       "ticker": "ENAD-GLOBAL-7",
       "company_name": "Enad Global 7",
       "trend7d": 0.36,
@@ -241,6 +231,16 @@
       "market_cap": 1275890774.0,
       "owner_count": 742,
       "detail_url": "https://allaaktier.se/bolag/enad-global-7"
+    },
+    {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 0.35,
+      "discord_members": 830,
+      "facebook_members": null,
+      "market_cap": 8711617796.0,
+      "owner_count": 7540,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
       "ticker": "CIBUS-NORDIC-REAL-ESTATE",
@@ -273,6 +273,16 @@
       "detail_url": "https://allaaktier.se/bolag/servana"
     },
     {
+      "ticker": "AFRICA-OIL",
+      "company_name": "Africa Oil",
+      "trend7d": 0.34,
+      "discord_members": 1243,
+      "facebook_members": 1945,
+      "market_cap": 9991706544.0,
+      "owner_count": 3748,
+      "detail_url": "https://allaaktier.se/bolag/africa-oil"
+    },
+    {
       "ticker": "TESLA",
       "company_name": "Tesla",
       "trend7d": 0.33,
@@ -283,16 +293,6 @@
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.31,
-      "discord_members": 829,
-      "facebook_members": null,
-      "market_cap": 8711617796.0,
-      "owner_count": 7540,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
       "ticker": "VIBROSENSE-DYNAMICS",
       "company_name": "VibroSense Dynamics",
       "trend7d": 0.3,
@@ -301,6 +301,16 @@
       "market_cap": 17465945.0,
       "owner_count": 222,
       "detail_url": "https://allaaktier.se/bolag/vibrosense-dynamics"
+    },
+    {
+      "ticker": "VAXXA",
+      "company_name": "Vaxxa",
+      "trend7d": 0.29,
+      "discord_members": 118,
+      "facebook_members": null,
+      "market_cap": 11448980.0,
+      "owner_count": 269,
+      "detail_url": "https://allaaktier.se/bolag/vaxxa"
     },
     {
       "ticker": "HEXATRONIC",
@@ -343,10 +353,20 @@
       "detail_url": "https://allaaktier.se/bolag/senzime"
     },
     {
+      "ticker": "MILDEF-GROUP",
+      "company_name": "Mildef Group",
+      "trend7d": 0.23,
+      "discord_members": 473,
+      "facebook_members": null,
+      "market_cap": 11382958632.0,
+      "owner_count": 7588,
+      "detail_url": "https://allaaktier.se/bolag/mildef-group"
+    },
+    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 0.22,
-      "discord_members": 2517,
+      "trend7d": 0.23,
+      "discord_members": 2518,
       "facebook_members": 2874,
       "market_cap": 8561767968.0,
       "owner_count": 5683,
@@ -391,16 +411,6 @@
       "market_cap": 18833288197.0,
       "owner_count": 13938,
       "detail_url": "https://allaaktier.se/bolag/kinnevik"
-    },
-    {
-      "ticker": "MILDEF-GROUP",
-      "company_name": "Mildef Group",
-      "trend7d": 0.16,
-      "discord_members": 472,
-      "facebook_members": null,
-      "market_cap": 11382958632.0,
-      "owner_count": 7588,
-      "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
       "ticker": "BLICK-GLOBAL",
@@ -501,16 +511,6 @@
       "market_cap": 38463684.0,
       "owner_count": 820,
       "detail_url": "https://allaaktier.se/bolag/fluicell"
-    },
-    {
-      "ticker": "ICONOVO",
-      "company_name": "Iconovo",
-      "trend7d": 0.1,
-      "discord_members": 71,
-      "facebook_members": 43,
-      "market_cap": 87516444.0,
-      "owner_count": 258,
-      "detail_url": "https://allaaktier.se/bolag/iconovo"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 66,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
