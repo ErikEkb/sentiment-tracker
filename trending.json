@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T14:43:52.799127+00:00",
+  "generated_at": "2026-10-23T18:55:09.597721+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,8 +55,8 @@
     {
       "ticker": "PHYSITRACK",
       "company_name": "Physitrack",
-      "trend7d": 1.91,
-      "discord_members": 349,
+      "trend7d": 2.01,
+      "discord_members": 350,
       "facebook_members": null,
       "market_cap": 203259575.0,
       "owner_count": 343,
@@ -163,6 +163,16 @@
       "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 0.69,
+      "discord_members": 835,
+      "facebook_members": null,
+      "market_cap": 6611666100.0,
+      "owner_count": 7551,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
+    },
+    {
       "ticker": "SHAMARAN-PETROLEUM",
       "company_name": "ShaMaran Petroleum",
       "trend7d": 0.68,
@@ -193,16 +203,6 @@
       "detail_url": "https://allaaktier.se/bolag/blincvision"
     },
     {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
-      "trend7d": 0.65,
-      "discord_members": 834,
-      "facebook_members": null,
-      "market_cap": 6611666100.0,
-      "owner_count": 7551,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
       "ticker": "PLEJD",
       "company_name": "Plejd",
       "trend7d": 0.63,
@@ -223,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/isofol-medical"
     },
     {
-      "ticker": "MINESTO",
-      "company_name": "Minesto",
-      "trend7d": 0.59,
-      "discord_members": 1378,
-      "facebook_members": 5066,
-      "market_cap": 209129736.0,
-      "owner_count": 2979,
-      "detail_url": "https://allaaktier.se/bolag/minesto"
-    },
-    {
       "ticker": "INHALATION-SCIENCES",
       "company_name": "Inhalation Sciences",
       "trend7d": 0.58,
@@ -245,12 +235,22 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 0.54,
-      "discord_members": 1055,
+      "trend7d": 0.57,
+      "discord_members": 1056,
       "facebook_members": 289,
       "market_cap": 2748850408.0,
       "owner_count": 2187,
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
+      "ticker": "MINESTO",
+      "company_name": "Minesto",
+      "trend7d": 0.56,
+      "discord_members": 1377,
+      "facebook_members": 5066,
+      "market_cap": 209129736.0,
+      "owner_count": 2979,
+      "detail_url": "https://allaaktier.se/bolag/minesto"
     },
     {
       "ticker": "OVZON",
@@ -333,6 +333,16 @@
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
+      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
+      "company_name": "Cibus Nordic Real Estate",
+      "trend7d": 0.27,
+      "discord_members": 680,
+      "facebook_members": 161,
+      "market_cap": 10490596551.0,
+      "owner_count": 14898,
+      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
+    },
+    {
       "ticker": "BIOEXTRAX",
       "company_name": "Bioextrax",
       "trend7d": 0.27,
@@ -361,16 +371,6 @@
       "market_cap": 6906014864.0,
       "owner_count": 1876,
       "detail_url": "https://allaaktier.se/bolag/logistea"
-    },
-    {
-      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
-      "company_name": "Cibus Nordic Real Estate",
-      "trend7d": 0.22,
-      "discord_members": 679,
-      "facebook_members": 161,
-      "market_cap": 10490596551.0,
-      "owner_count": 14898,
-      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
     },
     {
       "ticker": "FLUICELL",
@@ -413,14 +413,24 @@
       "detail_url": "https://allaaktier.se/bolag/nextcell-pharma"
     },
     {
-      "ticker": "UNIBAP",
-      "company_name": "Unibap",
+      "ticker": "BIMOBJECT",
+      "company_name": "BIMobject",
       "trend7d": 0.18,
-      "discord_members": 417,
-      "facebook_members": 507,
-      "market_cap": 628217593.0,
-      "owner_count": 784,
-      "detail_url": "https://allaaktier.se/bolag/unibap"
+      "discord_members": 306,
+      "facebook_members": 255,
+      "market_cap": 688614146.0,
+      "owner_count": 648,
+      "detail_url": "https://allaaktier.se/bolag/bimobject"
+    },
+    {
+      "ticker": "MAHVIE-MINERALS",
+      "company_name": "Mahvie Minerals",
+      "trend7d": 0.17,
+      "discord_members": 350,
+      "facebook_members": null,
+      "market_cap": 58277253.0,
+      "owner_count": 1447,
+      "detail_url": "https://allaaktier.se/bolag/mahvie-minerals"
     },
     {
       "ticker": "CLOETTA",
@@ -501,16 +511,6 @@
       "market_cap": 40665492056.0,
       "owner_count": 2565,
       "detail_url": "https://allaaktier.se/bolag/camurus"
-    },
-    {
-      "ticker": "SAAB",
-      "company_name": "SAAB",
-      "trend7d": 0.11,
-      "discord_members": 689,
-      "facebook_members": null,
-      "market_cap": 347439338287.0,
-      "owner_count": 56470,
-      "detail_url": "https://allaaktier.se/bolag/saab"
     }
   ],
   "twitter_mentions": 0,
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 55,
+    "total_posts_fetched": 49,
     "tickers_with_any_mentions": 0,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
