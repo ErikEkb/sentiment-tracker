@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:20:10.338296+00:00",
+  "generated_at": "2026-10-24T17:57:09.404385+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -203,6 +203,16 @@
       "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
+      "ticker": "YUBICO",
+      "company_name": "Yubico",
+      "trend7d": 0.73,
+      "discord_members": 209,
+      "facebook_members": null,
+      "market_cap": 11178957132.0,
+      "owner_count": 2874,
+      "detail_url": "https://allaaktier.se/bolag/yubico"
+    },
+    {
       "ticker": "SHAMARAN-PETROLEUM",
       "company_name": "ShaMaran Petroleum",
       "trend7d": 0.73,
@@ -233,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/blincvision"
     },
     {
+      "ticker": "SPRINT-BIOSCIENCE",
+      "company_name": "Sprint Bioscience",
+      "trend7d": 0.65,
+      "discord_members": 709,
+      "facebook_members": 396,
+      "market_cap": 352421897.0,
+      "owner_count": 770,
+      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
+    },
+    {
       "ticker": "INHALATION-SCIENCES",
       "company_name": "Inhalation Sciences",
       "trend7d": 0.62,
@@ -241,16 +261,6 @@
       "market_cap": 3025190.0,
       "owner_count": 256,
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
-    },
-    {
-      "ticker": "SPRINT-BIOSCIENCE",
-      "company_name": "Sprint Bioscience",
-      "trend7d": 0.6,
-      "discord_members": 708,
-      "facebook_members": 396,
-      "market_cap": 352421897.0,
-      "owner_count": 770,
-      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
       "ticker": "MINESTO",
@@ -453,6 +463,16 @@
       "detail_url": "https://allaaktier.se/bolag/cloetta"
     },
     {
+      "ticker": "GAPWAVES",
+      "company_name": "Gapwaves",
+      "trend7d": 0.15,
+      "discord_members": 900,
+      "facebook_members": 1447,
+      "market_cap": 323039024.0,
+      "owner_count": 1032,
+      "detail_url": "https://allaaktier.se/bolag/gapwaves"
+    },
+    {
       "ticker": "INVESTOR",
       "company_name": "Investor",
       "trend7d": 0.14,
@@ -491,26 +511,6 @@
       "market_cap": 40332416544.0,
       "owner_count": 2565,
       "detail_url": "https://allaaktier.se/bolag/camurus"
-    },
-    {
-      "ticker": "SERVANA",
-      "company_name": "Servana",
-      "trend7d": 0.13,
-      "discord_members": 181,
-      "facebook_members": null,
-      "market_cap": 44225561.0,
-      "owner_count": 861,
-      "detail_url": "https://allaaktier.se/bolag/servana"
-    },
-    {
-      "ticker": "PIXELFOX",
-      "company_name": "PixelFox",
-      "trend7d": 0.12,
-      "discord_members": 181,
-      "facebook_members": null,
-      "market_cap": 66826097.0,
-      "owner_count": 271,
-      "detail_url": "https://allaaktier.se/bolag/pixelfox"
     }
   ],
   "twitter_mentions": 0,
