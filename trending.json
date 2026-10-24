@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:57:09.404385+00:00",
+  "generated_at": "2026-10-24T20:35:07.923029+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -115,8 +115,8 @@
     {
       "ticker": "INTRUM",
       "company_name": "Intrum",
-      "trend7d": 1.44,
-      "discord_members": 836,
+      "trend7d": 1.4,
+      "discord_members": 835,
       "facebook_members": null,
       "market_cap": 5825775086.0,
       "owner_count": 7551,
@@ -165,8 +165,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 0.92,
-      "discord_members": 1063,
+      "trend7d": 0.89,
+      "discord_members": 1062,
       "facebook_members": 289,
       "market_cap": 2681255726.0,
       "owner_count": 2187,
@@ -313,16 +313,6 @@
       "detail_url": "https://allaaktier.se/bolag/flexqube"
     },
     {
-      "ticker": "ABERA-BIOSCIENCE",
-      "company_name": "Abera Bioscience",
-      "trend7d": 0.37,
-      "discord_members": 225,
-      "facebook_members": 49,
-      "market_cap": 154491365.0,
-      "owner_count": 202,
-      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
-    },
-    {
       "ticker": "COFFEE-STAIN",
       "company_name": "Coffee Stain",
       "trend7d": 0.33,
@@ -401,6 +391,16 @@
       "market_cap": 37364722.0,
       "owner_count": 820,
       "detail_url": "https://allaaktier.se/bolag/fluicell"
+    },
+    {
+      "ticker": "ABERA-BIOSCIENCE",
+      "company_name": "Abera Bioscience",
+      "trend7d": 0.23,
+      "discord_members": 224,
+      "facebook_members": 49,
+      "market_cap": 154491365.0,
+      "owner_count": 202,
+      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
     },
     {
       "ticker": "SAAB",
@@ -518,7 +518,7 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 52,
+    "total_posts_fetched": 69,
     "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
