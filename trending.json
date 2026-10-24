@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:32:26.485488+00:00",
+  "generated_at": "2026-10-24T14:20:10.338296+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -83,6 +83,26 @@
       "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
     },
     {
+      "ticker": "VOLVO-CAR",
+      "company_name": "Volvo Car",
+      "trend7d": 1.5,
+      "discord_members": 222,
+      "facebook_members": null,
+      "market_cap": 31866011094.0,
+      "owner_count": 28286,
+      "detail_url": "https://allaaktier.se/bolag/volvo-car"
+    },
+    {
+      "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
+      "company_name": "AI Revenue Assistant Software",
+      "trend7d": 1.5,
+      "discord_members": 157,
+      "facebook_members": null,
+      "market_cap": 114190511.0,
+      "owner_count": 283,
+      "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
+    },
+    {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
       "trend7d": 1.46,
@@ -101,26 +121,6 @@
       "market_cap": 5825775086.0,
       "owner_count": 7551,
       "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
-      "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
-      "company_name": "AI Revenue Assistant Software",
-      "trend7d": 1.36,
-      "discord_members": 157,
-      "facebook_members": null,
-      "market_cap": 114190511.0,
-      "owner_count": 283,
-      "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
-    },
-    {
-      "ticker": "VOLVO-CAR",
-      "company_name": "Volvo Car",
-      "trend7d": 1.35,
-      "discord_members": 221,
-      "facebook_members": null,
-      "market_cap": 31866011094.0,
-      "owner_count": 28286,
-      "detail_url": "https://allaaktier.se/bolag/volvo-car"
     },
     {
       "ticker": "DLABORATORY-SWEDEN",
@@ -165,8 +165,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 0.89,
-      "discord_members": 1062,
+      "trend7d": 0.92,
+      "discord_members": 1063,
       "facebook_members": 289,
       "market_cap": 2681255726.0,
       "owner_count": 2187,
@@ -315,7 +315,7 @@
     {
       "ticker": "COFFEE-STAIN",
       "company_name": "Coffee Stain",
-      "trend7d": 0.35,
+      "trend7d": 0.33,
       "discord_members": 36,
       "facebook_members": null,
       "market_cap": 4204271886.0,
@@ -518,8 +518,8 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 50,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 52,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
