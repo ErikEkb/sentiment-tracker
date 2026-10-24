@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:35:07.923029+00:00",
+  "generated_at": "2026-10-24T22:58:43.092571+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -103,16 +103,6 @@
       "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
     },
     {
-      "ticker": "MUNTERS-GROUP",
-      "company_name": "Munters Group",
-      "trend7d": 1.46,
-      "discord_members": 60,
-      "facebook_members": null,
-      "market_cap": 24246980045.0,
-      "owner_count": 4400,
-      "detail_url": "https://allaaktier.se/bolag/munters-group"
-    },
-    {
       "ticker": "INTRUM",
       "company_name": "Intrum",
       "trend7d": 1.4,
@@ -143,16 +133,6 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
-      "ticker": "SWEDENCARE",
-      "company_name": "Swedencare",
-      "trend7d": 1.06,
-      "discord_members": 323,
-      "facebook_members": null,
-      "market_cap": 3148866873.0,
-      "owner_count": 1408,
-      "detail_url": "https://allaaktier.se/bolag/swedencare"
-    },
-    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.97,
@@ -161,6 +141,26 @@
       "market_cap": 5682554274.0,
       "owner_count": 1975,
       "detail_url": "https://allaaktier.se/bolag/nyab"
+    },
+    {
+      "ticker": "SWEDENCARE",
+      "company_name": "Swedencare",
+      "trend7d": 0.95,
+      "discord_members": 322,
+      "facebook_members": null,
+      "market_cap": 3148866873.0,
+      "owner_count": 1408,
+      "detail_url": "https://allaaktier.se/bolag/swedencare"
+    },
+    {
+      "ticker": "MUNTERS-GROUP",
+      "company_name": "Munters Group",
+      "trend7d": 0.9,
+      "discord_members": 59,
+      "facebook_members": null,
+      "market_cap": 24246980045.0,
+      "owner_count": 4400,
+      "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "VICORE-PHARMA",
@@ -223,16 +223,6 @@
       "detail_url": "https://allaaktier.se/bolag/shamaran-petroleum"
     },
     {
-      "ticker": "ISOFOL-MEDICAL",
-      "company_name": "Isofol Medical",
-      "trend7d": 0.66,
-      "discord_members": 1038,
-      "facebook_members": 118,
-      "market_cap": 364078484.0,
-      "owner_count": 1025,
-      "detail_url": "https://allaaktier.se/bolag/isofol-medical"
-    },
-    {
       "ticker": "BLINCVISION",
       "company_name": "BlincVision",
       "trend7d": 0.66,
@@ -253,6 +243,16 @@
       "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
     },
     {
+      "ticker": "ISOFOL-MEDICAL",
+      "company_name": "Isofol Medical",
+      "trend7d": 0.62,
+      "discord_members": 1037,
+      "facebook_members": 118,
+      "market_cap": 364078484.0,
+      "owner_count": 1025,
+      "detail_url": "https://allaaktier.se/bolag/isofol-medical"
+    },
+    {
       "ticker": "INHALATION-SCIENCES",
       "company_name": "Inhalation Sciences",
       "trend7d": 0.62,
@@ -263,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/inhalation-sciences"
     },
     {
+      "ticker": "MILDEF-GROUP",
+      "company_name": "Mildef Group",
+      "trend7d": 0.57,
+      "discord_members": 475,
+      "facebook_members": null,
+      "market_cap": 10869406276.0,
+      "owner_count": 7628,
+      "detail_url": "https://allaaktier.se/bolag/mildef-group"
+    },
+    {
       "ticker": "MINESTO",
       "company_name": "Minesto",
       "trend7d": 0.57,
@@ -271,16 +281,6 @@
       "market_cap": 221094870.0,
       "owner_count": 2979,
       "detail_url": "https://allaaktier.se/bolag/minesto"
-    },
-    {
-      "ticker": "MILDEF-GROUP",
-      "company_name": "Mildef Group",
-      "trend7d": 0.5,
-      "discord_members": 474,
-      "facebook_members": null,
-      "market_cap": 10869406276.0,
-      "owner_count": 7628,
-      "detail_url": "https://allaaktier.se/bolag/mildef-group"
     },
     {
       "ticker": "INTERNATIONAL-PETROLEUM",
@@ -516,10 +516,28 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 2.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp96232181",
+        "https://www.flashback.org/sp96240042",
+        "https://www.flashback.org/sp96240055"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 69,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 60,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
