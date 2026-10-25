@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:57:58.409355+00:00",
+  "generated_at": "2026-10-25T11:12:27.782367+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -153,16 +153,6 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
-      "ticker": "YUBICO",
-      "company_name": "Yubico",
-      "trend7d": 0.71,
-      "discord_members": 209,
-      "facebook_members": null,
-      "market_cap": 11178957132.0,
-      "owner_count": 2874,
-      "detail_url": "https://allaaktier.se/bolag/yubico"
-    },
-    {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
       "trend7d": 0.7,
@@ -201,6 +191,16 @@
       "market_cap": 2681255726.0,
       "owner_count": 2187,
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
+      "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
+      "company_name": "AI Revenue Assistant Software",
+      "trend7d": 0.68,
+      "discord_members": 158,
+      "facebook_members": null,
+      "market_cap": 114190511.0,
+      "owner_count": 283,
+      "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
     },
     {
       "ticker": "ISOFOL-MEDICAL",
@@ -253,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/international-petroleum"
     },
     {
+      "ticker": "YUBICO",
+      "company_name": "Yubico",
+      "trend7d": 0.55,
+      "discord_members": 208,
+      "facebook_members": null,
+      "market_cap": 11178957132.0,
+      "owner_count": 2874,
+      "detail_url": "https://allaaktier.se/bolag/yubico"
+    },
+    {
       "ticker": "SPRINT-BIOSCIENCE",
       "company_name": "Sprint Bioscience",
       "trend7d": 0.48,
@@ -261,16 +271,6 @@
       "market_cap": 352421897.0,
       "owner_count": 770,
       "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
-    },
-    {
-      "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
-      "company_name": "AI Revenue Assistant Software",
-      "trend7d": 0.47,
-      "discord_members": 157,
-      "facebook_members": null,
-      "market_cap": 114190511.0,
-      "owner_count": 283,
-      "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
     },
     {
       "ticker": "MINESTO",
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 61,
+    "total_posts_fetched": 62,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
