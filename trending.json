@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:46:22.172591+00:00",
+  "generated_at": "2026-10-25T18:47:22.756746+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -43,6 +43,16 @@
       "detail_url": "https://allaaktier.se/bolag/physitrack"
     },
     {
+      "ticker": "PARADOX-INTERACTIVE",
+      "company_name": "Paradox Interactive",
+      "trend7d": 1.61,
+      "discord_members": 74,
+      "facebook_members": null,
+      "market_cap": 14396418308.0,
+      "owner_count": 2666,
+      "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
+    },
+    {
       "ticker": "DLABORATORY-SWEDEN",
       "company_name": "Dlaboratory Sweden",
       "trend7d": 1.59,
@@ -81,16 +91,6 @@
       "market_cap": 479893688.0,
       "owner_count": 330,
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
-    },
-    {
-      "ticker": "PARADOX-INTERACTIVE",
-      "company_name": "Paradox Interactive",
-      "trend7d": 1.13,
-      "discord_members": 73,
-      "facebook_members": null,
-      "market_cap": 14396418308.0,
-      "owner_count": 2666,
-      "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
     },
     {
       "ticker": "NOTE",
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/blincvision"
     },
     {
+      "ticker": "EGETIS-THERAPEUTICS",
+      "company_name": "Egetis Therapeutics",
+      "trend7d": 0.74,
+      "discord_members": 886,
+      "facebook_members": 435,
+      "market_cap": 4446907161.0,
+      "owner_count": 1584,
+      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.73,
@@ -161,16 +171,6 @@
       "market_cap": 11178957132.0,
       "owner_count": 2874,
       "detail_url": "https://allaaktier.se/bolag/yubico"
-    },
-    {
-      "ticker": "EGETIS-THERAPEUTICS",
-      "company_name": "Egetis Therapeutics",
-      "trend7d": 0.7,
-      "discord_members": 885,
-      "facebook_members": 435,
-      "market_cap": 4446907161.0,
-      "owner_count": 1584,
-      "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
       "ticker": "SHAMARAN-PETROLEUM",
@@ -265,8 +265,8 @@
     {
       "ticker": "SPRINT-BIOSCIENCE",
       "company_name": "Sprint Bioscience",
-      "trend7d": 0.48,
-      "discord_members": 709,
+      "trend7d": 0.53,
+      "discord_members": 710,
       "facebook_members": 396,
       "market_cap": 352421897.0,
       "owner_count": 770,
@@ -343,36 +343,6 @@
       "detail_url": "https://allaaktier.se/bolag/envar"
     },
     {
-      "ticker": "INVESTOR",
-      "company_name": "Investor",
-      "trend7d": 0.24,
-      "discord_members": 459,
-      "facebook_members": null,
-      "market_cap": 1257197898197.0,
-      "owner_count": 17900,
-      "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
-      "ticker": "ABERA-BIOSCIENCE",
-      "company_name": "Abera Bioscience",
-      "trend7d": 0.23,
-      "discord_members": 224,
-      "facebook_members": 49,
-      "market_cap": 154491365.0,
-      "owner_count": 202,
-      "detail_url": "https://allaaktier.se/bolag/abera-bioscience"
-    },
-    {
-      "ticker": "BIOEXTRAX",
-      "company_name": "Bioextrax",
-      "trend7d": 0.23,
-      "discord_members": 851,
-      "facebook_members": 280,
-      "market_cap": 108108822.0,
-      "owner_count": 554,
-      "detail_url": "https://allaaktier.se/bolag/bioextrax"
-    },
-    {
       "ticker": "SAAB",
       "company_name": "SAAB",
       "trend7d": 0.2,
@@ -381,16 +351,6 @@
       "market_cap": 351297360342.0,
       "owner_count": 56470,
       "detail_url": "https://allaaktier.se/bolag/saab"
-    },
-    {
-      "ticker": "SIVERS-SEMICONDUCTORS",
-      "company_name": "Sivers Semiconductors",
-      "trend7d": 0.19,
-      "discord_members": 2522,
-      "facebook_members": 2874,
-      "market_cap": 7363120452.0,
-      "owner_count": 5693,
-      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
     },
     {
       "ticker": "NEXTCELL-PHARMA",
@@ -443,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
     },
     {
+      "ticker": "SIVERS-SEMICONDUCTORS",
+      "company_name": "Sivers Semiconductors",
+      "trend7d": 0.17,
+      "discord_members": 2521,
+      "facebook_members": 2874,
+      "market_cap": 7363120452.0,
+      "owner_count": 5693,
+      "detail_url": "https://allaaktier.se/bolag/sivers-semiconductors"
+    },
+    {
       "ticker": "GRUVAKTIEBOLAGET-VISCARIA",
       "company_name": "Gruvaktiebolaget Viscaria",
       "trend7d": 0.17,
@@ -451,6 +421,16 @@
       "market_cap": 7021794256.0,
       "owner_count": 4063,
       "detail_url": "https://allaaktier.se/bolag/gruvaktiebolaget-viscaria"
+    },
+    {
+      "ticker": "INVESTOR",
+      "company_name": "Investor",
+      "trend7d": 0.16,
+      "discord_members": 458,
+      "facebook_members": null,
+      "market_cap": 1257197898197.0,
+      "owner_count": 17900,
+      "detail_url": "https://allaaktier.se/bolag/investor"
     },
     {
       "ticker": "ANGLER-GAMING",
@@ -483,16 +463,6 @@
       "detail_url": "https://allaaktier.se/bolag/hexatronic"
     },
     {
-      "ticker": "CIBUS-NORDIC-REAL-ESTATE",
-      "company_name": "Cibus Nordic Real Estate",
-      "trend7d": 0.13,
-      "discord_members": 680,
-      "facebook_members": 161,
-      "market_cap": 10527535271.0,
-      "owner_count": 14898,
-      "detail_url": "https://allaaktier.se/bolag/cibus-nordic-real-estate"
-    },
-    {
       "ticker": "PIXELFOX",
       "company_name": "PixelFox",
       "trend7d": 0.12,
@@ -511,6 +481,36 @@
       "market_cap": 119457515.0,
       "owner_count": 813,
       "detail_url": "https://allaaktier.se/bolag/mresell"
+    },
+    {
+      "ticker": "ACUVI",
+      "company_name": "Acuvi",
+      "trend7d": 0.11,
+      "discord_members": 422,
+      "facebook_members": null,
+      "market_cap": 219143355.0,
+      "owner_count": 534,
+      "detail_url": "https://allaaktier.se/bolag/acuvi"
+    },
+    {
+      "ticker": "FLUICELL",
+      "company_name": "Fluicell",
+      "trend7d": 0.11,
+      "discord_members": 260,
+      "facebook_members": 167,
+      "market_cap": 37364722.0,
+      "owner_count": 820,
+      "detail_url": "https://allaaktier.se/bolag/fluicell"
+    },
+    {
+      "ticker": "METACON",
+      "company_name": "Metacon",
+      "trend7d": 0.11,
+      "discord_members": 1166,
+      "facebook_members": 1735,
+      "market_cap": 175061450.0,
+      "owner_count": 2251,
+      "detail_url": "https://allaaktier.se/bolag/metacon"
     }
   ],
   "twitter_mentions": 0,
@@ -536,7 +536,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 62,
+    "total_posts_fetched": 63,
     "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
