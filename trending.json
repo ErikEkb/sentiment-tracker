@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:32:03.037425+00:00",
+  "generated_at": "2026-10-25T23:56:55.457945+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "SCIBASE",
       "company_name": "Scibase",
-      "trend7d": 2.91,
-      "discord_members": 642,
+      "trend7d": 2.97,
+      "discord_members": 643,
       "facebook_members": 286,
       "market_cap": 183557231.0,
       "owner_count": 277,
@@ -65,8 +65,8 @@
     {
       "ticker": "INTRUM",
       "company_name": "Intrum",
-      "trend7d": 1.49,
-      "discord_members": 838,
+      "trend7d": 1.53,
+      "discord_members": 839,
       "facebook_members": null,
       "market_cap": 5825775086.0,
       "owner_count": 7551,
@@ -263,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/ovzon"
     },
     {
+      "ticker": "BIMOBJECT",
+      "company_name": "BIMobject",
+      "trend7d": 0.29,
+      "discord_members": 307,
+      "facebook_members": 255,
+      "market_cap": 702976021.0,
+      "owner_count": 648,
+      "detail_url": "https://allaaktier.se/bolag/bimobject"
+    },
+    {
       "ticker": "QLIRO",
       "company_name": "Qliro",
       "trend7d": 0.28,
@@ -321,16 +331,6 @@
       "market_cap": 88593336.0,
       "owner_count": 997,
       "detail_url": "https://allaaktier.se/bolag/xoma"
-    },
-    {
-      "ticker": "BIMOBJECT",
-      "company_name": "BIMobject",
-      "trend7d": 0.18,
-      "discord_members": 306,
-      "facebook_members": 255,
-      "market_cap": 702976021.0,
-      "owner_count": 648,
-      "detail_url": "https://allaaktier.se/bolag/bimobject"
     },
     {
       "ticker": "MEDCLAIR-INVEST",
@@ -533,11 +533,28 @@
         "https://www.flashback.org/sp96240055",
         "https://www.flashback.org/sp96241957"
       ]
+    },
+    {
+      "ticker": "VOLCAR-B",
+      "company_name": "Volvo Cars B",
+      "sector": "Consumer Discretionary",
+      "discovered": false,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.048,
+      "avg_upvote_ratio": 0.5,
+      "label": "neutral",
+      "trending_score": 0.238,
+      "sample_posts": [
+        "https://www.flashback.org/sp96245898",
+        "https://www.flashback.org/sp96245973",
+        "https://www.flashback.org/sp96246604"
+      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 65,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 67,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
