@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T06:45:52.878373+00:00",
+  "generated_at": "2026-10-31T13:26:27.754924+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,12 +15,22 @@
     {
       "ticker": "FLERIE",
       "company_name": "Flerie",
-      "trend7d": 21.08,
-      "discord_members": 291,
+      "trend7d": 21.2,
+      "discord_members": 292,
       "facebook_members": null,
       "market_cap": 1205098058.0,
       "owner_count": 2166,
       "detail_url": "https://allaaktier.se/bolag/flerie"
+    },
+    {
+      "ticker": "ACARIX",
+      "company_name": "Acarix",
+      "trend7d": 4.62,
+      "discord_members": 168,
+      "facebook_members": 395,
+      "market_cap": 223043982.0,
+      "owner_count": 1286,
+      "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
       "ticker": "ACAST",
@@ -31,16 +41,6 @@
       "market_cap": 5520294563.0,
       "owner_count": 1262,
       "detail_url": "https://allaaktier.se/bolag/acast"
-    },
-    {
-      "ticker": "ACARIX",
-      "company_name": "Acarix",
-      "trend7d": 4.39,
-      "discord_members": 167,
-      "facebook_members": 395,
-      "market_cap": 223043982.0,
-      "owner_count": 1286,
-      "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
       "ticker": "BYHMGARD",
@@ -65,8 +65,8 @@
     {
       "ticker": "BIOINVENT-INTERNATIONAL",
       "company_name": "BioInvent International",
-      "trend7d": 3.12,
-      "discord_members": 700,
+      "trend7d": 3.17,
+      "discord_members": 701,
       "facebook_members": 19,
       "market_cap": 357317686.0,
       "owner_count": 1558,
@@ -128,15 +128,15 @@
       "trend7d": 1.78,
       "discord_members": 36,
       "facebook_members": 722,
-      "market_cap": 11527663721.65,
+      "market_cap": 11552243192.87,
       "owner_count": 5753,
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
     },
     {
       "ticker": "XBRANE-BIOPHARMA",
       "company_name": "Xbrane Biopharma",
-      "trend7d": 1.68,
-      "discord_members": 923,
+      "trend7d": 1.72,
+      "discord_members": 924,
       "facebook_members": 1532,
       "market_cap": 291565674.0,
       "owner_count": 1109,
@@ -175,8 +175,8 @@
     {
       "ticker": "INTRUM",
       "company_name": "Intrum",
-      "trend7d": 1.25,
-      "discord_members": 860,
+      "trend7d": 1.29,
+      "discord_members": 861,
       "facebook_members": null,
       "market_cap": 6363489990.0,
       "owner_count": 7614,
@@ -283,6 +283,16 @@
       "detail_url": "https://allaaktier.se/bolag/isofol-medical"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.66,
+      "discord_members": 1072,
+      "facebook_members": 289,
+      "market_cap": 2731951737.0,
+      "owner_count": 2203,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
       "company_name": "Kinda Brave Entertainment",
       "trend7d": 0.63,
@@ -291,16 +301,6 @@
       "market_cap": 132637137.0,
       "owner_count": 620,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.63,
-      "discord_members": 1071,
-      "facebook_members": 289,
-      "market_cap": 2731951737.0,
-      "owner_count": 2203,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "PLEJD",
@@ -338,7 +338,7 @@
       "trend7d": 0.43,
       "discord_members": 90,
       "facebook_members": null,
-      "market_cap": 50818357361.06,
+      "market_cap": 50618679270.89,
       "owner_count": 6934,
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
@@ -393,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.28,
+      "discord_members": 1499,
+      "facebook_members": null,
+      "market_cap": 987930821.0,
+      "owner_count": 795,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "SOCIALLITE-US",
       "company_name": "SOCIALLITE US",
       "trend7d": 0.28,
@@ -431,16 +441,6 @@
       "market_cap": 13797812.0,
       "owner_count": 455,
       "detail_url": "https://allaaktier.se/bolag/nexar"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.25,
-      "discord_members": 1498,
-      "facebook_members": null,
-      "market_cap": 987930821.0,
-      "owner_count": 795,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "NOTE",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/eatgood"
     },
     {
-      "ticker": "OREXO",
-      "company_name": "Orexo",
+      "ticker": "RANLOS",
+      "company_name": "RanLOS",
       "trend7d": 0.19,
-      "discord_members": 314,
-      "facebook_members": 503,
-      "market_cap": 174450420.0,
-      "owner_count": 758,
-      "detail_url": "https://allaaktier.se/bolag/orexo"
+      "discord_members": 360,
+      "facebook_members": null,
+      "market_cap": 29433903.0,
+      "owner_count": 248,
+      "detail_url": "https://allaaktier.se/bolag/ranlos"
     }
   ],
   "twitter_mentions": 0,
@@ -549,28 +549,11 @@
         "https://www.flashback.org/sp96282938",
         "https://www.flashback.org/sp96286319"
       ]
-    },
-    {
-      "ticker": "SPCX",
-      "company_name": "SpaceX",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.275,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.1,
-      "sample_posts": [
-        "https://www.flashback.org/sp96274955",
-        "https://www.flashback.org/sp96274999",
-        "https://www.flashback.org/sp96275013"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 63,
-    "tickers_with_any_mentions": 5,
+    "total_posts_fetched": 61,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
