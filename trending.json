@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T18:20:00.895880+00:00",
+  "generated_at": "2026-10-31T22:19:05.194645+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -203,6 +203,16 @@
       "detail_url": "https://allaaktier.se/bolag/upsales-technology"
     },
     {
+      "ticker": "CLOETTA",
+      "company_name": "Cloetta",
+      "trend7d": 1.1,
+      "discord_members": 50,
+      "facebook_members": null,
+      "market_cap": 17129555396.0,
+      "owner_count": 5466,
+      "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
       "ticker": "HANZA",
       "company_name": "HANZA",
       "trend7d": 1.08,
@@ -343,16 +353,6 @@
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
-      "ticker": "CLOETTA",
-      "company_name": "Cloetta",
-      "trend7d": 0.42,
-      "discord_members": 49,
-      "facebook_members": null,
-      "market_cap": 17129555396.0,
-      "owner_count": 5466,
-      "detail_url": "https://allaaktier.se/bolag/cloetta"
-    },
-    {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
       "trend7d": 0.31,
@@ -361,6 +361,16 @@
       "market_cap": 4937735766.0,
       "owner_count": 1584,
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
+    },
+    {
+      "ticker": "OVZON",
+      "company_name": "Ovzon",
+      "trend7d": 0.3,
+      "discord_members": 530,
+      "facebook_members": null,
+      "market_cap": 4399706111.0,
+      "owner_count": 3417,
+      "detail_url": "https://allaaktier.se/bolag/ovzon"
     },
     {
       "ticker": "ZINZINO",
@@ -463,16 +473,6 @@
       "detail_url": "https://allaaktier.se/bolag/soder-sportfiske"
     },
     {
-      "ticker": "OVZON",
-      "company_name": "Ovzon",
-      "trend7d": 0.23,
-      "discord_members": 529,
-      "facebook_members": null,
-      "market_cap": 4399706111.0,
-      "owner_count": 3417,
-      "detail_url": "https://allaaktier.se/bolag/ovzon"
-    },
-    {
       "ticker": "ONLINE-BRANDS-NORDIC",
       "company_name": "Online Brands Nordic",
       "trend7d": 0.23,
@@ -552,8 +552,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 64,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 66,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
