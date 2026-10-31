@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T00:32:07.945115+00:00",
+  "generated_at": "2026-10-31T06:45:52.878373+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,6 +33,16 @@
       "detail_url": "https://allaaktier.se/bolag/acast"
     },
     {
+      "ticker": "ACARIX",
+      "company_name": "Acarix",
+      "trend7d": 4.39,
+      "discord_members": 167,
+      "facebook_members": 395,
+      "market_cap": 223043982.0,
+      "owner_count": 1286,
+      "detail_url": "https://allaaktier.se/bolag/acarix"
+    },
+    {
       "ticker": "BYHMGARD",
       "company_name": "Byhmgard",
       "trend7d": 4.27,
@@ -41,16 +51,6 @@
       "market_cap": 196059121.0,
       "owner_count": 408,
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
-    },
-    {
-      "ticker": "ACARIX",
-      "company_name": "Acarix",
-      "trend7d": 4.17,
-      "discord_members": 166,
-      "facebook_members": 395,
-      "market_cap": 223043982.0,
-      "owner_count": 1286,
-      "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
       "ticker": "YUBICO",
@@ -65,8 +65,8 @@
     {
       "ticker": "BIOINVENT-INTERNATIONAL",
       "company_name": "BioInvent International",
-      "trend7d": 3.07,
-      "discord_members": 699,
+      "trend7d": 3.12,
+      "discord_members": 700,
       "facebook_members": 19,
       "market_cap": 357317686.0,
       "owner_count": 1558,
@@ -153,6 +153,16 @@
       "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
     },
     {
+      "ticker": "ALZINOVA",
+      "company_name": "Alzinova",
+      "trend7d": 1.3,
+      "discord_members": 640,
+      "facebook_members": null,
+      "market_cap": 112043065.0,
+      "owner_count": 942,
+      "detail_url": "https://allaaktier.se/bolag/alzinova"
+    },
+    {
       "ticker": "MONIVENT",
       "company_name": "Monivent",
       "trend7d": 1.3,
@@ -171,16 +181,6 @@
       "market_cap": 6363489990.0,
       "owner_count": 7614,
       "detail_url": "https://allaaktier.se/bolag/intrum"
-    },
-    {
-      "ticker": "ALZINOVA",
-      "company_name": "Alzinova",
-      "trend7d": 1.25,
-      "discord_members": 640,
-      "facebook_members": null,
-      "market_cap": 112043065.0,
-      "owner_count": 942,
-      "detail_url": "https://allaaktier.se/bolag/alzinova"
     },
     {
       "ticker": "QLIRO",
@@ -275,7 +275,7 @@
     {
       "ticker": "ISOFOL-MEDICAL",
       "company_name": "Isofol Medical",
-      "trend7d": 0.66,
+      "trend7d": 0.69,
       "discord_members": 1025,
       "facebook_members": 118,
       "market_cap": 383948964.0,
@@ -303,6 +303,16 @@
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.6,
+      "discord_members": 478,
+      "facebook_members": 2766,
+      "market_cap": 9835571872.0,
+      "owner_count": 5151,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
+    },
+    {
       "ticker": "SOLIDX",
       "company_name": "SolidX",
       "trend7d": 0.54,
@@ -311,16 +321,6 @@
       "market_cap": 67586931.0,
       "owner_count": 211,
       "detail_url": "https://allaaktier.se/bolag/solidx"
-    },
-    {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 0.53,
-      "discord_members": 478,
-      "facebook_members": 2766,
-      "market_cap": 9835571872.0,
-      "owner_count": 5151,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "ARGO-DEFENCE",
@@ -355,22 +355,12 @@
     {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
-      "trend7d": 0.35,
+      "trend7d": 0.31,
       "discord_members": 886,
       "facebook_members": 435,
       "market_cap": 4937735766.0,
       "owner_count": 1584,
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
-    },
-    {
-      "ticker": "PARADOX-INTERACTIVE",
-      "company_name": "Paradox Interactive",
-      "trend7d": 0.29,
-      "discord_members": 74,
-      "facebook_members": null,
-      "market_cap": 15304776322.0,
-      "owner_count": 2660,
-      "detail_url": "https://allaaktier.se/bolag/paradox-interactive"
     },
     {
       "ticker": "ZINZINO",
@@ -511,6 +501,16 @@
       "market_cap": 5379604.0,
       "owner_count": 211,
       "detail_url": "https://allaaktier.se/bolag/eatgood"
+    },
+    {
+      "ticker": "OREXO",
+      "company_name": "Orexo",
+      "trend7d": 0.19,
+      "discord_members": 314,
+      "facebook_members": 503,
+      "market_cap": 174450420.0,
+      "owner_count": 758,
+      "detail_url": "https://allaaktier.se/bolag/orexo"
     }
   ],
   "twitter_mentions": 0,
