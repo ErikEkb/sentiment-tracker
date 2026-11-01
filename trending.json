@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:03:21.180785+00:00",
+  "generated_at": "2026-11-01T16:38:23.697180+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ACARIX",
       "company_name": "Acarix",
-      "trend7d": 4.65,
-      "discord_members": 168,
+      "trend7d": 5.1,
+      "discord_members": 170,
       "facebook_members": 395,
       "market_cap": 223043982.0,
       "owner_count": 1286,
@@ -25,7 +25,7 @@
     {
       "ticker": "FLERIE",
       "company_name": "Flerie",
-      "trend7d": 4.64,
+      "trend7d": 4.6,
       "discord_members": 293,
       "facebook_members": null,
       "market_cap": 1205098058.0,
@@ -45,8 +45,8 @@
     {
       "ticker": "BIOINVENT-INTERNATIONAL",
       "company_name": "BioInvent International",
-      "trend7d": 3.2,
-      "discord_members": 701,
+      "trend7d": 3.19,
+      "discord_members": 702,
       "facebook_members": 19,
       "market_cap": 357317686.0,
       "owner_count": 1558,
@@ -65,12 +65,22 @@
     {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
-      "trend7d": 2.42,
+      "trend7d": 2.48,
       "discord_members": 171,
       "facebook_members": null,
       "market_cap": 456165372.0,
       "owner_count": 404,
       "detail_url": "https://allaaktier.se/bolag/ortoma"
+    },
+    {
+      "ticker": "XBRANE-BIOPHARMA",
+      "company_name": "Xbrane Biopharma",
+      "trend7d": 2.43,
+      "discord_members": 924,
+      "facebook_members": 1532,
+      "market_cap": 291565674.0,
+      "owner_count": 1109,
+      "detail_url": "https://allaaktier.se/bolag/xbrane-biopharma"
     },
     {
       "ticker": "FLEXQUBE",
@@ -81,16 +91,6 @@
       "market_cap": 518332836.0,
       "owner_count": 329,
       "detail_url": "https://allaaktier.se/bolag/flexqube"
-    },
-    {
-      "ticker": "XBRANE-BIOPHARMA",
-      "company_name": "Xbrane Biopharma",
-      "trend7d": 2.18,
-      "discord_members": 924,
-      "facebook_members": 1532,
-      "market_cap": 291565674.0,
-      "owner_count": 1109,
-      "detail_url": "https://allaaktier.se/bolag/xbrane-biopharma"
     },
     {
       "ticker": "YUBICO",
@@ -105,7 +105,7 @@
     {
       "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
       "company_name": "AI Revenue Assistant Software",
-      "trend7d": 1.78,
+      "trend7d": 1.9,
       "discord_members": 163,
       "facebook_members": null,
       "market_cap": 101014683.0,
@@ -113,24 +113,24 @@
       "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
     },
     {
+      "ticker": "2020-BULKERS",
+      "company_name": "2020 Bulkers",
+      "trend7d": 1.73,
+      "discord_members": 36,
+      "facebook_members": 722,
+      "market_cap": 11551052117.17,
+      "owner_count": 5753,
+      "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
+    },
+    {
       "ticker": "MONIVENT",
       "company_name": "Monivent",
-      "trend7d": 1.64,
+      "trend7d": 1.61,
       "discord_members": 197,
       "facebook_members": 131,
       "market_cap": 45543211.0,
       "owner_count": 206,
       "detail_url": "https://allaaktier.se/bolag/monivent"
-    },
-    {
-      "ticker": "2020-BULKERS",
-      "company_name": "2020 Bulkers",
-      "trend7d": 1.63,
-      "discord_members": 36,
-      "facebook_members": 722,
-      "market_cap": 11552243192.87,
-      "owner_count": 5753,
-      "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
     },
     {
       "ticker": "ENORAMA-PHARMA",
@@ -173,9 +173,19 @@
       "detail_url": "https://allaaktier.se/bolag/qliro"
     },
     {
+      "ticker": "NICOCCINO",
+      "company_name": "Nicoccino",
+      "trend7d": 1.19,
+      "discord_members": 28,
+      "facebook_members": null,
+      "market_cap": 56277535.0,
+      "owner_count": 344,
+      "detail_url": "https://allaaktier.se/bolag/nicoccino"
+    },
+    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
-      "trend7d": 1.12,
+      "trend7d": 1.17,
       "discord_members": 100,
       "facebook_members": null,
       "market_cap": 867822812550.0,
@@ -233,9 +243,19 @@
       "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
+      "ticker": "IRLAB-THERAPEUTICS",
+      "company_name": "IRLAB Therapeutics",
+      "trend7d": 0.86,
+      "discord_members": 725,
+      "facebook_members": 363,
+      "market_cap": 310807915.0,
+      "owner_count": 553,
+      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
       "ticker": "HANZA",
       "company_name": "HANZA",
-      "trend7d": 0.79,
+      "trend7d": 0.85,
       "discord_members": 100,
       "facebook_members": 152,
       "market_cap": 10149045286.0,
@@ -245,22 +265,12 @@
     {
       "ticker": "SCANDIC-HOTELS",
       "company_name": "Scandic Hotels",
-      "trend7d": 0.78,
+      "trend7d": 0.76,
       "discord_members": 38,
       "facebook_members": null,
       "market_cap": 22222650090.0,
       "owner_count": 7277,
       "detail_url": "https://allaaktier.se/bolag/scandic-hotels"
-    },
-    {
-      "ticker": "HILBERT-GROUP",
-      "company_name": "Hilbert Group",
-      "trend7d": 0.74,
-      "discord_members": 303,
-      "facebook_members": null,
-      "market_cap": 349109234.0,
-      "owner_count": 1608,
-      "detail_url": "https://allaaktier.se/bolag/hilbert-group"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -273,16 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
-      "ticker": "IRLAB-THERAPEUTICS",
-      "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.74,
-      "discord_members": 724,
-      "facebook_members": 363,
-      "market_cap": 310807915.0,
-      "owner_count": 553,
-      "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
-    },
-    {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
       "trend7d": 0.73,
@@ -291,6 +291,16 @@
       "market_cap": 2731951737.0,
       "owner_count": 2203,
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
+      "ticker": "INTRUM",
+      "company_name": "Intrum",
+      "trend7d": 0.71,
+      "discord_members": 861,
+      "facebook_members": null,
+      "market_cap": 6363489990.0,
+      "owner_count": 7614,
+      "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
       "ticker": "PHYSITRACK",
@@ -303,14 +313,14 @@
       "detail_url": "https://allaaktier.se/bolag/physitrack"
     },
     {
-      "ticker": "INTRUM",
-      "company_name": "Intrum",
+      "ticker": "HILBERT-GROUP",
+      "company_name": "Hilbert Group",
       "trend7d": 0.7,
-      "discord_members": 861,
+      "discord_members": 303,
       "facebook_members": null,
-      "market_cap": 6363489990.0,
-      "owner_count": 7614,
-      "detail_url": "https://allaaktier.se/bolag/intrum"
+      "market_cap": 349109234.0,
+      "owner_count": 1608,
+      "detail_url": "https://allaaktier.se/bolag/hilbert-group"
     },
     {
       "ticker": "SOLIDX",
@@ -333,6 +343,16 @@
       "detail_url": "https://allaaktier.se/bolag/sociallite-us"
     },
     {
+      "ticker": "ECOMB",
+      "company_name": "ECOMB",
+      "trend7d": 0.49,
+      "discord_members": 174,
+      "facebook_members": null,
+      "market_cap": 7813885.0,
+      "owner_count": 312,
+      "detail_url": "https://allaaktier.se/bolag/ecomb"
+    },
+    {
       "ticker": "SODER-SPORTFISKE",
       "company_name": "Söder Sportfiske",
       "trend7d": 0.49,
@@ -353,34 +373,14 @@
       "detail_url": "https://allaaktier.se/bolag/volvo-car"
     },
     {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 0.45,
-      "discord_members": 90,
-      "facebook_members": null,
-      "market_cap": 50618679270.89,
-      "owner_count": 6934,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
-      "ticker": "SPRINT-BIOSCIENCE",
-      "company_name": "Sprint Bioscience",
-      "trend7d": 0.45,
-      "discord_members": 705,
-      "facebook_members": 396,
-      "market_cap": 379855937.0,
-      "owner_count": 782,
-      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
-    },
-    {
-      "ticker": "ARGO-DEFENCE",
-      "company_name": "Argo Defence",
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
       "trend7d": 0.43,
-      "discord_members": 142,
+      "discord_members": 92,
       "facebook_members": null,
-      "market_cap": 260139600.0,
-      "owner_count": 884,
-      "detail_url": "https://allaaktier.se/bolag/argo-defence"
+      "market_cap": 572925389.0,
+      "owner_count": 311,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "OREXO",
@@ -393,6 +393,26 @@
       "detail_url": "https://allaaktier.se/bolag/orexo"
     },
     {
+      "ticker": "SPRINT-BIOSCIENCE",
+      "company_name": "Sprint Bioscience",
+      "trend7d": 0.41,
+      "discord_members": 704,
+      "facebook_members": 396,
+      "market_cap": 379855937.0,
+      "owner_count": 782,
+      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
+    },
+    {
+      "ticker": "FRONT-VENTURES",
+      "company_name": "Front Ventures",
+      "trend7d": 0.39,
+      "discord_members": 151,
+      "facebook_members": null,
+      "market_cap": 135520729.0,
+      "owner_count": 789,
+      "detail_url": "https://allaaktier.se/bolag/front-ventures"
+    },
+    {
       "ticker": "EGETIS-THERAPEUTICS",
       "company_name": "Egetis Therapeutics",
       "trend7d": 0.37,
@@ -403,24 +423,14 @@
       "detail_url": "https://allaaktier.se/bolag/egetis-therapeutics"
     },
     {
-      "ticker": "FRONT-VENTURES",
-      "company_name": "Front Ventures",
+      "ticker": "ARGO-DEFENCE",
+      "company_name": "Argo Defence",
       "trend7d": 0.36,
-      "discord_members": 151,
+      "discord_members": 142,
       "facebook_members": null,
-      "market_cap": 135520729.0,
-      "owner_count": 789,
-      "detail_url": "https://allaaktier.se/bolag/front-ventures"
-    },
-    {
-      "ticker": "Q-LINEA",
-      "company_name": "Q-Linea",
-      "trend7d": 0.36,
-      "discord_members": 211,
-      "facebook_members": null,
-      "market_cap": 282341307.0,
-      "owner_count": 482,
-      "detail_url": "https://allaaktier.se/bolag/q-linea"
+      "market_cap": 260139600.0,
+      "owner_count": 884,
+      "detail_url": "https://allaaktier.se/bolag/argo-defence"
     },
     {
       "ticker": "OVZON",
@@ -453,14 +463,24 @@
       "detail_url": "https://allaaktier.se/bolag/m-o-b-a-network"
     },
     {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
+      "ticker": "SENZIME",
+      "company_name": "Senzime",
       "trend7d": 0.34,
-      "discord_members": 92,
+      "discord_members": 381,
       "facebook_members": null,
-      "market_cap": 572925389.0,
-      "owner_count": 311,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+      "market_cap": 532172931.0,
+      "owner_count": 506,
+      "detail_url": "https://allaaktier.se/bolag/senzime"
+    },
+    {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.34,
+      "discord_members": 90,
+      "facebook_members": null,
+      "market_cap": 50618679270.89,
+      "owner_count": 6934,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "LUXBRIGHT",
@@ -473,71 +493,33 @@
       "detail_url": "https://allaaktier.se/bolag/luxbright"
     },
     {
+      "ticker": "Q-LINEA",
+      "company_name": "Q-Linea",
+      "trend7d": 0.31,
+      "discord_members": 211,
+      "facebook_members": null,
+      "market_cap": 282341307.0,
+      "owner_count": 482,
+      "detail_url": "https://allaaktier.se/bolag/q-linea"
+    },
+    {
       "ticker": "PRECISE-BIOMETRICS",
       "company_name": "Precise Biometrics",
-      "trend7d": 0.31,
+      "trend7d": 0.3,
       "discord_members": 145,
       "facebook_members": 540,
       "market_cap": 141458159.0,
       "owner_count": 4200,
       "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
-    },
-    {
-      "ticker": "PREBONA",
-      "company_name": "Prebona",
-      "trend7d": 0.27,
-      "discord_members": 36,
-      "facebook_members": null,
-      "market_cap": 21161343.0,
-      "owner_count": 153,
-      "detail_url": "https://allaaktier.se/bolag/prebona"
-    },
-    {
-      "ticker": "CALVIKS",
-      "company_name": "Calviks",
-      "trend7d": 0.26,
-      "discord_members": 51,
-      "facebook_members": null,
-      "market_cap": 343318689.0,
-      "owner_count": 127,
-      "detail_url": "https://allaaktier.se/bolag/calviks"
-    },
-    {
-      "ticker": "NEXAR",
-      "company_name": "Nexar",
-      "trend7d": 0.26,
-      "discord_members": 84,
-      "facebook_members": null,
-      "market_cap": 13797812.0,
-      "owner_count": 455,
-      "detail_url": "https://allaaktier.se/bolag/nexar"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [
-    {
-      "ticker": "YUBICO",
-      "company_name": "Yubico",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.833,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 3.333,
-      "sample_posts": [
-        "https://www.flashback.org/sp96282210",
-        "https://www.flashback.org/sp96284061",
-        "https://www.flashback.org/sp96284721"
-      ]
-    }
-  ],
+  "trending": [],
   "stats": {
-    "total_posts_fetched": 85,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 65,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
