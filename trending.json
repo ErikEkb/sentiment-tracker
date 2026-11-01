@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:38:23.697180+00:00",
+  "generated_at": "2026-11-01T20:59:30.843244+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -215,8 +215,8 @@
     {
       "ticker": "ISOFOL-MEDICAL",
       "company_name": "Isofol Medical",
-      "trend7d": 0.95,
-      "discord_members": 1025,
+      "trend7d": 0.92,
+      "discord_members": 1024,
       "facebook_members": 118,
       "market_cap": 383948964.0,
       "owner_count": 1040,
@@ -263,6 +263,26 @@
       "detail_url": "https://allaaktier.se/bolag/hanza"
     },
     {
+      "ticker": "HILBERT-GROUP",
+      "company_name": "Hilbert Group",
+      "trend7d": 0.81,
+      "discord_members": 304,
+      "facebook_members": null,
+      "market_cap": 349109234.0,
+      "owner_count": 1608,
+      "detail_url": "https://allaaktier.se/bolag/hilbert-group"
+    },
+    {
+      "ticker": "PHYSITRACK",
+      "company_name": "Physitrack",
+      "trend7d": 0.81,
+      "discord_members": 359,
+      "facebook_members": null,
+      "market_cap": 188624886.0,
+      "owner_count": 343,
+      "detail_url": "https://allaaktier.se/bolag/physitrack"
+    },
+    {
       "ticker": "SCANDIC-HOTELS",
       "company_name": "Scandic Hotels",
       "trend7d": 0.76,
@@ -283,16 +303,6 @@
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.73,
-      "discord_members": 1072,
-      "facebook_members": 289,
-      "market_cap": 2731951737.0,
-      "owner_count": 2203,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
-    },
-    {
       "ticker": "INTRUM",
       "company_name": "Intrum",
       "trend7d": 0.71,
@@ -303,24 +313,14 @@
       "detail_url": "https://allaaktier.se/bolag/intrum"
     },
     {
-      "ticker": "PHYSITRACK",
-      "company_name": "Physitrack",
-      "trend7d": 0.71,
-      "discord_members": 358,
-      "facebook_members": null,
-      "market_cap": 188624886.0,
-      "owner_count": 343,
-      "detail_url": "https://allaaktier.se/bolag/physitrack"
-    },
-    {
-      "ticker": "HILBERT-GROUP",
-      "company_name": "Hilbert Group",
-      "trend7d": 0.7,
-      "discord_members": 303,
-      "facebook_members": null,
-      "market_cap": 349109234.0,
-      "owner_count": 1608,
-      "detail_url": "https://allaaktier.se/bolag/hilbert-group"
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.66,
+      "discord_members": 1070,
+      "facebook_members": 289,
+      "market_cap": 2731951737.0,
+      "owner_count": 2203,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "SOLIDX",
@@ -516,7 +516,25 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet Inc.",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.333,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp96288884",
+        "https://www.flashback.org/sp96290987",
+        "https://www.flashback.org/sp96292461"
+      ]
+    }
+  ],
   "stats": {
     "total_posts_fetched": 65,
     "tickers_with_any_mentions": 1,
