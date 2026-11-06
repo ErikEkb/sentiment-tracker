@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T02:03:43.179252+00:00",
+  "generated_at": "2026-11-06T10:31:57.984559+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,27 +15,27 @@
     {
       "ticker": "ACARIX",
       "company_name": "Acarix",
-      "trend7d": 7.53,
+      "trend7d": 6.87,
       "discord_members": 204,
       "facebook_members": 395,
       "market_cap": 212871787.0,
-      "owner_count": 1285,
+      "owner_count": 1282,
       "detail_url": "https://allaaktier.se/bolag/acarix"
     },
     {
       "ticker": "MUNTERS-GROUP",
       "company_name": "Munters Group",
-      "trend7d": 4.9,
-      "discord_members": 68,
+      "trend7d": 5.36,
+      "discord_members": 69,
       "facebook_members": null,
       "market_cap": 23739721048.0,
-      "owner_count": 4585,
+      "owner_count": 4581,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
       "ticker": "DEVYSER-DIAGNOSTICS",
       "company_name": "Devyser Diagnostics",
-      "trend7d": 2.66,
+      "trend7d": 2.84,
       "discord_members": 142,
       "facebook_members": null,
       "market_cap": 1141750886.0,
@@ -45,77 +45,77 @@
     {
       "ticker": "ANNEXIN-PHARMACEUTICALS",
       "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 2.07,
-      "discord_members": 311,
+      "trend7d": 2.82,
+      "discord_members": 318,
       "facebook_members": null,
       "market_cap": 69571092.0,
-      "owner_count": 284,
+      "owner_count": 283,
       "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
-    },
-    {
-      "ticker": "OREXO",
-      "company_name": "Orexo",
-      "trend7d": 1.82,
-      "discord_members": 327,
-      "facebook_members": 503,
-      "market_cap": 51647728.0,
-      "owner_count": 757,
-      "detail_url": "https://allaaktier.se/bolag/orexo"
-    },
-    {
-      "ticker": "NICOCCINO",
-      "company_name": "Nicoccino",
-      "trend7d": 1.38,
-      "discord_members": 28,
-      "facebook_members": null,
-      "market_cap": 50649781.0,
-      "owner_count": 345,
-      "detail_url": "https://allaaktier.se/bolag/nicoccino"
-    },
-    {
-      "ticker": "2020-BULKERS",
-      "company_name": "2020 Bulkers",
-      "trend7d": 1.36,
-      "discord_members": 36,
-      "facebook_members": 722,
-      "market_cap": 11306370654.25,
-      "owner_count": 5960,
-      "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
-    },
-    {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 1.24,
-      "discord_members": 167,
-      "facebook_members": null,
-      "market_cap": 5996056998.0,
-      "owner_count": 2581,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
-    },
-    {
-      "ticker": "ZINZINO",
-      "company_name": "Zinzino",
-      "trend7d": 1.19,
-      "discord_members": 77,
-      "facebook_members": null,
-      "market_cap": 4574264071.0,
-      "owner_count": 2819,
-      "detail_url": "https://allaaktier.se/bolag/zinzino"
     },
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.11,
+      "trend7d": 1.74,
       "discord_members": 751,
       "facebook_members": 363,
       "market_cap": 297126418.0,
-      "owner_count": 551,
+      "owner_count": 558,
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
+    },
+    {
+      "ticker": "OREXO",
+      "company_name": "Orexo",
+      "trend7d": 1.72,
+      "discord_members": 327,
+      "facebook_members": 503,
+      "market_cap": 51647728.0,
+      "owner_count": 756,
+      "detail_url": "https://allaaktier.se/bolag/orexo"
+    },
+    {
+      "ticker": "2020-BULKERS",
+      "company_name": "2020 Bulkers",
+      "trend7d": 1.51,
+      "discord_members": 36,
+      "facebook_members": 722,
+      "market_cap": 11337360278.31,
+      "owner_count": 5999,
+      "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
+    },
+    {
+      "ticker": "NICOCCINO",
+      "company_name": "Nicoccino",
+      "trend7d": 1.28,
+      "discord_members": 28,
+      "facebook_members": null,
+      "market_cap": 50649781.0,
+      "owner_count": 344,
+      "detail_url": "https://allaaktier.se/bolag/nicoccino"
+    },
+    {
+      "ticker": "ZINZINO",
+      "company_name": "Zinzino",
+      "trend7d": 1.27,
+      "discord_members": 77,
+      "facebook_members": null,
+      "market_cap": 4574264071.0,
+      "owner_count": 2823,
+      "detail_url": "https://allaaktier.se/bolag/zinzino"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 1.16,
+      "discord_members": 167,
+      "facebook_members": null,
+      "market_cap": 5996056998.0,
+      "owner_count": 2577,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "HUNTER-CAPITAL",
       "company_name": "Hunter Capital",
-      "trend7d": 1.03,
+      "trend7d": 0.99,
       "discord_members": 90,
       "facebook_members": null,
       "market_cap": 39865590.0,
@@ -125,18 +125,28 @@
     {
       "ticker": "ALLIGATOR-BIOSCIENCE",
       "company_name": "Alligator Bioscience",
-      "trend7d": 0.96,
+      "trend7d": 0.85,
       "discord_members": 552,
       "facebook_members": null,
       "market_cap": 37108311.0,
-      "owner_count": 1625,
+      "owner_count": 1624,
       "detail_url": "https://allaaktier.se/bolag/alligator-bioscience"
+    },
+    {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.81,
+      "discord_members": 1098,
+      "facebook_members": 289,
+      "market_cap": 2833343761.0,
+      "owner_count": 2203,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "CERENO-SCIENTIFIC",
       "company_name": "Cereno Scientific",
-      "trend7d": 0.8,
-      "discord_members": 4580,
+      "trend7d": 0.81,
+      "discord_members": 4582,
       "facebook_members": 488,
       "market_cap": 528850363.0,
       "owner_count": 1523,
@@ -145,7 +155,7 @@
     {
       "ticker": "SENZIME",
       "company_name": "Senzime",
-      "trend7d": 0.77,
+      "trend7d": 0.8,
       "discord_members": 380,
       "facebook_members": null,
       "market_cap": 511734975.0,
@@ -153,84 +163,94 @@
       "detail_url": "https://allaaktier.se/bolag/senzime"
     },
     {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.68,
-      "discord_members": 1095,
-      "facebook_members": 289,
-      "market_cap": 2833343761.0,
-      "owner_count": 2196,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
-    },
-    {
-      "ticker": "HANSA-BIOPHARMA",
-      "company_name": "Hansa Biopharma",
-      "trend7d": 0.62,
-      "discord_members": 1176,
-      "facebook_members": 2135,
-      "market_cap": 4050176236.0,
-      "owner_count": 3663,
-      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
-    },
-    {
-      "ticker": "ISOFOL-MEDICAL",
-      "company_name": "Isofol Medical",
-      "trend7d": 0.53,
-      "discord_members": 1023,
-      "facebook_members": 118,
-      "market_cap": 407665344.0,
-      "owner_count": 1048,
-      "detail_url": "https://allaaktier.se/bolag/isofol-medical"
-    },
-    {
       "ticker": "EMB-MISSION-BOUND",
       "company_name": "EMB Mission Bound",
-      "trend7d": 0.49,
+      "trend7d": 0.7,
       "discord_members": 93,
       "facebook_members": null,
       "market_cap": 156826845.0,
-      "owner_count": 99,
+      "owner_count": 100,
       "detail_url": "https://allaaktier.se/bolag/emb-mission-bound"
     },
     {
-      "ticker": "SPRINT-BIOSCIENCE",
-      "company_name": "Sprint Bioscience",
-      "trend7d": 0.44,
-      "discord_members": 707,
-      "facebook_members": 396,
-      "market_cap": 385131714.0,
-      "owner_count": 789,
-      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
+      "ticker": "ATLAS-COPCO",
+      "company_name": "Atlas Copco",
+      "trend7d": 0.59,
+      "discord_members": 101,
+      "facebook_members": null,
+      "market_cap": 873448153891.0,
+      "owner_count": 17596,
+      "detail_url": "https://allaaktier.se/bolag/atlas-copco"
     },
     {
       "ticker": "DLABORATORY-SWEDEN",
       "company_name": "Dlaboratory Sweden",
-      "trend7d": 0.43,
+      "trend7d": 0.58,
       "discord_members": 133,
       "facebook_members": null,
       "market_cap": 101522171.0,
-      "owner_count": 220,
+      "owner_count": 221,
       "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
     },
     {
-      "ticker": "PLEJD",
-      "company_name": "Plejd",
-      "trend7d": 0.4,
-      "discord_members": 476,
-      "facebook_members": 2766,
-      "market_cap": 9506964056.0,
-      "owner_count": 5193,
-      "detail_url": "https://allaaktier.se/bolag/plejd"
+      "ticker": "UNIBAP",
+      "company_name": "Unibap",
+      "trend7d": 0.58,
+      "discord_members": 415,
+      "facebook_members": 507,
+      "market_cap": 706292967.0,
+      "owner_count": 795,
+      "detail_url": "https://allaaktier.se/bolag/unibap"
     },
     {
-      "ticker": "FREEMELT",
-      "company_name": "Freemelt",
+      "ticker": "ISOFOL-MEDICAL",
+      "company_name": "Isofol Medical",
+      "trend7d": 0.56,
+      "discord_members": 1022,
+      "facebook_members": 118,
+      "market_cap": 407665344.0,
+      "owner_count": 1050,
+      "detail_url": "https://allaaktier.se/bolag/isofol-medical"
+    },
+    {
+      "ticker": "SPRINT-BIOSCIENCE",
+      "company_name": "Sprint Bioscience",
+      "trend7d": 0.54,
+      "discord_members": 707,
+      "facebook_members": 396,
+      "market_cap": 385131714.0,
+      "owner_count": 792,
+      "detail_url": "https://allaaktier.se/bolag/sprint-bioscience"
+    },
+    {
+      "ticker": "HANSA-BIOPHARMA",
+      "company_name": "Hansa Biopharma",
+      "trend7d": 0.52,
+      "discord_members": 1176,
+      "facebook_members": 2135,
+      "market_cap": 4050176236.0,
+      "owner_count": 3656,
+      "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
+    },
+    {
+      "ticker": "CLOETTA",
+      "company_name": "Cloetta",
+      "trend7d": 0.47,
+      "discord_members": 50,
+      "facebook_members": null,
+      "market_cap": 17865534608.0,
+      "owner_count": 5498,
+      "detail_url": "https://allaaktier.se/bolag/cloetta"
+    },
+    {
+      "ticker": "ZAPTEC",
+      "company_name": "Zaptec",
       "trend7d": 0.38,
-      "discord_members": 588,
-      "facebook_members": 52,
-      "market_cap": 294643104.0,
-      "owner_count": 1053,
-      "detail_url": "https://allaaktier.se/bolag/freemelt"
+      "discord_members": 170,
+      "facebook_members": 558,
+      "market_cap": 4988806071.25,
+      "owner_count": 13179,
+      "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
     {
       "ticker": "XBRANE-BIOPHARMA",
@@ -243,14 +263,14 @@
       "detail_url": "https://allaaktier.se/bolag/xbrane-biopharma"
     },
     {
-      "ticker": "ONLINE-BRANDS-NORDIC",
-      "company_name": "Online Brands Nordic",
-      "trend7d": 0.37,
-      "discord_members": 91,
-      "facebook_members": null,
-      "market_cap": 532517553.0,
-      "owner_count": 315,
-      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.38,
+      "discord_members": 476,
+      "facebook_members": 2766,
+      "market_cap": 9506964056.0,
+      "owner_count": 5191,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
     },
     {
       "ticker": "CHARGEPANEL",
@@ -263,24 +283,14 @@
       "detail_url": "https://allaaktier.se/bolag/chargepanel"
     },
     {
-      "ticker": "UNIBAP",
-      "company_name": "Unibap",
-      "trend7d": 0.35,
-      "discord_members": 414,
-      "facebook_members": 507,
-      "market_cap": 706292967.0,
-      "owner_count": 792,
-      "detail_url": "https://allaaktier.se/bolag/unibap"
-    },
-    {
-      "ticker": "HYDROGENPRO",
-      "company_name": "HydrogenPro",
+      "ticker": "FREEMELT",
+      "company_name": "Freemelt",
       "trend7d": 0.34,
-      "discord_members": 163,
-      "facebook_members": 283,
-      "market_cap": 60301747.08,
-      "owner_count": 2697,
-      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
+      "discord_members": 588,
+      "facebook_members": 52,
+      "market_cap": 294643104.0,
+      "owner_count": 1052,
+      "detail_url": "https://allaaktier.se/bolag/freemelt"
     },
     {
       "ticker": "KINDA-BRAVE-ENTERTAINMENT",
@@ -289,18 +299,18 @@
       "discord_members": 406,
       "facebook_members": null,
       "market_cap": 125299764.0,
-      "owner_count": 626,
+      "owner_count": 627,
       "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
-      "ticker": "CLOETTA",
-      "company_name": "Cloetta",
-      "trend7d": 0.3,
-      "discord_members": 50,
+      "ticker": "KLIMATOR",
+      "company_name": "Klimator",
+      "trend7d": 0.29,
+      "discord_members": 36,
       "facebook_members": null,
-      "market_cap": 17865534608.0,
-      "owner_count": 5483,
-      "detail_url": "https://allaaktier.se/bolag/cloetta"
+      "market_cap": 131828796.0,
+      "owner_count": 136,
+      "detail_url": "https://allaaktier.se/bolag/klimator"
     },
     {
       "ticker": "HACKSAW",
@@ -309,8 +319,18 @@
       "discord_members": 528,
       "facebook_members": null,
       "market_cap": 16281734068.0,
-      "owner_count": 4522,
+      "owner_count": 4510,
       "detail_url": "https://allaaktier.se/bolag/hacksaw"
+    },
+    {
+      "ticker": "TRANSFER-GROUP",
+      "company_name": "Transfer Group",
+      "trend7d": 0.28,
+      "discord_members": 132,
+      "facebook_members": 738,
+      "market_cap": 53262891.0,
+      "owner_count": 1177,
+      "detail_url": "https://allaaktier.se/bolag/transfer-group"
     },
     {
       "ticker": "USWE-SPORTS",
@@ -323,29 +343,19 @@
       "detail_url": "https://allaaktier.se/bolag/uswe-sports"
     },
     {
-      "ticker": "ATLAS-COPCO",
-      "company_name": "Atlas Copco",
-      "trend7d": 0.27,
-      "discord_members": 100,
-      "facebook_members": null,
-      "market_cap": 873448153891.0,
-      "owner_count": 17601,
-      "detail_url": "https://allaaktier.se/bolag/atlas-copco"
-    },
-    {
-      "ticker": "MILDEF-GROUP",
-      "company_name": "Mildef Group",
-      "trend7d": 0.27,
-      "discord_members": 473,
-      "facebook_members": null,
-      "market_cap": 11750454813.0,
-      "owner_count": 7686,
-      "detail_url": "https://allaaktier.se/bolag/mildef-group"
+      "ticker": "HYDROGENPRO",
+      "company_name": "HydrogenPro",
+      "trend7d": 0.26,
+      "discord_members": 163,
+      "facebook_members": 283,
+      "market_cap": 60467014.01,
+      "owner_count": 2692,
+      "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
     {
       "ticker": "BYHMGARD",
       "company_name": "Byhmgard",
-      "trend7d": 0.27,
+      "trend7d": 0.26,
       "discord_members": 77,
       "facebook_members": 614,
       "market_cap": 184077731.0,
@@ -353,34 +363,44 @@
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
     },
     {
-      "ticker": "SCANDINAVIAN-REAL-HEART",
-      "company_name": "Scandinavian Real Heart",
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
       "trend7d": 0.26,
-      "discord_members": 438,
-      "facebook_members": 568,
-      "market_cap": 141913210.0,
-      "owner_count": 430,
-      "detail_url": "https://allaaktier.se/bolag/scandinavian-real-heart"
+      "discord_members": 1420,
+      "facebook_members": 1546,
+      "market_cap": 8608373768.0,
+      "owner_count": 5510,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
     },
     {
-      "ticker": "TRANSFER-GROUP",
-      "company_name": "Transfer Group",
-      "trend7d": 0.26,
-      "discord_members": 132,
-      "facebook_members": 738,
-      "market_cap": 53262891.0,
-      "owner_count": 1176,
-      "detail_url": "https://allaaktier.se/bolag/transfer-group"
+      "ticker": "ORGANOCLICK",
+      "company_name": "OrganoClick",
+      "trend7d": 0.25,
+      "discord_members": 64,
+      "facebook_members": 229,
+      "market_cap": 89594146.0,
+      "owner_count": 638,
+      "detail_url": "https://allaaktier.se/bolag/organoclick"
     },
     {
-      "ticker": "ZAPTEC",
-      "company_name": "Zaptec",
-      "trend7d": 0.24,
-      "discord_members": 170,
-      "facebook_members": 558,
-      "market_cap": 4975169632.0,
-      "owner_count": 13130,
-      "detail_url": "https://allaaktier.se/bolag/zaptec"
+      "ticker": "MILDEF-GROUP",
+      "company_name": "Mildef Group",
+      "trend7d": 0.22,
+      "discord_members": 473,
+      "facebook_members": null,
+      "market_cap": 11750454813.0,
+      "owner_count": 7681,
+      "detail_url": "https://allaaktier.se/bolag/mildef-group"
+    },
+    {
+      "ticker": "ONLINE-BRANDS-NORDIC",
+      "company_name": "Online Brands Nordic",
+      "trend7d": 0.22,
+      "discord_members": 91,
+      "facebook_members": null,
+      "market_cap": 532517553.0,
+      "owner_count": 313,
+      "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
       "ticker": "THINC",
@@ -393,14 +413,14 @@
       "detail_url": "https://allaaktier.se/bolag/thinc"
     },
     {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.21,
-      "discord_members": 1420,
-      "facebook_members": 1546,
-      "market_cap": 8608373768.0,
-      "owner_count": 5504,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+      "ticker": "HEMPLY-BALANCE",
+      "company_name": "Hemply Balance",
+      "trend7d": 0.2,
+      "discord_members": 103,
+      "facebook_members": null,
+      "market_cap": 180798490.0,
+      "owner_count": 212,
+      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
       "ticker": "NYAB",
@@ -409,18 +429,38 @@
       "discord_members": 213,
       "facebook_members": null,
       "market_cap": 5547085602.0,
-      "owner_count": 1966,
+      "owner_count": 1972,
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
-      "ticker": "TROPHY-GAMES-DEVELOPMENT",
-      "company_name": "Trophy Games Development",
+      "ticker": "CANDLES-SCANDINAVIA",
+      "company_name": "Candles Scandinavia",
+      "trend7d": 0.18,
+      "discord_members": 42,
+      "facebook_members": 166,
+      "market_cap": 302812266.0,
+      "owner_count": 314,
+      "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
+    },
+    {
+      "ticker": "SCANDINAVIAN-REAL-HEART",
+      "company_name": "Scandinavian Real Heart",
+      "trend7d": 0.18,
+      "discord_members": 438,
+      "facebook_members": 568,
+      "market_cap": 141913210.0,
+      "owner_count": 429,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-real-heart"
+    },
+    {
+      "ticker": "PREBONA",
+      "company_name": "Prebona",
       "trend7d": 0.17,
-      "discord_members": 28,
+      "discord_members": 36,
       "facebook_members": null,
-      "market_cap": 569650797.14,
-      "owner_count": 1783,
-      "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
+      "market_cap": 19116339.0,
+      "owner_count": 154,
+      "detail_url": "https://allaaktier.se/bolag/prebona"
     },
     {
       "ticker": "SOTKAMO-SILVER",
@@ -429,94 +469,70 @@
       "discord_members": 144,
       "facebook_members": null,
       "market_cap": 937533182.0,
-      "owner_count": 2281,
+      "owner_count": 2280,
       "detail_url": "https://allaaktier.se/bolag/sotkamo-silver"
-    },
-    {
-      "ticker": "HEMPLY-BALANCE",
-      "company_name": "Hemply Balance",
-      "trend7d": 0.14,
-      "discord_members": 103,
-      "facebook_members": null,
-      "market_cap": 180798490.0,
-      "owner_count": 212,
-      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
-    },
-    {
-      "ticker": "CAMURUS",
-      "company_name": "Camurus",
-      "trend7d": 0.13,
-      "discord_members": 248,
-      "facebook_members": null,
-      "market_cap": 43420934928.0,
-      "owner_count": 2593,
-      "detail_url": "https://allaaktier.se/bolag/camurus"
-    },
-    {
-      "ticker": "SODER-SPORTFISKE",
-      "company_name": "Söder Sportfiske",
-      "trend7d": 0.13,
-      "discord_members": 72,
-      "facebook_members": null,
-      "market_cap": 167703881.0,
-      "owner_count": 258,
-      "detail_url": "https://allaaktier.se/bolag/soder-sportfiske"
-    },
-    {
-      "ticker": "NOTE",
-      "company_name": "NOTE",
-      "trend7d": 0.13,
-      "discord_members": 42,
-      "facebook_members": null,
-      "market_cap": 4365080940.0,
-      "owner_count": 2653,
-      "detail_url": "https://allaaktier.se/bolag/note"
-    },
-    {
-      "ticker": "EATGOOD",
-      "company_name": "EatGood",
-      "trend7d": 0.12,
-      "discord_members": 71,
-      "facebook_members": null,
-      "market_cap": 4408556.0,
-      "owner_count": 212,
-      "detail_url": "https://allaaktier.se/bolag/eatgood"
-    },
-    {
-      "ticker": "EDYOUTEC",
-      "company_name": "edyoutec",
-      "trend7d": 0.12,
-      "discord_members": 230,
-      "facebook_members": 176,
-      "market_cap": 14794299.0,
-      "owner_count": 345,
-      "detail_url": "https://allaaktier.se/bolag/edyoutec"
-    },
-    {
-      "ticker": "PRECISE-BIOMETRICS",
-      "company_name": "Precise Biometrics",
-      "trend7d": 0.12,
-      "discord_members": 146,
-      "facebook_members": 540,
-      "market_cap": 148585896.0,
-      "owner_count": 4193,
-      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
     },
     {
       "ticker": "INFANT-BACTERIAL-THERAPEUTICS",
       "company_name": "Infant Bacterial Therapeutics",
-      "trend7d": 0.1,
+      "trend7d": 0.15,
       "discord_members": 298,
       "facebook_members": null,
       "market_cap": 996885080.0,
-      "owner_count": 693,
+      "owner_count": 694,
       "detail_url": "https://allaaktier.se/bolag/infant-bacterial-therapeutics"
+    },
+    {
+      "ticker": "PRECISE-BIOMETRICS",
+      "company_name": "Precise Biometrics",
+      "trend7d": 0.15,
+      "discord_members": 146,
+      "facebook_members": 540,
+      "market_cap": 148585896.0,
+      "owner_count": 4198,
+      "detail_url": "https://allaaktier.se/bolag/precise-biometrics"
+    },
+    {
+      "ticker": "TROPHY-GAMES-DEVELOPMENT",
+      "company_name": "Trophy Games Development",
+      "trend7d": 0.11,
+      "discord_members": 28,
+      "facebook_members": null,
+      "market_cap": 570403825.99,
+      "owner_count": 1780,
+      "detail_url": "https://allaaktier.se/bolag/trophy-games-development"
+    },
+    {
+      "ticker": "PAXMAN",
+      "company_name": "Paxman",
+      "trend7d": 0.11,
+      "discord_members": 235,
+      "facebook_members": null,
+      "market_cap": 1459243183.0,
+      "owner_count": 579,
+      "detail_url": "https://allaaktier.se/bolag/paxman"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
+    {
+      "ticker": "SBB-B-SBB-D",
+      "company_name": "Samhällsbyggnadsbolaget i Norden",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.333,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 0.667,
+      "sample_posts": [
+        "https://www.flashback.org/sp96324535",
+        "https://www.flashback.org/sp96328963"
+      ]
+    },
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc.",
@@ -536,8 +552,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 34,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 46,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
