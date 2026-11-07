@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:09:54.415924+00:00",
+  "generated_at": "2026-11-07T20:42:44.370951+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ACARIX",
       "company_name": "Acarix",
-      "trend7d": 7.32,
-      "discord_members": 210,
+      "trend7d": 7.51,
+      "discord_members": 211,
       "facebook_members": 395,
       "market_cap": 212871787.0,
       "owner_count": 1282,
@@ -125,8 +125,8 @@
     {
       "ticker": "CERENO-SCIENTIFIC",
       "company_name": "Cereno Scientific",
-      "trend7d": 0.84,
-      "discord_members": 4586,
+      "trend7d": 0.83,
+      "discord_members": 4585,
       "facebook_members": 488,
       "market_cap": 528850363.0,
       "owner_count": 1523,
@@ -135,8 +135,8 @@
     {
       "ticker": "ISOFOL-MEDICAL",
       "company_name": "Isofol Medical",
-      "trend7d": 0.67,
-      "discord_members": 1021,
+      "trend7d": 0.63,
+      "discord_members": 1020,
       "facebook_members": 118,
       "market_cap": 407665344.0,
       "owner_count": 1050,
@@ -213,6 +213,16 @@
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.42,
+      "discord_members": 1423,
+      "facebook_members": 1546,
+      "market_cap": 8608373768.0,
+      "owner_count": 5510,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+    },
+    {
       "ticker": "DLABORATORY-SWEDEN",
       "company_name": "Dlaboratory Sweden",
       "trend7d": 0.4,
@@ -233,16 +243,6 @@
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.39,
-      "discord_members": 1422,
-      "facebook_members": 1546,
-      "market_cap": 8608373768.0,
-      "owner_count": 5510,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
-    },
-    {
       "ticker": "ZAPTEC",
       "company_name": "Zaptec",
       "trend7d": 0.38,
@@ -253,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
     {
+      "ticker": "FREEMELT",
+      "company_name": "Freemelt",
+      "trend7d": 0.36,
+      "discord_members": 588,
+      "facebook_members": 52,
+      "market_cap": 294643104.0,
+      "owner_count": 1052,
+      "detail_url": "https://allaaktier.se/bolag/freemelt"
+    },
+    {
       "ticker": "CHARGEPANEL",
       "company_name": "ChargePanel",
       "trend7d": 0.3,
@@ -261,16 +271,6 @@
       "market_cap": 104491625.0,
       "owner_count": 361,
       "detail_url": "https://allaaktier.se/bolag/chargepanel"
-    },
-    {
-      "ticker": "FREEMELT",
-      "company_name": "Freemelt",
-      "trend7d": 0.3,
-      "discord_members": 587,
-      "facebook_members": 52,
-      "market_cap": 294643104.0,
-      "owner_count": 1052,
-      "detail_url": "https://allaaktier.se/bolag/freemelt"
     },
     {
       "ticker": "KLIMATOR",
@@ -503,36 +503,20 @@
       "detail_url": "https://allaaktier.se/bolag/note"
     },
     {
-      "ticker": "XBRANE-BIOPHARMA",
-      "company_name": "Xbrane Biopharma",
-      "trend7d": 0.07,
-      "discord_members": 924,
-      "facebook_members": 1532,
-      "market_cap": 268899791.0,
-      "owner_count": 1121,
-      "detail_url": "https://allaaktier.se/bolag/xbrane-biopharma"
+      "ticker": "GAMING-CORPS",
+      "company_name": "Gaming Corps",
+      "trend7d": 0.05,
+      "discord_members": 133,
+      "facebook_members": null,
+      "market_cap": 98609359.0,
+      "owner_count": 474,
+      "detail_url": "https://allaaktier.se/bolag/gaming-corps"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
   "trending": [
-    {
-      "ticker": "RHMD",
-      "company_name": "Rheinmetall AG",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 1.0,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp96336642",
-        "https://www.flashback.org/sp96336699"
-      ]
-    },
     {
       "ticker": "NOKIA-SEK",
       "company_name": "Nokia",
@@ -548,22 +532,6 @@
         "https://www.flashback.org/sp96333213",
         "https://www.flashback.org/sp96333244",
         "https://www.flashback.org/sp96334205"
-      ]
-    },
-    {
-      "ticker": "WISA",
-      "company_name": "WISA Group Oyj",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp96328664",
-        "https://www.flashback.org/sp96333831"
       ]
     },
     {
@@ -597,11 +565,27 @@
         "https://www.flashback.org/sp96335510",
         "https://www.flashback.org/sp96336997"
       ]
+    },
+    {
+      "ticker": "ENITY",
+      "company_name": "Enity Holding AB",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 2,
+      "velocity_mentions_per_day": 0.67,
+      "avg_sentiment": 0.5,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp96332016",
+        "https://www.flashback.org/sp96332103"
+      ]
     }
   ],
   "stats": {
     "total_posts_fetched": 64,
-    "tickers_with_any_mentions": 5,
+    "tickers_with_any_mentions": 4,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
