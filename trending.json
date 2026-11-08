@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:14:26.146091+00:00",
+  "generated_at": "2026-11-08T19:24:34.210246+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -15,8 +15,8 @@
     {
       "ticker": "ACARIX",
       "company_name": "Acarix",
-      "trend7d": 6.75,
-      "discord_members": 212,
+      "trend7d": 6.94,
+      "discord_members": 213,
       "facebook_members": 395,
       "market_cap": 212871787.0,
       "owner_count": 1282,
@@ -103,24 +103,24 @@
       "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
-      "ticker": "CERENO-SCIENTIFIC",
-      "company_name": "Cereno Scientific",
-      "trend7d": 0.91,
-      "discord_members": 4584,
-      "facebook_members": 488,
-      "market_cap": 528850363.0,
-      "owner_count": 1523,
-      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
-    },
-    {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 0.89,
-      "discord_members": 1102,
+      "trend7d": 0.92,
+      "discord_members": 1103,
       "facebook_members": 289,
       "market_cap": 2833343761.0,
       "owner_count": 2203,
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
+      "ticker": "CERENO-SCIENTIFIC",
+      "company_name": "Cereno Scientific",
+      "trend7d": 0.92,
+      "discord_members": 4586,
+      "facebook_members": 488,
+      "market_cap": 528850363.0,
+      "owner_count": 1523,
+      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     },
     {
       "ticker": "ISOFOL-MEDICAL",
@@ -233,16 +233,6 @@
       "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
     },
     {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
-      "trend7d": 0.31,
-      "discord_members": 1421,
-      "facebook_members": 1546,
-      "market_cap": 8608373768.0,
-      "owner_count": 5510,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
-    },
-    {
       "ticker": "CHARGEPANEL",
       "company_name": "ChargePanel",
       "trend7d": 0.3,
@@ -251,6 +241,16 @@
       "market_cap": 104491625.0,
       "owner_count": 361,
       "detail_url": "https://allaaktier.se/bolag/chargepanel"
+    },
+    {
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.29,
+      "discord_members": 1420,
+      "facebook_members": 1546,
+      "market_cap": 8608373768.0,
+      "owner_count": 5510,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
     },
     {
       "ticker": "HYDROGENPRO",
@@ -393,16 +393,6 @@
       "detail_url": "https://allaaktier.se/bolag/soder-sportfiske"
     },
     {
-      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
-      "company_name": "Kinda Brave Entertainment",
-      "trend7d": 0.13,
-      "discord_members": 404,
-      "facebook_members": null,
-      "market_cap": 125299764.0,
-      "owner_count": 627,
-      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
-    },
-    {
       "ticker": "NOTE",
       "company_name": "NOTE",
       "trend7d": 0.12,
@@ -461,6 +451,16 @@
       "market_cap": 30240539.0,
       "owner_count": 152,
       "detail_url": "https://allaaktier.se/bolag/safe-at-sea"
+    },
+    {
+      "ticker": "KINDA-BRAVE-ENTERTAINMENT",
+      "company_name": "Kinda Brave Entertainment",
+      "trend7d": 0.05,
+      "discord_members": 403,
+      "facebook_members": null,
+      "market_cap": 125299764.0,
+      "owner_count": 627,
+      "detail_url": "https://allaaktier.se/bolag/kinda-brave-entertainment"
     },
     {
       "ticker": "NORDIC-IRON-ORE",
@@ -533,45 +533,11 @@
         "https://www.flashback.org/sp96341058",
         "https://www.flashback.org/sp96341117"
       ]
-    },
-    {
-      "ticker": "NOKIA-SEK",
-      "company_name": "Nokia",
-      "sector": "Discovered",
-      "discovered": true,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.3,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 1.2,
-      "sample_posts": [
-        "https://www.flashback.org/sp96334205",
-        "https://www.flashback.org/sp96338921",
-        "https://www.flashback.org/sp96339426"
-      ]
-    },
-    {
-      "ticker": "HUFV-A",
-      "company_name": "Hufvudstaden A",
-      "sector": "Real Estate",
-      "discovered": false,
-      "mentions": 3,
-      "velocity_mentions_per_day": 1.0,
-      "avg_sentiment": 0.222,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 0.667,
-      "sample_posts": [
-        "https://www.flashback.org/sp96335510",
-        "https://www.flashback.org/sp96336997",
-        "https://www.flashback.org/sp96339583"
-      ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 54,
-    "tickers_with_any_mentions": 4,
+    "total_posts_fetched": 49,
+    "tickers_with_any_mentions": 2,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
