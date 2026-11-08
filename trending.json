@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:24:34.210246+00:00",
+  "generated_at": "2026-11-08T23:29:06.488344+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -105,8 +105,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 0.92,
-      "discord_members": 1103,
+      "trend7d": 0.95,
+      "discord_members": 1104,
       "facebook_members": 289,
       "market_cap": 2833343761.0,
       "owner_count": 2203,
@@ -258,7 +258,7 @@
       "trend7d": 0.27,
       "discord_members": 163,
       "facebook_members": 283,
-      "market_cap": 60080865.79,
+      "market_cap": 60080798.5,
       "owner_count": 2692,
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
@@ -373,16 +373,6 @@
       "detail_url": "https://allaaktier.se/bolag/candles-scandinavia"
     },
     {
-      "ticker": "SLEEP-CYCLE",
-      "company_name": "Sleep Cycle",
-      "trend7d": 0.15,
-      "discord_members": 61,
-      "facebook_members": null,
-      "market_cap": 491730903.0,
-      "owner_count": 377,
-      "detail_url": "https://allaaktier.se/bolag/sleep-cycle"
-    },
-    {
       "ticker": "SODER-SPORTFISKE",
       "company_name": "Söder Sportfiske",
       "trend7d": 0.13,
@@ -401,6 +391,16 @@
       "market_cap": 4365080940.0,
       "owner_count": 2650,
       "detail_url": "https://allaaktier.se/bolag/note"
+    },
+    {
+      "ticker": "SLEEP-CYCLE",
+      "company_name": "Sleep Cycle",
+      "trend7d": 0.11,
+      "discord_members": 61,
+      "facebook_members": null,
+      "market_cap": 491730903.0,
+      "owner_count": 377,
+      "detail_url": "https://allaaktier.se/bolag/sleep-cycle"
     },
     {
       "ticker": "MILDEF-GROUP",
@@ -536,8 +536,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 49,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 53,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
