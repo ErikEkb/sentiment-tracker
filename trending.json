@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:35:36.949428+00:00",
+  "generated_at": "2026-11-10T00:00:07.165045+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,10 +33,20 @@
       "detail_url": "https://allaaktier.se/bolag/munters-group"
     },
     {
+      "ticker": "FERROAMP",
+      "company_name": "Ferroamp",
+      "trend7d": 4.95,
+      "discord_members": 61,
+      "facebook_members": null,
+      "market_cap": 338253001.0,
+      "owner_count": 1000,
+      "detail_url": "https://allaaktier.se/bolag/ferroamp"
+    },
+    {
       "ticker": "ANNEXIN-PHARMACEUTICALS",
       "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 4.42,
-      "discord_members": 325,
+      "trend7d": 4.76,
+      "discord_members": 328,
       "facebook_members": null,
       "market_cap": 69571092.0,
       "owner_count": 287,
@@ -45,8 +55,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.56,
-      "discord_members": 753,
+      "trend7d": 1.61,
+      "discord_members": 754,
       "facebook_members": 363,
       "market_cap": 297126418.0,
       "owner_count": 559,
@@ -65,12 +75,22 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 1.14,
-      "discord_members": 1106,
+      "trend7d": 1.21,
+      "discord_members": 1108,
       "facebook_members": 289,
       "market_cap": 2833343761.0,
       "owner_count": 2206,
       "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
+      "ticker": "RAYSEARCH-LABORATORIES",
+      "company_name": "RaySearch Laboratories",
+      "trend7d": 1.09,
+      "discord_members": 168,
+      "facebook_members": null,
+      "market_cap": 5996056998.0,
+      "owner_count": 2571,
+      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "2020-BULKERS",
@@ -81,16 +101,6 @@
       "market_cap": 11256658132.32,
       "owner_count": 6041,
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
-    },
-    {
-      "ticker": "RAYSEARCH-LABORATORIES",
-      "company_name": "RaySearch Laboratories",
-      "trend7d": 0.87,
-      "discord_members": 167,
-      "facebook_members": null,
-      "market_cap": 5996056998.0,
-      "owner_count": 2570,
-      "detail_url": "https://allaaktier.se/bolag/raysearch-laboratories"
     },
     {
       "ticker": "DEVYSER-DIAGNOSTICS",
@@ -113,6 +123,16 @@
       "detail_url": "https://allaaktier.se/bolag/orexo"
     },
     {
+      "ticker": "ISOFOL-MEDICAL",
+      "company_name": "Isofol Medical",
+      "trend7d": 0.55,
+      "discord_members": 1021,
+      "facebook_members": 118,
+      "market_cap": 407665344.0,
+      "owner_count": 1050,
+      "detail_url": "https://allaaktier.se/bolag/isofol-medical"
+    },
+    {
       "ticker": "NYAB",
       "company_name": "NYAB",
       "trend7d": 0.52,
@@ -121,16 +141,6 @@
       "market_cap": 5547085602.0,
       "owner_count": 1973,
       "detail_url": "https://allaaktier.se/bolag/nyab"
-    },
-    {
-      "ticker": "ISOFOL-MEDICAL",
-      "company_name": "Isofol Medical",
-      "trend7d": 0.52,
-      "discord_members": 1020,
-      "facebook_members": 118,
-      "market_cap": 407665344.0,
-      "owner_count": 1050,
-      "detail_url": "https://allaaktier.se/bolag/isofol-medical"
     },
     {
       "ticker": "DLABORATORY-SWEDEN",
@@ -145,11 +155,11 @@
     {
       "ticker": "HANSA-BIOPHARMA",
       "company_name": "Hansa Biopharma",
-      "trend7d": 0.45,
+      "trend7d": 0.46,
       "discord_members": 1175,
       "facebook_members": 2135,
       "market_cap": 4050176236.0,
-      "owner_count": 3656,
+      "owner_count": 3657,
       "detail_url": "https://allaaktier.se/bolag/hansa-biopharma"
     },
     {
@@ -213,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/organoclick"
     },
     {
+      "ticker": "CINCLUS-PHARMA",
+      "company_name": "Cinclus Pharma",
+      "trend7d": 0.35,
+      "discord_members": 287,
+      "facebook_members": null,
+      "market_cap": 556510518.0,
+      "owner_count": 629,
+      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
+    },
+    {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
       "trend7d": 0.35,
@@ -239,7 +259,7 @@
       "discord_members": 170,
       "facebook_members": 558,
       "market_cap": 4953294510.71,
-      "owner_count": 13178,
+      "owner_count": 13177,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
     },
     {
@@ -265,8 +285,8 @@
     {
       "ticker": "CERENO-SCIENTIFIC",
       "company_name": "Cereno Scientific",
-      "trend7d": 0.28,
-      "discord_members": 4589,
+      "trend7d": 0.29,
+      "discord_members": 4590,
       "facebook_members": 488,
       "market_cap": 528850363.0,
       "owner_count": 1523,
@@ -279,18 +299,8 @@
       "discord_members": 100,
       "facebook_members": null,
       "market_cap": 873448153891.0,
-      "owner_count": 17617,
+      "owner_count": 17618,
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
-    },
-    {
-      "ticker": "CINCLUS-PHARMA",
-      "company_name": "Cinclus Pharma",
-      "trend7d": 0.23,
-      "discord_members": 286,
-      "facebook_members": null,
-      "market_cap": 556510518.0,
-      "owner_count": 629,
-      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
     },
     {
       "ticker": "SPRINT-BIOSCIENCE",
@@ -329,7 +339,7 @@
       "discord_members": 50,
       "facebook_members": null,
       "market_cap": 10928843926309.06,
-      "owner_count": 44654,
+      "owner_count": 44655,
       "detail_url": "https://allaaktier.se/bolag/tesla"
     },
     {
@@ -348,7 +358,7 @@
       "trend7d": 0.16,
       "discord_members": 163,
       "facebook_members": 283,
-      "market_cap": 60036868.92,
+      "market_cap": 60036608.78,
       "owner_count": 2689,
       "detail_url": "https://allaaktier.se/bolag/hydrogenpro"
     },
@@ -413,16 +423,6 @@
       "detail_url": "https://allaaktier.se/bolag/serstech"
     },
     {
-      "ticker": "SVENSKA-AEROGEL",
-      "company_name": "Svenska Aerogel",
-      "trend7d": 0.09,
-      "discord_members": 248,
-      "facebook_members": null,
-      "market_cap": 23451322.0,
-      "owner_count": 1228,
-      "detail_url": "https://allaaktier.se/bolag/svenska-aerogel"
-    },
-    {
       "ticker": "LOGISTEA",
       "company_name": "Logistea",
       "trend7d": 0.08,
@@ -433,16 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/logistea"
     },
     {
-      "ticker": "ACAST",
-      "company_name": "Acast",
-      "trend7d": 0.07,
-      "discord_members": 61,
-      "facebook_members": null,
-      "market_cap": 5325787540.0,
-      "owner_count": 1233,
-      "detail_url": "https://allaaktier.se/bolag/acast"
-    },
-    {
       "ticker": "CANTARGIA",
       "company_name": "Cantargia",
       "trend7d": 0.07,
@@ -451,6 +441,16 @@
       "market_cap": 465773120.0,
       "owner_count": 1604,
       "detail_url": "https://allaaktier.se/bolag/cantargia"
+    },
+    {
+      "ticker": "HACKSAW",
+      "company_name": "Hacksaw",
+      "trend7d": 0.06,
+      "discord_members": 529,
+      "facebook_members": null,
+      "market_cap": 16281734068.0,
+      "owner_count": 4500,
+      "detail_url": "https://allaaktier.se/bolag/hacksaw"
     },
     {
       "ticker": "ORTELIUS-INTERNATIONAL",
@@ -503,14 +503,14 @@
       "detail_url": "https://allaaktier.se/bolag/ratos"
     },
     {
-      "ticker": "SOTKAMO-SILVER",
-      "company_name": "Sotkamo Silver",
+      "ticker": "SENZIME",
+      "company_name": "Senzime",
       "trend7d": 0.04,
-      "discord_members": 145,
+      "discord_members": 381,
       "facebook_members": null,
-      "market_cap": 937533182.0,
-      "owner_count": 2271,
-      "detail_url": "https://allaaktier.se/bolag/sotkamo-silver"
+      "market_cap": 511734975.0,
+      "owner_count": 510,
+      "detail_url": "https://allaaktier.se/bolag/senzime"
     }
   ],
   "twitter_mentions": 0,
@@ -518,8 +518,8 @@
   "min_mentions": 2,
   "trending": [],
   "stats": {
-    "total_posts_fetched": 59,
-    "tickers_with_any_mentions": 0,
+    "total_posts_fetched": 53,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
