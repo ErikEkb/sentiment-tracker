@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:29:37.412484+00:00",
+  "generated_at": "2026-11-11T18:27:11.185404+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -33,6 +33,26 @@
       "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
+      "ticker": "CINCLUS-PHARMA",
+      "company_name": "Cinclus Pharma",
+      "trend7d": 2.12,
+      "discord_members": 296,
+      "facebook_members": null,
+      "market_cap": 556510518.0,
+      "owner_count": 632,
+      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
+    },
+    {
+      "ticker": "ACARIX",
+      "company_name": "Acarix",
+      "trend7d": 2.01,
+      "discord_members": 218,
+      "facebook_members": 395,
+      "market_cap": 212871787.0,
+      "owner_count": 1280,
+      "detail_url": "https://allaaktier.se/bolag/acarix"
+    },
+    {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
       "trend7d": 1.78,
@@ -43,16 +63,6 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
-      "ticker": "ACARIX",
-      "company_name": "Acarix",
-      "trend7d": 1.68,
-      "discord_members": 216,
-      "facebook_members": 395,
-      "market_cap": 212871787.0,
-      "owner_count": 1280,
-      "detail_url": "https://allaaktier.se/bolag/acarix"
-    },
-    {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
       "trend7d": 1.21,
@@ -61,16 +71,6 @@
       "market_cap": 180798490.0,
       "owner_count": 216,
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
-    },
-    {
-      "ticker": "CINCLUS-PHARMA",
-      "company_name": "Cinclus Pharma",
-      "trend7d": 1.09,
-      "discord_members": 292,
-      "facebook_members": null,
-      "market_cap": 556510518.0,
-      "owner_count": 632,
-      "detail_url": "https://allaaktier.se/bolag/cinclus-pharma"
     },
     {
       "ticker": "MUNTERS-GROUP",
@@ -125,8 +125,8 @@
     {
       "ticker": "VICORE-PHARMA",
       "company_name": "Vicore Pharma",
-      "trend7d": 0.63,
-      "discord_members": 1114,
+      "trend7d": 0.69,
+      "discord_members": 1116,
       "facebook_members": 289,
       "market_cap": 2833343761.0,
       "owner_count": 2204,
@@ -141,6 +141,16 @@
       "market_cap": 173990196.0,
       "owner_count": 342,
       "detail_url": "https://allaaktier.se/bolag/physitrack"
+    },
+    {
+      "ticker": "NYAB",
+      "company_name": "NYAB",
+      "trend7d": 0.44,
+      "discord_members": 213,
+      "facebook_members": null,
+      "market_cap": 5547085602.0,
+      "owner_count": 1976,
+      "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
       "ticker": "CLOETTA",
@@ -163,14 +173,14 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
-      "ticker": "COFFEE-STAIN",
-      "company_name": "Coffee Stain",
-      "trend7d": 0.4,
-      "discord_members": 37,
+      "ticker": "GLYCOREX-TRANSPLANTATION",
+      "company_name": "Glycorex Transplantation",
+      "trend7d": 0.39,
+      "discord_members": 191,
       "facebook_members": null,
-      "market_cap": 4057332284.0,
-      "owner_count": 9194,
-      "detail_url": "https://allaaktier.se/bolag/coffee-stain"
+      "market_cap": 136023121.0,
+      "owner_count": 569,
+      "detail_url": "https://allaaktier.se/bolag/glycorex-transplantation"
     },
     {
       "ticker": "OREXO",
@@ -183,24 +193,24 @@
       "detail_url": "https://allaaktier.se/bolag/orexo"
     },
     {
-      "ticker": "NYAB",
-      "company_name": "NYAB",
-      "trend7d": 0.35,
-      "discord_members": 213,
-      "facebook_members": null,
-      "market_cap": 5547085602.0,
-      "owner_count": 1976,
-      "detail_url": "https://allaaktier.se/bolag/nyab"
+      "ticker": "ORGANOCLICK",
+      "company_name": "OrganoClick",
+      "trend7d": 0.36,
+      "discord_members": 64,
+      "facebook_members": 229,
+      "market_cap": 89594146.0,
+      "owner_count": 639,
+      "detail_url": "https://allaaktier.se/bolag/organoclick"
     },
     {
-      "ticker": "GLYCOREX-TRANSPLANTATION",
-      "company_name": "Glycorex Transplantation",
+      "ticker": "36-GROUP",
+      "company_name": "36 Group",
       "trend7d": 0.31,
-      "discord_members": 191,
+      "discord_members": 258,
       "facebook_members": null,
-      "market_cap": 136023121.0,
-      "owner_count": 569,
-      "detail_url": "https://allaaktier.se/bolag/glycorex-transplantation"
+      "market_cap": 5040909.0,
+      "owner_count": 468,
+      "detail_url": "https://allaaktier.se/bolag/36-group"
     },
     {
       "ticker": "UNIBAP",
@@ -223,14 +233,14 @@
       "detail_url": "https://allaaktier.se/bolag/camurus"
     },
     {
-      "ticker": "HEXATRONIC",
-      "company_name": "Hexatronic",
+      "ticker": "CYCLEZYME",
+      "company_name": "Cyclezyme",
       "trend7d": 0.29,
-      "discord_members": 1418,
-      "facebook_members": 1546,
-      "market_cap": 8608373768.0,
-      "owner_count": 5534,
-      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+      "discord_members": 231,
+      "facebook_members": null,
+      "market_cap": 67631658.0,
+      "owner_count": 162,
+      "detail_url": "https://allaaktier.se/bolag/cyclezyme"
     },
     {
       "ticker": "DLABORATORY-SWEDEN",
@@ -243,6 +253,26 @@
       "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
     },
     {
+      "ticker": "COFFEE-STAIN",
+      "company_name": "Coffee Stain",
+      "trend7d": 0.28,
+      "discord_members": 37,
+      "facebook_members": null,
+      "market_cap": 4057332284.0,
+      "owner_count": 9194,
+      "detail_url": "https://allaaktier.se/bolag/coffee-stain"
+    },
+    {
+      "ticker": "HEXATRONIC",
+      "company_name": "Hexatronic",
+      "trend7d": 0.27,
+      "discord_members": 1417,
+      "facebook_members": 1546,
+      "market_cap": 8608373768.0,
+      "owner_count": 5534,
+      "detail_url": "https://allaaktier.se/bolag/hexatronic"
+    },
+    {
       "ticker": "DEVYSER-DIAGNOSTICS",
       "company_name": "Devyser Diagnostics",
       "trend7d": 0.24,
@@ -253,26 +283,6 @@
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
     },
     {
-      "ticker": "ZENERGY",
-      "company_name": "Zenergy",
-      "trend7d": 0.24,
-      "discord_members": 56,
-      "facebook_members": null,
-      "market_cap": 26375999.0,
-      "owner_count": 423,
-      "detail_url": "https://allaaktier.se/bolag/zenergy"
-    },
-    {
-      "ticker": "AI-REVENUE-ASSISTANT-SOFTWARE",
-      "company_name": "AI Revenue Assistant Software",
-      "trend7d": 0.23,
-      "discord_members": 167,
-      "facebook_members": null,
-      "market_cap": 104408456.0,
-      "owner_count": 277,
-      "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
-    },
-    {
       "ticker": "OBDUCAT",
       "company_name": "Obducat",
       "trend7d": 0.22,
@@ -281,6 +291,26 @@
       "market_cap": 277854484.0,
       "owner_count": 1530,
       "detail_url": "https://allaaktier.se/bolag/obducat"
+    },
+    {
+      "ticker": "WHITE-PEARL-TECHNOLOGY",
+      "company_name": "White Pearl Technology",
+      "trend7d": 0.21,
+      "discord_members": 197,
+      "facebook_members": null,
+      "market_cap": 524949303.0,
+      "owner_count": 1041,
+      "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
+    },
+    {
+      "ticker": "ZENERGY",
+      "company_name": "Zenergy",
+      "trend7d": 0.2,
+      "discord_members": 56,
+      "facebook_members": null,
+      "market_cap": 26375999.0,
+      "owner_count": 423,
+      "detail_url": "https://allaaktier.se/bolag/zenergy"
     },
     {
       "ticker": "IMPLANTICA-SDB",
@@ -313,14 +343,14 @@
       "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
     },
     {
-      "ticker": "BLINCVISION",
-      "company_name": "BlincVision",
+      "ticker": "BICO",
+      "company_name": "BICO",
       "trend7d": 0.19,
-      "discord_members": 1806,
-      "facebook_members": 2541,
-      "market_cap": 201049864.0,
-      "owner_count": 1799,
-      "detail_url": "https://allaaktier.se/bolag/blincvision"
+      "discord_members": 293,
+      "facebook_members": 631,
+      "market_cap": 1736142417.0,
+      "owner_count": 2061,
+      "detail_url": "https://allaaktier.se/bolag/bico"
     },
     {
       "ticker": "GAMING-CORPS",
@@ -373,6 +403,16 @@
       "detail_url": "https://allaaktier.se/bolag/freemelt"
     },
     {
+      "ticker": "BLINCVISION",
+      "company_name": "BlincVision",
+      "trend7d": 0.17,
+      "discord_members": 1805,
+      "facebook_members": 2541,
+      "market_cap": 201049864.0,
+      "owner_count": 1799,
+      "detail_url": "https://allaaktier.se/bolag/blincvision"
+    },
+    {
       "ticker": "ATLAS-COPCO",
       "company_name": "Atlas Copco",
       "trend7d": 0.16,
@@ -383,14 +423,14 @@
       "detail_url": "https://allaaktier.se/bolag/atlas-copco"
     },
     {
-      "ticker": "TESLA",
-      "company_name": "Tesla",
-      "trend7d": 0.16,
-      "discord_members": 50,
+      "ticker": "TOUCHTECH",
+      "company_name": "Touchtech",
+      "trend7d": 0.15,
+      "discord_members": 192,
       "facebook_members": null,
-      "market_cap": 10885774699496.58,
-      "owner_count": 44584,
-      "detail_url": "https://allaaktier.se/bolag/tesla"
+      "market_cap": 46114981.0,
+      "owner_count": 140,
+      "detail_url": "https://allaaktier.se/bolag/touchtech"
     },
     {
       "ticker": "BEAMMWAVE",
@@ -443,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/cantargia"
     },
     {
+      "ticker": "SENZIME",
+      "company_name": "Senzime",
+      "trend7d": 0.11,
+      "discord_members": 382,
+      "facebook_members": null,
+      "market_cap": 511734975.0,
+      "owner_count": 509,
+      "detail_url": "https://allaaktier.se/bolag/senzime"
+    },
+    {
       "ticker": "MOBERG-PHARMA",
       "company_name": "Moberg Pharma",
       "trend7d": 0.11,
@@ -461,65 +511,33 @@
       "market_cap": 4912716634.2,
       "owner_count": 13203,
       "detail_url": "https://allaaktier.se/bolag/zaptec"
-    },
-    {
-      "ticker": "FASTIGHETS-AB-BALDER",
-      "company_name": "Fastighets AB Balder",
-      "trend7d": 0.1,
-      "discord_members": 78,
-      "facebook_members": null,
-      "market_cap": 62403600000.0,
-      "owner_count": 3694,
-      "detail_url": "https://allaaktier.se/bolag/fastighets-ab-balder"
-    },
-    {
-      "ticker": "RATOS",
-      "company_name": "Ratos",
-      "trend7d": 0.1,
-      "discord_members": 61,
-      "facebook_members": null,
-      "market_cap": 13554084367.0,
-      "owner_count": 572,
-      "detail_url": "https://allaaktier.se/bolag/ratos"
-    },
-    {
-      "ticker": "KLIMATOR",
-      "company_name": "Klimator",
-      "trend7d": 0.1,
-      "discord_members": 36,
-      "facebook_members": null,
-      "market_cap": 131828796.0,
-      "owner_count": 135,
-      "detail_url": "https://allaaktier.se/bolag/klimator"
-    },
-    {
-      "ticker": "INITIATOR-PHARMA",
-      "company_name": "Initiator Pharma",
-      "trend7d": 0.1,
-      "discord_members": 1339,
-      "facebook_members": 265,
-      "market_cap": 147173718.0,
-      "owner_count": 696,
-      "detail_url": "https://allaaktier.se/bolag/initiator-pharma"
-    },
-    {
-      "ticker": "CERENO-SCIENTIFIC",
-      "company_name": "Cereno Scientific",
-      "trend7d": 0.1,
-      "discord_members": 4594,
-      "facebook_members": 488,
-      "market_cap": 528850363.0,
-      "owner_count": 1523,
-      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     }
   ],
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "VALUNO",
+      "company_name": "Valuno Group",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 4,
+      "velocity_mentions_per_day": 1.33,
+      "avg_sentiment": 0.083,
+      "avg_upvote_ratio": 0.5,
+      "label": "neutral",
+      "trending_score": 0.333,
+      "sample_posts": [
+        "https://www.flashback.org/sp96358510",
+        "https://www.flashback.org/sp96358783",
+        "https://www.flashback.org/sp96363221"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 72,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 71,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
