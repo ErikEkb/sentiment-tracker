@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T17:58:32.611692+00:00",
+  "generated_at": "2026-11-12T23:29:04.968392+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -65,8 +65,8 @@
     {
       "ticker": "ACARIX",
       "company_name": "Acarix",
-      "trend7d": 1.99,
-      "discord_members": 221,
+      "trend7d": 2.15,
+      "discord_members": 222,
       "facebook_members": 395,
       "market_cap": 212871787.0,
       "owner_count": 1280,
@@ -75,8 +75,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 1.82,
-      "discord_members": 776,
+      "trend7d": 2.04,
+      "discord_members": 781,
       "facebook_members": 363,
       "market_cap": 297126418.0,
       "owner_count": 569,
@@ -85,8 +85,8 @@
     {
       "ticker": "ISOFOL-MEDICAL",
       "company_name": "Isofol Medical",
-      "trend7d": 1.16,
-      "discord_members": 1022,
+      "trend7d": 1.23,
+      "discord_members": 1024,
       "facebook_members": 118,
       "market_cap": 407665344.0,
       "owner_count": 1072,
@@ -95,11 +95,11 @@
     {
       "ticker": "HEMPLY-BALANCE",
       "company_name": "Hemply Balance",
-      "trend7d": 1.05,
+      "trend7d": 1.2,
       "discord_members": 103,
       "facebook_members": null,
       "market_cap": 180798490.0,
-      "owner_count": 216,
+      "owner_count": 217,
       "detail_url": "https://allaaktier.se/bolag/hemply-balance"
     },
     {
@@ -119,8 +119,18 @@
       "discord_members": 70,
       "facebook_members": null,
       "market_cap": 23739721048.0,
-      "owner_count": 4605,
+      "owner_count": 4606,
       "detail_url": "https://allaaktier.se/bolag/munters-group"
+    },
+    {
+      "ticker": "KLARNA",
+      "company_name": "Klarna",
+      "trend7d": 0.84,
+      "discord_members": 91,
+      "facebook_members": null,
+      "market_cap": 52174980352.72,
+      "owner_count": 6903,
+      "detail_url": "https://allaaktier.se/bolag/klarna"
     },
     {
       "ticker": "PHYSITRACK",
@@ -253,16 +263,6 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
-      "ticker": "KLARNA",
-      "company_name": "Klarna",
-      "trend7d": 0.47,
-      "discord_members": 90,
-      "facebook_members": null,
-      "market_cap": 52174980352.72,
-      "owner_count": 6903,
-      "detail_url": "https://allaaktier.se/bolag/klarna"
-    },
-    {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
       "trend7d": 0.35,
@@ -333,16 +333,6 @@
       "detail_url": "https://allaaktier.se/bolag/byhmgard"
     },
     {
-      "ticker": "SCANDINAVIAN-ASTOR",
-      "company_name": "Scandinavian Astor",
-      "trend7d": 0.22,
-      "discord_members": 1449,
-      "facebook_members": null,
-      "market_cap": 984256288.0,
-      "owner_count": 5642,
-      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
-    },
-    {
       "ticker": "IMPLANTICA-SDB",
       "company_name": "Implantica SDB",
       "trend7d": 0.22,
@@ -383,6 +373,16 @@
       "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
+      "ticker": "MIPS",
+      "company_name": "Mips",
+      "trend7d": 0.2,
+      "discord_members": 81,
+      "facebook_members": null,
+      "market_cap": 12348061476.0,
+      "owner_count": 2487,
+      "detail_url": "https://allaaktier.se/bolag/mips"
+    },
+    {
       "ticker": "LANE-CAPITAL",
       "company_name": "Lane Capital",
       "trend7d": 0.2,
@@ -393,6 +393,16 @@
       "detail_url": "https://allaaktier.se/bolag/lane-capital"
     },
     {
+      "ticker": "SCANDINAVIAN-ASTOR",
+      "company_name": "Scandinavian Astor",
+      "trend7d": 0.2,
+      "discord_members": 1448,
+      "facebook_members": null,
+      "market_cap": 984256288.0,
+      "owner_count": 5642,
+      "detail_url": "https://allaaktier.se/bolag/scandinavian-astor"
+    },
+    {
       "ticker": "FREEMELT",
       "company_name": "Freemelt",
       "trend7d": 0.19,
@@ -401,16 +411,6 @@
       "market_cap": 294643104.0,
       "owner_count": 1055,
       "detail_url": "https://allaaktier.se/bolag/freemelt"
-    },
-    {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 0.18,
-      "discord_members": 81,
-      "facebook_members": null,
-      "market_cap": 12348061476.0,
-      "owner_count": 2486,
-      "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
       "ticker": "HANZA",
@@ -453,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/ai-revenue-assistant-software"
     },
     {
+      "ticker": "CANTARGIA",
+      "company_name": "Cantargia",
+      "trend7d": 0.14,
+      "discord_members": 1328,
+      "facebook_members": 1988,
+      "market_cap": 465773120.0,
+      "owner_count": 1610,
+      "detail_url": "https://allaaktier.se/bolag/cantargia"
+    },
+    {
       "ticker": "GAMING-CORPS",
       "company_name": "Gaming Corps",
       "trend7d": 0.13,
@@ -473,24 +483,14 @@
       "detail_url": "https://allaaktier.se/bolag/nyab"
     },
     {
-      "ticker": "EMBRACER",
-      "company_name": "Embracer",
-      "trend7d": 0.13,
-      "discord_members": 1941,
-      "facebook_members": 5455,
-      "market_cap": 20943184377.0,
-      "owner_count": 7848,
-      "detail_url": "https://allaaktier.se/bolag/embracer"
-    },
-    {
-      "ticker": "CANTARGIA",
-      "company_name": "Cantargia",
+      "ticker": "CERENO-SCIENTIFIC",
+      "company_name": "Cereno Scientific",
       "trend7d": 0.12,
-      "discord_members": 1328,
-      "facebook_members": 1988,
-      "market_cap": 465773120.0,
-      "owner_count": 1609,
-      "detail_url": "https://allaaktier.se/bolag/cantargia"
+      "discord_members": 4600,
+      "facebook_members": 488,
+      "market_cap": 528850363.0,
+      "owner_count": 1523,
+      "detail_url": "https://allaaktier.se/bolag/cereno-scientific"
     },
     {
       "ticker": "OBDUCAT",
@@ -516,10 +516,45 @@
   "twitter_mentions": 0,
   "window_hours": 72,
   "min_mentions": 2,
-  "trending": [],
+  "trending": [
+    {
+      "ticker": "RHMD",
+      "company_name": "Rheinmetall AG",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 6,
+      "velocity_mentions_per_day": 2.0,
+      "avg_sentiment": 0.667,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 4.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp96379013",
+        "https://www.flashback.org/sp96379066",
+        "https://www.flashback.org/sp96379113"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "company_name": "SpaceX",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 5,
+      "velocity_mentions_per_day": 1.67,
+      "avg_sentiment": 0.2,
+      "avg_upvote_ratio": 0.5,
+      "label": "bullish",
+      "trending_score": 1.0,
+      "sample_posts": [
+        "https://www.flashback.org/sp96376615",
+        "https://www.flashback.org/sp96376785",
+        "https://www.flashback.org/sp96377207"
+      ]
+    }
+  ],
   "stats": {
-    "total_posts_fetched": 73,
-    "tickers_with_any_mentions": 0,
+    "total_posts_fetched": 54,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
