@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:01:31.250827+00:00",
+  "generated_at": "2026-11-14T09:55:04.452370+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -55,7 +55,7 @@
     {
       "ticker": "CINCLUS-PHARMA",
       "company_name": "Cinclus Pharma",
-      "trend7d": 2.51,
+      "trend7d": 2.38,
       "discord_members": 302,
       "facebook_members": null,
       "market_cap": 560381896.0,
@@ -88,7 +88,7 @@
       "trend7d": 1.28,
       "discord_members": 36,
       "facebook_members": 722,
-      "market_cap": 13849355721.08,
+      "market_cap": 13910541328.89,
       "owner_count": 6237,
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
     },
@@ -98,7 +98,7 @@
       "trend7d": 1.07,
       "discord_members": 91,
       "facebook_members": null,
-      "market_cap": 48048525080.01,
+      "market_cap": 48295196713.82,
       "owner_count": 6908,
       "detail_url": "https://allaaktier.se/bolag/klarna"
     },
@@ -125,8 +125,8 @@
     {
       "ticker": "IRLAB-THERAPEUTICS",
       "company_name": "IRLAB Therapeutics",
-      "trend7d": 0.82,
-      "discord_members": 785,
+      "trend7d": 0.87,
+      "discord_members": 786,
       "facebook_members": 363,
       "market_cap": 126107709.0,
       "owner_count": 539,
@@ -143,6 +143,16 @@
       "detail_url": "https://allaaktier.se/bolag/senzime"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.77,
+      "discord_members": 1120,
+      "facebook_members": 289,
+      "market_cap": 3019229136.0,
+      "owner_count": 2215,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "PHYSITRACK",
       "company_name": "Physitrack",
       "trend7d": 0.76,
@@ -151,16 +161,6 @@
       "market_cap": 180494503.0,
       "owner_count": 343,
       "detail_url": "https://allaaktier.se/bolag/physitrack"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.74,
-      "discord_members": 1119,
-      "facebook_members": 289,
-      "market_cap": 3019229136.0,
-      "owner_count": 2215,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "HEMPLY-BALANCE",
@@ -263,6 +263,16 @@
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.37,
+      "discord_members": 1498,
+      "facebook_members": null,
+      "market_cap": 998611154.0,
+      "owner_count": 793,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "BLINCVISION",
       "company_name": "BlincVision",
       "trend7d": 0.37,
@@ -293,14 +303,14 @@
       "detail_url": "https://allaaktier.se/bolag/qbrick"
     },
     {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.33,
-      "discord_members": 1497,
+      "ticker": "ALLARITY-THERAPEUTICS",
+      "company_name": "Allarity Therapeutics",
+      "trend7d": 0.32,
+      "discord_members": 800,
       "facebook_members": null,
-      "market_cap": 998611154.0,
-      "owner_count": 793,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
+      "market_cap": 153742347.12,
+      "owner_count": 78,
+      "detail_url": "https://allaaktier.se/bolag/allarity-therapeutics"
     },
     {
       "ticker": "INITIATOR-PHARMA",
@@ -333,6 +343,26 @@
       "detail_url": "https://allaaktier.se/bolag/online-brands-nordic"
     },
     {
+      "ticker": "LEADING-EDGE-MATERIALS",
+      "company_name": "Leading Edge Materials",
+      "trend7d": 0.26,
+      "discord_members": 654,
+      "facebook_members": null,
+      "market_cap": 364221218.0,
+      "owner_count": 542,
+      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
+    },
+    {
+      "ticker": "FREEMELT",
+      "company_name": "Freemelt",
+      "trend7d": 0.25,
+      "discord_members": 588,
+      "facebook_members": 52,
+      "market_cap": 267319168.0,
+      "owner_count": 1056,
+      "detail_url": "https://allaaktier.se/bolag/freemelt"
+    },
+    {
       "ticker": "HUNTER-CAPITAL",
       "company_name": "Hunter Capital",
       "trend7d": 0.24,
@@ -343,34 +373,14 @@
       "detail_url": "https://allaaktier.se/bolag/hunter-capital"
     },
     {
-      "ticker": "LEADING-EDGE-MATERIALS",
-      "company_name": "Leading Edge Materials",
-      "trend7d": 0.21,
-      "discord_members": 654,
-      "facebook_members": null,
-      "market_cap": 364221218.0,
-      "owner_count": 542,
-      "detail_url": "https://allaaktier.se/bolag/leading-edge-materials"
-    },
-    {
       "ticker": "NITRO-GAMES",
       "company_name": "Nitro Games",
-      "trend7d": 0.21,
+      "trend7d": 0.23,
       "discord_members": 368,
       "facebook_members": 172,
       "market_cap": 31404699.0,
       "owner_count": 293,
       "detail_url": "https://allaaktier.se/bolag/nitro-games"
-    },
-    {
-      "ticker": "MIPS",
-      "company_name": "Mips",
-      "trend7d": 0.2,
-      "discord_members": 81,
-      "facebook_members": null,
-      "market_cap": 12411656642.0,
-      "owner_count": 2488,
-      "detail_url": "https://allaaktier.se/bolag/mips"
     },
     {
       "ticker": "XVIVO-PERFUSION",
@@ -381,16 +391,6 @@
       "market_cap": 6488890820.0,
       "owner_count": 1958,
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
-    },
-    {
-      "ticker": "FREEMELT",
-      "company_name": "Freemelt",
-      "trend7d": 0.2,
-      "discord_members": 588,
-      "facebook_members": 52,
-      "market_cap": 267319168.0,
-      "owner_count": 1056,
-      "detail_url": "https://allaaktier.se/bolag/freemelt"
     },
     {
       "ticker": "RAYSEARCH-LABORATORIES",
@@ -453,6 +453,16 @@
       "detail_url": "https://allaaktier.se/bolag/aik-fotboll"
     },
     {
+      "ticker": "ACOUSORT",
+      "company_name": "AcouSort",
+      "trend7d": 0.15,
+      "discord_members": 484,
+      "facebook_members": 489,
+      "market_cap": 57142535.0,
+      "owner_count": 290,
+      "detail_url": "https://allaaktier.se/bolag/acousort"
+    },
+    {
       "ticker": "XSPRAY-PHARMA",
       "company_name": "Xspray Pharma",
       "trend7d": 0.15,
@@ -461,16 +471,6 @@
       "market_cap": 627036766.0,
       "owner_count": 925,
       "detail_url": "https://allaaktier.se/bolag/xspray-pharma"
-    },
-    {
-      "ticker": "LOGISTEA",
-      "company_name": "Logistea",
-      "trend7d": 0.14,
-      "discord_members": 289,
-      "facebook_members": null,
-      "market_cap": 7580270753.0,
-      "owner_count": 1843,
-      "detail_url": "https://allaaktier.se/bolag/logistea"
     },
     {
       "ticker": "ORTOMA",
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 45,
+    "total_posts_fetched": 47,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
