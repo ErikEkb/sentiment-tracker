@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:55:04.452370+00:00",
+  "generated_at": "2026-11-14T16:26:16.630074+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -35,8 +35,8 @@
     {
       "ticker": "BYHMGARD",
       "company_name": "Byhmgard",
-      "trend7d": 3.02,
-      "discord_members": 85,
+      "trend7d": 3.45,
+      "discord_members": 86,
       "facebook_members": 614,
       "market_cap": 198237556.0,
       "owner_count": 400,
@@ -55,8 +55,8 @@
     {
       "ticker": "CINCLUS-PHARMA",
       "company_name": "Cinclus Pharma",
-      "trend7d": 2.38,
-      "discord_members": 302,
+      "trend7d": 2.5,
+      "discord_members": 303,
       "facebook_members": null,
       "market_cap": 560381896.0,
       "owner_count": 631,
@@ -65,8 +65,8 @@
     {
       "ticker": "ANNEXIN-PHARMACEUTICALS",
       "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 2.02,
-      "discord_members": 340,
+      "trend7d": 1.92,
+      "discord_members": 339,
       "facebook_members": null,
       "market_cap": 78812365.0,
       "owner_count": 286,
@@ -133,6 +133,16 @@
       "detail_url": "https://allaaktier.se/bolag/irlab-therapeutics"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.8,
+      "discord_members": 1121,
+      "facebook_members": 289,
+      "market_cap": 3019229136.0,
+      "owner_count": 2215,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "SENZIME",
       "company_name": "Senzime",
       "trend7d": 0.79,
@@ -141,16 +151,6 @@
       "market_cap": 551038736.0,
       "owner_count": 513,
       "detail_url": "https://allaaktier.se/bolag/senzime"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.77,
-      "discord_members": 1120,
-      "facebook_members": 289,
-      "market_cap": 3019229136.0,
-      "owner_count": 2215,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "PHYSITRACK",
@@ -253,6 +253,16 @@
       "detail_url": "https://allaaktier.se/bolag/dlaboratory-sweden"
     },
     {
+      "ticker": "BEAMMWAVE",
+      "company_name": "BeammWave",
+      "trend7d": 0.41,
+      "discord_members": 1500,
+      "facebook_members": null,
+      "market_cap": 998611154.0,
+      "owner_count": 793,
+      "detail_url": "https://allaaktier.se/bolag/beammwave"
+    },
+    {
       "ticker": "DEVYSER-DIAGNOSTICS",
       "company_name": "Devyser Diagnostics",
       "trend7d": 0.4,
@@ -261,16 +271,6 @@
       "market_cap": 1107971274.0,
       "owner_count": 574,
       "detail_url": "https://allaaktier.se/bolag/devyser-diagnostics"
-    },
-    {
-      "ticker": "BEAMMWAVE",
-      "company_name": "BeammWave",
-      "trend7d": 0.37,
-      "discord_members": 1498,
-      "facebook_members": null,
-      "market_cap": 998611154.0,
-      "owner_count": 793,
-      "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
       "ticker": "BLINCVISION",
@@ -433,16 +433,6 @@
       "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
-      "ticker": "LANE-CAPITAL",
-      "company_name": "Lane Capital",
-      "trend7d": 0.16,
-      "discord_members": 77,
-      "facebook_members": null,
-      "market_cap": 10503506.0,
-      "owner_count": 240,
-      "detail_url": "https://allaaktier.se/bolag/lane-capital"
-    },
-    {
       "ticker": "AIK-FOTBOLL",
       "company_name": "AIK Fotboll",
       "trend7d": 0.15,
@@ -511,6 +501,16 @@
       "market_cap": 118321339.0,
       "owner_count": 705,
       "detail_url": "https://allaaktier.se/bolag/biovica-international"
+    },
+    {
+      "ticker": "PLEJD",
+      "company_name": "Plejd",
+      "trend7d": 0.12,
+      "discord_members": 471,
+      "facebook_members": 2766,
+      "market_cap": 9631608400.0,
+      "owner_count": 5207,
+      "detail_url": "https://allaaktier.se/bolag/plejd"
     }
   ],
   "twitter_mentions": 0,
@@ -552,7 +552,7 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 47,
+    "total_posts_fetched": 59,
     "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
