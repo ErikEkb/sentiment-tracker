@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:52:27.846732+00:00",
+  "generated_at": "2026-11-22T18:18:52.339753+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -518,23 +518,6 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "KLAR",
-      "company_name": "Klaria Pharma Holding AB",
-      "sector": "Unknown",
-      "discovered": false,
-      "mentions": 4,
-      "velocity_mentions_per_day": 1.33,
-      "avg_sentiment": 0.5,
-      "avg_upvote_ratio": 0.5,
-      "label": "bullish",
-      "trending_score": 2.0,
-      "sample_posts": [
-        "https://www.flashback.org/sp96438167",
-        "https://www.flashback.org/sp96438591",
-        "https://www.flashback.org/sp96445355"
-      ]
-    },
-    {
       "ticker": "TSLA",
       "company_name": "Tesla Inc.",
       "sector": "Consumer Discretionary",
@@ -552,8 +535,8 @@
     }
   ],
   "stats": {
-    "total_posts_fetched": 69,
-    "tickers_with_any_mentions": 2,
+    "total_posts_fetched": 66,
+    "tickers_with_any_mentions": 1,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
