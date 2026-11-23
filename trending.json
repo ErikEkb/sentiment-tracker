@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:18:52.339753+00:00",
+  "generated_at": "2026-11-23T00:03:26.653820+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -38,7 +38,7 @@
       "trend7d": 2.0,
       "discord_members": 36,
       "facebook_members": 722,
-      "market_cap": 21363858896.91,
+      "market_cap": 21363808371.39,
       "owner_count": 6870,
       "detail_url": "https://allaaktier.se/bolag/2020-bulkers"
     },
@@ -133,14 +133,14 @@
       "detail_url": "https://allaaktier.se/bolag/lane-capital"
     },
     {
-      "ticker": "HEMPLY-BALANCE",
-      "company_name": "Hemply Balance",
-      "trend7d": 0.59,
-      "discord_members": 101,
-      "facebook_members": null,
-      "market_cap": 146593370.0,
-      "owner_count": 217,
-      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.57,
+      "discord_members": 1132,
+      "facebook_members": 289,
+      "market_cap": 2771381969.0,
+      "owner_count": 2236,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "PREBONA",
@@ -151,16 +151,6 @@
       "market_cap": 23532228.0,
       "owner_count": 158,
       "detail_url": "https://allaaktier.se/bolag/prebona"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.55,
-      "discord_members": 1131,
-      "facebook_members": 289,
-      "market_cap": 2771381969.0,
-      "owner_count": 2236,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "HUNTER-CAPITAL",
@@ -383,6 +373,16 @@
       "detail_url": "https://allaaktier.se/bolag/mendus"
     },
     {
+      "ticker": "HEMPLY-BALANCE",
+      "company_name": "Hemply Balance",
+      "trend7d": 0.14,
+      "discord_members": 101,
+      "facebook_members": null,
+      "market_cap": 146593370.0,
+      "owner_count": 217,
+      "detail_url": "https://allaaktier.se/bolag/hemply-balance"
+    },
+    {
       "ticker": "NOTE",
       "company_name": "NOTE",
       "trend7d": 0.13,
@@ -411,6 +411,16 @@
       "market_cap": 61665481.0,
       "owner_count": 773,
       "detail_url": "https://allaaktier.se/bolag/prostatype-genomics"
+    },
+    {
+      "ticker": "WHITE-PEARL-TECHNOLOGY",
+      "company_name": "White Pearl Technology",
+      "trend7d": 0.09,
+      "discord_members": 199,
+      "facebook_members": null,
+      "market_cap": 403463357.0,
+      "owner_count": 1030,
+      "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
     },
     {
       "ticker": "QBRICK",
@@ -443,16 +453,6 @@
       "detail_url": "https://allaaktier.se/bolag/corline-biomedical"
     },
     {
-      "ticker": "WHITE-PEARL-TECHNOLOGY",
-      "company_name": "White Pearl Technology",
-      "trend7d": 0.06,
-      "discord_members": 199,
-      "facebook_members": null,
-      "market_cap": 403463357.0,
-      "owner_count": 1030,
-      "detail_url": "https://allaaktier.se/bolag/white-pearl-technology"
-    },
-    {
       "ticker": "AIK-FOTBOLL",
       "company_name": "AIK Fotboll",
       "trend7d": 0.06,
@@ -483,16 +483,6 @@
       "detail_url": "https://allaaktier.se/bolag/enorama-pharma"
     },
     {
-      "ticker": "VO2-CAP",
-      "company_name": "VO2 Cap",
-      "trend7d": 0.04,
-      "discord_members": 78,
-      "facebook_members": null,
-      "market_cap": 123287803.0,
-      "owner_count": 187,
-      "detail_url": "https://allaaktier.se/bolag/vo2-cap"
-    },
-    {
       "ticker": "ORTOMA",
       "company_name": "Ortoma",
       "trend7d": 0.04,
@@ -511,6 +501,16 @@
       "market_cap": 719305529.0,
       "owner_count": 794,
       "detail_url": "https://allaaktier.se/bolag/unibap"
+    },
+    {
+      "ticker": "SOLTECH-ENERGY-SWEDEN",
+      "company_name": "SolTech Energy Sweden",
+      "trend7d": 0.04,
+      "discord_members": 781,
+      "facebook_members": 3295,
+      "market_cap": 157915839.0,
+      "owner_count": 5525,
+      "detail_url": "https://allaaktier.se/bolag/soltech-energy-sweden"
     }
   ],
   "twitter_mentions": 0,
@@ -518,25 +518,43 @@
   "min_mentions": 2,
   "trending": [
     {
-      "ticker": "TSLA",
-      "company_name": "Tesla Inc.",
-      "sector": "Consumer Discretionary",
-      "discovered": false,
-      "mentions": 2,
-      "velocity_mentions_per_day": 0.67,
+      "ticker": "ANT",
+      "company_name": "Anthropic",
+      "sector": "Discovered",
+      "discovered": true,
+      "mentions": 8,
+      "velocity_mentions_per_day": 2.67,
       "avg_sentiment": 0.5,
       "avg_upvote_ratio": 0.5,
       "label": "bullish",
-      "trending_score": 1.0,
+      "trending_score": 4.0,
       "sample_posts": [
-        "https://www.flashback.org/sp96437424",
-        "https://www.flashback.org/sp96438430"
+        "https://www.flashback.org/sp96443973",
+        "https://www.flashback.org/sp96448275",
+        "https://www.flashback.org/sp96449918"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA Corporation",
+      "sector": "Information Technology",
+      "discovered": false,
+      "mentions": 3,
+      "velocity_mentions_per_day": 1.0,
+      "avg_sentiment": 0.111,
+      "avg_upvote_ratio": 0.5,
+      "label": "neutral",
+      "trending_score": 0.333,
+      "sample_posts": [
+        "https://www.flashback.org/sp96452131",
+        "https://www.flashback.org/sp96452181",
+        "https://www.flashback.org/sp96452442"
       ]
     }
   ],
   "stats": {
-    "total_posts_fetched": 66,
-    "tickers_with_any_mentions": 1,
+    "total_posts_fetched": 69,
+    "tickers_with_any_mentions": 3,
     "allaaktier_hot_count": 50,
     "twitter_mentions_count": 0
   }
