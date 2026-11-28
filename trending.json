@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:17:02.248179+00:00",
+  "generated_at": "2026-11-28T06:55:30.783258+00:00",
   "subreddits": [
     "aktier",
     "investingsweden",
@@ -113,6 +113,16 @@
       "detail_url": "https://allaaktier.se/bolag/beammwave"
     },
     {
+      "ticker": "GOOBIT",
+      "company_name": "Goobit",
+      "trend7d": 0.79,
+      "discord_members": 346,
+      "facebook_members": 423,
+      "market_cap": 24968675.0,
+      "owner_count": 567,
+      "detail_url": "https://allaaktier.se/bolag/goobit"
+    },
+    {
       "ticker": "EATGOOD",
       "company_name": "EatGood",
       "trend7d": 0.71,
@@ -131,16 +141,6 @@
       "market_cap": 4110998400.0,
       "owner_count": 2685,
       "detail_url": "https://allaaktier.se/bolag/note"
-    },
-    {
-      "ticker": "GOOBIT",
-      "company_name": "Goobit",
-      "trend7d": 0.69,
-      "discord_members": 346,
-      "facebook_members": 423,
-      "market_cap": 24968675.0,
-      "owner_count": 567,
-      "detail_url": "https://allaaktier.se/bolag/goobit"
     },
     {
       "ticker": "UNIBAP",
@@ -185,7 +185,7 @@
     {
       "ticker": "SIVERS-SEMICONDUCTORS",
       "company_name": "Sivers Semiconductors",
-      "trend7d": 0.44,
+      "trend7d": 0.46,
       "discord_members": 2491,
       "facebook_members": 2874,
       "market_cap": 4430714923.0,
@@ -223,6 +223,16 @@
       "detail_url": "https://allaaktier.se/bolag/grangex"
     },
     {
+      "ticker": "BIBBINSTRUMENTS",
+      "company_name": "BiBBInstruments",
+      "trend7d": 0.3,
+      "discord_members": 141,
+      "facebook_members": null,
+      "market_cap": 67612923.0,
+      "owner_count": 263,
+      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
+    },
+    {
       "ticker": "XVIVO-PERFUSION",
       "company_name": "Xvivo Perfusion",
       "trend7d": 0.29,
@@ -231,16 +241,6 @@
       "market_cap": 6532990078.0,
       "owner_count": 1941,
       "detail_url": "https://allaaktier.se/bolag/xvivo-perfusion"
-    },
-    {
-      "ticker": "ANNEXIN-PHARMACEUTICALS",
-      "company_name": "Annexin Pharmaceuticals",
-      "trend7d": 0.29,
-      "discord_members": 344,
-      "facebook_members": null,
-      "market_cap": 92848638.0,
-      "owner_count": 285,
-      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
     },
     {
       "ticker": "GAME-CHEST",
@@ -353,6 +353,16 @@
       "detail_url": "https://allaaktier.se/bolag/mendus"
     },
     {
+      "ticker": "ANNEXIN-PHARMACEUTICALS",
+      "company_name": "Annexin Pharmaceuticals",
+      "trend7d": 0.19,
+      "discord_members": 344,
+      "facebook_members": null,
+      "market_cap": 92848638.0,
+      "owner_count": 285,
+      "detail_url": "https://allaaktier.se/bolag/annexin-pharmaceuticals"
+    },
+    {
       "ticker": "LEADING-EDGE-MATERIALS",
       "company_name": "Leading Edge Materials",
       "trend7d": 0.17,
@@ -381,16 +391,6 @@
       "market_cap": 1284269285606.0,
       "owner_count": 18017,
       "detail_url": "https://allaaktier.se/bolag/investor"
-    },
-    {
-      "ticker": "VICORE-PHARMA",
-      "company_name": "Vicore Pharma",
-      "trend7d": 0.16,
-      "discord_members": 1138,
-      "facebook_members": 289,
-      "market_cap": 3436063010.0,
-      "owner_count": 2233,
-      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
     },
     {
       "ticker": "GOLD-TOWN-GAMES",
@@ -483,6 +483,16 @@
       "detail_url": "https://allaaktier.se/bolag/physitrack"
     },
     {
+      "ticker": "VICORE-PHARMA",
+      "company_name": "Vicore Pharma",
+      "trend7d": 0.08,
+      "discord_members": 1137,
+      "facebook_members": 289,
+      "market_cap": 3436063010.0,
+      "owner_count": 2233,
+      "detail_url": "https://allaaktier.se/bolag/vicore-pharma"
+    },
+    {
       "ticker": "SVENSKA-AEROGEL",
       "company_name": "Svenska Aerogel",
       "trend7d": 0.06,
@@ -491,16 +501,6 @@
       "market_cap": 22385352.0,
       "owner_count": 1226,
       "detail_url": "https://allaaktier.se/bolag/svenska-aerogel"
-    },
-    {
-      "ticker": "BIBBINSTRUMENTS",
-      "company_name": "BiBBInstruments",
-      "trend7d": 0.06,
-      "discord_members": 141,
-      "facebook_members": null,
-      "market_cap": 67612923.0,
-      "owner_count": 263,
-      "detail_url": "https://allaaktier.se/bolag/bibbinstruments"
     },
     {
       "ticker": "TENEO-AI",
